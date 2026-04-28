@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T15:11:43.315477",
+  "timestamp": "2026-04-28T16:30:05.288670",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -564,7 +564,7 @@
     "869d0tx6p": {
       "name": "L45-C1-Daniela-VX-G",
       "status": "draft",
-      "assignee": "Gonzalo Flores",
+      "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d0tx6p"
@@ -3987,7 +3987,7 @@
     },
     "869d34ak4": {
       "name": "L13-R13-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -3995,7 +3995,7 @@
     },
     "869d34aga": {
       "name": "L13-R12-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4003,7 +4003,7 @@
     },
     "869d34acc": {
       "name": "L13-R11-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4011,7 +4011,7 @@
     },
     "869d34a82": {
       "name": "L13-R10-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4019,7 +4019,7 @@
     },
     "869d34a39": {
       "name": "L13-R9-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
