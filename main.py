@@ -1,11 +1,18 @@
 """
-Orquestador principal del reporte diario.
+Orquestador principal del reporte diario de tareas completadas.
+
 Flujo:
 1. Toma snapshot actual de ClickUp
 2. Carga snapshot anterior
-3. Compara y detecta cambios + tasks nuevas
-4. Si hay actividad, manda reporte a Slack
-5. Guarda snapshot actual como nuevo "anterior"
+3. Busca tareas que pasaron de NO completado a completado entre los dos
+4. Agrupa por cliente y editor (asignees)
+5. Manda reporte a Slack
+6. Guarda snapshot actual como nuevo "anterior"
+
+Reglas de negocio:
+- Tareas SIN ASIGNAR que se completan se IGNORAN.
+- Tareas con varios assignees suman a CADA uno (aparecen repetidas).
+- "Completado" depende del status, definido en config.COMPLETED_STATUSES.
 """
 import sys
 from config import validate_config
@@ -13,15 +20,15 @@ from clickup_client import get_snapshot
 from snapshot_manager import (
     load_previous_snapshot,
     save_snapshot,
-    compare_snapshots,
-    group_changes_by_client_and_assignee
+    find_completed_tasks,
+    group_completed_by_client_and_editor,
 )
 from slack_client import build_daily_report_blocks, send_to_slack
 
 
 def main():
     print("=" * 60)
-    print("Iniciando reporte diario de actividad")
+    print("Iniciando reporte diario de tareas completadas")
     print("=" * 60)
 
     # Paso 1: validar configuracion
@@ -53,21 +60,19 @@ def main():
 
     print(f"   Snapshot anterior: {previous['timestamp']}")
 
-    # Paso 4: comparar
-    print("\nComparando snapshots...")
-    result = compare_snapshots(previous, current)
-    total_changes = len(result["status_changes"])
-    total_new = len(result["new_tasks"])
-    print(f"   {total_changes} cambios de status")
-    print(f"   {total_new} tasks nuevas")
+    # Paso 4: detectar tareas completadas
+    print("\nDetectando tareas completadas...")
+    completed = find_completed_tasks(previous, current)
+    total_completed = len(completed)
+    print(f"   {total_completed} tareas pasaron a completadas")
 
-    # Paso 5: enviar a Slack
-    grouped = group_changes_by_client_and_assignee(result)
-    blocks = build_daily_report_blocks(grouped, total_changes, total_new)
+    # Paso 5: agrupar y enviar a Slack
+    grouped = group_completed_by_client_and_editor(completed)
+    blocks = build_daily_report_blocks(grouped, total_completed)
 
     print("\nEnviando reporte a Slack...")
     try:
-        send_to_slack(blocks, fallback_text="Reporte diario de actividad")
+        send_to_slack(blocks, fallback_text="Reporte diario de tareas completadas")
     except Exception as e:
         print(f"ERROR al enviar a Slack: {e}")
         # Aun asi guardamos el snapshot para no perder el estado

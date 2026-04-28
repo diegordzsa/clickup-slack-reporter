@@ -22,8 +22,28 @@ FOLDERS = {
 # Slack
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
-# Status que cuenta como "creativo entregado"
-DELIVERED_STATUS = "REALIZADO"
+# Status que cuentan como "tarea completada".
+# La comparacion se hace en minusculas, asi que aqui van todos los posibles
+# valores que ClickUp devuelve cuando una tarea esta hecha (en cualquier
+# lista de cualquier carpeta).
+#
+# Si en el futuro agregan un nuevo status que cuenta como completado,
+# solo añadelo aqui en minusculas.
+COMPLETED_STATUSES = {
+    "completado",   # HAIR BIOLABS / Diseño Gráfico
+    "aprobado",     # HAIR BIOLABS / Producción + SKIN+ / Diseño Gráfico
+    "final",        # HAIR BIOLABS / Producción + SKIN+ / Producción
+    "approved",     # SKIN+ / Producción
+    "finales",      # SKIN+ / Diseño Gráfico
+    "hecho",        # SKIN+ / Tareas
+}
+
+
+def is_completed_status(status):
+    """Devuelve True si el status (case-insensitive) cuenta como completado."""
+    if not status:
+        return False
+    return status.strip().lower() in COMPLETED_STATUSES
 
 
 def validate_config():
@@ -49,13 +69,13 @@ def validate_config():
             f"Faltan las siguientes variables en .env: {', '.join(missing)}"
         )
 
-    print("✅ Configuración cargada correctamente")
+    print("Configuracion cargada correctamente")
     print(f"   - Team ID: {CLICKUP_TEAM_ID}")
     print(f"   - Carpetas a monitorear: {len(FOLDERS)}")
     for name in FOLDERS:
-        print(f"     • {name}")
+        print(f"     - {name}")
+    print(f"   - Status completados reconocidos: {sorted(COMPLETED_STATUSES)}")
 
 
 if __name__ == "__main__":
-    # Si corres este archivo directamente, ejecuta la validación
     validate_config()

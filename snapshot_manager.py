@@ -1,30 +1,40 @@
 """
-Gestiona snapshots: los guarda, los carga, y compara dos para
-detectar cambios de status entre ellos.
+Gestiona snapshots: los guarda, los carga, y compara dos para detectar
+tareas que fueron COMPLETADAS entre snapshots.
+
+Logica del reporte:
+- Solo cuentan tareas que pasaron de un status NO completado a un status
+  completado (definidos en config.COMPLETED_STATUSES).
+- Las tareas multi-asignadas se cuentan a CADA assignee (suman a todos).
+- Las tareas SIN ASIGNAR se ignoran completamente.
 """
 import json
 import os
 from datetime import datetime
 
-# Dónde se guarda el snapshot. Lo guardamos en el repo
+from config import is_completed_status
+
+# Donde se guarda el snapshot. Lo guardamos en el repo
 # para que GitHub Actions pueda commitearlo y persistirlo.
 SNAPSHOT_FILE = "data/last_snapshot.json"
+
+# Marcador para tareas sin assignees (mantiene compatibilidad con snapshots viejos)
+UNASSIGNED_MARKER = "SIN ASIGNAR"
 
 
 def save_snapshot(snapshot):
     """Guarda un snapshot en disco como JSON."""
-    # Crear carpeta data/ si no existe
     os.makedirs(os.path.dirname(SNAPSHOT_FILE), exist_ok=True)
 
     with open(SNAPSHOT_FILE, "w", encoding="utf-8") as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
-    print(f"💾 Snapshot guardado en {SNAPSHOT_FILE}")
+    print(f"Snapshot guardado en {SNAPSHOT_FILE}")
 
 
 def load_previous_snapshot():
     """
-    Carga el snapshot anterior. Si no existe (primera ejecución),
+    Carga el snapshot anterior. Si no existe (primera ejecucion),
     devuelve None.
     """
     if not os.path.exists(SNAPSHOT_FILE):
@@ -34,145 +44,179 @@ def load_previous_snapshot():
         return json.load(f)
 
 
-def compare_snapshots(previous, current):
+def _get_assignee_list(task_data):
     """
-    Compara dos snapshots y devuelve:
-    - Cambios de status en tasks existentes
-    - Tasks nuevas creadas
+    Devuelve la lista de assignees individuales de una task del snapshot.
+    El snapshot guarda assignees como string separado por ", " (formato viejo).
+    Esta funcion los separa en lista limpia.
+
+    Tareas sin asignar devuelven lista vacia.
+    """
+    raw = task_data.get("assignee", "")
+    if not raw or raw == UNASSIGNED_MARKER:
+        return []
+
+    # Separar por coma y limpiar espacios
+    names = [n.strip() for n in raw.split(",") if n.strip()]
+    # Filtrar marcador por si quedo mezclado
+    return [n for n in names if n != UNASSIGNED_MARKER]
+
+
+def find_completed_tasks(previous, current):
+    """
+    Encuentra todas las tareas que pasaron de un status NO completado
+    a un status completado entre los dos snapshots.
+
+    Args:
+        previous: snapshot anterior (dict)
+        current: snapshot actual (dict)
 
     Returns:
-        dict con dos listas:
-        {
-            "status_changes": [...],
-            "new_tasks": [...]
-        }
+        Lista de dicts, una por tarea completada:
+        [
+            {
+                "task_id": "...",
+                "name": "...",
+                "client": "HAIR BIOLABS",
+                "list": "Diseño Gráfico",
+                "old_status": "en progreso",
+                "new_status": "completado",
+                "assignees": ["Juan Perez", "Maria Lopez"],  # lista, no string
+                "url": "..."
+            },
+            ...
+        ]
+
+    Tareas SIN ASIGNAR son ignoradas (no aparecen en el resultado).
     """
     if previous is None:
-        # Primera ejecución, no hay con qué comparar
-        return {"status_changes": [], "new_tasks": []}
+        return []
 
-    status_changes = []
-    new_tasks = []
-
+    completed = []
     previous_tasks = previous.get("tasks", {})
     current_tasks = current.get("tasks", {})
 
     for task_id, current_data in current_tasks.items():
-        if task_id in previous_tasks:
-            # Task existía antes → ver si cambió de status
-            previous_data = previous_tasks[task_id]
+        current_status = current_data.get("status", "")
 
-            if previous_data["status"] != current_data["status"]:
-                status_changes.append({
-                    "task_id": task_id,
-                    "name": current_data["name"],
-                    "client": current_data["client"],
-                    "assignee": current_data["assignee"],
-                    "old_status": previous_data["status"],
-                    "new_status": current_data["status"],
-                    "url": current_data.get("url", "")
-                })
-        else:
-            # Task no existía antes → es nueva
-            new_tasks.append({
-                "task_id": task_id,
-                "name": current_data["name"],
-                "client": current_data["client"],
-                "assignee": current_data["assignee"],
-                "status": current_data["status"],
-                "url": current_data.get("url", "")
-            })
+        # Solo nos interesan tareas que AHORA estan en status completado
+        if not is_completed_status(current_status):
+            continue
 
-    return {
-        "status_changes": status_changes,
-        "new_tasks": new_tasks
-    }
+        # Si la tarea no existia antes, no podemos saber si "paso a completada"
+        # (puede haber sido creada ya completada). La ignoramos.
+        if task_id not in previous_tasks:
+            continue
+
+        previous_status = previous_tasks[task_id].get("status", "")
+
+        # Si ya estaba completada antes, no es una "completada hoy"
+        if is_completed_status(previous_status):
+            continue
+
+        # Aqui ya sabemos que paso de NO completado -> completado
+        assignees = _get_assignee_list(current_data)
+
+        # Ignorar tareas sin asignar
+        if not assignees:
+            continue
+
+        completed.append({
+            "task_id": task_id,
+            "name": current_data.get("name", "Sin nombre"),
+            "client": current_data.get("client", "?"),
+            "list": current_data.get("list", "?"),
+            "old_status": previous_status,
+            "new_status": current_status,
+            "assignees": assignees,
+            "url": current_data.get("url", ""),
+        })
+
+    return completed
 
 
-def group_changes_by_client_and_assignee(comparison_result):
+def group_completed_by_client_and_editor(completed_tasks):
     """
-    Agrupa cambios y tasks nuevas por cliente y editor.
+    Agrupa las tareas completadas por cliente, y dentro de cada cliente,
+    por editor. Como una tarea puede tener varios assignees, aparece
+    repetida bajo cada editor que la tenia asignada.
 
     Args:
-        comparison_result: dict con "status_changes" y "new_tasks"
+        completed_tasks: lista devuelta por find_completed_tasks()
 
     Returns:
         {
             "HAIR BIOLABS": {
-                "Alejandra Ramirez": {
-                    "status_changes": [...],
-                    "new_tasks": [...]
-                },
-                ...
+                "Alejandra Ramirez": [
+                    {"name": "...", "list": "...", "url": "...", ...},
+                    ...
+                ],
+                "Juan Perez": [...],
             },
-            ...
+            "SKIN+": {
+                ...
+            }
         }
+
+    Editores ordenados (dentro de cada cliente) por cantidad de tareas
+    completadas (mayor a menor). Clientes en el orden en que aparecen.
     """
     grouped = {}
 
-    # Procesar cambios de status
-    for change in comparison_result["status_changes"]:
-        client = change["client"]
-        assignee = change["assignee"]
-
+    for task in completed_tasks:
+        client = task["client"]
         if client not in grouped:
             grouped[client] = {}
-        if assignee not in grouped[client]:
-            grouped[client][assignee] = {"status_changes": [], "new_tasks": []}
 
-        grouped[client][assignee]["status_changes"].append(change)
+        for editor in task["assignees"]:
+            if editor not in grouped[client]:
+                grouped[client][editor] = []
+            grouped[client][editor].append(task)
 
-    # Procesar tasks nuevas
-    for new_task in comparison_result["new_tasks"]:
-        client = new_task["client"]
-        assignee = new_task["assignee"]
-
-        if client not in grouped:
-            grouped[client] = {}
-        if assignee not in grouped[client]:
-            grouped[client][assignee] = {"status_changes": [], "new_tasks": []}
-
-        grouped[client][assignee]["new_tasks"].append(new_task)
+    # Ordenar editores por cantidad de tareas (descendente) dentro de cada cliente
+    for client in grouped:
+        sorted_editors = sorted(
+            grouped[client].items(),
+            key=lambda kv: (-len(kv[1]), kv[0].lower())
+        )
+        grouped[client] = dict(sorted_editors)
 
     return grouped
 
+
+# ----------------------------------------------------------------------------
+# Test rapido manual
+# ----------------------------------------------------------------------------
 if __name__ == "__main__":
     from clickup_client import get_snapshot
 
-    print("📸 Tomando snapshot actual...")
+    print("Tomando snapshot actual...")
     current = get_snapshot()
     print(f"   {len(current['tasks'])} tasks capturadas\n")
 
-    print("📂 Cargando snapshot anterior...")
+    print("Cargando snapshot anterior...")
     previous = load_previous_snapshot()
 
     if previous is None:
-        print("   ⚠️ No hay snapshot anterior. Esta es la primera ejecución.")
-        print("   El próximo run sí podrá comparar.\n")
+        print("   No hay snapshot anterior. Esta es la primera ejecucion.")
+        print("   El proximo run podra comparar.\n")
     else:
-        print(f"   Snapshot anterior es de: {previous['timestamp']}")
+        print(f"   Snapshot anterior: {previous['timestamp']}")
         print(f"   {len(previous['tasks'])} tasks en snapshot anterior\n")
 
-        print("🔍 Comparando snapshots...")
-        result = compare_snapshots(previous, current)
-        n_changes = len(result["status_changes"])
-        n_new = len(result["new_tasks"])
-        print(f"   {n_changes} cambios de status detectados")
-        print(f"   {n_new} tasks nuevas creadas\n")
+        print("Buscando tareas completadas...")
+        completed = find_completed_tasks(previous, current)
+        print(f"   {len(completed)} tareas completadas detectadas\n")
 
-        if n_changes > 0 or n_new > 0:
-            grouped = group_changes_by_client_and_assignee(result)
+        if completed:
+            grouped = group_completed_by_client_and_editor(completed)
             for client, editors in grouped.items():
-                print(f"\n📁 {client}")
-                for editor, activity in editors.items():
-                    print(f"   👤 {editor}")
+                print(f"\n[{client}]")
+                for editor, tasks in editors.items():
+                    print(f"   {editor} - {len(tasks)} tareas")
+                    for t in tasks:
+                        print(f"      - {t['name']} ({t['list']})")
 
-                    for ch in activity["status_changes"]:
-                        print(f"      🔄 '{ch['name'][:50]}' → [{ch['old_status']}] a [{ch['new_status']}]")
-
-                    for nt in activity["new_tasks"]:
-                        print(f"      🆕 '{nt['name'][:50]}' → CREADA con status [{nt['status']}]")
-
-    print("\n💾 Guardando snapshot actual como nuevo 'anterior'...")
+    print("\nGuardando snapshot actual...")
     save_snapshot(current)
-    print("✅ Listo")
+    print("Listo")

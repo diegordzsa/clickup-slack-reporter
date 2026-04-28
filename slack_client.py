@@ -8,10 +8,15 @@ from datetime import datetime
 from config import SLACK_WEBHOOK_URL
 
 
-def send_to_slack(blocks, fallback_text="Reporte diario de actividad"):
-    """
-    Manda un mensaje a Slack usando blocks (Block Kit).
-    """
+# Emojis por cliente para el header de cada seccion
+CLIENT_EMOJIS = {
+    "HAIR BIOLABS": ":lotion_bottle:",
+    "SKIN+": ":sparkles:",
+}
+
+
+def send_to_slack(blocks, fallback_text="Reporte diario de tareas completadas"):
+    """Manda un mensaje a Slack usando blocks (Block Kit)."""
     payload = {
         "text": fallback_text,
         "blocks": blocks
@@ -27,12 +32,9 @@ def send_to_slack(blocks, fallback_text="Reporte diario de actividad"):
     print("Mensaje enviado a Slack correctamente")
 
 
-def build_daily_report_blocks(grouped_activity, total_changes, total_new):
-    """
-    Construye los blocks de Slack para el reporte diario.
-    """
+def _format_today_es():
+    """Devuelve la fecha de hoy en formato '28 abril 2026'."""
     today = datetime.now().strftime("%d %B %Y")
-
     months_es = {
         "January": "enero", "February": "febrero", "March": "marzo",
         "April": "abril", "May": "mayo", "June": "junio",
@@ -41,38 +43,74 @@ def build_daily_report_blocks(grouped_activity, total_changes, total_new):
     }
     for en, es in months_es.items():
         today = today.replace(en, es)
+    return today
 
+
+def build_daily_report_blocks(grouped_completed, total_completed):
+    """
+    Construye los blocks de Slack para el reporte diario.
+
+    Estructura del mensaje:
+
+      Reporte diario - 28 abril 2026
+
+      :lotion_bottle: HAIR BIOLABS
+      ─────────────
+      :bust_in_silhouette: Alejandra Ramirez - 3 tareas completadas
+         - <url|Nombre tarea> _(Diseño Gráfico)_
+         - <url|Nombre tarea> _(Diseño Gráfico)_
+         - <url|Nombre tarea> _(Producción)_
+
+      :bust_in_silhouette: Juan Perez - 1 tarea completada
+         - <url|Nombre tarea> _(Producción)_
+
+      :sparkles: SKIN+
+      ─────────────
+      ... (igual)
+
+      ─────────────
+      Total: 4 tareas completadas hoy
+
+    Args:
+        grouped_completed: dict cliente -> editor -> lista de tareas
+                          (devuelto por group_completed_by_client_and_editor)
+        total_completed: total absoluto de tareas completadas (no suma de
+                        assignees, sino conteo unico de tareas)
+
+    Returns:
+        Lista de blocks para enviar a Slack.
+    """
+    today_str = _format_today_es()
     blocks = []
 
+    # Header
     blocks.append({
         "type": "header",
         "text": {
             "type": "plain_text",
-            "text": f"Reporte diario - {today}",
+            "text": f"Reporte diario - {today_str}",
             "emoji": True
         }
     })
 
-    if total_changes == 0 and total_new == 0:
+    # Caso sin actividad
+    if total_completed == 0:
         blocks.append({
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "_No se registro actividad en las ultimas 24 horas._"
+                "text": "_No se completaron tareas en las ultimas 24 horas._"
             }
         })
         return blocks
 
-    client_emojis = {
-        "HAIR BIOLABS": ":lotion_bottle:",
-        "SKIN+": ":sparkles:"
-    }
-
-    for client, editors in grouped_activity.items():
-        emoji = client_emojis.get(client, ":file_folder:")
+    # Una seccion por cliente
+    for client, editors in grouped_completed.items():
+        emoji = CLIENT_EMOJIS.get(client, ":file_folder:")
 
         blocks.append({"type": "divider"})
 
+        # Titulo del cliente
         blocks.append({
             "type": "section",
             "text": {
@@ -81,48 +119,46 @@ def build_daily_report_blocks(grouped_activity, total_changes, total_new):
             }
         })
 
-        for editor, activity in editors.items():
-            editor_text = f"*:bust_in_silhouette: {editor}*\n"
+        # Por cada editor: linea de conteo + lista de tareas
+        for editor, tasks in editors.items():
+            count = len(tasks)
+            label = "tarea completada" if count == 1 else "tareas completadas"
 
-            for ch in activity["status_changes"]:
-                editor_text += (
-                    f"   - _{ch['name']}_ -> "
-                    f"`{ch['old_status']}` :arrow_right: `{ch['new_status']}`\n"
-                )
+            editor_block = f"*:bust_in_silhouette: {editor}* - {count} {label}\n"
 
-            for nt in activity["new_tasks"]:
-                editor_text += (
-                    f"   - :new: _{nt['name']}_ "
-                    f"(creada como `{nt['status']}`)\n"
-                )
+            for t in tasks:
+                # Si hay URL, hacemos el nombre clickeable
+                name = t.get("name", "Sin nombre")
+                url = t.get("url", "")
+                list_name = t.get("list", "")
+
+                if url:
+                    name_part = f"<{url}|{name}>"
+                else:
+                    name_part = name
+
+                if list_name:
+                    editor_block += f"   - {name_part}  _({list_name})_\n"
+                else:
+                    editor_block += f"   - {name_part}\n"
 
             blocks.append({
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": editor_text
+                    "text": editor_block.rstrip()
                 }
             })
 
+    # Total al final
     blocks.append({"type": "divider"})
 
-    active_editors = set()
-    for client_data in grouped_activity.values():
-        for editor in client_data.keys():
-            active_editors.add(editor)
-
-    summary = (
-        f"*:bar_chart: Resumen del dia:*\n"
-        f"   - {total_changes} cambios de status\n"
-        f"   - {total_new} tasks nuevas creadas\n"
-        f"   - {len(active_editors)} editores activos"
-    )
-
+    label = "tarea completada" if total_completed == 1 else "tareas completadas"
     blocks.append({
         "type": "section",
         "text": {
             "type": "mrkdwn",
-            "text": summary
+            "text": f"*:bar_chart: Total: {total_completed} {label} hoy*"
         }
     })
 
