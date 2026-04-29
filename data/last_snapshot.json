@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T13:04:11.702878",
+  "timestamp": "2026-04-29T14:29:38.686680",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -475,7 +475,7 @@
     },
     "869d3fmxk": {
       "name": "L43-C180-ITER 1-VX-M",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -596,7 +596,7 @@
     "869d0tx6p": {
       "name": "L45-C1-Daniela-VX-G",
       "status": "aprobado",
-      "assignee": "SIN ASIGNAR",
+      "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d0tx6p"
