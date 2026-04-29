@@ -1,34 +1,37 @@
 """
-Orquestador principal del reporte diario de tareas completadas.
-
+Orquestador principal del reporte diario.
 Flujo:
-1. Toma snapshot actual de ClickUp
-2. Carga snapshot anterior
-3. Busca tareas que pasaron de NO completado a completado entre los dos
-4. Agrupa por cliente y editor (asignees)
-5. Manda reporte a Slack
-6. Guarda snapshot actual como nuevo "anterior"
+1. Toma snapshot actual de ClickUp.
+2. Carga snapshot anterior.
+3. Construye reporte: snapshot de "asignados" + transiciones de las
+   ultimas 24h (en_curso, revision, aprobado, completado), agrupado
+   por cliente y editor.
+4. Manda reporte a Slack SIEMPRE (aunque no haya transiciones, para que
+   se vea la carga actual de asignados).
+5. Guarda snapshot actual como nuevo "anterior".
 
 Reglas de negocio:
-- Tareas SIN ASIGNAR que se completan se IGNORAN.
+- Tareas SIN ASIGNAR se ignoran completamente.
 - Tareas con varios assignees suman a CADA uno (aparecen repetidas).
-- "Completado" depende del status, definido en config.COMPLETED_STATUSES.
+- "Asignados" es snapshot del estado actual; el resto son transiciones.
+- Categorias y mapeo de status definidos en config.STATUS_CATEGORIES.
 """
 import sys
+
 from config import validate_config
 from clickup_client import get_snapshot
 from snapshot_manager import (
     load_previous_snapshot,
     save_snapshot,
-    find_completed_tasks,
-    group_completed_by_client_and_editor,
+    build_report,
+    compute_totals,
 )
 from slack_client import build_daily_report_blocks, send_to_slack
 
 
 def main():
     print("=" * 60)
-    print("Iniciando reporte diario de tareas completadas")
+    print("Iniciando reporte diario de actividad")
     print("=" * 60)
 
     # Paso 1: validar configuracion
@@ -53,6 +56,7 @@ def main():
 
     if previous is None:
         print("   Primera ejecucion: no hay snapshot anterior.")
+        print("   No se enviara reporte (no hay base para detectar transiciones).")
         print("   Guardando snapshot actual y saliendo.")
         save_snapshot(current)
         print("\nListo. El proximo run podra generar reporte.")
@@ -60,19 +64,21 @@ def main():
 
     print(f"   Snapshot anterior: {previous['timestamp']}")
 
-    # Paso 4: detectar tareas completadas
-    print("\nDetectando tareas completadas...")
-    completed = find_completed_tasks(previous, current)
-    total_completed = len(completed)
-    print(f"   {total_completed} tareas pasaron a completadas")
+    # Paso 4: construir reporte (snapshot asignados + transiciones 24h)
+    print("\nConstruyendo reporte...")
+    report = build_report(previous, current)
+    totals = compute_totals(report)
 
-    # Paso 5: agrupar y enviar a Slack
-    grouped = group_completed_by_client_and_editor(completed)
-    blocks = build_daily_report_blocks(grouped, total_completed)
+    print(f"   Editores con actividad: {sum(len(e) for e in report.values())}")
+    print(f"   Totales por categoria:")
+    for cat, n in totals.items():
+        print(f"     - {cat}: {n}")
 
+    # Paso 5: enviar a Slack (siempre, aunque este vacio)
     print("\nEnviando reporte a Slack...")
+    blocks = build_daily_report_blocks(report, totals)
     try:
-        send_to_slack(blocks, fallback_text="Reporte diario de tareas completadas")
+        send_to_slack(blocks, fallback_text="Reporte diario de actividad")
     except Exception as e:
         print(f"ERROR al enviar a Slack: {e}")
         # Aun asi guardamos el snapshot para no perder el estado

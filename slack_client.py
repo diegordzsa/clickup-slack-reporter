@@ -5,24 +5,37 @@ Documentacion de Block Kit: https://api.slack.com/block-kit
 """
 import requests
 from datetime import datetime
-from config import SLACK_WEBHOOK_URL
 
+from config import (
+    SLACK_WEBHOOK_URL,
+    CATEGORY_ORDER,
+    CATEGORY_LABELS,
+    CATEGORY_EMOJIS,
+)
 
 # Emojis por cliente para el header de cada seccion
 CLIENT_EMOJIS = {
     "HAIR BIOLABS": ":lotion_bottle:",
-    "SKIN+": ":sparkles:",
+    "SKIN+":        ":sparkles:",
 }
 
+# Truncar listas largas: si una categoria tiene mas de esto, mostramos solo
+# las primeras N y agregamos "... y X mas".
+MAX_TASKS_PER_CATEGORY = 5
 
-def send_to_slack(blocks, fallback_text="Reporte diario de tareas completadas"):
+# Limites duros de Slack
+MAX_BLOCKS_PER_MESSAGE = 50
+MAX_CHARS_PER_SECTION = 2900  # margen sobre el limite real de 3000
+
+
+def send_to_slack(blocks, fallback_text="Reporte diario de actividad"):
     """Manda un mensaje a Slack usando blocks (Block Kit)."""
     payload = {
         "text": fallback_text,
-        "blocks": blocks
+        "blocks": blocks,
     }
 
-    response = requests.post(SLACK_WEBHOOK_URL, json=payload)
+    response = requests.post(SLACK_WEBHOOK_URL, json=payload, timeout=15)
 
     if response.status_code != 200:
         raise Exception(
@@ -37,48 +50,102 @@ def _format_today_es():
     today = datetime.now().strftime("%d %B %Y")
     months_es = {
         "January": "enero", "February": "febrero", "March": "marzo",
-        "April": "abril", "May": "mayo", "June": "junio",
-        "July": "julio", "August": "agosto", "September": "septiembre",
-        "October": "octubre", "November": "noviembre", "December": "diciembre"
+        "April":   "abril",  "May":      "mayo",    "June":  "junio",
+        "July":    "julio",  "August":   "agosto",  "September": "septiembre",
+        "October": "octubre", "November": "noviembre", "December": "diciembre",
     }
     for en, es in months_es.items():
         today = today.replace(en, es)
     return today
 
 
-def build_daily_report_blocks(grouped_completed, total_completed):
+def _format_task_line(task):
+    """Formatea una tarea como bullet point con link clickeable y nombre de lista."""
+    name = task.get("name", "Sin nombre")
+    url = task.get("url", "")
+    list_name = task.get("list", "")
+
+    name_part = f"<{url}|{name}>" if url else name
+    list_part = f" _({list_name})_" if list_name else ""
+
+    return f"   - {name_part}{list_part}"
+
+
+def _build_editor_section(editor, categories):
+    """
+    Construye el texto de la seccion de un editor con sus 5 categorias.
+    Devuelve string mrkdwn listo para meterse en un block tipo section.
+    """
+    lines = [f"*:bust_in_silhouette: {editor}*"]
+
+    for cat in CATEGORY_ORDER:
+        tasks = categories.get(cat, [])
+        emoji = CATEGORY_EMOJIS[cat]
+        label = CATEGORY_LABELS[cat]
+        count = len(tasks)
+
+        # Linea de encabezado de categoria
+        lines.append(f"\n{emoji} *{label}: {count}*")
+
+        if count == 0:
+            lines.append("   _Sin tareas_")
+            continue
+
+        # Truncar si hay mas de MAX_TASKS_PER_CATEGORY
+        tasks_to_show = tasks[:MAX_TASKS_PER_CATEGORY]
+        for task in tasks_to_show:
+            lines.append(_format_task_line(task))
+
+        if count > MAX_TASKS_PER_CATEGORY:
+            remaining = count - MAX_TASKS_PER_CATEGORY
+            lines.append(f"   _... y {remaining} mas_")
+
+    text = "\n".join(lines)
+
+    # Slack limita 3000 chars por section, truncamos defensivamente
+    if len(text) > MAX_CHARS_PER_SECTION:
+        text = text[:MAX_CHARS_PER_SECTION] + "\n_...(seccion truncada por limite de Slack)_"
+
+    return text
+
+
+def build_daily_report_blocks(report, totals):
     """
     Construye los blocks de Slack para el reporte diario.
 
     Estructura del mensaje:
+        Reporte diario - 28 abril 2026
 
-      Reporte diario - 28 abril 2026
+        :lotion_bottle: HAIR BIOLABS
+        ─────────────
+        :bust_in_silhouette: Maria Garcia
+        :pushpin: Asignados: 5
+           - <url|Tarea 1> (Lista X)
+           - <url|Tarea 2> (Lista Y)
+           ...
+        :arrows_counterclockwise: En curso hoy: 2
+           - <url|Tarea A> (Lista X)
+        :eyes: En revision hoy: 1
+           - <url|Tarea B> (Lista Y)
+        :white_check_mark: Aprobados hoy: 3
+           - <url|Tarea C> (Lista X)
+        :checkered_flag: Completados hoy: 2
+           - <url|Tarea D> (Lista Y)
 
-      :lotion_bottle: HAIR BIOLABS
-      ─────────────
-      :bust_in_silhouette: Alejandra Ramirez - 3 tareas completadas
-         - <url|Nombre tarea> _(Diseño Gráfico)_
-         - <url|Nombre tarea> _(Diseño Gráfico)_
-         - <url|Nombre tarea> _(Producción)_
+        :sparkles: SKIN+
+        ... (igual)
 
-      :bust_in_silhouette: Juan Perez - 1 tarea completada
-         - <url|Nombre tarea> _(Producción)_
-
-      :sparkles: SKIN+
-      ─────────────
-      ... (igual)
-
-      ─────────────
-      Total: 4 tareas completadas hoy
+        ─────────────
+        Total: X asignados, Y en curso, Z en revision, W aprobados, V completados
 
     Args:
-        grouped_completed: dict cliente -> editor -> lista de tareas
-                          (devuelto por group_completed_by_client_and_editor)
-        total_completed: total absoluto de tareas completadas (no suma de
-                        assignees, sino conteo unico de tareas)
+        report: dict cliente -> editor -> categoria -> lista de tareas
+                (devuelto por snapshot_manager.build_report)
+        totals: dict categoria -> total agregado
+                (devuelto por snapshot_manager.compute_totals)
 
     Returns:
-        Lista de blocks para enviar a Slack.
+        Lista de blocks lista para enviar a Slack.
     """
     today_str = _format_today_es()
     blocks = []
@@ -89,78 +156,85 @@ def build_daily_report_blocks(grouped_completed, total_completed):
         "text": {
             "type": "plain_text",
             "text": f"Reporte diario - {today_str}",
-            "emoji": True
-        }
+            "emoji": True,
+        },
     })
 
-    # Caso sin actividad
-    if total_completed == 0:
+    # Caso sin actividad alguna (ningun editor en ninguna categoria)
+    if not report:
         blocks.append({
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "_No se completaron tareas en las ultimas 24 horas._"
-            }
+                "text": "_No hay editores con actividad ni tareas asignadas._",
+            },
         })
         return blocks
 
     # Una seccion por cliente
-    for client, editors in grouped_completed.items():
+    for client, editors in report.items():
         emoji = CLIENT_EMOJIS.get(client, ":file_folder:")
 
         blocks.append({"type": "divider"})
-
-        # Titulo del cliente
         blocks.append({
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": f"*{emoji} {client}*"
-            }
+                "text": f"*{emoji} {client}*",
+            },
         })
 
-        # Por cada editor: linea de conteo + lista de tareas
-        for editor, tasks in editors.items():
-            count = len(tasks)
-            label = "tarea completada" if count == 1 else "tareas completadas"
-
-            editor_block = f"*:bust_in_silhouette: {editor}* - {count} {label}\n"
-
-            for t in tasks:
-                # Si hay URL, hacemos el nombre clickeable
-                name = t.get("name", "Sin nombre")
-                url = t.get("url", "")
-                list_name = t.get("list", "")
-
-                if url:
-                    name_part = f"<{url}|{name}>"
-                else:
-                    name_part = name
-
-                if list_name:
-                    editor_block += f"   - {name_part}  _({list_name})_\n"
-                else:
-                    editor_block += f"   - {name_part}\n"
-
+        if not editors:
             blocks.append({
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": editor_block.rstrip()
-                }
+                    "text": "_Sin editores con actividad._",
+                },
+            })
+            continue
+
+        for editor, categories in editors.items():
+            section_text = _build_editor_section(editor, categories)
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": section_text,
+                },
             })
 
-    # Total al final
+    # Totales finales
     blocks.append({"type": "divider"})
 
-    label = "tarea completada" if total_completed == 1 else "tareas completadas"
+    totals_line = (
+        f"*:bar_chart: Totales del reporte*\n"
+        f"   :pushpin: Asignados: {totals.get('asignado', 0)}\n"
+        f"   :arrows_counterclockwise: En curso hoy: {totals.get('en_curso', 0)}\n"
+        f"   :eyes: En revision hoy: {totals.get('revision', 0)}\n"
+        f"   :white_check_mark: Aprobados hoy: {totals.get('aprobado', 0)}\n"
+        f"   :checkered_flag: Completados hoy: {totals.get('completado', 0)}"
+    )
+
     blocks.append({
         "type": "section",
         "text": {
             "type": "mrkdwn",
-            "text": f"*:bar_chart: Total: {total_completed} {label} hoy*"
-        }
+            "text": totals_line,
+        },
     })
+
+    # Si nos pasamos del limite de blocks, truncamos al final
+    if len(blocks) > MAX_BLOCKS_PER_MESSAGE:
+        # Reservamos 1 block para el aviso de truncado
+        blocks = blocks[: MAX_BLOCKS_PER_MESSAGE - 1]
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "_...(reporte truncado por limite de Slack de 50 bloques)_",
+            },
+        })
 
     return blocks
 
@@ -173,18 +247,17 @@ def send_test_message():
             "text": {
                 "type": "plain_text",
                 "text": "Test del bot de reportes",
-                "emoji": True
-            }
+                "emoji": True,
+            },
         },
         {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "Si ves este mensaje, el webhook esta configurado correctamente."
-            }
-        }
+                "text": "Si ves este mensaje, el webhook esta configurado correctamente.",
+            },
+        },
     ]
-
     send_to_slack(test_blocks, fallback_text="Test del bot de reportes")
 
 
