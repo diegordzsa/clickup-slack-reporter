@@ -73,23 +73,30 @@ def _format_task_line(task):
 
 def _build_editor_section(editor, categories):
     """
-    Construye el texto de la seccion de un editor con sus 5 categorias.
-    Devuelve string mrkdwn listo para meterse en un block tipo section.
+    Construye el texto de la seccion de un editor con sus categorias NO vacias.
+    Las categorias con 0 tareas se omiten completamente.
+    Si el editor no tiene NADA en ninguna categoria, devuelve None
+    (el caller debe omitir al editor del reporte).
     """
+    # Si todas las categorias estan vacias, este editor no se reporta
+    if all(len(categories.get(cat, [])) == 0 for cat in CATEGORY_ORDER):
+        return None
+
     lines = [f"*:bust_in_silhouette: {editor}*"]
 
     for cat in CATEGORY_ORDER:
         tasks = categories.get(cat, [])
+        count = len(tasks)
+
+        # Skipear categorias vacias completamente
+        if count == 0:
+            continue
+
         emoji = CATEGORY_EMOJIS[cat]
         label = CATEGORY_LABELS[cat]
-        count = len(tasks)
 
         # Linea de encabezado de categoria
         lines.append(f"\n{emoji} *{label}: {count}*")
-
-        if count == 0:
-            lines.append("   _Sin tareas_")
-            continue
 
         # Truncar si hay mas de MAX_TASKS_PER_CATEGORY
         tasks_to_show = tasks[:MAX_TASKS_PER_CATEGORY]
@@ -171,10 +178,23 @@ def build_daily_report_blocks(report, totals):
         })
         return blocks
 
-    # Una seccion por cliente
+    # Una seccion por cliente. Filtramos editores vacios primero;
+    # si un cliente se queda sin editores con actividad, lo omitimos entero.
+    any_client_rendered = False
     for client, editors in report.items():
-        emoji = CLIENT_EMOJIS.get(client, ":file_folder:")
+        # Construir secciones de editores con actividad
+        editor_sections = []
+        for editor, categories in editors.items():
+            section_text = _build_editor_section(editor, categories)
+            if section_text is None:
+                continue  # editor sin nada que reportar, se omite
+            editor_sections.append(section_text)
 
+        # Si todos los editores del cliente estan vacios, omitir cliente
+        if not editor_sections:
+            continue
+
+        emoji = CLIENT_EMOJIS.get(client, ":file_folder:")
         blocks.append({"type": "divider"})
         blocks.append({
             "type": "section",
@@ -184,18 +204,7 @@ def build_daily_report_blocks(report, totals):
             },
         })
 
-        if not editors:
-            blocks.append({
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": "_Sin editores con actividad._",
-                },
-            })
-            continue
-
-        for editor, categories in editors.items():
-            section_text = _build_editor_section(editor, categories)
+        for section_text in editor_sections:
             blocks.append({
                 "type": "section",
                 "text": {
@@ -203,6 +212,19 @@ def build_daily_report_blocks(report, totals):
                     "text": section_text,
                 },
             })
+
+        any_client_rendered = True
+
+    # Si despues del filtrado no quedo NADA que mostrar, mensaje de vacio
+    if not any_client_rendered:
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "_No hubo actividad en las ultimas 24 horas ni hay tareas asignadas._",
+            },
+        })
+        return blocks
 
     # Totales finales
     blocks.append({"type": "divider"})
