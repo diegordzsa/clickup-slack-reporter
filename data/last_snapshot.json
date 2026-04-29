@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T11:17:27.658555",
+  "timestamp": "2026-04-29T13:04:11.702878",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -465,6 +465,14 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/8698ub95v"
     },
+    "869d3m4rh": {
+      "name": "L46-C179-ITER 1-VX",
+      "status": "en curso",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d3m4rh"
+    },
     "869d3fmxk": {
       "name": "L43-C180-ITER 1-VX-M",
       "status": "assigned",
@@ -547,7 +555,7 @@
     },
     "869d1uq89": {
       "name": "L45-C197-VX-HAIRB",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -4883,7 +4891,7 @@
     },
     "869cpg9z6": {
       "name": "3 scripts de video (Nuevo y/o ITER)",
-      "status": "pendiente",
+      "status": "hecho",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Tareas",
