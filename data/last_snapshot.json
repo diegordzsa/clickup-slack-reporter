@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T16:30:05.288670",
+  "timestamp": "2026-04-29T11:17:27.658555",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -465,9 +465,33 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/8698ub95v"
     },
+    "869d3fmxk": {
+      "name": "L43-C180-ITER 1-VX-M",
+      "status": "assigned",
+      "assignee": "MIchel Isla Gordillo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d3fmxk"
+    },
+    "869d3ayn6": {
+      "name": "L46-C205-VX-HB",
+      "status": "assigned",
+      "assignee": "SIN ASIGNAR",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d3ayn6"
+    },
+    "869d3atyk": {
+      "name": "L46-C204-VX-HB",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d3atyk"
+    },
     "869d305cw": {
       "name": "L46-C203-VX-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -483,7 +507,7 @@
     },
     "869d2gtct": {
       "name": "L46-C153-ITER 3-VX-A",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -523,7 +547,7 @@
     },
     "869d1uq89": {
       "name": "L45-C197-VX-HAIRB",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -531,7 +555,7 @@
     },
     "869d1c1z1": {
       "name": "L45-C194-VX-M",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -547,7 +571,7 @@
     },
     "869d1c1vx": {
       "name": "L45-C192-VX-F",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Florencia Ana Falchi",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -555,7 +579,7 @@
     },
     "869d1c1uq": {
       "name": "L45-C191-VX-F",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Florencia Ana Falchi",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -563,23 +587,23 @@
     },
     "869d0tx6p": {
       "name": "L45-C1-Daniela-VX-G",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d0tx6p"
     },
     "869czyfg5": {
-      "name": "C45-C141-ITER 4-VX-G",
-      "status": "aprobado",
+      "name": "L45-C141-ITER 4-VX-G",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869czyfg5"
     },
     "869czyf86": {
-      "name": "C45-C190-VX-G",
-      "status": "aprobado",
+      "name": "L45-C190-VX-G",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -651,7 +675,7 @@
     },
     "869cx3e7a": {
       "name": "L45 - ALBERT",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "djo Rguiaa",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -731,7 +755,7 @@
     },
     "869cuf39p": {
       "name": "L43-N4-Mujer-VX",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -787,7 +811,7 @@
     },
     "869ct2a6g": {
       "name": "L43-C180-VX-H",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Nasrulloh Khakim",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -923,7 +947,7 @@
     },
     "869cmg3ge": {
       "name": "L41-C173-VX-H",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Nasrulloh Khakim",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -4155,7 +4179,7 @@
     },
     "869d1gyjq": {
       "name": "L45-C196-VX-SKIN",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4163,7 +4187,7 @@
     },
     "869d1gyj7": {
       "name": "L45-C195-VX-SKIN",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4195,7 +4219,7 @@
     },
     "869d09nun": {
       "name": "L12-C38-TOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Diana González",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4203,7 +4227,7 @@
     },
     "869d09ntv": {
       "name": "L12-C37-MOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4291,7 +4315,7 @@
     },
     "869cx1t8h": {
       "name": "L11-C32-TOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4339,7 +4363,7 @@
     },
     "869cqzemz": {
       "name": "L10-C29-BOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Diana González",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4835,7 +4859,7 @@
     },
     "869cpgd24": {
       "name": "3 Concept Statics (BOF) - Skin mx",
-      "status": "hecho",
+      "status": "pendiente",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Tareas",
@@ -4843,7 +4867,7 @@
     },
     "869cpgb8q": {
       "name": "3 Concept Statics (TOF/MOF) - Skin mx",
-      "status": "hecho",
+      "status": "pendiente",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Tareas",
@@ -4867,7 +4891,7 @@
     },
     "869cpg8yp": {
       "name": "10 Ads de Competencia (Ripped) - Skin mx",
-      "status": "hecho",
+      "status": "pendiente",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Tareas",
