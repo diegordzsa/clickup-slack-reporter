@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T14:29:38.686680",
+  "timestamp": "2026-04-30T09:41:32.945207",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -467,7 +467,7 @@
     },
     "869d3m4rh": {
       "name": "L46-C179-ITER 1-VX",
-      "status": "en curso",
+      "status": "revisión",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -475,7 +475,7 @@
     },
     "869d3fmxk": {
       "name": "L43-C180-ITER 1-VX-M",
-      "status": "en curso",
+      "status": "final",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -484,7 +484,7 @@
     "869d3ayn6": {
       "name": "L46-C205-VX-HB",
       "status": "assigned",
-      "assignee": "SIN ASIGNAR",
+      "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d3ayn6"
@@ -499,7 +499,7 @@
     },
     "869d305cw": {
       "name": "L46-C203-VX-D",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -515,7 +515,7 @@
     },
     "869d2gtct": {
       "name": "L46-C153-ITER 3-VX-A",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -555,7 +555,7 @@
     },
     "869d1uq89": {
       "name": "L45-C197-VX-HAIRB",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -3969,6 +3969,22 @@
       "list": "Tareas",
       "url": "https://app.clickup.com/t/869cphcj7"
     },
+    "869d3u3p7": {
+      "name": "L45-C196-VX-SKIN",
+      "status": "assigned",
+      "assignee": "Florencia Ana Falchi",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d3u3p7"
+    },
+    "869d3u3gf": {
+      "name": "L45-C195-VX-SKIN",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d3u3gf"
+    },
     "869d34be7": {
       "name": "L13-R19-VX",
       "status": "approved",
@@ -4139,7 +4155,7 @@
     },
     "869d2qzap": {
       "name": "L13-C47-VX",
-      "status": "assigned",
+      "status": "revision",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4147,7 +4163,7 @@
     },
     "869d2qz8w": {
       "name": "L13-C46-VX",
-      "status": "assigned",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4155,7 +4171,7 @@
     },
     "869d2qz87": {
       "name": "L13-C45-VX",
-      "status": "assigned",
+      "status": "revision",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4219,7 +4235,7 @@
     },
     "869d09nv6": {
       "name": "L12-C39-VX",
-      "status": "en curso",
+      "status": "approved",
       "assignee": "Gonzalo Flores",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4891,7 +4907,7 @@
     },
     "869cpg9z6": {
       "name": "3 scripts de video (Nuevo y/o ITER)",
-      "status": "hecho",
+      "status": "pendiente",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Tareas",
