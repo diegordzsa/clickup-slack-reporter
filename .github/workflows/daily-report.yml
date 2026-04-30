@@ -5,7 +5,7 @@ on:
     # 6:00 AM hora España = 4:00 UTC en horario verano, 5:00 UTC en invierno
     # Usamos 5:00 UTC para que en invierno sea 6:00 AM exacto
     # En verano sera 7:00 AM (aceptable, 1 hora de drift)
-    - cron: '0 5 * * *'
+    - cron: '17 5 * * *'
   workflow_dispatch:  # Permite correr manualmente desde GitHub
 
 jobs:
