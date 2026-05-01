@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T09:41:32.945207",
+  "timestamp": "2026-05-01T10:12:50.050844",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -467,7 +467,7 @@
     },
     "869d3m4rh": {
       "name": "L46-C179-ITER 1-VX",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -499,7 +499,7 @@
     },
     "869d305cw": {
       "name": "L46-C203-VX-D",
-      "status": "revisión",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -524,15 +524,15 @@
     "869d2133r": {
       "name": "L46-C201-VX-G",
       "status": "assigned",
-      "assignee": "djo Rguiaa",
+      "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d2133r"
     },
     "869d2131g": {
       "name": "L46-C200-VX-G",
-      "status": "assigned",
-      "assignee": "djo Rguiaa",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d2131g"
@@ -547,7 +547,7 @@
     },
     "869d212we": {
       "name": "L46-C198-VX-G",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -555,7 +555,7 @@
     },
     "869d1uq89": {
       "name": "L45-C197-VX-HAIRB",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -563,7 +563,7 @@
     },
     "869d1c1z1": {
       "name": "L45-C194-VX-M",
-      "status": "revisión",
+      "status": "final",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -571,7 +571,7 @@
     },
     "869d1c1ww": {
       "name": "L45-C193-VX-M",
-      "status": "assigned",
+      "status": "final",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -579,7 +579,7 @@
     },
     "869d1c1vx": {
       "name": "L45-C192-VX-F",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Florencia Ana Falchi",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -595,7 +595,7 @@
     },
     "869d0tx6p": {
       "name": "L45-C1-Daniela-VX-G",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -1051,7 +1051,7 @@
     },
     "869cg7ffz": {
       "name": "L40-C OFERTA-VX-A",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -3969,22 +3969,6 @@
       "list": "Tareas",
       "url": "https://app.clickup.com/t/869cphcj7"
     },
-    "869d3u3p7": {
-      "name": "L45-C196-VX-SKIN",
-      "status": "assigned",
-      "assignee": "Florencia Ana Falchi",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d3u3p7"
-    },
-    "869d3u3gf": {
-      "name": "L45-C195-VX-SKIN",
-      "status": "assigned",
-      "assignee": "Dayana Caicedo",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d3u3gf"
-    },
     "869d34be7": {
       "name": "L13-R19-VX",
       "status": "approved",
@@ -4155,7 +4139,7 @@
     },
     "869d2qzap": {
       "name": "L13-C47-VX",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4171,7 +4155,7 @@
     },
     "869d2qz87": {
       "name": "L13-C45-VX",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4203,7 +4187,7 @@
     },
     "869d1gyjq": {
       "name": "L45-C196-VX-SKIN",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4211,7 +4195,7 @@
     },
     "869d1gyj7": {
       "name": "L45-C195-VX-SKIN",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
