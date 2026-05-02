@@ -1,0 +1,45 @@
+name: Weekly Report
+
+on:
+  schedule:
+    # Sabados 7:17 UTC = 9:17 AM Espana (verano) / 8:17 AM (invierno)
+    # El 6 al final del cron significa sabado.
+    - cron: '17 7 * * 6'
+  workflow_dispatch:  # Permite correr manualmente desde GitHub
+
+jobs:
+  generate-weekly-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necesario para commitear el log limpiado
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run weekly report
+        env:
+          CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
+          CLICKUP_TEAM_ID: ${{ secrets.CLICKUP_TEAM_ID }}
+          CLICKUP_FOLDER_ID_HAIRBIOLABS: ${{ secrets.CLICKUP_FOLDER_ID_HAIRBIOLABS }}
+          CLICKUP_FOLDER_ID_SKINPLUS: ${{ secrets.CLICKUP_FOLDER_ID_SKINPLUS }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python weekly_report.py
+
+      - name: Commit transitions log (post-cleanup)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/transitions_log.jsonl
+          git diff --staged --quiet || git commit -m "Weekly cleanup transitions_log $(date -u +%Y-%m-%d)"
+          git push
