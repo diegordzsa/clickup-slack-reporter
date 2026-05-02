@@ -25,8 +25,10 @@ from snapshot_manager import (
     save_snapshot,
     build_report,
     compute_totals,
+    find_transitions,
 )
 from slack_client import build_daily_report_blocks, send_to_slack
+from transitions_log import append_transitions
 
 
 def main():
@@ -85,7 +87,16 @@ def main():
         save_snapshot(current)
         sys.exit(1)
 
-    # Paso 6: guardar snapshot actual como nuevo anterior
+    # Paso 6: appendear transiciones al log para alimentar el reporte semanal
+    print("\nAppendeando transiciones al log...")
+    try:
+        transitions = find_transitions(previous, current)
+        append_transitions(transitions)
+    except Exception as e:
+        # No es critico: el daily ya se mando. Solo logueamos el error.
+        print(f"   Warning: error al appendear al log: {e}")
+
+    # Paso 7: guardar snapshot actual como nuevo anterior
     print("\nGuardando snapshot actual...")
     save_snapshot(current)
 
