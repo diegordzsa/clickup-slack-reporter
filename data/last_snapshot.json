@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T10:12:50.050844",
+  "timestamp": "2026-05-02T09:42:44.376428",
   "tasks": {
     "869d2r7by": {
       "name": "Nueva imagen PDP",
@@ -515,7 +515,7 @@
     },
     "869d2gtct": {
       "name": "L46-C153-ITER 3-VX-A",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -563,7 +563,7 @@
     },
     "869d1c1z1": {
       "name": "L45-C194-VX-M",
-      "status": "final",
+      "status": "revisión",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -571,7 +571,7 @@
     },
     "869d1c1ww": {
       "name": "L45-C193-VX-M",
-      "status": "final",
+      "status": "aprobado",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -587,7 +587,7 @@
     },
     "869d1c1uq": {
       "name": "L45-C191-VX-F",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Florencia Ana Falchi",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -3969,9 +3969,129 @@
       "list": "Tareas",
       "url": "https://app.clickup.com/t/869cphcj7"
     },
+    "869d4q1t6": {
+      "name": "L46-C206-VX-Skin",
+      "status": "approved",
+      "assignee": "Daniela Iskowitz",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4q1t6"
+    },
+    "869d4fxy5": {
+      "name": "L13-R33-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxy5"
+    },
+    "869d4fxxk": {
+      "name": "L13-R32-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxxk"
+    },
+    "869d4fxx4": {
+      "name": "L13-R31-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxx4"
+    },
+    "869d4fxwv": {
+      "name": "L13-R30-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxwv"
+    },
+    "869d4fxvv": {
+      "name": "L13-R29-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxvv"
+    },
+    "869d4fxuz": {
+      "name": "L13-R28-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxuz"
+    },
+    "869d4fxu1": {
+      "name": "L13-R27-VX",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fxu1"
+    },
+    "869d4fv8z": {
+      "name": "L13-R26-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv8z"
+    },
+    "869d4fv8f": {
+      "name": "L13-R25-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv8f"
+    },
+    "869d4fv7v": {
+      "name": "L13-R24-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv7v"
+    },
+    "869d4fv78": {
+      "name": "L13-R23-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv78"
+    },
+    "869d4fv5x": {
+      "name": "L13-R22-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv5x"
+    },
+    "869d4fv4j": {
+      "name": "L13-R21-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv4j"
+    },
+    "869d4fv3c": {
+      "name": "L13-R20-VX",
+      "status": "testado",
+      "assignee": "Gonzalo Millán",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d4fv3c"
+    },
     "869d34be7": {
       "name": "L13-R19-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -3979,7 +4099,7 @@
     },
     "869d34b8p": {
       "name": "L13-R18-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -3987,7 +4107,7 @@
     },
     "869d34b3q": {
       "name": "L13-R17-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -3995,7 +4115,7 @@
     },
     "869d34azu": {
       "name": "L13-R16-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4003,7 +4123,7 @@
     },
     "869d34ax0": {
       "name": "L13-R15-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4011,7 +4131,7 @@
     },
     "869d34ap0": {
       "name": "L13-R14-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4139,7 +4259,7 @@
     },
     "869d2qzap": {
       "name": "L13-C47-VX",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4155,7 +4275,7 @@
     },
     "869d2qz87": {
       "name": "L13-C45-VX",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4195,7 +4315,7 @@
     },
     "869d1gyj7": {
       "name": "L45-C195-VX-SKIN",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4291,7 +4411,7 @@
     },
     "869cx1ugq": {
       "name": "L11-C2-ITER4-VX_D",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
