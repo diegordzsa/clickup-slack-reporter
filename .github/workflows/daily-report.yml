@@ -37,10 +37,10 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python main.py
 
-      - name: Commit snapshot
+      - name: Commit snapshot and transitions log
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/last_snapshot.json
+          git add data/last_snapshot.json data/transitions_log.jsonl
           git diff --staged --quiet || git commit -m "Update snapshot $(date -u +%Y-%m-%d)"
           git push
