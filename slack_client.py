@@ -261,6 +261,196 @@ def build_daily_report_blocks(report, totals):
     return blocks
 
 
+def build_weekly_report_blocks(weekly_data, period_start, period_end):
+    """
+    Construye los blocks de Slack para el reporte semanal.
+
+    Estructura del mensaje:
+        Reporte semanal - 26 abril al 02 mayo 2026
+
+        :trophy: Ranking general (completados + aprobados)
+           1. Maria Garcia - 24 (15 completados, 9 aprobados)
+           2. Juan Perez   - 18 (10 completados, 8 aprobados)
+           ...
+
+        :lotion_bottle: HAIR BIOLABS
+        ─────────────
+        :bust_in_silhouette: Maria Garcia
+        :arrows_counterclockwise: En curso: 12
+        :eyes: En revision: 8
+        :white_check_mark: Aprobados: 9
+        :checkered_flag: Completados: 15
+
+        :sparkles: SKIN+
+        ... (igual)
+
+        ─────────────
+        Totales semana: X en curso, Y revision, Z aprobados, W completados
+
+    Args:
+        weekly_data: dict con la estructura:
+            {
+                "by_client": {client: {editor: {category: count}}},
+                "ranking":   [(editor, completados, aprobados, total), ...],
+                "totals":    {category: total_count},
+            }
+        period_start, period_end: datetime de inicio y fin del periodo cubierto.
+
+    Returns:
+        Lista de blocks lista para enviar a Slack.
+    """
+    blocks = []
+
+    # Header con rango de fechas
+    period_str = f"{_format_date_es(period_start)} al {_format_date_es(period_end)}"
+    blocks.append({
+        "type": "header",
+        "text": {
+            "type": "plain_text",
+            "text": f"Reporte semanal - {period_str}",
+            "emoji": True,
+        },
+    })
+
+    by_client = weekly_data.get("by_client", {})
+    ranking   = weekly_data.get("ranking", [])
+    totals    = weekly_data.get("totals", {})
+
+    # Caso sin actividad
+    if not by_client and not ranking:
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "_No hubo transiciones registradas en los ultimos 7 dias._",
+            },
+        })
+        return blocks
+
+    # ----- Bloque de RANKING -----
+    if ranking:
+        blocks.append({"type": "divider"})
+        ranking_lines = ["*:trophy: Ranking de productividad (completados + aprobados)*"]
+        for i, (editor, completados, aprobados, total) in enumerate(ranking, start=1):
+            medal = ""
+            if i == 1:
+                medal = ":first_place_medal: "
+            elif i == 2:
+                medal = ":second_place_medal: "
+            elif i == 3:
+                medal = ":third_place_medal: "
+            ranking_lines.append(
+                f"{medal}*{i}. {editor}* - {total} "
+                f"_({completados} completados, {aprobados} aprobados)_"
+            )
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "\n".join(ranking_lines),
+            },
+        })
+
+    # ----- Desglose por cliente y editor -----
+    for client, editors in by_client.items():
+        # Filtrar editores sin actividad (todas las categorias en 0)
+        active_editors = [
+            (editor, cats) for editor, cats in editors.items()
+            if any(cats.get(c, 0) > 0 for c in CATEGORY_ORDER if c != "asignado")
+        ]
+        if not active_editors:
+            continue
+
+        emoji = CLIENT_EMOJIS.get(client, ":file_folder:")
+        blocks.append({"type": "divider"})
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"*{emoji} {client}*",
+            },
+        })
+
+        for editor, cats in active_editors:
+            section_text = _build_weekly_editor_section(editor, cats)
+            if section_text is None:
+                continue
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": section_text,
+                },
+            })
+
+    # ----- Totales semanales -----
+    blocks.append({"type": "divider"})
+    totals_line = (
+        f"*:bar_chart: Totales de la semana*\n"
+        f"   :arrows_counterclockwise: En curso: {totals.get('en_curso', 0)}\n"
+        f"   :eyes: En revision: {totals.get('revision', 0)}\n"
+        f"   :white_check_mark: Aprobados: {totals.get('aprobado', 0)}\n"
+        f"   :checkered_flag: Completados: {totals.get('completado', 0)}"
+    )
+    blocks.append({
+        "type": "section",
+        "text": {
+            "type": "mrkdwn",
+            "text": totals_line,
+        },
+    })
+
+    # Defensa contra el limite de 50 bloques
+    if len(blocks) > MAX_BLOCKS_PER_MESSAGE:
+        blocks = blocks[: MAX_BLOCKS_PER_MESSAGE - 1]
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "_...(reporte truncado por limite de Slack de 50 bloques)_",
+            },
+        })
+
+    return blocks
+
+
+def _build_weekly_editor_section(editor, cats):
+    """
+    Construye el texto de la seccion de un editor para el reporte semanal.
+    Solo muestra categorias de transicion (no incluye 'asignado').
+    Devuelve None si todas las categorias estan en 0.
+    """
+    transition_cats = [c for c in CATEGORY_ORDER if c != "asignado"]
+    if all(cats.get(c, 0) == 0 for c in transition_cats):
+        return None
+
+    lines = [f"*:bust_in_silhouette: {editor}*"]
+    for cat in transition_cats:
+        count = cats.get(cat, 0)
+        if count == 0:
+            continue
+        emoji = CATEGORY_EMOJIS[cat]
+        # Quitamos el "hoy" del label diario para el contexto semanal
+        label = CATEGORY_LABELS[cat].replace(" hoy", "")
+        lines.append(f"{emoji} *{label}: {count}*")
+
+    return "\n".join(lines)
+
+
+def _format_date_es(dt):
+    """Formatea un datetime como '28 abril 2026' en espanol."""
+    formatted = dt.strftime("%d %B %Y")
+    months_es = {
+        "January": "enero", "February": "febrero", "March": "marzo",
+        "April":   "abril",  "May":      "mayo",    "June":  "junio",
+        "July":    "julio",  "August":   "agosto",  "September": "septiembre",
+        "October": "octubre", "November": "noviembre", "December": "diciembre",
+    }
+    for en, es in months_es.items():
+        formatted = formatted.replace(en, es)
+    return formatted
+
+
 def send_test_message():
     """Manda un mensaje de prueba simple para validar que el webhook funciona."""
     test_blocks = [
