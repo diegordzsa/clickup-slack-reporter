@@ -40,6 +40,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/transitions_log.jsonl
-          git diff --staged --quiet || git commit -m "Weekly cleanup transitions_log $(date -u +%Y-%m-%d)"
-          git push
+          if [ -f data/transitions_log.jsonl ]; then
+            git add data/transitions_log.jsonl
+            git diff --staged --quiet || git commit -m "Weekly cleanup transitions_log $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "transitions_log.jsonl does not exist yet, nothing to commit."
+          fi
