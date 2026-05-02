@@ -41,6 +41,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/last_snapshot.json data/transitions_log.jsonl
+          # last_snapshot.json siempre existe despues de un run exitoso.
+          # transitions_log.jsonl puede no existir si nunca se appendeo nada.
+          git add data/last_snapshot.json
+          if [ -f data/transitions_log.jsonl ]; then
+            git add data/transitions_log.jsonl
+          fi
           git diff --staged --quiet || git commit -m "Update snapshot $(date -u +%Y-%m-%d)"
           git push
