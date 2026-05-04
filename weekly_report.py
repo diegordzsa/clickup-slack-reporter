@@ -24,7 +24,7 @@ Reglas de negocio:
 import sys
 from datetime import datetime, timedelta, timezone
 
-from config import validate_config, CATEGORY_ORDER
+from config import validate_config, CATEGORY_ORDER, normalize_editor
 from slack_client import build_weekly_report_blocks, send_to_slack
 from transitions_log import (
     read_log,
@@ -73,12 +73,12 @@ def aggregate_weekly(entries):
     by_client = {}
     for entry in entries:
         client   = entry.get("client", "?")
-        editor   = entry.get("assignee", "?")
+        editor   = normalize_editor(entry.get("assignee", "")) or "?"
         category = entry.get("category", "")
 
         if category not in TRACKED_CATEGORIES:
             continue
-        if not editor or editor == "SIN ASIGNAR":
+        if not editor or editor == "?" or editor == "SIN ASIGNAR":
             continue
 
         if client not in by_client:
