@@ -37,7 +37,7 @@ STATUS_CATEGORIES = {
     "en_curso":   ["en progreso", "en curso"],
     "revision":   ["revision", "revisar"],
     "aprobado":   ["aprobado", "approved"],
-    "completado": ["completado", "final", "finales", "hecho", "testado", "complete"],
+    "completado": ["completado", "final", "finales", "hecho"],
 }
 
 # Status que ignoramos completamente (no entran en ninguna metrica)
