@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T07:28:06.419531",
+  "timestamp": "2026-05-06T07:44:39.549357",
   "tasks": {
     "869d5p3jy": {
       "name": "Hacer Home en shopify",
@@ -74,8 +74,8 @@
       "url": "https://app.clickup.com/t/869cnc3v7"
     },
     "869cjd31j": {
-      "name": "Banners e imágenes ofertas primavera",
-      "status": "asignado",
+      "name": "Banners e imágenes primavera capilar",
+      "status": "completado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
@@ -473,6 +473,38 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/8698ub95v"
     },
+    "869d65rf6": {
+      "name": "L47-C219-VX-SK-Hombre-F",
+      "status": "assigned",
+      "assignee": "Florencia Ana Falchi",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d65rf6"
+    },
+    "869d65qz8": {
+      "name": "L47-C217-VX-HB-Hombre-R",
+      "status": "assigned",
+      "assignee": "Romina Vera Rincon",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d65qz8"
+    },
+    "869d65qye": {
+      "name": "L47-C216-VX-HB-mujer-M",
+      "status": "assigned",
+      "assignee": "MIchel Isla Gordillo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d65qye"
+    },
+    "869d5z6e1": {
+      "name": "L47-C208-VX-HB-Michel",
+      "status": "aprobado",
+      "assignee": "MIchel Isla Gordillo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d5z6e1"
+    },
     "869d5m96v": {
       "name": "L47-C213-VX-HB",
       "status": "assigned",
@@ -483,7 +515,7 @@
     },
     "869d5h1w9": {
       "name": "Test Nuevos Conceptos Oferta Mujer",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -491,7 +523,7 @@
     },
     "869d5fv52": {
       "name": "L45-C197-V2-ITER-HB",
-      "status": "assigned",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -499,7 +531,7 @@
     },
     "869d517e3": {
       "name": "L47-C212-VX-HB-Estática-Daniela",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Daniela Iskowitz",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -507,7 +539,7 @@
     },
     "869d5144z": {
       "name": "L47-C211-VX-HB-mujer",
-      "status": "assigned",
+      "status": "revisión",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -539,7 +571,7 @@
     },
     "869d3ayn6": {
       "name": "L46-C205-VX-HB",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -547,7 +579,7 @@
     },
     "869d3atyk": {
       "name": "L46-C204-VX-HB",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -563,7 +595,7 @@
     },
     "869d2jvye": {
       "name": "L46-C202-VX-HB",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -595,7 +627,7 @@
     },
     "869d212zk": {
       "name": "L46-C199-VX-G",
-      "status": "en curso",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -4049,6 +4081,30 @@
       "list": "Tareas",
       "url": "https://app.clickup.com/t/869cphcj7"
     },
+    "869d65qnm": {
+      "name": "L47-C218-VX-SK-Mujer-F",
+      "status": "assigned",
+      "assignee": "Florencia Ana Falchi",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d65qnm"
+    },
+    "869d65qc9": {
+      "name": "L47-C215-VX-SK-mujer-D",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d65qc9"
+    },
+    "869d648p7": {
+      "name": "L47-C214-VX-SK-ALE",
+      "status": "assigned",
+      "assignee": "Alejandra Ramirez",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d648p7"
+    },
     "869d5m99a": {
       "name": "L47-C213-VX-SKIN+",
       "status": "assigned",
@@ -4083,7 +4139,7 @@
     },
     "869d5haa6": {
       "name": "L14-C2-ITER6-VX",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4107,7 +4163,7 @@
     },
     "869d503ud": {
       "name": "L47-C209-VX-SKIN-Estática-Ale",
-      "status": "draft",
+      "status": "revision",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4115,7 +4171,7 @@
     },
     "869d4zyx1": {
       "name": "L47-C207-VX-SKIN-Estática_Ale",
-      "status": "draft",
+      "status": "revision",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4331,7 +4387,7 @@
     },
     "869d31b1j": {
       "name": "L13-C7-ALE-BOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4339,7 +4395,7 @@
     },
     "869d31av1": {
       "name": "L13-C6-ALE-BOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4347,7 +4403,7 @@
     },
     "869d31aj2": {
       "name": "L13-C5-ALE-MOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4355,7 +4411,7 @@
     },
     "869d31ad2": {
       "name": "L13-C4-ALE-MOF-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
