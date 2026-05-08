@@ -1,4 +1,3 @@
-@'
 """
 Genera el archivo data.json que consume el dashboard frontend.
 
@@ -251,4 +250,3 @@ def generate():
 
 if __name__ == "__main__":
     generate()
-'@ | Set-Content -Path ".\dashboard_data.py" -Encoding UTF8
