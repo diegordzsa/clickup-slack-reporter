@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T12:31:10.493703+00:00",
-  "snapshot_timestamp": "2026-05-08T12:30:55.979583",
+  "generated_at": "2026-05-08T13:00:31.703768+00:00",
+  "snapshot_timestamp": "2026-05-08T13:00:10.579992",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -34,8 +34,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-04-27T17:59:45.747000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-05-06T20:49:49.960000+00:00",
+      "lead_time_hours": 218.83,
       "url": "https://app.clickup.com/t/869d2r7by"
     },
     {
@@ -47,8 +47,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-04-27T10:47:04.188000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-04-27T23:36:15.285000+00:00",
+      "lead_time_hours": 12.82,
       "url": "https://app.clickup.com/t/869d2gu37"
     },
     {
@@ -60,8 +60,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-04-22T07:31:12.375000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-04-22T17:50:50.982000+00:00",
+      "lead_time_hours": 10.33,
       "url": "https://app.clickup.com/t/869d0fe8a"
     },
     {
@@ -73,8 +73,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-03-31T07:14:03.559000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-04-01T01:39:45.231000+00:00",
+      "lead_time_hours": 18.43,
       "url": "https://app.clickup.com/t/869cq1r7a"
     },
     {
@@ -86,8 +86,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-03-26T19:23:07.691000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-03-31T20:07:47.573000+00:00",
+      "lead_time_hours": 120.74,
       "url": "https://app.clickup.com/t/869cnc47a"
     },
     {
@@ -99,8 +99,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-03-26T19:21:09.936000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-04-15T23:30:40.201000+00:00",
+      "lead_time_hours": 484.16,
       "url": "https://app.clickup.com/t/869cnc3v7"
     },
     {
@@ -112,8 +112,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-03-19T15:21:40.170000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-05-06T04:11:37.410000+00:00",
+      "lead_time_hours": 1140.83,
       "url": "https://app.clickup.com/t/869cjd31j"
     },
     {
@@ -125,8 +125,8 @@
         "Daniela Iskowitz"
       ],
       "date_created": "2026-05-08T00:10:11.789000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-05-08T00:12:45.915000+00:00",
+      "lead_time_hours": 0.04,
       "url": "https://app.clickup.com/t/869d77u6d"
     },
     {
@@ -138,8 +138,8 @@
         "Djo Rguiaa"
       ],
       "date_created": "2026-04-25T10:55:58.286000+00:00",
-      "date_done": null,
-      "lead_time_hours": null,
+      "date_done": "2026-05-05T03:13:55.273000+00:00",
+      "lead_time_hours": 232.3,
       "url": "https://app.clickup.com/t/869d2133r"
     },
     {
@@ -1127,7 +1127,8 @@
   "stats": {
     "total_tasks_in_snapshot": 664,
     "total_completed": 10,
-    "total_completed_with_dates": 1,
+    "total_completed_with_dates": 10,
+    "total_completed_with_done": 10,
     "total_currently_assigned": 47,
     "total_transitions_logged": 35,
     "total_editors": 11
