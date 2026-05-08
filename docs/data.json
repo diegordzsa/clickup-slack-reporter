@@ -1,0 +1,1135 @@
+{
+  "generated_at": "2026-05-08T12:31:10.493703+00:00",
+  "snapshot_timestamp": "2026-05-08T12:30:55.979583",
+  "editors": [
+    "Alejandra Ramirez",
+    "Daniela Iskowitz",
+    "Dayana Caicedo",
+    "Djo Rguiaa",
+    "Florencia Ana Falchi",
+    "Gonzalo Flores",
+    "Gonzalo Millán",
+    "Michel Isla Gordillo",
+    "Nasrulloh Khakim",
+    "Romina Vera Rincon",
+    "Syed Saad"
+  ],
+  "clients": [
+    "HAIR BIOLABS",
+    "SKIN+"
+  ],
+  "lists": [
+    "Diseño Gráfico",
+    "Producción",
+    "Producción/ SKIN",
+    "Tareas"
+  ],
+  "completed_tasks": [
+    {
+      "task_id": "869d2r7by",
+      "name": "Nueva imagen PDP",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-04-27T17:59:45.747000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869d2r7by"
+    },
+    {
+      "task_id": "869d2gu37",
+      "name": "Dermaroller",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-04-27T10:47:04.188000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869d2gu37"
+    },
+    {
+      "task_id": "869d0fe8a",
+      "name": "Generar nueva imagen ingredientes",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-04-22T07:31:12.375000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869d0fe8a"
+    },
+    {
+      "task_id": "869cq1r7a",
+      "name": "Banners Semana Santa Home",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-31T07:14:03.559000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869cq1r7a"
+    },
+    {
+      "task_id": "869cnc47a",
+      "name": "Oferta Semana Santa",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-26T19:23:07.691000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869cnc47a"
+    },
+    {
+      "task_id": "869cnc3v7",
+      "name": "Oferta Día de la Tierra",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-26T19:21:09.936000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869cnc3v7"
+    },
+    {
+      "task_id": "869cjd31j",
+      "name": "Banners e imágenes primavera capilar",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-19T15:21:40.170000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869cjd31j"
+    },
+    {
+      "task_id": "869d77u6d",
+      "name": "L47-C222-VX-HB-Daniela",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Daniela Iskowitz"
+      ],
+      "date_created": "2026-05-08T00:10:11.789000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869d77u6d"
+    },
+    {
+      "task_id": "869d2133r",
+      "name": "L46-C201-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Djo Rguiaa"
+      ],
+      "date_created": "2026-04-25T10:55:58.286000+00:00",
+      "date_done": null,
+      "lead_time_hours": null,
+      "url": "https://app.clickup.com/t/869d2133r"
+    },
+    {
+      "task_id": "869cphy1f",
+      "name": "Recopilar ads SKIN para reu creativos",
+      "client": "SKIN+",
+      "list": "Tareas",
+      "assignees": [
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-03-30T11:07:27.156000+00:00",
+      "date_done": "2026-03-31T09:01:47.527000+00:00",
+      "lead_time_hours": 21.91,
+      "url": "https://app.clickup.com/t/869cphy1f"
+    }
+  ],
+  "currently_assigned": [
+    {
+      "task_id": "869d6n92h",
+      "name": "Landing de ciencia en shopify",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-06T16:53:38.247000+00:00",
+      "url": "https://app.clickup.com/t/869d6n92h"
+    },
+    {
+      "task_id": "869d5p3jy",
+      "name": "Hacer Home en shopify",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-05T06:58:27.288000+00:00",
+      "url": "https://app.clickup.com/t/869d5p3jy"
+    },
+    {
+      "task_id": "869cnc4fj",
+      "name": "Entregar 5-7 statics de la promo actual",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-26T19:25:33.528000+00:00",
+      "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869cnc4df",
+      "name": "Oferta Día de la madre",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "status": "en progreso",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-03-26T19:24:58.744000+00:00",
+      "url": "https://app.clickup.com/t/869cnc4df"
+    },
+    {
+      "task_id": "869d6qm9f",
+      "name": "L47-C220-VX-HB-mujer-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-06T22:44:02.331000+00:00",
+      "url": "https://app.clickup.com/t/869d6qm9f"
+    },
+    {
+      "task_id": "869d6c4xq",
+      "name": "L47-C125-ITER2-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-06T09:54:55.348000+00:00",
+      "url": "https://app.clickup.com/t/869d6c4xq"
+    },
+    {
+      "task_id": "869d65rf6",
+      "name": "L47-C219-VX-HB-Hombre-F",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Florencia Ana Falchi"
+      ],
+      "date_created": "2026-05-05T23:02:23.715000+00:00",
+      "url": "https://app.clickup.com/t/869d65rf6"
+    },
+    {
+      "task_id": "869d65qz8",
+      "name": "L47-C217-VX-HB-Hombre-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-05T23:00:11.597000+00:00",
+      "url": "https://app.clickup.com/t/869d65qz8"
+    },
+    {
+      "task_id": "869d5z6e1",
+      "name": "L47-C208-VX-HB-Michel",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-05-05T13:27:25.883000+00:00",
+      "url": "https://app.clickup.com/t/869d5z6e1"
+    },
+    {
+      "task_id": "869d5m96v",
+      "name": "L47-C213-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-04T22:35:27.449000+00:00",
+      "url": "https://app.clickup.com/t/869d5m96v"
+    },
+    {
+      "task_id": "869d5fv52",
+      "name": "L45-C197-V2-ITER-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-04T15:15:46.556000+00:00",
+      "url": "https://app.clickup.com/t/869d5fv52"
+    },
+    {
+      "task_id": "869d517e3",
+      "name": "L47-C212-VX-HB-Estática-Daniela",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Daniela Iskowitz"
+      ],
+      "date_created": "2026-05-03T19:57:57.296000+00:00",
+      "url": "https://app.clickup.com/t/869d517e3"
+    },
+    {
+      "task_id": "869d5144z",
+      "name": "L47-C211-VX-HB-mujer",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-03T19:24:32.663000+00:00",
+      "url": "https://app.clickup.com/t/869d5144z"
+    },
+    {
+      "task_id": "869d4zhy4",
+      "name": "L47-C208-VX-HB-mujer",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Florencia Ana Falchi"
+      ],
+      "date_created": "2026-05-03T14:18:52.402000+00:00",
+      "url": "https://app.clickup.com/t/869d4zhy4"
+    },
+    {
+      "task_id": "869d3fmxk",
+      "name": "L43-C180-ITER 1-VX-M",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-04-29T08:19:19.043000+00:00",
+      "url": "https://app.clickup.com/t/869d3fmxk"
+    },
+    {
+      "task_id": "869d3ayn6",
+      "name": "L46-C205-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-04-28T20:46:13.727000+00:00",
+      "url": "https://app.clickup.com/t/869d3ayn6"
+    },
+    {
+      "task_id": "869d3atyk",
+      "name": "L46-C204-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-04-28T20:19:53.962000+00:00",
+      "url": "https://app.clickup.com/t/869d3atyk"
+    },
+    {
+      "task_id": "869d2jvye",
+      "name": "L46-C202-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-04-27T12:18:10.406000+00:00",
+      "url": "https://app.clickup.com/t/869d2jvye"
+    },
+    {
+      "task_id": "869d2131g",
+      "name": "L46-C200-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-04-25T10:55:44.462000+00:00",
+      "url": "https://app.clickup.com/t/869d2131g"
+    },
+    {
+      "task_id": "869d212we",
+      "name": "L46-C198-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-04-25T10:55:15.240000+00:00",
+      "url": "https://app.clickup.com/t/869d212we"
+    },
+    {
+      "task_id": "869d1c1z1",
+      "name": "L45-C194-VX-M",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-04-23T14:45:32.405000+00:00",
+      "url": "https://app.clickup.com/t/869d1c1z1"
+    },
+    {
+      "task_id": "869czyewb",
+      "name": "C45-C189-VX-DJO",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Djo Rguiaa"
+      ],
+      "date_created": "2026-04-21T08:59:09.017000+00:00",
+      "url": "https://app.clickup.com/t/869czyewb"
+    },
+    {
+      "task_id": "869cx98rr",
+      "name": "L144-C188-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Nasrulloh Khakim"
+      ],
+      "date_created": "2026-04-15T09:24:21.536000+00:00",
+      "url": "https://app.clickup.com/t/869cx98rr"
+    },
+    {
+      "task_id": "869cuf3dr",
+      "name": "L43-N5-Mujer-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-04-08T16:51:27.978000+00:00",
+      "url": "https://app.clickup.com/t/869cuf3dr"
+    },
+    {
+      "task_id": "869d6r23p",
+      "name": "L8-C17-ITER-SKIN_V1",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-07T01:33:27.003000+00:00",
+      "url": "https://app.clickup.com/t/869d6r23p"
+    },
+    {
+      "task_id": "869d6qzc6",
+      "name": "L47-C221-VX-Skin-M",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-05-07T00:26:43.303000+00:00",
+      "url": "https://app.clickup.com/t/869d6qzc6"
+    },
+    {
+      "task_id": "869d6f0a0",
+      "name": "L47-C216-VX-SK-mujer-D",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "status": "revision",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-06T11:35:28.637000+00:00",
+      "url": "https://app.clickup.com/t/869d6f0a0"
+    },
+    {
+      "task_id": "869d65qnm",
+      "name": "L47-C218-VX-SK-Mujer-F",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Florencia Ana Falchi"
+      ],
+      "date_created": "2026-05-05T22:58:54.692000+00:00",
+      "url": "https://app.clickup.com/t/869d65qnm"
+    },
+    {
+      "task_id": "869d65qc9",
+      "name": "L47-C215-VX-SK-mujer-M",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Michel Isla Gordillo"
+      ],
+      "date_created": "2026-05-05T22:53:29.243000+00:00",
+      "url": "https://app.clickup.com/t/869d65qc9"
+    },
+    {
+      "task_id": "869d648p7",
+      "name": "L47-C214-VX-SK-ALE",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-05T19:57:56.579000+00:00",
+      "url": "https://app.clickup.com/t/869d648p7"
+    },
+    {
+      "task_id": "869d5m99a",
+      "name": "L47-C213-VX-SKIN+",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-04T22:36:54.534000+00:00",
+      "url": "https://app.clickup.com/t/869d5m99a"
+    },
+    {
+      "task_id": "869d5hdt7",
+      "name": "L14-C51-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Syed Saad"
+      ],
+      "date_created": "2026-05-04T17:37:56.893000+00:00",
+      "url": "https://app.clickup.com/t/869d5hdt7"
+    },
+    {
+      "task_id": "869d5hb7c",
+      "name": "L14-C50-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-04T17:28:32.203000+00:00",
+      "url": "https://app.clickup.com/t/869d5hb7c"
+    },
+    {
+      "task_id": "869d5hacr",
+      "name": "L14-C49-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-04T17:26:16.387000+00:00",
+      "url": "https://app.clickup.com/t/869d5hacr"
+    },
+    {
+      "task_id": "869d5haa6",
+      "name": "L14-C2-ITER6-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-04T17:26:06.933000+00:00",
+      "url": "https://app.clickup.com/t/869d5haa6"
+    },
+    {
+      "task_id": "869d5ha9h",
+      "name": "L14-C48-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-04T17:26:00.491000+00:00",
+      "url": "https://app.clickup.com/t/869d5ha9h"
+    },
+    {
+      "task_id": "869d300bn",
+      "name": "L13-C44-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-04-28T09:09:05.311000+00:00",
+      "url": "https://app.clickup.com/t/869d300bn"
+    },
+    {
+      "task_id": "869d2zmgh",
+      "name": "L13-C43-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-04-28T08:56:38.143000+00:00",
+      "url": "https://app.clickup.com/t/869d2zmgh"
+    },
+    {
+      "task_id": "869d2yedv",
+      "name": "L13-C42-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Syed Saad"
+      ],
+      "date_created": "2026-04-28T08:15:24.776000+00:00",
+      "url": "https://app.clickup.com/t/869d2yedv"
+    },
+    {
+      "task_id": "869d2m319",
+      "name": "L13-C41-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Syed Saad"
+      ],
+      "date_created": "2026-04-27T13:18:04.198000+00:00",
+      "url": "https://app.clickup.com/t/869d2m319"
+    },
+    {
+      "task_id": "869d2m2xh",
+      "name": "L13-C40-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Syed Saad"
+      ],
+      "date_created": "2026-04-27T13:17:56.083000+00:00",
+      "url": "https://app.clickup.com/t/869d2m2xh"
+    },
+    {
+      "task_id": "869d6u0fg",
+      "name": "10 razones WHY para Microneedling",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-07T07:38:09.900000+00:00",
+      "url": "https://app.clickup.com/t/869d6u0fg"
+    },
+    {
+      "task_id": "869d0uhzx",
+      "name": "Adaptar listicle a skin+",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-04-22T15:06:56.158000+00:00",
+      "url": "https://app.clickup.com/t/869d0uhzx"
+    },
+    {
+      "task_id": "869cpuhra",
+      "name": "Mejoras en visuales páginas",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-03-30T18:22:43.970000+00:00",
+      "url": "https://app.clickup.com/t/869cpuhra"
+    },
+    {
+      "task_id": "869cf618q",
+      "name": "PDP Microneedling",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-03-12T16:46:23.815000+00:00",
+      "url": "https://app.clickup.com/t/869cf618q"
+    },
+    {
+      "task_id": "869c4qj5p",
+      "name": "Banner Carnaval",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-02-13T16:39:19.529000+00:00",
+      "url": "https://app.clickup.com/t/869c4qj5p"
+    },
+    {
+      "task_id": "869c13ufg",
+      "name": "Nuevas fotos",
+      "client": "SKIN+",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-02-04T11:08:09.978000+00:00",
+      "url": "https://app.clickup.com/t/869c13ufg"
+    }
+  ],
+  "transitions": [
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869d212zk",
+      "name": "L46-C199-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d212zk"
+    },
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869d2jvye",
+      "name": "L46-C202-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d2jvye"
+    },
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869d1c1z1",
+      "name": "L45-C194-VX-M",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d1c1z1"
+    },
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869d50az2",
+      "name": "L47-C210-VX-SKIN-Estática-Ale",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d50az2"
+    },
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869d2133r",
+      "name": "L46-C201-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Djo Rguiaa",
+      "url": "https://app.clickup.com/t/869d2133r"
+    },
+    {
+      "ts": "2026-05-05T07:28:26.220515+00:00",
+      "task_id": "869cknkaq",
+      "name": "Repaso de batch + asignar a editores",
+      "client": "SKIN+",
+      "list": "Tareas",
+      "category": "completado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869cknkaq"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d5haa6",
+      "name": "L14-C2-ITER6-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d5haa6"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d517e3",
+      "name": "L47-C212-VX-HB-Estática-Daniela",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Daniela Iskowitz",
+      "url": "https://app.clickup.com/t/869d517e3"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d5144z",
+      "name": "L47-C211-VX-HB-mujer",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869d5144z"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d503ud",
+      "name": "L47-C209-VX-SKIN-Estática-Ale",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d503ud"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d4zyx1",
+      "name": "L47-C207-VX-SKIN-Estática_Ale",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d4zyx1"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d5fv52",
+      "name": "L45-C197-V2-ITER-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d5fv52"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d3ayn6",
+      "name": "L46-C205-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d3ayn6"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869d2jvye",
+      "name": "L46-C202-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d2jvye"
+    },
+    {
+      "ts": "2026-05-06T07:45:08.231866+00:00",
+      "task_id": "869cjd31j",
+      "name": "Banners e imágenes primavera capilar",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869cjd31j"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d5z6e1",
+      "name": "L47-C208-VX-HB-Michel",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d5z6e1"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d5m96v",
+      "name": "L47-C213-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d5m96v"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d648p7",
+      "name": "L47-C214-VX-SK-ALE",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d648p7"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d5m99a",
+      "name": "L47-C213-VX-SKIN+",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869d5m99a"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d5144z",
+      "name": "L47-C211-VX-HB-mujer",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869d5144z"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d3atyk",
+      "name": "L46-C204-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d3atyk"
+    },
+    {
+      "ts": "2026-05-07T08:01:20.799849+00:00",
+      "task_id": "869d2r7by",
+      "name": "Nueva imagen PDP",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d2r7by"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d6c4xq",
+      "name": "L47-C125-ITER2-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d6c4xq"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d5m96v",
+      "name": "L47-C213-VX-HB",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d5m96v"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d517e3",
+      "name": "L47-C212-VX-HB-Estática-Daniela",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Daniela Iskowitz",
+      "url": "https://app.clickup.com/t/869d517e3"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d648p7",
+      "name": "L47-C214-VX-SK-ALE",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d648p7"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d5hacr",
+      "name": "L14-C49-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d5hacr"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d5haa6",
+      "name": "L14-C2-ITER6-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d5haa6"
+    },
+    {
+      "ts": "2026-05-08T07:01:01.297846+00:00",
+      "task_id": "869d5z6e1",
+      "name": "L47-C208-VX-HB-Michel",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d5z6e1"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d65qc9",
+      "name": "L47-C215-VX-SK-mujer-M",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "en_curso",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d65qc9"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d6f0a0",
+      "name": "L47-C216-VX-SK-mujer-D",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d6f0a0"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d5z6e1",
+      "name": "L47-C208-VX-HB-Michel",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Michel Isla Gordillo",
+      "url": "https://app.clickup.com/t/869d5z6e1"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d6r23p",
+      "name": "L8-C17-ITER-SKIN_V1",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869d6r23p"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d5m99a",
+      "name": "L47-C213-VX-SKIN+",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869d5m99a"
+    },
+    {
+      "ts": "2026-05-08T12:31:10.401858+00:00",
+      "task_id": "869d5hb7c",
+      "name": "L14-C50-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869d5hb7c"
+    }
+  ],
+  "stats": {
+    "total_tasks_in_snapshot": 664,
+    "total_completed": 10,
+    "total_completed_with_dates": 1,
+    "total_currently_assigned": 47,
+    "total_transitions_logged": 35,
+    "total_editors": 11
+  }
+}
