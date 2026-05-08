@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T08:01:04.411607",
+  "timestamp": "2026-05-08T07:00:37.058368",
   "tasks": {
     "869d6n92h": {
       "name": "Landing de ciencia en shopify",
@@ -481,6 +481,14 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/8698ub95v"
     },
+    "869d77u6d": {
+      "name": "L47-C222-VX-HB-Daniela",
+      "status": "final",
+      "assignee": "Daniela Iskowitz",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d77u6d"
+    },
     "869d6qm9f": {
       "name": "L47-C220-VX-HB-mujer-D",
       "status": "assigned",
@@ -499,7 +507,7 @@
     },
     "869d6c4xq": {
       "name": "L47-C125-ITER2-VX-G",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -539,7 +547,7 @@
     },
     "869d5z6e1": {
       "name": "L47-C208-VX-HB-Michel",
-      "status": "revisión",
+      "status": "final",
       "assignee": "MIchel Isla Gordillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -547,7 +555,7 @@
     },
     "869d5m96v": {
       "name": "L47-C213-VX-HB",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -571,7 +579,7 @@
     },
     "869d517e3": {
       "name": "L47-C212-VX-HB-Estática-Daniela",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Daniela Iskowitz",
       "client": "HAIR BIOLABS",
       "list": "Producción",
@@ -4123,7 +4131,7 @@
     },
     "869d6r23p": {
       "name": "L8-C17-ITER-SKIN_V1",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4139,7 +4147,7 @@
     },
     "869d6f0a0": {
       "name": "L47-C216-VX-SK-mujer-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4163,7 +4171,7 @@
     },
     "869d648p7": {
       "name": "L47-C214-VX-SK-ALE",
-      "status": "revision",
+      "status": "approved",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4171,7 +4179,7 @@
     },
     "869d5m99a": {
       "name": "L47-C213-VX-SKIN+",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Romina Vera Rincon",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4195,7 +4203,7 @@
     },
     "869d5hacr": {
       "name": "L14-C49-VX",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Gonzalo Flores",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4203,7 +4211,7 @@
     },
     "869d5haa6": {
       "name": "L14-C2-ITER6-VX",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Gonzalo Flores",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
@@ -4224,22 +4232,6 @@
       "client": "SKIN+",
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869d50az2"
-    },
-    "869d503ud": {
-      "name": "L47-C209-VX-SKIN-Estática-Ale",
-      "status": "revision",
-      "assignee": "Alejandra Ramirez",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d503ud"
-    },
-    "869d4zyx1": {
-      "name": "L47-C207-VX-SKIN-Estática_Ale",
-      "status": "revision",
-      "assignee": "Alejandra Ramirez",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d4zyx1"
     },
     "869d4q1t6": {
       "name": "L47-C206-VX-Skin",
@@ -5164,15 +5156,15 @@
     "869d6u0fg": {
       "name": "10 razones WHY para Microneedling",
       "status": "asignado",
-      "assignee": "SIN ASIGNAR",
+      "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869d6u0fg"
     },
     "869d6u03a": {
       "name": "10 razones WHY para Stick",
-      "status": "asignado",
-      "assignee": "SIN ASIGNAR",
+      "status": "borrador",
+      "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869d6u03a"
