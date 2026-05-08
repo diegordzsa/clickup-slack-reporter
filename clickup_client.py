@@ -18,65 +18,33 @@ HEADERS = {
 def get_tasks_from_folder(folder_id, include_closed=True):
     """
     Trae todas las tasks de una carpeta específica de ClickUp.
-
-    ClickUp paginará los resultados (máximo 100 por página),
-    así que hay que iterar hasta que no haya más páginas.
-
-    Args:
-        folder_id: ID de la carpeta a consultar
-        include_closed: Si True, incluye tasks cerradas (necesario para ver "REALIZADO")
-
-    Returns:
-        Lista de tasks (cada una es un dict con todos los datos)
     """
     all_tasks = []
-    page = 0
 
-    while True:
-        # Endpoint: trae tasks de todas las lists dentro de la carpeta
-        url = f"{BASE_URL}/folder/{folder_id}/list"
+    url = f"{BASE_URL}/folder/{folder_id}/list"
+    response = requests.get(url, headers=HEADERS)
 
-        # Primero necesitamos las lists dentro de la carpeta
-        response = requests.get(url, headers=HEADERS)
+    if response.status_code != 200:
+        raise Exception(
+            f"Error al obtener lists de la carpeta {folder_id}: "
+            f"{response.status_code} - {response.text}"
+        )
 
-        if response.status_code != 200:
-            raise Exception(
-                f"Error al obtener lists de la carpeta {folder_id}: "
-                f"{response.status_code} - {response.text}"
-            )
+    lists = response.json().get("lists", [])
 
-        lists = response.json().get("lists", [])
-
-        # Para cada list dentro de la carpeta, traer sus tasks
-        for lst in lists:
-            list_id = lst["id"]
-            list_name = lst["name"]
-            tasks = get_tasks_from_list(list_id, include_closed)
-
-            # Agregamos el nombre de la list a cada task para tener contexto
-            for task in tasks:
-                task["_list_name"] = list_name
-
-            all_tasks.extend(tasks)
-
-        # En este endpoint no hay paginación a nivel de carpeta
-        # (la paginación está en el get_tasks_from_list)
-        break
+    for lst in lists:
+        list_id = lst["id"]
+        list_name = lst["name"]
+        tasks = get_tasks_from_list(list_id, include_closed)
+        for task in tasks:
+            task["_list_name"] = list_name
+        all_tasks.extend(tasks)
 
     return all_tasks
 
 
 def get_tasks_from_list(list_id, include_closed=True):
-    """
-    Trae todas las tasks de una list específica, manejando paginación.
-
-    Args:
-        list_id: ID de la list
-        include_closed: Si incluir tasks cerradas
-
-    Returns:
-        Lista de tasks
-    """
+    """Trae todas las tasks de una list, manejando paginación."""
     all_tasks = []
     page = 0
 
@@ -85,7 +53,7 @@ def get_tasks_from_list(list_id, include_closed=True):
         params = {
             "page": page,
             "include_closed": str(include_closed).lower(),
-            "subtasks": "true",  # incluir subtasks también
+            "subtasks": "true",
         }
 
         response = requests.get(url, headers=HEADERS, params=params)
@@ -100,12 +68,10 @@ def get_tasks_from_list(list_id, include_closed=True):
         tasks = data.get("tasks", [])
 
         if not tasks:
-            # No hay más tasks, salimos del loop
             break
 
         all_tasks.extend(tasks)
 
-        # ClickUp devuelve "last_page": true cuando ya no hay más
         if data.get("last_page", False):
             break
 
@@ -114,11 +80,24 @@ def get_tasks_from_list(list_id, include_closed=True):
     return all_tasks
 
 
+def _ms_to_iso(ms_value):
+    """
+    ClickUp devuelve fechas como strings de timestamp en milisegundos UTC
+    (ej: "1714214400000"). Las convertimos a ISO 8601 UTC.
+    Si viene None, vacio, o no convertible, devolvemos None.
+    """
+    if not ms_value:
+        return None
+    try:
+        from datetime import datetime, timezone
+        ms = int(ms_value)
+        return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).isoformat()
+    except (ValueError, TypeError):
+        return None
+
+
 def test_connection():
-    """
-    Función de prueba: trae tasks de la primera carpeta configurada
-    y muestra info básica para verificar que todo funciona.
-    """
+    """Función de prueba: trae tasks de la primera carpeta y muestra info."""
     print("🔌 Probando conexión con ClickUp...\n")
 
     for client_name, folder_id in FOLDERS.items():
@@ -128,7 +107,6 @@ def test_connection():
             tasks = get_tasks_from_folder(folder_id)
             print(f"   ✅ {len(tasks)} tasks encontradas\n")
 
-            # Mostrar las primeras 3 tasks como muestra
             if tasks:
                 print(f"   Muestra (primeras 3 tasks):")
                 for task in tasks[:3]:
@@ -141,32 +119,39 @@ def test_connection():
                     print(f"   • [{status}] {name}")
                     print(f"     List: {list_name}")
                     print(f"     Assignees: {', '.join(assignee_names) if assignee_names else 'Sin asignar'}")
+                    print(f"     date_created: {_ms_to_iso(task.get('date_created'))}")
+                    print(f"     date_done:    {_ms_to_iso(task.get('date_done'))}")
                     print()
 
         except Exception as e:
             print(f"   ❌ Error: {e}\n")
 
+
 def get_snapshot():
     """
     Toma un snapshot del estado actual de todas las tasks en todas las carpetas.
 
-    Returns un dict con esta estructura:
+    NUEVO en v2: incluye fechas (date_created, date_updated, date_done) para
+    poder calcular tiempo medio de entrega en el dashboard.
+
+    Returns:
     {
-        "timestamp": "2026-04-28T06:00:00",
+        "timestamp": "2026-05-08T07:00:00",
         "tasks": {
             "task_id_1": {
-                "name": "Nombre de la task",
+                "name": "Nombre",
                 "status": "completado",
                 "assignee": "Alejandra Ramirez",
                 "client": "HAIR BIOLABS",
-                "list": "Diseño Gráfico"
+                "list": "Diseño Gráfico",
+                "url": "https://...",
+                "date_created": "2026-04-15T10:30:00+00:00",
+                "date_updated": "2026-05-01T14:20:00+00:00",
+                "date_done":    "2026-05-01T14:20:00+00:00"
             },
             ...
         }
     }
-
-    Cada task se identifica por su ID único de ClickUp, lo cual permite
-    comparar snapshots y detectar exactamente qué cambió.
     """
     from datetime import datetime
 
@@ -182,23 +167,25 @@ def get_snapshot():
             task_id = task["id"]
             assignees = task.get("assignees", [])
 
-            # Si tiene varios assignees, los juntamos en un string
-            # Si no tiene, marcamos como SIN ASIGNAR
             if assignees:
                 assignee_names = ", ".join([a.get("username", "?") for a in assignees])
             else:
                 assignee_names = "SIN ASIGNAR"
 
             snapshot["tasks"][task_id] = {
-                "name": task.get("name", "Sin nombre"),
-                "status": task.get("status", {}).get("status", "sin_status"),
-                "assignee": assignee_names,
-                "client": client_name,
-                "list": task.get("_list_name", "?"),
-                "url": task.get("url", "")
+                "name":         task.get("name", "Sin nombre"),
+                "status":       task.get("status", {}).get("status", "sin_status"),
+                "assignee":     assignee_names,
+                "client":       client_name,
+                "list":         task.get("_list_name", "?"),
+                "url":          task.get("url", ""),
+                "date_created": _ms_to_iso(task.get("date_created")),
+                "date_updated": _ms_to_iso(task.get("date_updated")),
+                "date_done":    _ms_to_iso(task.get("date_done")),
             }
 
     return snapshot
+
 
 if __name__ == "__main__":
     test_connection()
@@ -207,3 +194,9 @@ if __name__ == "__main__":
     snapshot = get_snapshot()
     print(f"   Snapshot tomado: {snapshot['timestamp']}")
     print(f"   Total tasks capturadas: {len(snapshot['tasks'])}")
+
+    # Estadistica rapida de fechas capturadas
+    with_done = sum(1 for t in snapshot['tasks'].values() if t.get('date_done'))
+    with_created = sum(1 for t in snapshot['tasks'].values() if t.get('date_created'))
+    print(f"   Con date_created: {with_created}")
+    print(f"   Con date_done:    {with_done}")

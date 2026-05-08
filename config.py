@@ -4,6 +4,7 @@ Define el sistema de categorias de status y helpers para clasificar.
 Si falta alguna variable critica, falla inmediatamente con un error claro.
 """
 import os
+import re
 import unicodedata
 from dotenv import load_dotenv
 
@@ -37,11 +38,11 @@ STATUS_CATEGORIES = {
     "en_curso":   ["en progreso", "en curso"],
     "revision":   ["revision", "revisar"],
     "aprobado":   ["aprobado", "approved"],
-    "completado": ["completado", "final", "finales", "hecho"],
+    "completado": ["completado", "final", "finales", "hecho", "complete"],
 }
 
 # Status que ignoramos completamente (no entran en ninguna metrica)
-IGNORED_STATUSES = ["to do", "draft", "borrador", "pendiente"]
+IGNORED_STATUSES = ["to do", "draft", "borrador", "pendiente", "archivado", "leer", "testado"]
 
 # Orden en que aparecen las categorias en el reporte
 CATEGORY_ORDER = ["asignado", "en_curso", "revision", "aprobado", "completado"]
@@ -65,7 +66,6 @@ CATEGORY_EMOJIS = {
 }
 
 # Compatibilidad hacia atras: scripts viejos siguen importando esto.
-# Ahora se deriva del nuevo sistema (todos los nombres en categoria "completado").
 COMPLETED_STATUSES = set(STATUS_CATEGORIES["completado"])
 
 
@@ -76,6 +76,35 @@ def _normalize(text):
     nfkd = unicodedata.normalize("NFD", text)
     no_accents = "".join(c for c in nfkd if not unicodedata.combining(c))
     return no_accents.strip().lower()
+
+
+def normalize_editor(name):
+    """
+    Normaliza el nombre de un editor para que variantes de capitalizacion
+    cuenten como la misma persona en agregaciones.
+
+    Casos reales detectados en data:
+      - "MIchel Isla Gordillo"   <-> "Michel Isla Gordillo"
+      - "  Alejandra  Ramirez "  <-> "Alejandra Ramirez"
+
+    Estrategia:
+      1. Strip de espacios.
+      2. Colapsar espacios multiples a uno solo.
+      3. Title case por palabra (respetando acentos).
+      4. Conserva el nombre de display (no lowercase) para que se vea bien.
+
+    Devuelve string vacio si entra vacio o None.
+    """
+    if not name:
+        return ""
+
+    cleaned = re.sub(r"\s+", " ", name).strip()
+    if not cleaned:
+        return ""
+
+    # Title case sensible a unicode (str.title() rompe con apostrofes y acentos
+    # en algunos casos, pero para nombres latinos basicos funciona bien).
+    return " ".join(word.capitalize() for word in cleaned.split(" "))
 
 
 def categorize_status(status_name):
@@ -159,10 +188,13 @@ if __name__ == "__main__":
         ("FINAL",        "completado"),
         ("FINALES",      "completado"),
         ("HECHO",        "completado"),
+        ("complete",     "completado"),
         ("DRAFT",        None),
         ("BORRADOR",     None),
         ("TO DO",        None),
         ("PENDIENTE",    None),
+        ("ARCHIVADO",    None),
+        ("TESTADO",      None),
         ("xyz random",   None),
         ("",             None),
         (None,           None),
@@ -175,3 +207,19 @@ if __name__ == "__main__":
             failures += 1
         print(f"  {ok}  categorize_status({status!r:20}) -> {got!r:14} (esperado {expected!r})")
     print(f"\n{len(test_cases) - failures}/{len(test_cases)} pasaron")
+
+    # Smoke tests de normalize_editor
+    print("\nSmoke tests normalize_editor:")
+    name_cases = [
+        ("MIchel Isla Gordillo",   "Michel Isla Gordillo"),
+        ("michel isla gordillo",   "Michel Isla Gordillo"),
+        ("  Alejandra  Ramirez ",  "Alejandra Ramirez"),
+        ("ALEJANDRA RAMIREZ",      "Alejandra Ramirez"),
+        ("Gonzalo Millán",         "Gonzalo Millán"),
+        ("",                       ""),
+        (None,                     ""),
+    ]
+    for inp, expected in name_cases:
+        got = normalize_editor(inp)
+        ok = "OK " if got == expected else "FAIL"
+        print(f"  {ok}  normalize_editor({inp!r:30}) -> {got!r}")

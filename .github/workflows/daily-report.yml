@@ -1,10 +1,8 @@
-name: Daily Report
+﻿name: Daily Report
 
 on:
   schedule:
     # 6:00 AM hora España = 4:00 UTC en horario verano, 5:00 UTC en invierno
-    # Usamos 5:00 UTC para que en invierno sea 6:00 AM exacto
-    # En verano sera 7:00 AM (aceptable, 1 hora de drift)
     - cron: '17 5 * * *'
   workflow_dispatch:  # Permite correr manualmente desde GitHub
 
@@ -37,15 +35,19 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python main.py
 
-      - name: Commit snapshot and transitions log
+      - name: Build dashboard data
+        run: python dashboard_data.py
+
+      - name: Commit snapshot, transitions log and dashboard data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # last_snapshot.json siempre existe despues de un run exitoso.
-          # transitions_log.jsonl puede no existir si nunca se appendeo nada.
           git add data/last_snapshot.json
           if [ -f data/transitions_log.jsonl ]; then
             git add data/transitions_log.jsonl
           fi
-          git diff --staged --quiet || git commit -m "Update snapshot $(date -u +%Y-%m-%d)"
+          if [ -f docs/data.json ]; then
+            git add docs/data.json
+          fi
+          git diff --staged --quiet || git commit -m "Daily update $(date -u +%Y-%m-%d)"
           git push
