@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reporte de productividad</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/geist@1.3.1/dist/fonts/geist-sans/style.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/geist@1.3.1/dist/fonts/geist-mono/style.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="masthead-eyebrow">Reporte interno - Productividad de editores</div>
+      <h1 class="masthead-title">Produccion <em>diaria</em></h1>
+      <div class="masthead-meta">
+        <span id="last-updated">Cargando datos...</span>
+        <span class="masthead-divider">-</span>
+        <span id="snapshot-info"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="dashboard" id="app" hidden>
+
+    <section class="controls">
+      <div class="control-group">
+        <label class="control-label">Rango de fechas</label>
+        <div class="control-row">
+          <div class="segmented" role="tablist" id="range-buttons">
+            <button data-range="today" class="seg-btn">Hoy</button>
+            <button data-range="7d"    class="seg-btn is-active">7 dias</button>
+            <button data-range="30d"   class="seg-btn">30 dias</button>
+            <button data-range="90d"   class="seg-btn">90 dias</button>
+            <button data-range="all"   class="seg-btn">Todo</button>
+            <button data-range="custom" class="seg-btn">Personalizado</button>
+          </div>
+        </div>
+        <div class="control-row custom-dates" id="custom-dates" hidden>
+          <label>Desde <input type="date" id="date-from" /></label>
+          <label>Hasta <input type="date" id="date-to" /></label>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <label class="control-label">Editor</label>
+        <select id="editor-filter" class="select-input">
+          <option value="all">Todos los editores</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label class="control-label">Cliente</label>
+        <div class="segmented" id="client-filter">
+          <button data-client="all" class="seg-btn is-active">Todos</button>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <label class="control-label">Modo</label>
+        <div class="segmented" id="mode-filter">
+          <button data-mode="single" class="seg-btn is-active">Vista unica</button>
+          <button data-mode="compare" class="seg-btn">Comparar periodos</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="kpi-grid" id="kpi-grid">
+      <div class="kpi" id="kpi-completed">
+        <div class="kpi-label">Tareas completadas</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-delta"></div>
+      </div>
+      <div class="kpi" id="kpi-leadtime">
+        <div class="kpi-label">Tiempo medio</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">desde creacion</div>
+      </div>
+      <div class="kpi" id="kpi-top">
+        <div class="kpi-label">Top editor</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub"></div>
+      </div>
+      <div class="kpi" id="kpi-active">
+        <div class="kpi-label">En flujo ahora</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">sin contar completadas</div>
+      </div>
+    </section>
+
+    <section class="chart-grid">
+      <article class="chart-card chart-card-wide">
+        <header class="chart-header">
+          <h2>Produccion por editor</h2>
+          <p class="chart-sub">Tareas completadas en el rango seleccionado</p>
+        </header>
+        <div class="chart-body">
+          <canvas id="chart-by-editor"></canvas>
+        </div>
+      </article>
+
+      <article class="chart-card">
+        <header class="chart-header">
+          <h2>Tiempo medio de entrega</h2>
+          <p class="chart-sub">Dias desde creacion hasta completar</p>
+        </header>
+        <div class="chart-body">
+          <canvas id="chart-leadtime"></canvas>
+        </div>
+      </article>
+
+      <article class="chart-card chart-card-wide">
+        <header class="chart-header">
+          <h2>Produccion a lo largo del tiempo</h2>
+          <p class="chart-sub">Tareas completadas por dia</p>
+        </header>
+        <div class="chart-body">
+          <canvas id="chart-timeline"></canvas>
+        </div>
+      </article>
+    </section>
+
+    <section class="table-section">
+      <header class="section-header">
+        <h2>Detalle de tareas completadas</h2>
+        <span class="table-count" id="table-count">0 tareas</span>
+      </header>
+      <div class="table-wrapper">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th data-sort="name">Tarea</th>
+              <th data-sort="client">Cliente</th>
+              <th data-sort="list">Lista</th>
+              <th data-sort="assignees">Editor(es)</th>
+              <th data-sort="date_done" class="num">Completada</th>
+              <th data-sort="lead_time_hours" class="num">Lead time</th>
+            </tr>
+          </thead>
+          <tbody id="data-table-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer class="page-footer">
+      <p>Datos extraidos automaticamente de ClickUp - Actualizado diariamente via GitHub Actions</p>
+    </footer>
+
+  </main>
+
+  <div class="loader" id="loader">
+    <div class="loader-spinner"></div>
+    <p>Cargando datos...</p>
+  </div>
+
+  <div class="error" id="error" hidden>
+    <h2>No se pudo cargar el dashboard</h2>
+    <p id="error-message"></p>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
