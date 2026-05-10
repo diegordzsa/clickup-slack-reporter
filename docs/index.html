@@ -71,12 +71,44 @@
       </div>
     </section>
 
-    <section class="kpi-grid" id="kpi-grid">
-      <div class="kpi" id="kpi-completed">
-        <div class="kpi-label">Tareas completadas</div>
+    <div class="report-note" id="report-note" hidden>
+      Mostrando datos del reporte diario (corte del dia anterior al actual). No es tiempo real.
+    </div>
+
+    <section class="kpi-grid kpi-grid-5" id="kpi-grid">
+      <div class="kpi" id="kpi-asignado">
+        <div class="kpi-label">Asignados</div>
         <div class="kpi-value">-</div>
+        <div class="kpi-sub">tareas en cola</div>
         <div class="kpi-delta"></div>
       </div>
+      <div class="kpi" id="kpi-en-curso">
+        <div class="kpi-label">En curso</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">hoy</div>
+        <div class="kpi-delta"></div>
+      </div>
+      <div class="kpi" id="kpi-revision">
+        <div class="kpi-label">En revision</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">hoy</div>
+        <div class="kpi-delta"></div>
+      </div>
+      <div class="kpi" id="kpi-aprobado">
+        <div class="kpi-label">Aprobados</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">hoy</div>
+        <div class="kpi-delta"></div>
+      </div>
+      <div class="kpi" id="kpi-completado">
+        <div class="kpi-label">Completados</div>
+        <div class="kpi-value">-</div>
+        <div class="kpi-sub">hoy</div>
+        <div class="kpi-delta"></div>
+      </div>
+    </section>
+
+    <section class="kpi-grid kpi-grid-secondary" id="kpi-grid-secondary">
       <div class="kpi" id="kpi-leadtime">
         <div class="kpi-label">Tiempo medio</div>
         <div class="kpi-value">-</div>
@@ -90,7 +122,7 @@
       <div class="kpi" id="kpi-active">
         <div class="kpi-label">En flujo ahora</div>
         <div class="kpi-value">-</div>
-        <div class="kpi-sub">sin contar completadas</div>
+        <div class="kpi-sub">total activas (sin completadas)</div>
       </div>
     </section>
 
@@ -98,7 +130,7 @@
       <article class="chart-card chart-card-wide">
         <header class="chart-header">
           <h2>Produccion por editor</h2>
-          <p class="chart-sub">Tareas completadas en el rango seleccionado</p>
+          <p class="chart-sub">Actividad por editor en el rango seleccionado</p>
         </header>
         <div class="chart-body">
           <canvas id="chart-by-editor"></canvas>
@@ -118,7 +150,7 @@
       <article class="chart-card chart-card-wide">
         <header class="chart-header">
           <h2>Produccion a lo largo del tiempo</h2>
-          <p class="chart-sub">Tareas completadas por dia</p>
+          <p class="chart-sub">Transiciones por dia en el rango seleccionado</p>
         </header>
         <div class="chart-body">
           <canvas id="chart-timeline"></canvas>
@@ -128,8 +160,16 @@
 
     <section class="table-section">
       <header class="section-header">
-        <h2>Detalle de tareas completadas</h2>
-        <span class="table-count" id="table-count">0 tareas</span>
+        <h2>Detalle de actividad</h2>
+        <div class="table-controls">
+          <div class="segmented" id="table-view-filter">
+            <button data-view="all" class="seg-btn is-active">Todas</button>
+            <button data-view="completado" class="seg-btn">Completadas</button>
+            <button data-view="transitions" class="seg-btn">Transiciones</button>
+            <button data-view="assigned" class="seg-btn">Asignadas</button>
+          </div>
+          <span class="table-count" id="table-count">0 tareas</span>
+        </div>
       </header>
       <div class="table-wrapper">
         <table class="data-table" id="data-table">
@@ -138,9 +178,9 @@
               <th data-sort="name">Tarea</th>
               <th data-sort="client">Cliente</th>
               <th data-sort="list">Lista</th>
-              <th data-sort="assignees">Editor(es)</th>
-              <th data-sort="date_done" class="num">Completada</th>
-              <th data-sort="lead_time_hours" class="num">Lead time</th>
+              <th data-sort="assignee">Editor(es)</th>
+              <th data-sort="category">Categoria</th>
+              <th data-sort="date" class="num">Fecha</th>
             </tr>
           </thead>
           <tbody id="data-table-body"></tbody>

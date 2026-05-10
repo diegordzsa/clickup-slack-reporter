@@ -1,4 +1,4 @@
-﻿(function () {
+(function () {
   "use strict";
 
   const state = {
@@ -9,7 +9,8 @@
     editor:      "all",
     client:      "all",
     mode:        "single",
-    sortField:   "date_done",
+    tableView:   "all",
+    sortField:   "date",
     sortDir:     "desc",
   };
 
@@ -26,6 +27,14 @@
     rule:   "#d8d1c2",
     compareA: "#1a1614",
     compareB: "#b54f25",
+  };
+
+  const CATEGORY_DISPLAY = {
+    asignado:   "Asignado",
+    en_curso:   "En curso",
+    revision:   "Revision",
+    aprobado:   "Aprobado",
+    completado: "Completado",
   };
 
   Chart.defaults.font.family = '"Geist", -apple-system, sans-serif';
@@ -137,6 +146,14 @@
       render();
     });
 
+    document.getElementById("table-view-filter").addEventListener("click", e => {
+      const btn = e.target.closest("button");
+      if (!btn) return;
+      activateInGroup("table-view-filter", btn);
+      state.tableView = btn.dataset.view;
+      renderTable();
+    });
+
     document.querySelectorAll("#data-table th[data-sort]").forEach(th => {
       th.addEventListener("click", () => {
         const f = th.dataset.sort;
@@ -146,7 +163,7 @@
           state.sortField = f;
           state.sortDir = "desc";
         }
-        renderTable(applyFilters(state.data.completed_tasks));
+        renderTable();
       });
     });
   }
@@ -220,43 +237,79 @@
     });
   }
 
+  function applyFiltersTransitions(transitions, range) {
+    range = range || getRange(state.range);
+    return transitions.filter(t => {
+      if (!t.ts) return false;
+      const d = new Date(t.ts);
+      if (d < range.from || d > range.to) return false;
+      if (state.client !== "all" && t.client !== state.client) return false;
+      if (state.editor !== "all" && t.assignee !== state.editor) return false;
+      return true;
+    });
+  }
+
   function render() {
     const range = getRange(state.range);
     const completedFiltered = applyFilters(state.data.completed_tasks, range);
+    const transFiltered = applyFiltersTransitions(state.data.transitions, range);
 
-    let prevFiltered = null;
+    let prevCompletedFiltered = null;
+    let prevTransFiltered = null;
     if (state.mode === "compare") {
       const prevRange = getPreviousRange(state.range);
-      prevFiltered = applyFilters(state.data.completed_tasks, prevRange);
+      prevCompletedFiltered = applyFilters(state.data.completed_tasks, prevRange);
+      prevTransFiltered = applyFiltersTransitions(state.data.transitions, prevRange);
     }
 
-    renderKPIs(completedFiltered, prevFiltered);
-    renderChartByEditor(completedFiltered, prevFiltered);
+    const noteEl = document.getElementById("report-note");
+    if (noteEl) noteEl.hidden = state.range !== "today";
+
+    renderKPIs(transFiltered, completedFiltered, prevTransFiltered, prevCompletedFiltered);
+    renderChartByEditor(transFiltered, prevTransFiltered);
     renderChartLeadtime(completedFiltered);
-    renderChartTimeline(completedFiltered, range, prevFiltered);
-    renderTable(completedFiltered);
+    renderChartTimeline(transFiltered, range, prevTransFiltered);
+    renderTable();
   }
 
-  function renderKPIs(filtered, prev) {
-    const total = filtered.length;
-    const kpiC = document.querySelector("#kpi-completed .kpi-value");
-    kpiC.textContent = total;
+  function renderKPIs(transFiltered, completedFiltered, prevTrans, prevCompleted) {
+    const isToday = state.range === "today";
+    const subText = isToday ? "hoy" : "en el periodo";
 
-    const deltaEl = document.querySelector("#kpi-completed .kpi-delta");
-    if (prev) {
-      const diff = total - prev.length;
-      const pct = prev.length > 0 ? Math.round((diff / prev.length) * 100) : null;
-      const arrow = diff > 0 ? "^" : diff < 0 ? "v" : "=";
-      const cls   = diff > 0 ? "is-up" : diff < 0 ? "is-down" : "";
-      const pctTxt = pct !== null ? Math.abs(pct) + "%" : "-";
-      deltaEl.className = "kpi-delta " + cls;
-      deltaEl.textContent = arrow + " " + Math.abs(diff) + " vs " + prev.length + " (" + pctTxt + ")";
+    const asignados = applyFiltersAssigned(
+      state.data.currently_assigned.filter(t => t.category === "asignado")
+    );
+    document.querySelector("#kpi-asignado .kpi-value").textContent = asignados.length;
+    document.querySelector("#kpi-asignado .kpi-sub").textContent = "tareas en cola";
+
+    const categories = ["en_curso", "revision", "aprobado", "completado"];
+    const kpiIds = ["#kpi-en-curso", "#kpi-revision", "#kpi-aprobado", "#kpi-completado"];
+
+    categories.forEach((cat, i) => {
+      const count = transFiltered.filter(t => t.category === cat).length;
+      document.querySelector(kpiIds[i] + " .kpi-value").textContent = count;
+      document.querySelector(kpiIds[i] + " .kpi-sub").textContent = subText;
+    });
+
+    // Compare deltas
+    const deltaEl = document.querySelector("#kpi-asignado .kpi-delta");
+    if (deltaEl) { deltaEl.className = "kpi-delta"; deltaEl.textContent = ""; }
+
+    if (prevTrans) {
+      categories.forEach((cat, i) => {
+        const curr = transFiltered.filter(t => t.category === cat).length;
+        const prev = prevTrans.filter(t => t.category === cat).length;
+        renderDelta(kpiIds[i] + " .kpi-delta", curr, prev);
+      });
     } else {
-      deltaEl.className = "kpi-delta";
-      deltaEl.textContent = "";
+      kpiIds.forEach(sel => {
+        const el = document.querySelector(sel + " .kpi-delta");
+        if (el) { el.className = "kpi-delta"; el.textContent = ""; }
+      });
     }
 
-    const withTime = filtered.filter(t => typeof t.lead_time_hours === "number" && t.lead_time_hours > 0);
+    // Secondary KPIs
+    const withTime = completedFiltered.filter(t => typeof t.lead_time_hours === "number" && t.lead_time_hours > 0);
     const avgH = withTime.length
       ? withTime.reduce((s, t) => s + t.lead_time_hours, 0) / withTime.length
       : 0;
@@ -268,18 +321,18 @@
       kpiL.textContent = "-";
     }
     document.querySelector("#kpi-leadtime .kpi-sub").textContent =
-      withTime.length + " de " + total + " con fechas";
+      withTime.length + " de " + completedFiltered.length + " con fechas";
 
     const counts = {};
-    filtered.forEach(t => {
-      t.assignees.forEach(a => { counts[a] = (counts[a] || 0) + 1; });
+    transFiltered.forEach(t => {
+      counts[t.assignee] = (counts[t.assignee] || 0) + 1;
     });
     const top = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
     const kpiT = document.querySelector("#kpi-top .kpi-value");
     if (top) {
       kpiT.classList.add("is-text");
       kpiT.textContent = top[0];
-      document.querySelector("#kpi-top .kpi-sub").textContent = top[1] + " tareas";
+      document.querySelector("#kpi-top .kpi-sub").textContent = top[1] + " transiciones";
     } else {
       kpiT.classList.remove("is-text");
       kpiT.textContent = "-";
@@ -290,10 +343,22 @@
     document.querySelector("#kpi-active .kpi-value").textContent = active;
   }
 
-  function renderChartByEditor(filtered, prev) {
+  function renderDelta(selector, current, previous) {
+    const el = document.querySelector(selector);
+    if (!el) return;
+    const diff = current - previous;
+    const pct = previous > 0 ? Math.round((diff / previous) * 100) : null;
+    const arrow = diff > 0 ? "^" : diff < 0 ? "v" : "=";
+    const cls = diff > 0 ? "is-up" : diff < 0 ? "is-down" : "";
+    const pctTxt = pct !== null ? Math.abs(pct) + "%" : "-";
+    el.className = "kpi-delta " + cls;
+    el.textContent = arrow + " " + Math.abs(diff) + " vs " + previous + " (" + pctTxt + ")";
+  }
+
+  function renderChartByEditor(transFiltered, prevTrans) {
     const counts = {};
-    filtered.forEach(t => {
-      t.assignees.forEach(a => { counts[a] = (counts[a] || 0) + 1; });
+    transFiltered.forEach(t => {
+      counts[t.assignee] = (counts[t.assignee] || 0) + 1;
     });
 
     const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 12);
@@ -307,10 +372,10 @@
       borderRadius: 0,
     }];
 
-    if (prev) {
+    if (prevTrans) {
       const prevCounts = {};
-      prev.forEach(t => {
-        t.assignees.forEach(a => { prevCounts[a] = (prevCounts[a] || 0) + 1; });
+      prevTrans.forEach(t => {
+        prevCounts[t.assignee] = (prevCounts[t.assignee] || 0) + 1;
       });
       const prevValues = labels.map(l => prevCounts[l] || 0);
       datasets.push({
@@ -331,7 +396,7 @@
         maintainAspectRatio: false,
         indexAxis: "y",
         plugins: {
-          legend: { display: prev ? true : false, position: "bottom", labels: { boxWidth: 12 } },
+          legend: { display: prevTrans ? true : false, position: "bottom", labels: { boxWidth: 12 } },
           tooltip: { backgroundColor: COLORS.ink, padding: 10 },
         },
         scales: {
@@ -395,13 +460,13 @@
     });
   }
 
-  function renderChartTimeline(filtered, range, prev) {
-    const byDay = bucketByDay(filtered);
+  function renderChartTimeline(transFiltered, range, prevTrans) {
+    const byDay = bucketTransitionsByDay(transFiltered);
     const days = enumerateDays(range.from, range.to);
     const values = days.map(d => byDay[d] || 0);
 
     const datasets = [{
-      label: "Completadas",
+      label: "Transiciones",
       data: values,
       borderColor: COLORS.compareA,
       backgroundColor: "rgba(26, 22, 20, 0.08)",
@@ -411,9 +476,9 @@
       pointBackgroundColor: COLORS.compareA,
     }];
 
-    if (prev) {
+    if (prevTrans) {
       const prevRange = getPreviousRange(state.range);
-      const prevByDay = bucketByDay(prev);
+      const prevByDay = bucketTransitionsByDay(prevTrans);
       const prevDays  = enumerateDays(prevRange.from, prevRange.to);
       const prevValues = prevDays.map(d => prevByDay[d] || 0);
       const aligned = days.map((_, i) => prevValues[i] !== undefined ? prevValues[i] : null);
@@ -439,7 +504,7 @@
         responsive: true,
         maintainAspectRatio: false,
         plugins: {
-          legend: { display: !!prev, position: "bottom", labels: { boxWidth: 12 } },
+          legend: { display: !!prevTrans, position: "bottom", labels: { boxWidth: 12 } },
           tooltip: { backgroundColor: COLORS.ink, padding: 10 },
         },
         scales: {
@@ -450,11 +515,11 @@
     });
   }
 
-  function bucketByDay(tasks) {
+  function bucketTransitionsByDay(transitions) {
     const out = {};
-    tasks.forEach(t => {
-      if (!t.date_done) return;
-      const key = t.date_done.slice(0, 10);
+    transitions.forEach(t => {
+      if (!t.ts) return;
+      const key = t.ts.slice(0, 10);
       out[key] = (out[key] || 0) + 1;
     });
     return out;
@@ -473,11 +538,60 @@
     return days;
   }
 
-  function renderTable(filtered) {
-    const sorted = [...filtered].sort((a, b) => {
+  function renderTable() {
+    const range = getRange(state.range);
+    let rows = [];
+
+    if (state.tableView === "all" || state.tableView === "transitions") {
+      const trans = applyFiltersTransitions(state.data.transitions, range);
+      trans.forEach(t => {
+        rows.push({
+          name: t.name,
+          client: t.client,
+          list: t.list,
+          assignee: t.assignee,
+          category: t.category,
+          date: t.ts,
+          url: t.url,
+        });
+      });
+    }
+
+    if (state.tableView === "all" || state.tableView === "assigned") {
+      const assigned = applyFiltersAssigned(
+        state.data.currently_assigned.filter(t => t.category === "asignado")
+      );
+      assigned.forEach(t => {
+        rows.push({
+          name: t.name,
+          client: t.client,
+          list: t.list,
+          assignee: t.assignees.join(", "),
+          category: t.category,
+          date: t.date_created,
+          url: t.url,
+        });
+      });
+    }
+
+    if (state.tableView === "completado") {
+      const completed = applyFilters(state.data.completed_tasks, range);
+      completed.forEach(t => {
+        rows.push({
+          name: t.name,
+          client: t.client,
+          list: t.list,
+          assignee: t.assignees.join(", "),
+          category: "completado",
+          date: t.date_done,
+          url: t.url,
+        });
+      });
+    }
+
+    const sorted = [...rows].sort((a, b) => {
       const f = state.sortField;
       let av = a[f], bv = b[f];
-      if (f === "assignees") { av = (av || []).join(", "); bv = (bv || []).join(", "); }
       if (av == null) return 1;
       if (bv == null) return -1;
       if (typeof av === "number" && typeof bv === "number") {
@@ -497,23 +611,25 @@
     const tbody = document.getElementById("data-table-body");
     tbody.innerHTML = "";
 
-    sorted.slice(0, 200).forEach(t => {
+    sorted.slice(0, 200).forEach(row => {
       const tr = document.createElement("tr");
-      const tagClass = t.client === "HAIR BIOLABS" ? "tag-hairbiolabs"
-                     : t.client === "SKIN+"        ? "tag-skinplus" : "";
+      const tagClass = row.client === "HAIR BIOLABS" ? "tag-hairbiolabs"
+                     : row.client === "SKIN+"        ? "tag-skinplus" : "";
+      const catLabel = CATEGORY_DISPLAY[row.category] || row.category;
+      const catClass = "cat-" + row.category;
       tr.innerHTML =
-        '<td>' + (t.url
-          ? '<a href="' + t.url + '" target="_blank" rel="noopener">' + escapeHtml(t.name) + '</a>'
-          : escapeHtml(t.name)) + '</td>' +
-        '<td><span class="tag ' + tagClass + '">' + escapeHtml(t.client) + '</span></td>' +
-        '<td>' + escapeHtml(t.list) + '</td>' +
-        '<td>' + escapeHtml(t.assignees.join(", ")) + '</td>' +
-        '<td class="num">' + formatDate(t.date_done) + '</td>' +
-        '<td class="num">' + formatLeadtime(t.lead_time_hours) + '</td>';
+        '<td>' + (row.url
+          ? '<a href="' + row.url + '" target="_blank" rel="noopener">' + escapeHtml(row.name) + '</a>'
+          : escapeHtml(row.name)) + '</td>' +
+        '<td><span class="tag ' + tagClass + '">' + escapeHtml(row.client) + '</span></td>' +
+        '<td>' + escapeHtml(row.list) + '</td>' +
+        '<td>' + escapeHtml(row.assignee) + '</td>' +
+        '<td><span class="cat-badge ' + catClass + '">' + catLabel + '</span></td>' +
+        '<td class="num">' + formatDate(row.date) + '</td>';
       tbody.appendChild(tr);
     });
 
-    const count = filtered.length;
+    const count = rows.length;
     document.getElementById("table-count").textContent =
       count + " tarea" + (count === 1 ? "" : "s") +
       (count > 200 ? " - mostrando 200" : "");
