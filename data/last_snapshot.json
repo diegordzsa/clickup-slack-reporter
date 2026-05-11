@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T07:35:56.192603",
+  "timestamp": "2026-05-11T08:38:07.536479",
   "tasks": {
     "869d6n92h": {
       "name": "Landing de ciencia en shopify",
@@ -661,6 +661,17 @@
       "date_updated": "2025-09-11T07:47:43.561000+00:00",
       "date_done": "2025-09-11T07:47:43.561000+00:00"
     },
+    "869d7yqva": {
+      "name": "L48-C234-VX-HB-Gonza F",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d7yqva",
+      "date_created": "2026-05-10T15:50:53.970000+00:00",
+      "date_updated": "2026-05-10T15:51:15.749000+00:00",
+      "date_done": null
+    },
     "869d7v0h8": {
       "name": "L48-C226-VX-HB-Michael",
       "status": "assigned",
@@ -773,13 +784,13 @@
     },
     "869d65rf6": {
       "name": "L47-C219-VX-HB-Hombre-F",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Florencia Ana Falchi",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d65rf6",
       "date_created": "2026-05-05T23:02:23.715000+00:00",
-      "date_updated": "2026-05-09T04:03:16.603000+00:00",
+      "date_updated": "2026-05-11T01:25:12.501000+00:00",
       "date_done": null
     },
     "869d65qz8": {
@@ -5721,6 +5732,28 @@
       "date_updated": "2026-05-08T14:54:54.958000+00:00",
       "date_done": null
     },
+    "869d7yhaf": {
+      "name": "L48-C233-VX-SK-Day",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d7yhaf",
+      "date_created": "2026-05-10T15:14:25.305000+00:00",
+      "date_updated": "2026-05-10T15:15:03.761000+00:00",
+      "date_done": null
+    },
+    "869d7yh80": {
+      "name": "L48-C232-VX-SK-Day",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869d7yh80",
+      "date_created": "2026-05-10T15:13:28.334000+00:00",
+      "date_updated": "2026-05-10T15:13:58.883000+00:00",
+      "date_done": null
+    },
     "869d7v6ha": {
       "name": "L48-C228-VX-SK-Day",
       "status": "assigned",
@@ -5812,12 +5845,12 @@
     "869d65qnm": {
       "name": "L47-C218-VX-SK-Mujer-F",
       "status": "assigned",
-      "assignee": "Florencia Ana Falchi",
+      "assignee": "SIN ASIGNAR",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869d65qnm",
       "date_created": "2026-05-05T22:58:54.692000+00:00",
-      "date_updated": "2026-05-08T10:40:18.118000+00:00",
+      "date_updated": "2026-05-11T00:13:14.732000+00:00",
       "date_done": null
     },
     "869d65qc9": {
