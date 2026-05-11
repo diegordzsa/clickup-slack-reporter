@@ -27,6 +27,8 @@ MAX_TASKS_PER_CATEGORY = 5
 MAX_BLOCKS_PER_MESSAGE = 50
 MAX_CHARS_PER_SECTION = 2900  # margen sobre el limite real de 3000
 
+DASHBOARD_URL = "https://diegordzsa.github.io/clickup-slack-reporter/"
+
 
 def send_to_slack(blocks, fallback_text="Reporte diario de actividad"):
     """Manda un mensaje a Slack usando blocks (Block Kit)."""
@@ -176,6 +178,10 @@ def build_daily_report_blocks(report, totals):
                 "text": "_No hay editores con actividad ni tareas asignadas._",
             },
         })
+        blocks.append({
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": f":bar_chart: <{DASHBOARD_URL}|Ver reporte visual>"}],
+        })
         return blocks
 
     # Una seccion por cliente. Filtramos editores vacios primero;
@@ -244,6 +250,11 @@ def build_daily_report_blocks(report, totals):
             "type": "mrkdwn",
             "text": totals_line,
         },
+    })
+
+    blocks.append({
+        "type": "context",
+        "elements": [{"type": "mrkdwn", "text": f":bar_chart: <{DASHBOARD_URL}|Ver reporte visual>"}],
     })
 
     # Si nos pasamos del limite de blocks, truncamos al final
@@ -325,6 +336,10 @@ def build_weekly_report_blocks(weekly_data, period_start, period_end):
                 "text": "_No hubo transiciones registradas en los ultimos 7 dias._",
             },
         })
+        blocks.append({
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": f":bar_chart: <{DASHBOARD_URL}|Ver reporte visual>"}],
+        })
         return blocks
 
     # ----- Bloque de RANKING -----
@@ -398,6 +413,11 @@ def build_weekly_report_blocks(weekly_data, period_start, period_end):
             "type": "mrkdwn",
             "text": totals_line,
         },
+    })
+
+    blocks.append({
+        "type": "context",
+        "elements": [{"type": "mrkdwn", "text": f":bar_chart: <{DASHBOARD_URL}|Ver reporte visual>"}],
     })
 
     # Defensa contra el limite de 50 bloques
