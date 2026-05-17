@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T07:26:39.133061",
+  "timestamp": "2026-05-17T07:45:27.920521",
   "tasks": {
     "869dacnfz": {
       "name": "L48-C179-ITER 2-VX-G",
@@ -11,6 +11,17 @@
       "date_created": "2026-05-15T08:05:45.846000+00:00",
       "date_updated": "2026-05-15T11:33:10.036000+00:00",
       "date_done": null
+    },
+    "869da7w8j": {
+      "name": "L47-ITER C220-VX-HB-Mujer-D",
+      "status": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869da7w8j",
+      "date_created": "2026-05-14T17:48:25.710000+00:00",
+      "date_updated": "2026-05-16T15:18:41.422000+00:00",
+      "date_done": "2026-05-15T22:51:04.797000+00:00"
     },
     "869d9uvqf": {
       "name": "L45-ITER-C193-VX-Michael",
@@ -212,13 +223,13 @@
     },
     "869d77u6d": {
       "name": "L47-C222-VX-HB-Daniela",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Daniela Iskowitz",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d77u6d",
       "date_created": "2026-05-08T00:10:11.789000+00:00",
-      "date_updated": "2026-05-14T17:00:52.247000+00:00",
+      "date_updated": "2026-05-16T10:48:42.745000+00:00",
       "date_done": "2026-05-12T11:12:29.738000+00:00"
     },
     "869d6qm9f": {
@@ -297,6 +308,17 @@
       "date_created": "2026-05-05T23:00:11.597000+00:00",
       "date_updated": "2026-05-13T13:29:06.449000+00:00",
       "date_done": "2026-05-13T13:29:06.449000+00:00"
+    },
+    "869d648p7": {
+      "name": "L47-C214-VX-SK-ALE",
+      "status": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869d648p7",
+      "date_created": "2026-05-05T19:57:56.579000+00:00",
+      "date_updated": "2026-05-16T15:17:25.915000+00:00",
+      "date_done": "2026-05-07T14:23:25.069000+00:00"
     },
     "869d5z6e1": {
       "name": "L47-C208-VX-HB-Michel",
@@ -5897,6 +5919,17 @@
       "date_updated": "2026-05-08T14:54:54.958000+00:00",
       "date_done": null
     },
+    "869daw8jj": {
+      "name": "L15-DAVID-VX",
+      "status": "approved",
+      "assignee": "SIN ASIGNAR",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "url": "https://app.clickup.com/t/869daw8jj",
+      "date_created": "2026-05-16T15:35:07.064000+00:00",
+      "date_updated": "2026-05-16T15:35:35.387000+00:00",
+      "date_done": "2026-05-16T15:35:07.064000+00:00"
+    },
     "869dare5j": {
       "name": "L14-C53-V1-G",
       "status": "revision",
@@ -5927,19 +5960,8 @@
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869da7whj",
       "date_created": "2026-05-14T17:49:49.016000+00:00",
-      "date_updated": "2026-05-15T14:22:42.741000+00:00",
+      "date_updated": "2026-05-16T20:06:21.964000+00:00",
       "date_done": null
-    },
-    "869da7w8j": {
-      "name": "L47-ITER C220-VX-HB-Mujer-D",
-      "status": "approved",
-      "assignee": "Dayana Caicedo",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869da7w8j",
-      "date_created": "2026-05-14T17:48:25.710000+00:00",
-      "date_updated": "2026-05-15T22:51:04.797000+00:00",
-      "date_done": "2026-05-15T22:51:04.797000+00:00"
     },
     "869da6uhc": {
       "name": "L48-ITER-C231-VX-SK-Ale",
@@ -5953,14 +5975,14 @@
       "date_done": "2026-05-14T17:55:38.174000+00:00"
     },
     "869d9tb0q": {
-      "name": "L48-C248-VX-SK-Day",
+      "name": "L48-C248-V1-D",
       "status": "assigned",
       "assignee": "Dayana Caicedo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869d9tb0q",
       "date_created": "2026-05-13T16:29:56.168000+00:00",
-      "date_updated": "2026-05-15T14:22:35.787000+00:00",
+      "date_updated": "2026-05-16T19:23:17.316000+00:00",
       "date_done": null
     },
     "869d9rdxh": {
@@ -5973,17 +5995,6 @@
       "date_created": "2026-05-13T15:57:03.355000+00:00",
       "date_updated": "2026-05-15T14:54:50.965000+00:00",
       "date_done": "2026-05-15T14:54:50.965000+00:00"
-    },
-    "869d99ph3": {
-      "name": "L48-C245-V1-HB-Mujer",
-      "status": "approved",
-      "assignee": "Daniela Iskowitz",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d99ph3",
-      "date_created": "2026-05-12T22:55:56.839000+00:00",
-      "date_updated": "2026-05-15T12:37:30.757000+00:00",
-      "date_done": "2026-05-12T22:55:56.839000+00:00"
     },
     "869d98muv": {
       "name": "L48-C244-VX-SKIN+",
@@ -6141,35 +6152,24 @@
     },
     "869d65qc9": {
       "name": "L47-C215-VX-SK-mujer-M",
-      "status": "final",
+      "status": "approved",
       "assignee": "MIchel Isla Gordillo",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869d65qc9",
       "date_created": "2026-05-05T22:53:29.243000+00:00",
-      "date_updated": "2026-05-15T19:02:59.906000+00:00",
-      "date_done": null
-    },
-    "869d648p7": {
-      "name": "L47-C214-VX-SK-ALE",
-      "status": "approved",
-      "assignee": "Alejandra Ramirez",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "url": "https://app.clickup.com/t/869d648p7",
-      "date_created": "2026-05-05T19:57:56.579000+00:00",
-      "date_updated": "2026-05-12T17:37:54.432000+00:00",
-      "date_done": "2026-05-07T14:23:25.069000+00:00"
+      "date_updated": "2026-05-16T19:22:54.384000+00:00",
+      "date_done": "2026-05-16T19:22:54.384000+00:00"
     },
     "869d5m99a": {
-      "name": "L47-C213-VX-SKIN+",
+      "name": "L47-C213-VX-R",
       "status": "testado",
       "assignee": "Romina Vera Rincon",
       "client": "SKIN+",
       "list": "Producción/ SKIN",
       "url": "https://app.clickup.com/t/869d5m99a",
       "date_created": "2026-05-04T22:36:54.534000+00:00",
-      "date_updated": "2026-05-13T14:39:23.426000+00:00",
+      "date_updated": "2026-05-16T20:25:58.492000+00:00",
       "date_done": "2026-05-11T12:39:17.692000+00:00"
     },
     "869d5hdt7": {
