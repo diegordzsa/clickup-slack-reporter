@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T07:45:43.189235+00:00",
-  "snapshot_timestamp": "2026-05-17T07:45:27.920521",
+  "generated_at": "2026-05-18T08:54:34.187084+00:00",
+  "snapshot_timestamp": "2026-05-18T08:54:08.809761",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -117,6 +117,58 @@
     }
   ],
   "currently_assigned": [
+    {
+      "task_id": "869db1rmw",
+      "name": "L49-C255-VX-Daniela",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Daniela Iskowitz"
+      ],
+      "date_created": "2026-05-17T17:44:21.075000+00:00",
+      "url": "https://app.clickup.com/t/869db1rmw"
+    },
+    {
+      "task_id": "869db1pw7",
+      "name": "L49-C254-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-17T17:32:33.652000+00:00",
+      "url": "https://app.clickup.com/t/869db1pw7"
+    },
+    {
+      "task_id": "869db1hce",
+      "name": "L49-C253-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-17T16:52:20.093000+00:00",
+      "url": "https://app.clickup.com/t/869db1hce"
+    },
+    {
+      "task_id": "869db1a07",
+      "name": "L49-C252-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-17T16:01:37.739000+00:00",
+      "url": "https://app.clickup.com/t/869db1a07"
+    },
     {
       "task_id": "869dacnfz",
       "name": "L48-C179-ITER 2-VX-G",
@@ -365,6 +417,71 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
+      "task_id": "869db1nm9",
+      "name": "L14-C58-VX-D",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-17T17:23:29.998000+00:00",
+      "url": "https://app.clickup.com/t/869db1nm9"
+    },
+    {
+      "task_id": "869db1mxg",
+      "name": "L14-C57-VX-A",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-17T17:17:45.226000+00:00",
+      "url": "https://app.clickup.com/t/869db1mxg"
+    },
+    {
+      "task_id": "869db1j0h",
+      "name": "L14-C56-VX-A",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-17T16:57:46.384000+00:00",
+      "url": "https://app.clickup.com/t/869db1j0h"
+    },
+    {
+      "task_id": "869db1fmh",
+      "name": "L14-C55-VX-A",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-17T16:40:18.892000+00:00",
+      "url": "https://app.clickup.com/t/869db1fmh"
+    },
+    {
+      "task_id": "869db18me",
+      "name": "L14-C54-VX",
+      "client": "SKIN+",
+      "list": "Producción/ SKIN",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-17T15:50:17.850000+00:00",
+      "url": "https://app.clickup.com/t/869db18me"
+    },
+    {
       "task_id": "869dare5j",
       "name": "L14-C53-V1-G",
       "client": "SKIN+",
@@ -389,19 +506,6 @@
       ],
       "date_created": "2026-05-15T13:16:53.717000+00:00",
       "url": "https://app.clickup.com/t/869dak9ny"
-    },
-    {
-      "task_id": "869da7whj",
-      "name": "L45-ITER-C193-VX-D",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-05-14T17:49:49.016000+00:00",
-      "url": "https://app.clickup.com/t/869da7whj"
     },
     {
       "task_id": "869d9tb0q",
@@ -1416,11 +1520,11 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 704,
+    "total_tasks_in_snapshot": 712,
     "total_completed": 7,
     "total_completed_with_dates": 7,
     "total_completed_with_done": 7,
-    "total_currently_assigned": 34,
+    "total_currently_assigned": 42,
     "total_transitions_logged": 85,
     "total_editors": 10
   }
