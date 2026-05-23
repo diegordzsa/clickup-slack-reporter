@@ -1,6 +1,17 @@
 {
-  "timestamp": "2026-05-22T08:33:07.284830",
+  "timestamp": "2026-05-23T07:44:33.464238",
   "tasks": {
+    "869ddpq1n": {
+      "name": "L50-C20-ITER 3-VX-M",
+      "status": "draft",
+      "assignee": "Mauricio Vallejo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ddpq1n",
+      "date_created": "2026-05-22T15:39:41.062000+00:00",
+      "date_updated": "2026-05-23T00:23:06.944000+00:00",
+      "date_done": null
+    },
     "869dcxbwm": {
       "name": "ADS OPERACION VERANO CAPILAR - M",
       "status": "testado",
@@ -36,14 +47,14 @@
     },
     "869dcjvk6": {
       "name": "L46-C204-ITER-VX-Mauricio",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Mauricio Vallejo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dcjvk6",
       "date_created": "2026-05-20T12:06:53.769000+00:00",
-      "date_updated": "2026-05-21T20:10:16.408000+00:00",
-      "date_done": null
+      "date_updated": "2026-05-22T08:45:39.636000+00:00",
+      "date_done": "2026-05-22T08:45:39.636000+00:00"
     },
     "869dcfa2h": {
       "name": "L36-C159-VX",
@@ -75,18 +86,18 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dc7pff",
       "date_created": "2026-05-19T19:53:33.605000+00:00",
-      "date_updated": "2026-05-21T17:45:53.478000+00:00",
+      "date_updated": "2026-05-22T15:19:09.302000+00:00",
       "date_done": null
     },
     "869dc2xt4": {
       "name": "L49-C262-VX-Daniela",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Daniela Iskowitz",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dc2xt4",
       "date_created": "2026-05-19T13:57:58.879000+00:00",
-      "date_updated": "2026-05-20T08:18:29.981000+00:00",
+      "date_updated": "2026-05-22T11:00:38.891000+00:00",
       "date_done": "2026-05-19T14:54:50.486000+00:00"
     },
     "869dbwg1n": {
@@ -97,18 +108,18 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dbwg1n",
       "date_created": "2026-05-19T09:29:24.342000+00:00",
-      "date_updated": "2026-05-21T21:03:24.659000+00:00",
+      "date_updated": "2026-05-22T14:12:20.940000+00:00",
       "date_done": null
     },
     "869dbwg07": {
       "name": "L49-260-VX-G",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dbwg07",
       "date_created": "2026-05-19T09:29:22.242000+00:00",
-      "date_updated": "2026-05-19T09:29:54.301000+00:00",
+      "date_updated": "2026-05-23T03:16:39.066000+00:00",
       "date_done": null
     },
     "869dbv1zm": {
@@ -119,7 +130,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dbv1zm",
       "date_created": "2026-05-19T08:41:26.134000+00:00",
-      "date_updated": "2026-05-22T02:10:55.743000+00:00",
+      "date_updated": "2026-05-22T15:45:48.665000+00:00",
       "date_done": null
     },
     "869dbv1p4": {
@@ -355,13 +366,13 @@
     },
     "869d8r59k": {
       "name": "L44-C184 ITER 1-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869d8r59k",
       "date_created": "2026-05-12T07:34:05.281000+00:00",
-      "date_updated": "2026-05-22T02:11:38.831000+00:00",
+      "date_updated": "2026-05-22T13:07:35.461000+00:00",
       "date_done": null
     },
     "869d8jbx9": {
@@ -7846,36 +7857,36 @@
     },
     "869dcrmm6": {
       "name": "Test New Product",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dcrmm6",
       "date_created": "2026-05-20T16:55:24.418000+00:00",
-      "date_updated": "2026-05-21T23:05:16.421000+00:00",
-      "date_done": null
+      "date_updated": "2026-05-22T08:38:17.389000+00:00",
+      "date_done": "2026-05-22T08:38:17.389000+00:00"
     },
     "869d8j4by": {
       "name": "PDP SKIN MX",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869d8j4by",
       "date_created": "2026-05-11T17:17:59.215000+00:00",
-      "date_updated": "2026-05-13T00:03:37.192000+00:00",
-      "date_done": null
+      "date_updated": "2026-05-22T08:38:12.948000+00:00",
+      "date_done": "2026-05-22T08:38:12.948000+00:00"
     },
     "869d8j40b": {
       "name": "PDP SKIN EUR (ingles)",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "SKIN+",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869d8j40b",
       "date_created": "2026-05-11T17:16:42.377000+00:00",
-      "date_updated": "2026-05-12T21:09:18.073000+00:00",
-      "date_done": null
+      "date_updated": "2026-05-22T08:38:11.084000+00:00",
+      "date_done": "2026-05-22T08:38:11.084000+00:00"
     },
     "869d6u0fg": {
       "name": "10 razones WHY para Microneedling",
