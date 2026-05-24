@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T07:44:53.534522+00:00",
-  "snapshot_timestamp": "2026-05-23T07:44:33.464238",
+  "generated_at": "2026-05-24T08:01:18.924601+00:00",
+  "snapshot_timestamp": "2026-05-24T08:01:00.560223",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -11,7 +11,6 @@
     "Gonzalo Millán",
     "Mauricio Vallejo",
     "Michel Isla Gordillo",
-    "Nasrulloh Khakim",
     "Romina Vera Rincon"
   ],
   "clients": [
@@ -288,19 +287,6 @@
       "url": "https://app.clickup.com/t/869d7v0h8"
     },
     {
-      "task_id": "869cx98rr",
-      "name": "L144-C188-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Nasrulloh Khakim"
-      ],
-      "date_created": "2026-04-15T09:24:21.536000+00:00",
-      "url": "https://app.clickup.com/t/869cx98rr"
-    },
-    {
       "task_id": "869d6n92h",
       "name": "Landing de ciencia en shopify",
       "client": "HAIR BIOLABS",
@@ -379,32 +365,6 @@
       "url": "https://app.clickup.com/t/869dcm6tu"
     },
     {
-      "task_id": "869dc350m",
-      "name": "L14-C61-VX-Daniela",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Daniela Iskowitz"
-      ],
-      "date_created": "2026-05-19T14:07:03.223000+00:00",
-      "url": "https://app.clickup.com/t/869dc350m"
-    },
-    {
-      "task_id": "869dbptd8",
-      "name": "L14-C60-VX-Daniela",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Daniela Iskowitz"
-      ],
-      "date_created": "2026-05-18T23:24:21.385000+00:00",
-      "url": "https://app.clickup.com/t/869dbptd8"
-    },
-    {
       "task_id": "869dbmr2f",
       "name": "L14-C59-VX-D",
       "client": "SKIN+",
@@ -431,19 +391,6 @@
       "url": "https://app.clickup.com/t/869dbmjyv"
     },
     {
-      "task_id": "869db1mxg",
-      "name": "L14-C57-VX-A",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-17T17:17:45.226000+00:00",
-      "url": "https://app.clickup.com/t/869db1mxg"
-    },
-    {
       "task_id": "869db1j0h",
       "name": "L14-C56-VX-A",
       "client": "SKIN+",
@@ -455,19 +402,6 @@
       ],
       "date_created": "2026-05-17T16:57:46.384000+00:00",
       "url": "https://app.clickup.com/t/869db1j0h"
-    },
-    {
-      "task_id": "869db1fmh",
-      "name": "L14-C55-VX-A",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-17T16:40:18.892000+00:00",
-      "url": "https://app.clickup.com/t/869db1fmh"
     },
     {
       "task_id": "869db18me",
@@ -507,19 +441,6 @@
       ],
       "date_created": "2026-05-07T00:26:43.303000+00:00",
       "url": "https://app.clickup.com/t/869d6qzc6"
-    },
-    {
-      "task_id": "869d65qnm",
-      "name": "L47-C218-VX-SK-Mujer-R",
-      "client": "SKIN+",
-      "list": "Producción/ SKIN",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-05-05T22:58:54.692000+00:00",
-      "url": "https://app.clickup.com/t/869d65qnm"
     },
     {
       "task_id": "869d5hdt7",
@@ -1890,12 +1811,12 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 737,
+    "total_tasks_in_snapshot": 736,
     "total_completed": 8,
     "total_completed_with_dates": 8,
     "total_completed_with_done": 8,
-    "total_currently_assigned": 44,
+    "total_currently_assigned": 38,
     "total_transitions_logged": 118,
-    "total_editors": 11
+    "total_editors": 10
   }
 }
