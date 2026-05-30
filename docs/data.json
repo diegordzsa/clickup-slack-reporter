@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T08:53:27.430613+00:00",
-  "snapshot_timestamp": "2026-05-29T08:53:00.266821",
+  "generated_at": "2026-05-30T07:59:12.713696+00:00",
+  "snapshot_timestamp": "2026-05-30T07:58:56.391365",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -9,6 +9,7 @@
     "Florencia Ana Falchi",
     "Gonzalo Flores",
     "Gonzalo Millán",
+    "Lucas Magurno",
     "Mauricio Vallejo",
     "Michel Isla Gordillo",
     "Romina Vera Rincon"
@@ -49,6 +50,19 @@
       "date_done": "2026-05-27T09:23:55.282000+00:00",
       "lead_time_hours": 766.47,
       "url": "https://app.clickup.com/t/869d2133r"
+    },
+    {
+      "task_id": "869dg4udf",
+      "name": "Nueva Landing Hair España- HACERLA EN SHOPIFY",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-29T10:22:49.508000+00:00",
+      "date_done": "2026-05-30T02:31:37.795000+00:00",
+      "lead_time_hours": 16.15,
+      "url": "https://app.clickup.com/t/869dg4udf"
     },
     {
       "task_id": "869dbh3x5",
@@ -156,6 +170,58 @@
     }
   ],
   "currently_assigned": [
+    {
+      "task_id": "869dgbcx2",
+      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-29T18:35:11.683000+00:00",
+      "url": "https://app.clickup.com/t/869dgbcx2"
+    },
+    {
+      "task_id": "869dgbcnx",
+      "name": "L50-274-LADUCHA + STATUS-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-29T18:31:39.654000+00:00",
+      "url": "https://app.clickup.com/t/869dgbcnx"
+    },
+    {
+      "task_id": "869dgb9fy",
+      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-29T18:04:30.281000+00:00",
+      "url": "https://app.clickup.com/t/869dgb9fy"
+    },
+    {
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Lucas Magurno"
+      ],
+      "date_created": "2026-05-28T07:36:02.681000+00:00",
+      "url": "https://app.clickup.com/t/869dfggam"
+    },
     {
       "task_id": "869dfft18",
       "name": "L50-C270-VX-MAURO",
@@ -1927,15 +1993,25 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869d5p3jy"
+    },
+    {
+      "ts": "2026-05-30T07:59:12.610828+00:00",
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Lucas Magurno",
+      "url": "https://app.clickup.com/t/869dfggam"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 756,
-    "total_completed": 10,
-    "total_completed_with_dates": 10,
-    "total_completed_with_done": 10,
-    "total_currently_assigned": 29,
-    "total_transitions_logged": 139,
-    "total_editors": 10
+    "total_tasks_in_snapshot": 760,
+    "total_completed": 11,
+    "total_completed_with_dates": 11,
+    "total_completed_with_done": 11,
+    "total_currently_assigned": 33,
+    "total_transitions_logged": 140,
+    "total_editors": 11
   }
 }
