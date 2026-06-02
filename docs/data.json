@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T10:33:22.170817+00:00",
-  "snapshot_timestamp": "2026-06-01T10:32:57.406226",
+  "generated_at": "2026-06-02T09:19:39.973693+00:00",
+  "snapshot_timestamp": "2026-06-02T09:19:14.992291",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -19,12 +19,26 @@
     "SKIN+"
   ],
   "lists": [
+    "Calendario de Ofertas",
     "Diseño Gráfico",
     "Producción",
     "Producción/ SKIN",
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "869dfjacj",
+      "name": "L50-C272-VX-DAY",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-05-28T08:56:40.956000+00:00",
+      "date_done": "2026-06-02T05:08:01.417000+00:00",
+      "lead_time_hours": 116.19,
+      "url": "https://app.clickup.com/t/869dfjacj"
+    },
     {
       "task_id": "869debc6m",
       "name": "L50-C155-ITER 2-VX-G",
@@ -143,6 +157,19 @@
       "url": "https://app.clickup.com/t/869cjd31j"
     },
     {
+      "task_id": "869df3q8u",
+      "name": "Oferta DÍA MUNDIAL DEL MEDIO AMBIENTE",
+      "client": "HAIR BIOLABS",
+      "list": "Calendario de Ofertas",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-27T09:27:30.288000+00:00",
+      "date_done": "2026-06-02T00:23:55.702000+00:00",
+      "lead_time_hours": 134.94,
+      "url": "https://app.clickup.com/t/869df3q8u"
+    },
+    {
       "task_id": "869d6u0fg",
       "name": "10 razones WHY para Microneedling",
       "client": "SKIN+",
@@ -170,6 +197,71 @@
     }
   ],
   "currently_assigned": [
+    {
+      "task_id": "869dhd9wg",
+      "name": "L50-C278 Péptidos-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Lucas Magurno"
+      ],
+      "date_created": "2026-06-02T08:58:34.167000+00:00",
+      "url": "https://app.clickup.com/t/869dhd9wg"
+    },
+    {
+      "task_id": "869dhd87c",
+      "name": "L50-C226 ITER 1-VX-M",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Mauricio Vallejo"
+      ],
+      "date_created": "2026-06-02T08:56:36.404000+00:00",
+      "url": "https://app.clickup.com/t/869dhd87c"
+    },
+    {
+      "task_id": "869dhd7pk",
+      "name": "L50-C276 Péptidos tiktok-VX-M",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Mauricio Vallejo"
+      ],
+      "date_created": "2026-06-02T08:55:57.817000+00:00",
+      "url": "https://app.clickup.com/t/869dhd7pk"
+    },
+    {
+      "task_id": "869dhd65k",
+      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-06-02T08:54:06.907000+00:00",
+      "url": "https://app.clickup.com/t/869dhd65k"
+    },
+    {
+      "task_id": "869dhd4e1",
+      "name": "L50-C275 Fábrica - VX-DAY",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-06-02T08:51:39.488000+00:00",
+      "url": "https://app.clickup.com/t/869dhd4e1"
+    },
     {
       "task_id": "869dgbcx2",
       "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
@@ -201,8 +293,8 @@
       "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -210,17 +302,43 @@
       "url": "https://app.clickup.com/t/869dgb9fy"
     },
     {
-      "task_id": "869dfggam",
-      "name": "L50-C271-VX-L",
+      "task_id": "869dfuuvz",
+      "name": "OFERTA DÍA MUNDIAL MEDIO AMBIENTE",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-28T15:40:43.485000+00:00",
+      "url": "https://app.clickup.com/t/869dfuuvz"
+    },
+    {
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
         "Lucas Magurno"
       ],
       "date_created": "2026-05-28T07:36:02.681000+00:00",
       "url": "https://app.clickup.com/t/869dfggam"
+    },
+    {
+      "task_id": "869dfg6wn",
+      "name": "L50-C179-ITER 2-VX-ROMI",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-05-28T07:15:16.091000+00:00",
+      "url": "https://app.clickup.com/t/869dfg6wn"
     },
     {
       "task_id": "869dfft18",
@@ -288,17 +406,17 @@
       "url": "https://app.clickup.com/t/869df3ep4"
     },
     {
-      "task_id": "869dejgvp",
-      "name": "L50-C141-ITER 5-VX-G",
+      "task_id": "869dejg4t",
+      "name": "L50-ENR-C268-VX-R",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
-        "Gonzalo Flores"
+        "Romina Vera Rincon"
       ],
-      "date_created": "2026-05-26T08:29:10.932000+00:00",
-      "url": "https://app.clickup.com/t/869dejgvp"
+      "date_created": "2026-05-26T08:28:14.459000+00:00",
+      "url": "https://app.clickup.com/t/869dejg4t"
     },
     {
       "task_id": "869debyc2",
@@ -314,19 +432,6 @@
       "url": "https://app.clickup.com/t/869debyc2"
     },
     {
-      "task_id": "869debcgx",
-      "name": "L50-C162-ITER 2-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-05-25T14:39:55.846000+00:00",
-      "url": "https://app.clickup.com/t/869debcgx"
-    },
-    {
       "task_id": "869ddpq1n",
       "name": "L50-C20-ITER 3-VX-M",
       "client": "HAIR BIOLABS",
@@ -338,45 +443,6 @@
       ],
       "date_created": "2026-05-22T15:39:41.062000+00:00",
       "url": "https://app.clickup.com/t/869ddpq1n"
-    },
-    {
-      "task_id": "869dckwt9",
-      "name": "L49-C264-VX-Mauricio",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-05-20T13:01:10.646000+00:00",
-      "url": "https://app.clickup.com/t/869dckwt9"
-    },
-    {
-      "task_id": "869dbwg1n",
-      "name": "L49-261-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-05-19T09:29:24.342000+00:00",
-      "url": "https://app.clickup.com/t/869dbwg1n"
-    },
-    {
-      "task_id": "869dbv1zm",
-      "name": "L46-C203-ITER 1-VX-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-05-19T08:41:26.134000+00:00",
-      "url": "https://app.clickup.com/t/869dbv1zm"
     },
     {
       "task_id": "869dbmfwr",
@@ -405,19 +471,6 @@
       "url": "https://app.clickup.com/t/869db1pw7"
     },
     {
-      "task_id": "869d9uvqf",
-      "name": "L45-ITER-C193-VX-R",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-05-13T19:46:44.638000+00:00",
-      "url": "https://app.clickup.com/t/869d9uvqf"
-    },
-    {
       "task_id": "869d9p1rm",
       "name": "L45-ITER-C192-V3_Mauricio",
       "client": "HAIR BIOLABS",
@@ -442,6 +495,19 @@
       ],
       "date_created": "2026-05-06T09:48:08.684000+00:00",
       "url": "https://app.clickup.com/t/869d6bzfy"
+    },
+    {
+      "task_id": "869d5h1w9",
+      "name": "Test Nuevos Conceptos Oferta Mujer ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-05-04T16:57:28.498000+00:00",
+      "url": "https://app.clickup.com/t/869d5h1w9"
     },
     {
       "task_id": "869d6n92h",
@@ -2003,15 +2069,95 @@
       "category": "aprobado",
       "assignee": "Lucas Magurno",
       "url": "https://app.clickup.com/t/869dfggam"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dgb9fy",
+      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869dgb9fy"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Lucas Magurno",
+      "url": "https://app.clickup.com/t/869dfggam"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dfuuvz",
+      "name": "OFERTA DÍA MUNDIAL MEDIO AMBIENTE",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869dfuuvz"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dfg6wn",
+      "name": "L50-C179-ITER 2-VX-ROMI",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869dfg6wn"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dejg4t",
+      "name": "L50-ENR-C268-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869dejg4t"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869d5h1w9",
+      "name": "Test Nuevos Conceptos Oferta Mujer ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869d5h1w9"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869dfjacj",
+      "name": "L50-C272-VX-DAY",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869dfjacj"
+    },
+    {
+      "ts": "2026-06-02T09:19:39.875958+00:00",
+      "task_id": "869df3q8u",
+      "name": "Oferta DÍA MUNDIAL DEL MEDIO AMBIENTE",
+      "client": "HAIR BIOLABS",
+      "list": "Calendario de Ofertas",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869df3q8u"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 760,
-    "total_completed": 11,
-    "total_completed_with_dates": 11,
-    "total_completed_with_done": 11,
-    "total_currently_assigned": 33,
-    "total_transitions_logged": 140,
+    "total_tasks_in_snapshot": 767,
+    "total_completed": 13,
+    "total_completed_with_dates": 13,
+    "total_completed_with_done": 13,
+    "total_currently_assigned": 36,
+    "total_transitions_logged": 148,
     "total_editors": 11
   }
 }
