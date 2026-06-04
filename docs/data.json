@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T10:09:43.237354+00:00",
-  "snapshot_timestamp": "2026-06-03T10:09:20.661411",
+  "generated_at": "2026-06-04T09:03:47.466080+00:00",
+  "snapshot_timestamp": "2026-06-04T09:03:25.782931",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -27,43 +27,17 @@
   ],
   "completed_tasks": [
     {
-      "task_id": "869dfjacj",
-      "name": "L50-C272-VX-DAY",
+      "task_id": "869dhg9em",
+      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-MAURICIO",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "assignees": [
-        "Dayana Caicedo"
+        "Mauricio Vallejo"
       ],
-      "date_created": "2026-05-28T08:56:40.956000+00:00",
-      "date_done": "2026-06-02T05:08:01.417000+00:00",
-      "lead_time_hours": 116.19,
-      "url": "https://app.clickup.com/t/869dfjacj"
-    },
-    {
-      "task_id": "869dfggam",
-      "name": "L50-C271-VX-L",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "assignees": [
-        "Lucas Magurno"
-      ],
-      "date_created": "2026-05-28T07:36:02.681000+00:00",
-      "date_done": "2026-06-02T12:01:50.148000+00:00",
-      "lead_time_hours": 124.43,
-      "url": "https://app.clickup.com/t/869dfggam"
-    },
-    {
-      "task_id": "869debc6m",
-      "name": "L50-C155-ITER 2-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-05-25T14:39:10.216000+00:00",
-      "date_done": "2026-05-28T17:59:19.388000+00:00",
-      "lead_time_hours": 75.34,
-      "url": "https://app.clickup.com/t/869debc6m"
+      "date_created": "2026-06-02T11:08:13.580000+00:00",
+      "date_done": "2026-06-04T07:07:04.277000+00:00",
+      "lead_time_hours": 43.98,
+      "url": "https://app.clickup.com/t/869dhg9em"
     },
     {
       "task_id": "869dg4udf",
@@ -211,25 +185,12 @@
       "url": "https://app.clickup.com/t/869dhgaub"
     },
     {
-      "task_id": "869dhg9em",
-      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-MAURICIO",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-02T11:08:13.580000+00:00",
-      "url": "https://app.clickup.com/t/869dhg9em"
-    },
-    {
       "task_id": "869dhg811",
       "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Mauricio Vallejo"
       ],
@@ -241,8 +202,8 @@
       "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-LUCAS",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Lucas Magurno"
       ],
@@ -254,8 +215,8 @@
       "name": "L50-C278 Péptidos-VX-L",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Lucas Magurno"
       ],
@@ -289,25 +250,12 @@
       "url": "https://app.clickup.com/t/869dhd7pk"
     },
     {
-      "task_id": "869dhd4e1",
-      "name": "L50-C275 Fábrica - VX-DAY",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-06-02T08:51:39.488000+00:00",
-      "url": "https://app.clickup.com/t/869dhd4e1"
-    },
-    {
       "task_id": "869dgbcx2",
       "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -328,17 +276,30 @@
       "url": "https://app.clickup.com/t/869dgbcnx"
     },
     {
-      "task_id": "869dgb9fy",
-      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
+      "task_id": "869dfjacj",
+      "name": "L50-C272-VX-DAY",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
-        "Gonzalo Flores"
+        "Dayana Caicedo"
       ],
-      "date_created": "2026-05-29T18:04:30.281000+00:00",
-      "url": "https://app.clickup.com/t/869dgb9fy"
+      "date_created": "2026-05-28T08:56:40.956000+00:00",
+      "url": "https://app.clickup.com/t/869dfjacj"
+    },
+    {
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Lucas Magurno"
+      ],
+      "date_created": "2026-05-28T07:36:02.681000+00:00",
+      "url": "https://app.clickup.com/t/869dfggam"
     },
     {
       "task_id": "869dfft18",
@@ -406,43 +367,17 @@
       "url": "https://app.clickup.com/t/869df3ep4"
     },
     {
-      "task_id": "869dejg4t",
-      "name": "L50-ENR-C268-VX-R",
+      "task_id": "869debc6m",
+      "name": "L50-C155-ITER 2-VX-G",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
-        "Romina Vera Rincon"
+        "Dayana Caicedo"
       ],
-      "date_created": "2026-05-26T08:28:14.459000+00:00",
-      "url": "https://app.clickup.com/t/869dejg4t"
-    },
-    {
-      "task_id": "869dbmfwr",
-      "name": "L49-C257-VX-Mauricio",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-05-18T18:56:47.404000+00:00",
-      "url": "https://app.clickup.com/t/869dbmfwr"
-    },
-    {
-      "task_id": "869db1pw7",
-      "name": "L49-C254-VX-R",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-05-17T17:32:33.652000+00:00",
-      "url": "https://app.clickup.com/t/869db1pw7"
+      "date_created": "2026-05-25T14:39:10.216000+00:00",
+      "url": "https://app.clickup.com/t/869debc6m"
     },
     {
       "task_id": "869d9p1rm",
@@ -456,19 +391,6 @@
       ],
       "date_created": "2026-05-13T14:31:02.290000+00:00",
       "url": "https://app.clickup.com/t/869d9p1rm"
-    },
-    {
-      "task_id": "869d6bzfy",
-      "name": "L47-C207-VX-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-06T09:48:08.684000+00:00",
-      "url": "https://app.clickup.com/t/869d6bzfy"
     },
     {
       "task_id": "869d2133r",
@@ -2193,15 +2115,95 @@
       "category": "completado",
       "assignee": "Lucas Magurno",
       "url": "https://app.clickup.com/t/869dfggam"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dhg811",
+      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Mauricio Vallejo",
+      "url": "https://app.clickup.com/t/869dhg811"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dhg57e",
+      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-LUCAS",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Lucas Magurno",
+      "url": "https://app.clickup.com/t/869dhg57e"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dgbcx2",
+      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869dgbcx2"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dhd9wg",
+      "name": "L50-C278 Péptidos-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Lucas Magurno",
+      "url": "https://app.clickup.com/t/869dhd9wg"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dfjacj",
+      "name": "L50-C272-VX-DAY",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869dfjacj"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dfggam",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Lucas Magurno",
+      "url": "https://app.clickup.com/t/869dfggam"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869debc6m",
+      "name": "L50-C155-ITER 2-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869debc6m"
+    },
+    {
+      "ts": "2026-06-04T09:03:47.368286+00:00",
+      "task_id": "869dhg9em",
+      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-MAURICIO",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Mauricio Vallejo",
+      "url": "https://app.clickup.com/t/869dhg9em"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 772,
-    "total_completed": 13,
-    "total_completed_with_dates": 13,
-    "total_completed_with_done": 13,
-    "total_currently_assigned": 34,
-    "total_transitions_logged": 155,
+    "total_tasks_in_snapshot": 773,
+    "total_completed": 11,
+    "total_completed_with_dates": 11,
+    "total_completed_with_done": 11,
+    "total_currently_assigned": 30,
+    "total_transitions_logged": 163,
     "total_editors": 11
   }
 }
