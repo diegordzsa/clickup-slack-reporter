@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T09:03:47.466080+00:00",
-  "snapshot_timestamp": "2026-06-04T09:03:25.782931",
+  "generated_at": "2026-06-05T08:53:40.647449+00:00",
+  "snapshot_timestamp": "2026-06-05T08:53:16.956966",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -26,19 +26,6 @@
     "Tareas"
   ],
   "completed_tasks": [
-    {
-      "task_id": "869dhg9em",
-      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-MAURICIO",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-02T11:08:13.580000+00:00",
-      "date_done": "2026-06-04T07:07:04.277000+00:00",
-      "lead_time_hours": 43.98,
-      "url": "https://app.clickup.com/t/869dhg9em"
-    },
     {
       "task_id": "869dg4udf",
       "name": "Nueva Landing Hair España- HACERLA EN SHOPIFY",
@@ -172,32 +159,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869dhgaub",
-      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-ROMINA",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-06-02T11:09:46.670000+00:00",
-      "url": "https://app.clickup.com/t/869dhgaub"
-    },
-    {
-      "task_id": "869dhg811",
-      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-02T11:05:41.925000+00:00",
-      "url": "https://app.clickup.com/t/869dhg811"
-    },
-    {
       "task_id": "869dhg57e",
       "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-LUCAS",
       "client": "HAIR BIOLABS",
@@ -250,17 +211,17 @@
       "url": "https://app.clickup.com/t/869dhd7pk"
     },
     {
-      "task_id": "869dgbcx2",
-      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
+      "task_id": "869dhd65k",
+      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
-        "Gonzalo Flores"
+        "Romina Vera Rincon"
       ],
-      "date_created": "2026-05-29T18:35:11.683000+00:00",
-      "url": "https://app.clickup.com/t/869dgbcx2"
+      "date_created": "2026-06-02T08:54:06.907000+00:00",
+      "url": "https://app.clickup.com/t/869dhd65k"
     },
     {
       "task_id": "869dgbcnx",
@@ -2195,15 +2156,25 @@
       "category": "completado",
       "assignee": "Mauricio Vallejo",
       "url": "https://app.clickup.com/t/869dhg9em"
+    },
+    {
+      "ts": "2026-06-05T08:53:40.554327+00:00",
+      "task_id": "869dhd65k",
+      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Romina Vera Rincon",
+      "url": "https://app.clickup.com/t/869dhd65k"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 773,
-    "total_completed": 11,
-    "total_completed_with_dates": 11,
-    "total_completed_with_done": 11,
-    "total_currently_assigned": 30,
-    "total_transitions_logged": 163,
+    "total_completed": 10,
+    "total_completed_with_dates": 10,
+    "total_completed_with_done": 10,
+    "total_currently_assigned": 28,
+    "total_transitions_logged": 164,
     "total_editors": 11
   }
 }

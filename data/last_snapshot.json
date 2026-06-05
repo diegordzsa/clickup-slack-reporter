@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T09:03:25.782931",
+  "timestamp": "2026-06-05T08:53:16.956966",
   "tasks": {
     "869dhrqm1": {
       "name": "OMA-C1-H-VX",
@@ -36,35 +36,35 @@
     },
     "869dhgaub": {
       "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-ROMINA",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhgaub",
       "date_created": "2026-06-02T11:09:46.670000+00:00",
-      "date_updated": "2026-06-02T21:24:52.085000+00:00",
+      "date_updated": "2026-06-04T18:50:16.520000+00:00",
       "date_done": null
     },
     "869dhg9em": {
       "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-MAURICIO",
-      "status": "final",
+      "status": "testado",
       "assignee": "Mauricio Vallejo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhg9em",
       "date_created": "2026-06-02T11:08:13.580000+00:00",
-      "date_updated": "2026-06-04T07:07:04.277000+00:00",
-      "date_done": null
+      "date_updated": "2026-06-04T09:22:21.002000+00:00",
+      "date_done": "2026-06-04T09:22:19.470000+00:00"
     },
     "869dhg811": {
       "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Mauricio Vallejo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhg811",
       "date_created": "2026-06-02T11:05:41.925000+00:00",
-      "date_updated": "2026-06-04T06:58:28.559000+00:00",
+      "date_updated": "2026-06-05T03:26:14.760000+00:00",
       "date_done": null
     },
     "869dhg57e": {
@@ -113,14 +113,14 @@
     },
     "869dhd65k": {
       "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhd65k",
       "date_created": "2026-06-02T08:54:06.907000+00:00",
-      "date_updated": "2026-06-03T18:21:35.391000+00:00",
-      "date_done": null
+      "date_updated": "2026-06-04T09:25:27.970000+00:00",
+      "date_done": "2026-06-04T09:25:17.718000+00:00"
     },
     "869dhd4e1": {
       "name": "L50-C275 Fábrica - VX-DAY",
@@ -157,13 +157,13 @@
     },
     "869dgbcx2": {
       "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dgbcx2",
       "date_created": "2026-05-29T18:35:11.683000+00:00",
-      "date_updated": "2026-06-04T02:38:03.814000+00:00",
+      "date_updated": "2026-06-05T00:37:40.637000+00:00",
       "date_done": null
     },
     "869dgbcnx": {
@@ -174,7 +174,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dgbcnx",
       "date_created": "2026-05-29T18:31:39.654000+00:00",
-      "date_updated": "2026-06-03T02:41:38.963000+00:00",
+      "date_updated": "2026-06-05T00:40:49.966000+00:00",
       "date_done": null
     },
     "869dgb9fy": {
@@ -5680,12 +5680,12 @@
     "869dj176g": {
       "name": "LISTICLE PRODUCT AWARE",
       "status": "to do",
-      "assignee": "SIN ASIGNAR",
+      "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dj176g",
       "date_created": "2026-06-03T10:34:21.170000+00:00",
-      "date_updated": "2026-06-03T10:35:12.626000+00:00",
+      "date_updated": "2026-06-04T09:12:58.601000+00:00",
       "date_done": null
     },
     "869dg4udf": {
@@ -5729,7 +5729,7 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869d6n92h",
       "date_created": "2026-05-06T16:53:38.247000+00:00",
-      "date_updated": "2026-06-01T09:36:18.586000+00:00",
+      "date_updated": "2026-06-04T09:13:12.510000+00:00",
       "date_done": null
     },
     "869d5p3jy": {
@@ -5795,7 +5795,7 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869cnc4fj",
       "date_created": "2026-03-26T19:25:33.528000+00:00",
-      "date_updated": "2026-04-15T15:15:11.092000+00:00",
+      "date_updated": "2026-06-04T09:13:06.811000+00:00",
       "date_done": null
     },
     "869cnc4df": {
