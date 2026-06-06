@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T08:53:16.956966",
+  "timestamp": "2026-06-06T08:03:26.297711",
   "tasks": {
     "869dhrqm1": {
       "name": "OMA-C1-H-VX",
@@ -5679,13 +5679,13 @@
     },
     "869dj176g": {
       "name": "LISTICLE PRODUCT AWARE",
-      "status": "to do",
+      "status": "en progreso",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dj176g",
       "date_created": "2026-06-03T10:34:21.170000+00:00",
-      "date_updated": "2026-06-04T09:12:58.601000+00:00",
+      "date_updated": "2026-06-05T23:15:45.556000+00:00",
       "date_done": null
     },
     "869dg4udf": {

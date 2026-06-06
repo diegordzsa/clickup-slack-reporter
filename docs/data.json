@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T08:53:40.647449+00:00",
-  "snapshot_timestamp": "2026-06-05T08:53:16.956966",
+  "generated_at": "2026-06-06T08:03:45.804966+00:00",
+  "snapshot_timestamp": "2026-06-06T08:03:26.297711",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -365,6 +365,19 @@
       ],
       "date_created": "2026-04-25T10:55:58.286000+00:00",
       "url": "https://app.clickup.com/t/869d2133r"
+    },
+    {
+      "task_id": "869dj176g",
+      "name": "LISTICLE PRODUCT AWARE",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "status": "en progreso",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-06-03T10:34:21.170000+00:00",
+      "url": "https://app.clickup.com/t/869dj176g"
     },
     {
       "task_id": "869d6n92h",
@@ -2166,6 +2179,16 @@
       "category": "aprobado",
       "assignee": "Romina Vera Rincon",
       "url": "https://app.clickup.com/t/869dhd65k"
+    },
+    {
+      "ts": "2026-06-06T08:03:45.715249+00:00",
+      "task_id": "869dj176g",
+      "name": "LISTICLE PRODUCT AWARE",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869dj176g"
     }
   ],
   "stats": {
@@ -2173,8 +2196,8 @@
     "total_completed": 10,
     "total_completed_with_dates": 10,
     "total_completed_with_done": 10,
-    "total_currently_assigned": 28,
-    "total_transitions_logged": 164,
+    "total_currently_assigned": 29,
+    "total_transitions_logged": 165,
     "total_editors": 11
   }
 }
