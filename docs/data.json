@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T08:31:19.539527+00:00",
-  "snapshot_timestamp": "2026-06-07T08:30:43.941496",
+  "generated_at": "2026-06-08T09:58:38.487143+00:00",
+  "snapshot_timestamp": "2026-06-08T09:57:19.080976",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -21,102 +21,12 @@
   "lists": [
     "Calendario de Ofertas",
     "Diseño Gráfico",
+    "Grow Fast Concepts",
     "Producción",
     "Producción/ SKIN",
     "Tareas"
   ],
   "completed_tasks": [
-    {
-      "task_id": "869dg4udf",
-      "name": "Nueva Landing Hair España- HACERLA EN SHOPIFY",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-29T10:22:49.508000+00:00",
-      "date_done": "2026-05-30T02:31:37.795000+00:00",
-      "lead_time_hours": 16.15,
-      "url": "https://app.clickup.com/t/869dg4udf"
-    },
-    {
-      "task_id": "869dbh3x5",
-      "name": "Nueva imagen PDP",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-18T14:52:22.806000+00:00",
-      "date_done": "2026-05-19T03:34:39.828000+00:00",
-      "lead_time_hours": 12.7,
-      "url": "https://app.clickup.com/t/869dbh3x5"
-    },
-    {
-      "task_id": "869d8nm90",
-      "name": "Oferta Dia de la familia",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-11T23:13:05.791000+00:00",
-      "date_done": "2026-05-13T00:31:52.107000+00:00",
-      "lead_time_hours": 25.31,
-      "url": "https://app.clickup.com/t/869d8nm90"
-    },
-    {
-      "task_id": "869d5p3jy",
-      "name": "Hacer Home en shopify",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-05-05T06:58:27.288000+00:00",
-      "date_done": "2026-05-28T13:44:25.617000+00:00",
-      "lead_time_hours": 558.77,
-      "url": "https://app.clickup.com/t/869d5p3jy"
-    },
-    {
-      "task_id": "869d2r7by",
-      "name": "Nueva imagen PDP",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-04-27T17:59:45.747000+00:00",
-      "date_done": "2026-05-06T20:49:49.960000+00:00",
-      "lead_time_hours": 218.83,
-      "url": "https://app.clickup.com/t/869d2r7by"
-    },
-    {
-      "task_id": "869d2gu37",
-      "name": "Dermaroller",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-04-27T10:47:04.188000+00:00",
-      "date_done": "2026-05-25T13:38:06.678000+00:00",
-      "lead_time_hours": 674.85,
-      "url": "https://app.clickup.com/t/869d2gu37"
-    },
-    {
-      "task_id": "869cjd31j",
-      "name": "Banners e imágenes primavera capilar",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-03-19T15:21:40.170000+00:00",
-      "date_done": "2026-05-06T04:11:37.410000+00:00",
-      "lead_time_hours": 1140.83,
-      "url": "https://app.clickup.com/t/869cjd31j"
-    },
     {
       "task_id": "869df3q8u",
       "name": "Oferta DÍA MUNDIAL DEL MEDIO AMBIENTE",
@@ -158,6 +68,32 @@
     }
   ],
   "currently_assigned": [
+    {
+      "task_id": "869dkbbg3",
+      "name": "L52-C282-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-06-07T10:32:41.009000+00:00",
+      "url": "https://app.clickup.com/t/869dkbbg3"
+    },
+    {
+      "task_id": "869dkbbef",
+      "name": "L52-C281-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-06-07T10:32:27.395000+00:00",
+      "url": "https://app.clickup.com/t/869dkbbef"
+    },
     {
       "task_id": "869dk8z08",
       "name": "L51-C261 Podcast Menopausia ITER 1-VX-G",
@@ -432,19 +368,6 @@
       "url": "https://app.clickup.com/t/869d9p1rm"
     },
     {
-      "task_id": "869d2133r",
-      "name": "L46-C201-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Djo Rguiaa"
-      ],
-      "date_created": "2026-04-25T10:55:58.286000+00:00",
-      "url": "https://app.clickup.com/t/869d2133r"
-    },
-    {
       "task_id": "869dj176g",
       "name": "LISTICLE PRODUCT AWARE",
       "client": "HAIR BIOLABS",
@@ -482,6 +405,136 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869dkjxeh",
+      "name": "L50-C272-VX-DAY",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-06-08T08:30:34.245000+00:00",
+      "url": "https://app.clickup.com/t/869dkjxeh"
+    },
+    {
+      "task_id": "869dkjvbw",
+      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-06-08T08:29:02.467000+00:00",
+      "url": "https://app.clickup.com/t/869dkjvbw"
+    },
+    {
+      "task_id": "869dkjv7p",
+      "name": "L45-ITER-C192-V3_Mauricio",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Mauricio Vallejo"
+      ],
+      "date_created": "2026-06-08T08:28:56.490000+00:00",
+      "url": "https://app.clickup.com/t/869dkjv7p"
+    },
+    {
+      "task_id": "869dkjup5",
+      "name": "L50-C271-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Lucas Magurno"
+      ],
+      "date_created": "2026-06-08T08:28:31.306000+00:00",
+      "url": "https://app.clickup.com/t/869dkjup5"
+    },
+    {
+      "task_id": "869dkjuje",
+      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-06-08T08:28:24.098000+00:00",
+      "url": "https://app.clickup.com/t/869dkjuje"
+    },
+    {
+      "task_id": "869dkjug3",
+      "name": "L50-C155-ITER 2-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-06-08T08:28:19.637000+00:00",
+      "url": "https://app.clickup.com/t/869dkjug3"
+    },
+    {
+      "task_id": "869dkju9r",
+      "name": "L50-C278 Péptidos-VX-L",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Lucas Magurno"
+      ],
+      "date_created": "2026-06-08T08:28:08.699000+00:00",
+      "url": "https://app.clickup.com/t/869dkju9r"
+    },
+    {
+      "task_id": "869dkju9p",
+      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-ROMINA",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-06-08T08:28:08.492000+00:00",
+      "url": "https://app.clickup.com/t/869dkju9p"
+    },
+    {
+      "task_id": "869dkju94",
+      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Mauricio Vallejo"
+      ],
+      "date_created": "2026-06-08T08:28:08.196000+00:00",
+      "url": "https://app.clickup.com/t/869dkju94"
+    },
+    {
+      "task_id": "869dkju8a",
+      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
+      "client": "HAIR BIOLABS",
+      "list": "Grow Fast Concepts",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Romina Vera Rincon"
+      ],
+      "date_created": "2026-06-08T08:28:07.158000+00:00",
+      "url": "https://app.clickup.com/t/869dkju8a"
     },
     {
       "task_id": "869dcrmm6",
@@ -2090,11 +2143,11 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 775,
-    "total_completed": 10,
-    "total_completed_with_dates": 10,
-    "total_completed_with_done": 10,
-    "total_currently_assigned": 35,
+    "total_tasks_in_snapshot": 1282,
+    "total_completed": 3,
+    "total_completed_with_dates": 3,
+    "total_completed_with_done": 3,
+    "total_currently_assigned": 46,
     "total_transitions_logged": 147,
     "total_editors": 11
   }
