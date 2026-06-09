@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T09:58:38.487143+00:00",
-  "snapshot_timestamp": "2026-06-08T09:57:19.080976",
+  "generated_at": "2026-06-09T08:42:56.356366+00:00",
+  "snapshot_timestamp": "2026-06-09T08:42:22.999366",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -21,7 +21,6 @@
   "lists": [
     "Calendario de Ofertas",
     "Diseño Gráfico",
-    "Grow Fast Concepts",
     "Producción",
     "Producción/ SKIN",
     "Tareas"
@@ -82,32 +81,6 @@
       "url": "https://app.clickup.com/t/869dkbbg3"
     },
     {
-      "task_id": "869dkbbef",
-      "name": "L52-C281-VX-R",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-06-07T10:32:27.395000+00:00",
-      "url": "https://app.clickup.com/t/869dkbbef"
-    },
-    {
-      "task_id": "869dk8z08",
-      "name": "L51-C261 Podcast Menopausia ITER 1-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-06T17:03:18.480000+00:00",
-      "url": "https://app.clickup.com/t/869dk8z08"
-    },
-    {
       "task_id": "869dk7h1q",
       "name": "L52-C184 Péptidos-ITER 2-VX-D",
       "client": "HAIR BIOLABS",
@@ -132,19 +105,6 @@
       ],
       "date_created": "2026-06-02T11:09:46.670000+00:00",
       "url": "https://app.clickup.com/t/869dhgaub"
-    },
-    {
-      "task_id": "869dhg811",
-      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-02T11:05:41.925000+00:00",
-      "url": "https://app.clickup.com/t/869dhg811"
     },
     {
       "task_id": "869dhg57e",
@@ -199,32 +159,6 @@
       "url": "https://app.clickup.com/t/869dhd7pk"
     },
     {
-      "task_id": "869dhd65k",
-      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-06-02T08:54:06.907000+00:00",
-      "url": "https://app.clickup.com/t/869dhd65k"
-    },
-    {
-      "task_id": "869dgbcx2",
-      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-05-29T18:35:11.683000+00:00",
-      "url": "https://app.clickup.com/t/869dgbcx2"
-    },
-    {
       "task_id": "869dgbcnx",
       "name": "L50-274-LADUCHA + STATUS-VX-GONZ",
       "client": "HAIR BIOLABS",
@@ -238,45 +172,6 @@
       "url": "https://app.clickup.com/t/869dgbcnx"
     },
     {
-      "task_id": "869dgb9fy",
-      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-05-29T18:04:30.281000+00:00",
-      "url": "https://app.clickup.com/t/869dgb9fy"
-    },
-    {
-      "task_id": "869dfjacj",
-      "name": "L50-C272-VX-DAY",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-05-28T08:56:40.956000+00:00",
-      "url": "https://app.clickup.com/t/869dfjacj"
-    },
-    {
-      "task_id": "869dfggam",
-      "name": "L50-C271-VX-L",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Lucas Magurno"
-      ],
-      "date_created": "2026-05-28T07:36:02.681000+00:00",
-      "url": "https://app.clickup.com/t/869dfggam"
-    },
-    {
       "task_id": "869dfft18",
       "name": "L50-C270-VX-MAURO",
       "client": "HAIR BIOLABS",
@@ -288,6 +183,19 @@
       ],
       "date_created": "2026-05-28T06:33:49.711000+00:00",
       "url": "https://app.clickup.com/t/869dfft18"
+    },
+    {
+      "task_id": "869dffhcr",
+      "name": "L50-C141-ITER 6-VX-GON",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-05-28T06:02:34.478000+00:00",
+      "url": "https://app.clickup.com/t/869dffhcr"
     },
     {
       "task_id": "869df8rwe",
@@ -342,19 +250,6 @@
       "url": "https://app.clickup.com/t/869df3ep4"
     },
     {
-      "task_id": "869debc6m",
-      "name": "L50-C155-ITER 2-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-05-25T14:39:10.216000+00:00",
-      "url": "https://app.clickup.com/t/869debc6m"
-    },
-    {
       "task_id": "869d9p1rm",
       "name": "L45-ITER-C192-V3_Mauricio",
       "client": "HAIR BIOLABS",
@@ -405,136 +300,6 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
-    },
-    {
-      "task_id": "869dkjxeh",
-      "name": "L50-C272-VX-DAY",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-06-08T08:30:34.245000+00:00",
-      "url": "https://app.clickup.com/t/869dkjxeh"
-    },
-    {
-      "task_id": "869dkjvbw",
-      "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-08T08:29:02.467000+00:00",
-      "url": "https://app.clickup.com/t/869dkjvbw"
-    },
-    {
-      "task_id": "869dkjv7p",
-      "name": "L45-ITER-C192-V3_Mauricio",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-08T08:28:56.490000+00:00",
-      "url": "https://app.clickup.com/t/869dkjv7p"
-    },
-    {
-      "task_id": "869dkjup5",
-      "name": "L50-C271-VX-L",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Lucas Magurno"
-      ],
-      "date_created": "2026-06-08T08:28:31.306000+00:00",
-      "url": "https://app.clickup.com/t/869dkjup5"
-    },
-    {
-      "task_id": "869dkjuje",
-      "name": "L50-274-IT-LADUCHA + AGITACION/STATUS-VX-GONZ",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-08T08:28:24.098000+00:00",
-      "url": "https://app.clickup.com/t/869dkjuje"
-    },
-    {
-      "task_id": "869dkjug3",
-      "name": "L50-C155-ITER 2-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-06-08T08:28:19.637000+00:00",
-      "url": "https://app.clickup.com/t/869dkjug3"
-    },
-    {
-      "task_id": "869dkju9r",
-      "name": "L50-C278 Péptidos-VX-L",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Lucas Magurno"
-      ],
-      "date_created": "2026-06-08T08:28:08.699000+00:00",
-      "url": "https://app.clickup.com/t/869dkju9r"
-    },
-    {
-      "task_id": "869dkju9p",
-      "name": "L50-280-NOSVSELLOS-BOF-PROD*AWARE-ROMINA",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-06-08T08:28:08.492000+00:00",
-      "url": "https://app.clickup.com/t/869dkju9p"
-    },
-    {
-      "task_id": "869dkju94",
-      "name": "L50-279-5 RAZONES-MOF-SOL*AWARE-MAURICIO",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Mauricio Vallejo"
-      ],
-      "date_created": "2026-06-08T08:28:08.196000+00:00",
-      "url": "https://app.clickup.com/t/869dkju94"
-    },
-    {
-      "task_id": "869dkju8a",
-      "name": "L51-C184 Péptidos Doctora ITER 1-VX-R",
-      "client": "HAIR BIOLABS",
-      "list": "Grow Fast Concepts",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Romina Vera Rincon"
-      ],
-      "date_created": "2026-06-08T08:28:07.158000+00:00",
-      "url": "https://app.clickup.com/t/869dkju8a"
     },
     {
       "task_id": "869dcrmm6",
@@ -2140,15 +1905,25 @@
       "category": "aprobado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869dgb9fy"
+    },
+    {
+      "ts": "2026-06-09T08:42:56.255350+00:00",
+      "task_id": "869dffhcr",
+      "name": "L50-C141-ITER 6-VX-GON",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869dffhcr"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1282,
+    "total_tasks_in_snapshot": 777,
     "total_completed": 3,
     "total_completed_with_dates": 3,
     "total_completed_with_done": 3,
-    "total_currently_assigned": 46,
-    "total_transitions_logged": 147,
+    "total_currently_assigned": 28,
+    "total_transitions_logged": 148,
     "total_editors": 11
   }
 }
