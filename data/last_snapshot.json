@@ -1,6 +1,17 @@
 {
-  "timestamp": "2026-06-10T09:01:44.538898",
+  "timestamp": "2026-06-11T09:46:09.859144",
   "tasks": {
+    "869dmpzd4": {
+      "name": "L52-C289-VX-G",
+      "status": "en curso",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869dmpzd4",
+      "date_created": "2026-06-10T09:09:11.410000+00:00",
+      "date_updated": "2026-06-10T14:03:22.501000+00:00",
+      "date_done": null
+    },
     "869dmprur": {
       "name": "L52-C278 ITER 1-VX-D",
       "status": "assigned",
@@ -14,24 +25,24 @@
     },
     "869dmpp2t": {
       "name": "L52-C288-VX-R",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmpp2t",
       "date_created": "2026-06-10T08:54:07.115000+00:00",
-      "date_updated": "2026-06-10T08:54:15.299000+00:00",
+      "date_updated": "2026-06-10T18:49:39.388000+00:00",
       "date_done": null
     },
     "869dmp1em": {
       "name": "L52-C RAW ITER 1-VX-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmp1em",
       "date_created": "2026-06-10T08:21:02.595000+00:00",
-      "date_updated": "2026-06-10T08:21:12.466000+00:00",
+      "date_updated": "2026-06-11T01:07:30.202000+00:00",
       "date_done": null
     },
     "869dm5rth": {
@@ -80,13 +91,13 @@
     },
     "869dk7h1q": {
       "name": "L52-C184 Péptidos-ITER 2-VX-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dk7h1q",
       "date_created": "2026-06-06T10:21:52.612000+00:00",
-      "date_updated": "2026-06-09T09:16:35.591000+00:00",
+      "date_updated": "2026-06-11T01:06:56.597000+00:00",
       "date_done": null
     },
     "869dhrqm1": {
@@ -5765,6 +5776,17 @@
       "date_updated": "2025-05-23T07:15:59.063000+00:00",
       "date_done": "2025-05-08T09:24:34.247000+00:00"
     },
+    "869dn188d": {
+      "name": "BANNER Inicio de verano",
+      "status": "to do",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869dn188d",
+      "date_created": "2026-06-10T17:51:02.416000+00:00",
+      "date_updated": "2026-06-10T17:51:07.667000+00:00",
+      "date_done": null
+    },
     "869dj176g": {
       "name": "LISTICLE PRODUCT AWARE",
       "status": "completado",
@@ -6643,28 +6665,6 @@
       "url": "https://app.clickup.com/t/8698uwpb8",
       "date_created": "2025-04-23T18:51:05.312000+00:00",
       "date_updated": "2025-04-23T18:51:05.312000+00:00",
-      "date_done": null
-    },
-    "869ctxa7k": {
-      "name": "2 Concept Native Hombre - HB ES",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "HAIR BIOLABS",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869ctxa7k",
-      "date_created": "2026-04-07T18:21:50.293000+00:00",
-      "date_updated": "2026-05-08T14:54:59.487000+00:00",
-      "date_done": null
-    },
-    "869cphcj7": {
-      "name": "2 Concept Native Mujer - HB ES",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "HAIR BIOLABS",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cphcj7",
-      "date_created": "2026-03-30T10:49:42.665000+00:00",
-      "date_updated": "2026-05-08T14:54:54.958000+00:00",
       "date_done": null
     },
     "869dcm6tu": {
@@ -8525,72 +8525,6 @@
       "date_created": "2026-03-30T11:07:27.156000+00:00",
       "date_updated": "2026-03-31T09:01:47.527000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
-    },
-    "869cpgd24": {
-      "name": "3 Concept Statics (BOF) - Skin mx",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cpgd24",
-      "date_created": "2026-03-30T10:09:27.314000+00:00",
-      "date_updated": "2026-05-08T14:55:03.886000+00:00",
-      "date_done": null
-    },
-    "869cpgb8q": {
-      "name": "3 Concept Statics (TOF/MOF) - Skin mx",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cpgb8q",
-      "date_created": "2026-03-30T10:07:09.743000+00:00",
-      "date_updated": "2026-05-08T14:55:01.948000+00:00",
-      "date_done": null
-    },
-    "869cpga26": {
-      "name": "3 scripts de video (Nuevo y/o ITER)",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cpga26",
-      "date_created": "2026-03-30T10:05:48.472000+00:00",
-      "date_updated": "2026-05-08T14:55:41.365000+00:00",
-      "date_done": null
-    },
-    "869cpg9z6": {
-      "name": "3 scripts de video (Nuevo y/o ITER)",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cpg9z6",
-      "date_created": "2026-03-30T10:05:39.281000+00:00",
-      "date_updated": "2026-05-08T14:55:09.592000+00:00",
-      "date_done": null
-    },
-    "869cpg8yp": {
-      "name": "10 Ads de Competencia (Ripped) - Skin mx",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cpg8yp",
-      "date_created": "2026-03-30T10:04:22.199000+00:00",
-      "date_updated": "2026-05-08T14:55:05.755000+00:00",
-      "date_done": null
-    },
-    "869cknkaq": {
-      "name": "Repaso de batch + asignar a editores",
-      "status": "pendiente",
-      "assignee": "Gonzalo Millán",
-      "client": "SKIN+",
-      "list": "Tareas",
-      "url": "https://app.clickup.com/t/869cknkaq",
-      "date_created": "2026-03-23T17:33:35.397000+00:00",
-      "date_updated": "2026-05-08T14:56:13.549000+00:00",
-      "date_done": null
     }
   }
 }
