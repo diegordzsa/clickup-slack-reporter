@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T09:46:40.261103+00:00",
-  "snapshot_timestamp": "2026-06-11T09:46:09.859144",
+  "generated_at": "2026-06-12T09:14:31.018281+00:00",
+  "snapshot_timestamp": "2026-06-12T09:14:11.955878",
   "editors": [
     "Alejandra Ramirez",
     "Daniela Iskowitz",
@@ -131,6 +131,19 @@
       ],
       "date_created": "2026-06-07T10:32:27.395000+00:00",
       "url": "https://app.clickup.com/t/869dkbbef"
+    },
+    {
+      "task_id": "869dk7h1q",
+      "name": "L52-C184 Péptidos-ITER 2-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-06-06T10:21:52.612000+00:00",
+      "url": "https://app.clickup.com/t/869dk7h1q"
     },
     {
       "task_id": "869dhd7pk",
@@ -1867,6 +1880,16 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869dj176g"
+    },
+    {
+      "ts": "2026-06-12T09:14:30.923629+00:00",
+      "task_id": "869dk7h1q",
+      "name": "L52-C184 Péptidos-ITER 2-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869dk7h1q"
     }
   ],
   "stats": {
@@ -1874,8 +1897,8 @@
     "total_completed": 5,
     "total_completed_with_dates": 5,
     "total_completed_with_done": 5,
-    "total_currently_assigned": 20,
-    "total_transitions_logged": 151,
+    "total_currently_assigned": 21,
+    "total_transitions_logged": 152,
     "total_editors": 11
   }
 }
