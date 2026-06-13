@@ -1,26 +1,37 @@
 {
-  "timestamp": "2026-06-12T09:14:11.955878",
+  "timestamp": "2026-06-13T08:32:31.527213",
   "tasks": {
+    "869dp4nem": {
+      "name": "OFERTAS INICIO DEL VERANO",
+      "status": "draft",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869dp4nem",
+      "date_created": "2026-06-13T00:13:10.490000+00:00",
+      "date_updated": "2026-06-13T00:13:21.827000+00:00",
+      "date_done": null
+    },
     "869dmpzd4": {
       "name": "L52-C289-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmpzd4",
       "date_created": "2026-06-10T09:09:11.410000+00:00",
-      "date_updated": "2026-06-10T14:03:22.501000+00:00",
+      "date_updated": "2026-06-13T03:09:01.060000+00:00",
       "date_done": null
     },
     "869dmprur": {
       "name": "L52-C278 ITER 1-VX-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmprur",
       "date_created": "2026-06-10T08:58:25.668000+00:00",
-      "date_updated": "2026-06-10T08:58:37.580000+00:00",
+      "date_updated": "2026-06-12T15:47:17.406000+00:00",
       "date_done": null
     },
     "869dmpp2t": {
@@ -91,13 +102,13 @@
     },
     "869dk7h1q": {
       "name": "L52-C184 Péptidos-ITER 2-VX-D",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dk7h1q",
       "date_created": "2026-06-06T10:21:52.612000+00:00",
-      "date_updated": "2026-06-12T07:24:21.814000+00:00",
+      "date_updated": "2026-06-12T16:16:59.716000+00:00",
       "date_done": null
     },
     "869dhrqm1": {
@@ -377,35 +388,35 @@
     },
     "869df3f62": {
       "name": "L50-Status Int C34-VX-A",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869df3f62",
       "date_created": "2026-05-27T09:13:27.298000+00:00",
-      "date_updated": "2026-05-27T09:13:28.436000+00:00",
+      "date_updated": "2026-06-12T23:01:40.593000+00:00",
       "date_done": null
     },
     "869df3f12": {
       "name": "L50-Timeline C268-VX-A",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869df3f12",
       "date_created": "2026-05-27T09:13:08.341000+00:00",
-      "date_updated": "2026-05-27T09:13:09.595000+00:00",
+      "date_updated": "2026-06-12T21:58:36.125000+00:00",
       "date_done": null
     },
     "869df3ep4": {
       "name": "L50-Miedo pérdida-C268-VX-A",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869df3ep4",
       "date_created": "2026-05-27T09:12:34.949000+00:00",
-      "date_updated": "2026-06-06T10:22:52.966000+00:00",
+      "date_updated": "2026-06-12T20:42:59.137000+00:00",
       "date_done": null
     },
     "869dexa45": {
@@ -5777,14 +5788,14 @@
       "date_done": "2025-05-08T09:24:34.247000+00:00"
     },
     "869dn188d": {
-      "name": "BANNER Inicio de verano",
-      "status": "to do",
+      "name": "BANNER INICIO DEL VERANO",
+      "status": "completado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dn188d",
       "date_created": "2026-06-10T17:51:02.416000+00:00",
-      "date_updated": "2026-06-10T17:51:07.667000+00:00",
+      "date_updated": "2026-06-12T17:33:32.124000+00:00",
       "date_done": null
     },
     "869dj176g": {
@@ -6490,6 +6501,17 @@
       "date_created": "2025-04-22T14:12:14.567000+00:00",
       "date_updated": "2025-09-11T07:47:43.561000+00:00",
       "date_done": "2025-09-11T07:47:43.561000+00:00"
+    },
+    "869dp0vff": {
+      "name": "BANNER INICIO DEL VERANO",
+      "status": "complete",
+      "assignee": "SIN ASIGNAR",
+      "client": "HAIR BIOLABS",
+      "list": "Calendario de Ofertas",
+      "url": "https://app.clickup.com/t/869dp0vff",
+      "date_created": "2026-06-12T16:37:04.649000+00:00",
+      "date_updated": "2026-06-12T17:33:41.452000+00:00",
+      "date_done": "2026-06-12T17:33:41.452000+00:00"
     },
     "869df3q8u": {
       "name": "Oferta DÍA MUNDIAL DEL MEDIO AMBIENTE",
