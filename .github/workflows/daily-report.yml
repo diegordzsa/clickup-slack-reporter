@@ -26,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run daily report
+      - name: Collect daily snapshot
         env:
           CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
           CLICKUP_TEAM_ID: ${{ secrets.CLICKUP_TEAM_ID }}

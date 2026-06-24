@@ -65,6 +65,26 @@ CATEGORY_EMOJIS = {
     "completado": ":checkered_flag:",
 }
 
+# Semaforo de productividad semanal (completados + aprobados)
+SEMAFORO_THRESHOLDS = {"green": 9, "yellow": 4, "red": 1}
+SEMAFORO_EMOJIS = {
+    "green":  ":large_green_circle:",
+    "yellow": ":large_yellow_circle:",
+    "red":    ":red_circle:",
+    "none":   ":white_circle:",
+}
+
+
+def get_semaforo(count):
+    if count >= SEMAFORO_THRESHOLDS["green"]:
+        return SEMAFORO_EMOJIS["green"]
+    elif count >= SEMAFORO_THRESHOLDS["yellow"]:
+        return SEMAFORO_EMOJIS["yellow"]
+    elif count >= SEMAFORO_THRESHOLDS["red"]:
+        return SEMAFORO_EMOJIS["red"]
+    return SEMAFORO_EMOJIS["none"]
+
+
 # Compatibilidad hacia atras: scripts viejos siguen importando esto.
 COMPLETED_STATUSES = set(STATUS_CATEGORIES["completado"])
 

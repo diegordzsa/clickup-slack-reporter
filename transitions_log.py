@@ -123,6 +123,25 @@ def filter_by_days(entries, days):
     return result
 
 
+def filter_by_date_range(entries, start, end):
+    """
+    Devuelve solo las entradas con timestamp entre start y end (inclusive).
+    start y end deben ser datetimes aware (UTC).
+    """
+    result = []
+    for entry in entries:
+        ts_str = entry.get("ts", "")
+        try:
+            ts = datetime.fromisoformat(ts_str)
+        except (ValueError, TypeError):
+            continue
+        if ts.tzinfo is None:
+            ts = ts.replace(tzinfo=timezone.utc)
+        if start <= ts <= end:
+            result.append(entry)
+    return result
+
+
 def cleanup_old_entries(days=30):
     """
     Reescribe el log eliminando entradas con mas de `days` dias.

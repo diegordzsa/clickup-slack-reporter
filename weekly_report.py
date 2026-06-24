@@ -1,9 +1,9 @@
 """
-Orquestador del reporte semanal (sabados en la manana).
+Orquestador del reporte semanal (lunes a las 8 AM hora Espana).
 
 Flujo:
 1. Lee el log append-only de transiciones (data/transitions_log.jsonl).
-2. Filtra los ultimos 7 dias.
+2. Filtra la semana anterior: lunes 00:00 UTC a domingo 23:59 UTC.
 3. Agrega: por cliente, por editor, por categoria.
 4. Calcula ranking de productividad (completados + aprobados, descendente).
 5. Manda reporte a Slack.
@@ -28,16 +28,26 @@ from config import validate_config, CATEGORY_ORDER, normalize_editor
 from slack_client import build_weekly_report_blocks, send_to_slack
 from transitions_log import (
     read_log,
-    filter_by_days,
+    filter_by_date_range,
     cleanup_old_entries,
     TRACKED_CATEGORIES,
 )
 
-# Ventana del reporte: 7 dias hacia atras (sabado pasado a viernes)
-REPORT_WINDOW_DAYS = 7
-
 # Retencion del log: borrar entradas con mas de esto al final del weekly
 LOG_RETENTION_DAYS = 30
+
+
+def _last_week_range():
+    """
+    Devuelve (period_start, period_end) correspondientes al lunes-domingo
+    de la semana anterior. Pensado para correr los lunes.
+    """
+    today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    # today.weekday(): 0=lunes. Si hoy es lunes, last_monday = hoy - 7 dias.
+    days_since_monday = today.weekday()  # 0 si es lunes
+    last_monday = today - timedelta(days=days_since_monday + 7)
+    last_sunday = last_monday + timedelta(days=6, hours=23, minutes=59, seconds=59)
+    return last_monday, last_sunday
 
 
 def aggregate_weekly(entries):
@@ -151,13 +161,16 @@ def main():
         print(f"ERROR de configuracion: {e}")
         sys.exit(1)
 
-    # Paso 2: leer log y filtrar ultimos 7 dias
+    # Paso 2: leer log y filtrar semana anterior (lunes a domingo)
     print(f"\nLeyendo log de transiciones...")
     all_entries = read_log()
     print(f"   Total entradas en el log: {len(all_entries)}")
 
-    weekly_entries = filter_by_days(all_entries, REPORT_WINDOW_DAYS)
-    print(f"   Entradas en los ultimos {REPORT_WINDOW_DAYS} dias: {len(weekly_entries)}")
+    period_start, period_end = _last_week_range()
+    print(f"   Periodo: {period_start.strftime('%Y-%m-%d')} (lunes) a {period_end.strftime('%Y-%m-%d')} (domingo)")
+
+    weekly_entries = filter_by_date_range(all_entries, period_start, period_end)
+    print(f"   Entradas en el periodo: {len(weekly_entries)}")
 
     # Paso 3: agregar
     print("\nAgregando datos del reporte...")
@@ -169,10 +182,6 @@ def main():
         print(f"     - {cat}: {n}")
 
     # Paso 4: armar y enviar a Slack
-    # Periodo: ahora - 7 dias hasta ahora
-    period_end = datetime.now(timezone.utc)
-    period_start = period_end - timedelta(days=REPORT_WINDOW_DAYS - 1)
-
     print("\nEnviando reporte a Slack...")
     blocks = build_weekly_report_blocks(weekly_data, period_start, period_end)
     try:

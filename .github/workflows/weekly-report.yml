@@ -2,9 +2,8 @@ name: Weekly Report
 
 on:
   schedule:
-    # Sabados 7:17 UTC = 9:17 AM Espana (verano) / 8:17 AM (invierno)
-    # El 6 al final del cron significa sabado.
-    - cron: '17 7 * * 6'
+    # Lunes 6:00 UTC = 8:00 AM Espana (verano CEST) / 7:00 AM (invierno CET)
+    - cron: '0 6 * * 1'
   workflow_dispatch:  # Permite correr manualmente desde GitHub
 
 jobs:
