@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T14:02:26.585539",
+  "timestamp": "2026-07-01T08:56:37.454787",
   "tasks": {
     "869dx8wxa": {
       "name": "L2-Triada Capilar #B-Rolls-VX",
@@ -36,35 +36,35 @@
     },
     "869dwyzjn": {
       "name": "L55-DCT 4-Miedo P-VX-A",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwyzjn",
       "date_created": "2026-06-29T10:09:35.905000+00:00",
-      "date_updated": "2026-06-29T10:10:46.324000+00:00",
+      "date_updated": "2026-06-30T23:40:34.073000+00:00",
       "date_done": null
     },
     "869dwyzh0": {
       "name": "L55-DCT 3-Miedo P-VX-A",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwyzh0",
       "date_created": "2026-06-29T10:09:33.713000+00:00",
-      "date_updated": "2026-06-29T10:10:44.704000+00:00",
+      "date_updated": "2026-06-30T23:40:39.692000+00:00",
       "date_done": null
     },
     "869dwvyha": {
       "name": "L55-DCT 1-SOP-Caric-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwvyha",
       "date_created": "2026-06-29T08:21:55.185000+00:00",
-      "date_updated": "2026-06-30T02:12:34.065000+00:00",
+      "date_updated": "2026-07-01T02:55:46.691000+00:00",
       "date_done": null
     },
     "869dwvrjc": {
@@ -75,7 +75,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwvrjc",
       "date_created": "2026-06-29T08:15:16.639000+00:00",
-      "date_updated": "2026-06-29T08:22:00.010000+00:00",
+      "date_updated": "2026-07-01T02:06:50.717000+00:00",
       "date_done": null
     },
     "869dwvrg5": {
@@ -86,7 +86,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwvrg5",
       "date_created": "2026-06-29T08:15:11.018000+00:00",
-      "date_updated": "2026-06-29T08:21:58.535000+00:00",
+      "date_updated": "2026-06-30T23:40:49.756000+00:00",
       "date_done": null
     },
     "869dv2cfz": {
@@ -188,27 +188,38 @@
       "date_updated": "2026-06-30T08:58:59.485000+00:00",
       "date_done": "2026-06-29T17:41:03.839000+00:00"
     },
+    "869du84k1": {
+      "name": "L1-3 Señales #UGC-VX",
+      "status": "aprobado",
+      "assignee": "SIN ASIGNAR",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869du84k1",
+      "date_created": "2026-06-22T10:18:31.332000+00:00",
+      "date_updated": "2026-07-01T08:38:03.428000+00:00",
+      "date_done": "2026-07-01T08:38:03.428000+00:00"
+    },
     "869du7y7f": {
       "name": "L54-C307-VX-R",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du7y7f",
       "date_created": "2026-06-22T10:11:25.987000+00:00",
-      "date_updated": "2026-06-26T20:52:12.184000+00:00",
-      "date_done": null
+      "date_updated": "2026-06-30T23:10:56.610000+00:00",
+      "date_done": "2026-06-30T18:35:10.128000+00:00"
     },
     "869du7y55": {
       "name": "L54-C308-VX-R",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Romina Vera Rincon",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du7y55",
       "date_created": "2026-06-22T10:11:21.421000+00:00",
-      "date_updated": "2026-06-22T22:03:52.777000+00:00",
-      "date_done": null
+      "date_updated": "2026-06-30T22:57:50.562000+00:00",
+      "date_done": "2026-06-30T18:34:04.818000+00:00"
     },
     "869du4nu2": {
       "name": "L54-C Video Texto 3 -VX-D",
@@ -245,14 +256,14 @@
     },
     "869du4n9r": {
       "name": "L54-C304-ITER 1-VX",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du4n9r",
       "date_created": "2026-06-22T08:06:48.275000+00:00",
-      "date_updated": "2026-06-25T15:59:40.246000+00:00",
-      "date_done": null
+      "date_updated": "2026-06-30T22:50:31.148000+00:00",
+      "date_done": "2026-06-30T18:31:44.711000+00:00"
     },
     "869du4mjg": {
       "name": "L53-C305-VX-G",
@@ -273,7 +284,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du4mbk",
       "date_created": "2026-06-22T08:05:45.901000+00:00",
-      "date_updated": "2026-06-25T15:51:13.295000+00:00",
+      "date_updated": "2026-07-01T02:56:39.336000+00:00",
       "date_done": null
     },
     "869dtmvmu": {
@@ -421,14 +432,14 @@
     },
     "869dpmukm": {
       "name": "L53-C293-VX-G",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dpmukm",
       "date_created": "2026-06-15T07:35:34.234000+00:00",
-      "date_updated": "2026-06-25T23:24:09.072000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-01T00:56:33.546000+00:00",
+      "date_done": "2026-06-30T18:32:28.761000+00:00"
     },
     "869dpmude": {
       "name": "L53-C292-VX-G",
@@ -795,14 +806,14 @@
     },
     "869dgbcnx": {
       "name": "L50-274-LADUCHA + STATUS-VX-GONZ",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dgbcnx",
       "date_created": "2026-05-29T18:31:39.654000+00:00",
-      "date_updated": "2026-06-10T02:20:18.097000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-01T01:22:46.898000+00:00",
+      "date_done": "2026-06-30T18:35:57.445000+00:00"
     },
     "869dgb9fy": {
       "name": "L50-273-EMOCIONES/POV+UGC-VX-GONZ",

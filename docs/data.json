@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T14:02:44.758589+00:00",
-  "snapshot_timestamp": "2026-06-30T14:02:26.585539",
+  "generated_at": "2026-07-01T08:56:57.411130+00:00",
+  "snapshot_timestamp": "2026-07-01T08:56:37.454787",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -192,45 +192,6 @@
       ],
       "date_created": "2026-06-29T15:15:07.853000+00:00",
       "url": "https://app.clickup.com/t/869dx8wwd"
-    },
-    {
-      "task_id": "869dwyzjn",
-      "name": "L55-DCT 4-Miedo P-VX-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-06-29T10:09:35.905000+00:00",
-      "url": "https://app.clickup.com/t/869dwyzjn"
-    },
-    {
-      "task_id": "869dwyzh0",
-      "name": "L55-DCT 3-Miedo P-VX-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-06-29T10:09:33.713000+00:00",
-      "url": "https://app.clickup.com/t/869dwyzh0"
-    },
-    {
-      "task_id": "869dwvyha",
-      "name": "L55-DCT 1-SOP-Caric-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-29T08:21:55.185000+00:00",
-      "url": "https://app.clickup.com/t/869dwvyha"
     },
     {
       "task_id": "869dwvrjc",
@@ -876,11 +837,11 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 826,
+    "total_tasks_in_snapshot": 827,
     "total_completed": 10,
     "total_completed_with_dates": 10,
     "total_completed_with_done": 10,
-    "total_currently_assigned": 25,
+    "total_currently_assigned": 22,
     "total_transitions_logged": 39,
     "total_editors": 8
   }
