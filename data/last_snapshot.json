@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T08:56:37.454787",
+  "timestamp": "2026-07-02T08:25:30.282405",
   "tasks": {
     "869dx8wxa": {
       "name": "L2-Triada Capilar #B-Rolls-VX",
@@ -9,7 +9,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8wxa",
       "date_created": "2026-06-29T15:15:12.824000+00:00",
-      "date_updated": "2026-06-29T15:17:42.889000+00:00",
+      "date_updated": "2026-07-01T14:05:36.745000+00:00",
       "date_done": null
     },
     "869dx8wx7": {
@@ -20,7 +20,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8wx7",
       "date_created": "2026-06-29T15:15:12.359000+00:00",
-      "date_updated": "2026-06-29T15:17:39.874000+00:00",
+      "date_updated": "2026-07-01T14:03:08.921000+00:00",
       "date_done": null
     },
     "869dx8wwd": {
@@ -31,7 +31,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8wwd",
       "date_created": "2026-06-29T15:15:07.853000+00:00",
-      "date_updated": "2026-06-29T15:17:38.005000+00:00",
+      "date_updated": "2026-07-01T14:01:44.243000+00:00",
       "date_done": null
     },
     "869dwyzjn": {
@@ -69,24 +69,24 @@
     },
     "869dwvrjc": {
       "name": "L55-DCT 1-SOP-BRoll-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwvrjc",
       "date_created": "2026-06-29T08:15:16.639000+00:00",
-      "date_updated": "2026-07-01T02:06:50.717000+00:00",
+      "date_updated": "2026-07-02T04:12:53.341000+00:00",
       "date_done": null
     },
     "869dwvrg5": {
       "name": "L55-DCT 1-SOP-Doctora-D",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dwvrg5",
       "date_created": "2026-06-29T08:15:11.018000+00:00",
-      "date_updated": "2026-06-30T23:40:49.756000+00:00",
+      "date_updated": "2026-07-02T04:11:52.503000+00:00",
       "date_done": null
     },
     "869dv2cfz": {
@@ -124,24 +124,24 @@
     },
     "869dughw2": {
       "name": "L1-Mecanismo Baicapil #Autoridad",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dughw2",
       "date_created": "2026-06-22T17:20:29.537000+00:00",
-      "date_updated": "2026-06-30T02:13:02.460000+00:00",
+      "date_updated": "2026-07-02T02:49:24.058000+00:00",
       "date_done": null
     },
     "869dughjg": {
       "name": "L1-Mecanismo Baicapil #UGC-VX",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dughjg",
       "date_created": "2026-06-22T17:20:08.281000+00:00",
-      "date_updated": "2026-06-30T02:12:57.203000+00:00",
+      "date_updated": "2026-07-01T19:06:49.903000+00:00",
       "date_done": null
     },
     "869dug08z": {
@@ -196,7 +196,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du84k1",
       "date_created": "2026-06-22T10:18:31.332000+00:00",
-      "date_updated": "2026-07-01T08:38:03.428000+00:00",
+      "date_updated": "2026-07-01T19:08:45.584000+00:00",
       "date_done": "2026-07-01T08:38:03.428000+00:00"
     },
     "869du7y7f": {
@@ -286,6 +286,17 @@
       "date_created": "2026-06-22T08:05:45.901000+00:00",
       "date_updated": "2026-07-01T02:56:39.336000+00:00",
       "date_done": null
+    },
+    "869du4jr5": {
+      "name": "L54-C306-GFS-VX",
+      "status": "aprobado",
+      "assignee": "SIN ASIGNAR",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869du4jr5",
+      "date_created": "2026-06-22T08:03:55.080000+00:00",
+      "date_updated": "2026-07-01T19:07:15.960000+00:00",
+      "date_done": "2026-06-29T10:39:07.229000+00:00"
     },
     "869dtmvmu": {
       "name": "L50-C189 Podcast 2-VX",
@@ -386,6 +397,17 @@
       "date_updated": "2026-06-23T14:32:15.175000+00:00",
       "date_done": "2026-06-22T10:21:09.885000+00:00"
     },
+    "869dqafnc": {
+      "name": "L53-C290-VX-GFS",
+      "status": "aprobado",
+      "assignee": "SIN ASIGNAR",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869dqafnc",
+      "date_created": "2026-06-16T08:28:44.887000+00:00",
+      "date_updated": "2026-07-01T19:07:07.077000+00:00",
+      "date_done": "2026-06-29T10:25:51.958000+00:00"
+    },
     "869dq9khe": {
       "name": "L53-C297-VX-G",
       "status": "testado",
@@ -405,7 +427,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dpp0d2",
       "date_created": "2026-06-15T08:16:31.934000+00:00",
-      "date_updated": "2026-06-18T20:27:28.266000+00:00",
+      "date_updated": "2026-07-02T08:07:14.637000+00:00",
       "date_done": "2026-06-18T09:11:04.619000+00:00"
     },
     "869dpmw6v": {
@@ -878,7 +900,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dfft18",
       "date_created": "2026-05-28T06:33:49.711000+00:00",
-      "date_updated": "2026-06-25T15:55:51.237000+00:00",
+      "date_updated": "2026-07-01T19:06:06.950000+00:00",
       "date_done": "2026-06-25T15:55:51.237000+00:00"
     },
     "869dffhcr": {
@@ -6315,6 +6337,17 @@
       "date_updated": "2025-05-23T07:15:59.063000+00:00",
       "date_done": "2025-05-08T09:24:34.247000+00:00"
     },
+    "869dyfy22": {
+      "name": "DISEÑO FOTO DE PORTADA",
+      "status": "completado",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869dyfy22",
+      "date_created": "2026-07-01T15:18:31.949000+00:00",
+      "date_updated": "2026-07-01T16:58:39.826000+00:00",
+      "date_done": null
+    },
     "869dw8gkw": {
       "name": "Nuevo carrousel",
       "status": "completado",
@@ -6334,7 +6367,7 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dvga4t",
       "date_created": "2026-06-24T14:37:17.253000+00:00",
-      "date_updated": "2026-06-25T15:59:18.663000+00:00",
+      "date_updated": "2026-07-01T20:02:58.320000+00:00",
       "date_done": null
     },
     "869dtanp3": {

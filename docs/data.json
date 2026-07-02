@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T08:56:57.411130+00:00",
-  "snapshot_timestamp": "2026-07-01T08:56:37.454787",
+  "generated_at": "2026-07-02T08:25:47.409553+00:00",
+  "snapshot_timestamp": "2026-07-02T08:25:30.282405",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -47,6 +47,19 @@
       "date_done": "2026-06-22T14:24:08.735000+00:00",
       "lead_time_hours": 629.18,
       "url": "https://app.clickup.com/t/869df3f12"
+    },
+    {
+      "task_id": "869dyfy22",
+      "name": "DISEÑO FOTO DE PORTADA",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-07-01T15:18:31.949000+00:00",
+      "date_done": "2026-07-01T16:58:39.826000+00:00",
+      "lead_time_hours": 1.67,
+      "url": "https://app.clickup.com/t/869dyfy22"
     },
     {
       "task_id": "869dw8gkw",
@@ -192,58 +205,6 @@
       ],
       "date_created": "2026-06-29T15:15:07.853000+00:00",
       "url": "https://app.clickup.com/t/869dx8wwd"
-    },
-    {
-      "task_id": "869dwvrjc",
-      "name": "L55-DCT 1-SOP-BRoll-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-06-29T08:15:16.639000+00:00",
-      "url": "https://app.clickup.com/t/869dwvrjc"
-    },
-    {
-      "task_id": "869dwvrg5",
-      "name": "L55-DCT 1-SOP-Doctora-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-06-29T08:15:11.018000+00:00",
-      "url": "https://app.clickup.com/t/869dwvrg5"
-    },
-    {
-      "task_id": "869dughw2",
-      "name": "L1-Mecanismo Baicapil #Autoridad",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-22T17:20:29.537000+00:00",
-      "url": "https://app.clickup.com/t/869dughw2"
-    },
-    {
-      "task_id": "869dughjg",
-      "name": "L1-Mecanismo Baicapil #UGC-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-06-22T17:20:08.281000+00:00",
-      "url": "https://app.clickup.com/t/869dughjg"
     },
     {
       "task_id": "869dmpp2t",
@@ -837,11 +798,11 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 827,
-    "total_completed": 10,
-    "total_completed_with_dates": 10,
-    "total_completed_with_done": 10,
-    "total_currently_assigned": 22,
+    "total_tasks_in_snapshot": 830,
+    "total_completed": 11,
+    "total_completed_with_dates": 11,
+    "total_completed_with_done": 11,
+    "total_currently_assigned": 18,
     "total_transitions_logged": 39,
     "total_editors": 8
   }
