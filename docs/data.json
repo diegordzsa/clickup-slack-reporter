@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T08:25:47.409553+00:00",
-  "snapshot_timestamp": "2026-07-02T08:25:30.282405",
+  "generated_at": "2026-07-03T08:29:24.448417+00:00",
+  "snapshot_timestamp": "2026-07-03T08:28:59.353332",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -73,6 +73,19 @@
       "date_done": "2026-06-26T22:49:26.783000+00:00",
       "lead_time_hours": 12.08,
       "url": "https://app.clickup.com/t/869dw8gkw"
+    },
+    {
+      "task_id": "869dvga4t",
+      "name": "Microneedling Packaging",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-06-24T14:37:17.253000+00:00",
+      "date_done": "2026-07-02T16:14:02.432000+00:00",
+      "lead_time_hours": 193.61,
+      "url": "https://app.clickup.com/t/869dvga4t"
     },
     {
       "task_id": "869dtanp3",
@@ -194,17 +207,30 @@
       "url": "https://app.clickup.com/t/869dx8wx7"
     },
     {
-      "task_id": "869dx8wwd",
-      "name": "L2-Casi Empiezo con Finasteride #B-Rolls-VX",
+      "task_id": "869dughw2",
+      "name": "L1-Mecanismo Baicapil #Autoridad",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
-        "Dayana Caicedo"
+        "Gonzalo Flores"
       ],
-      "date_created": "2026-06-29T15:15:07.853000+00:00",
-      "url": "https://app.clickup.com/t/869dx8wwd"
+      "date_created": "2026-06-22T17:20:29.537000+00:00",
+      "url": "https://app.clickup.com/t/869dughw2"
+    },
+    {
+      "task_id": "869dughjg",
+      "name": "L1-Mecanismo Baicapil #UGC-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-06-22T17:20:08.281000+00:00",
+      "url": "https://app.clickup.com/t/869dughjg"
     },
     {
       "task_id": "869dmpp2t",
@@ -244,19 +270,6 @@
       ],
       "date_created": "2026-05-28T06:33:49.711000+00:00",
       "url": "https://app.clickup.com/t/869dfft18"
-    },
-    {
-      "task_id": "869dvga4t",
-      "name": "Microneedling Packaging",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-06-24T14:37:17.253000+00:00",
-      "url": "https://app.clickup.com/t/869dvga4t"
     },
     {
       "task_id": "869cnc4fj",
@@ -795,15 +808,45 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869df3f12"
+    },
+    {
+      "ts": "2026-07-03T08:29:24.357662+00:00",
+      "task_id": "869dughw2",
+      "name": "L1-Mecanismo Baicapil #Autoridad",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869dughw2"
+    },
+    {
+      "ts": "2026-07-03T08:29:24.357662+00:00",
+      "task_id": "869dughjg",
+      "name": "L1-Mecanismo Baicapil #UGC-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869dughjg"
+    },
+    {
+      "ts": "2026-07-03T08:29:24.357662+00:00",
+      "task_id": "869dvga4t",
+      "name": "Microneedling Packaging",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869dvga4t"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 830,
-    "total_completed": 11,
-    "total_completed_with_dates": 11,
-    "total_completed_with_done": 11,
+    "total_tasks_in_snapshot": 831,
+    "total_completed": 12,
+    "total_completed_with_dates": 12,
+    "total_completed_with_done": 12,
     "total_currently_assigned": 18,
-    "total_transitions_logged": 39,
+    "total_transitions_logged": 42,
     "total_editors": 8
   }
 }

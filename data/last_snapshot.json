@@ -1,6 +1,17 @@
 {
-  "timestamp": "2026-07-02T08:25:30.282405",
+  "timestamp": "2026-07-03T08:28:59.353332",
   "tasks": {
+    "869dyu0fk": {
+      "name": "L55-312-GWF",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869dyu0fk",
+      "date_created": "2026-07-02T09:09:33.659000+00:00",
+      "date_updated": "2026-07-03T03:47:40.986000+00:00",
+      "date_done": null
+    },
     "869dx8wxa": {
       "name": "L2-Triada Capilar #B-Rolls-VX",
       "status": "assigned",
@@ -25,13 +36,13 @@
     },
     "869dx8wwd": {
       "name": "L2-Casi Empiezo con Finasteride #B-Rolls-VX",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8wwd",
       "date_created": "2026-06-29T15:15:07.853000+00:00",
-      "date_updated": "2026-07-01T14:01:44.243000+00:00",
+      "date_updated": "2026-07-03T00:37:33.599000+00:00",
       "date_done": null
     },
     "869dwyzjn": {
@@ -124,25 +135,25 @@
     },
     "869dughw2": {
       "name": "L1-Mecanismo Baicapil #Autoridad",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dughw2",
       "date_created": "2026-06-22T17:20:29.537000+00:00",
-      "date_updated": "2026-07-02T02:49:24.058000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-02T09:19:02.539000+00:00",
+      "date_done": "2026-07-02T09:19:02.539000+00:00"
     },
     "869dughjg": {
       "name": "L1-Mecanismo Baicapil #UGC-VX",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dughjg",
       "date_created": "2026-06-22T17:20:08.281000+00:00",
-      "date_updated": "2026-07-01T19:06:49.903000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-02T09:15:35.974000+00:00",
+      "date_done": "2026-07-02T09:15:35.974000+00:00"
     },
     "869dug08z": {
       "name": "L1-Cuero Cabelludo Seco #B-Rolls Tensión-VX",
@@ -190,13 +201,13 @@
     },
     "869du84k1": {
       "name": "L1-3 Señales #UGC-VX",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du84k1",
       "date_created": "2026-06-22T10:18:31.332000+00:00",
-      "date_updated": "2026-07-01T19:08:45.584000+00:00",
+      "date_updated": "2026-07-02T17:48:59.866000+00:00",
       "date_done": "2026-07-01T08:38:03.428000+00:00"
     },
     "869du7y7f": {
@@ -289,13 +300,13 @@
     },
     "869du4jr5": {
       "name": "L54-C306-GFS-VX",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869du4jr5",
       "date_created": "2026-06-22T08:03:55.080000+00:00",
-      "date_updated": "2026-07-01T19:07:15.960000+00:00",
+      "date_updated": "2026-07-02T18:02:40.619000+00:00",
       "date_done": "2026-06-29T10:39:07.229000+00:00"
     },
     "869dtmvmu": {
@@ -1230,7 +1241,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dbmyhz",
       "date_created": "2026-05-18T19:45:26.830000+00:00",
-      "date_updated": "2026-05-25T16:58:42.268000+00:00",
+      "date_updated": "2026-07-02T23:28:55.643000+00:00",
       "date_done": "2026-05-20T11:36:55.537000+00:00"
     },
     "869dbmfwr": {
@@ -6361,13 +6372,13 @@
     },
     "869dvga4t": {
       "name": "Microneedling Packaging",
-      "status": "asignado",
+      "status": "completado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dvga4t",
       "date_created": "2026-06-24T14:37:17.253000+00:00",
-      "date_updated": "2026-07-01T20:02:58.320000+00:00",
+      "date_updated": "2026-07-02T16:14:02.432000+00:00",
       "date_done": null
     },
     "869dtanp3": {
