@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T14:44:19.067611",
+  "timestamp": "2026-07-22T07:43:07.104441",
   "tasks": {
     "869e72kyj": {
       "name": "L5-Dependencia #Caricatura",
@@ -91,14 +91,14 @@
     },
     "869e6811g": {
       "name": "ADS REBAJAS FIN DE MES",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e6811g",
       "date_created": "2026-07-18T00:10:34.826000+00:00",
-      "date_updated": "2026-07-18T00:10:58.464000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-21T20:19:33.042000+00:00",
+      "date_done": "2026-07-21T20:18:27.256000+00:00"
     },
     "869e5p57q": {
       "name": "L57-Pack completo-VX-A",
@@ -190,24 +190,24 @@
     },
     "869e3uatb": {
       "name": "L57-C328 Dra Comentario-D",
-      "status": "revisión",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3uatb",
       "date_created": "2026-07-13T07:29:26.967000+00:00",
-      "date_updated": "2026-07-20T12:10:44.461000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-21T21:39:57.969000+00:00",
+      "date_done": "2026-07-21T20:21:00.795000+00:00"
     },
     "869e3uarf": {
       "name": "L57-C327-SOP Peluquera-D",
-      "status": "revisión",
+      "status": "final",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3uarf",
       "date_created": "2026-07-13T07:29:25.069000+00:00",
-      "date_updated": "2026-07-20T12:13:42.656000+00:00",
+      "date_updated": "2026-07-22T04:16:28.845000+00:00",
       "date_done": null
     },
     "869e3uapv": {
@@ -223,14 +223,14 @@
     },
     "869e3uamq": {
       "name": "L57-C321-Doctora Animación-G",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3uamq",
       "date_created": "2026-07-13T07:29:12.668000+00:00",
-      "date_updated": "2026-07-20T22:05:59.242000+00:00",
-      "date_done": null
+      "date_updated": "2026-07-21T21:55:26.492000+00:00",
+      "date_done": "2026-07-21T20:25:56.471000+00:00"
     },
     "869e3qq3g": {
       "name": "L57-YAPPING ITER 1-VX-D",
@@ -394,7 +394,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0mjm9",
       "date_created": "2026-07-06T08:51:20.013000+00:00",
-      "date_updated": "2026-07-21T02:59:42.979000+00:00",
+      "date_updated": "2026-07-22T00:48:49.255000+00:00",
       "date_done": null
     },
     "869e0me3w": {

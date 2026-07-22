@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T14:44:34.236006+00:00",
-  "snapshot_timestamp": "2026-07-21T14:44:19.067611",
+  "generated_at": "2026-07-22T07:43:20.943557+00:00",
+  "snapshot_timestamp": "2026-07-22T07:43:07.104441",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -22,6 +22,19 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "869e3uarf",
+      "name": "L57-C327-SOP Peluquera-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-13T07:29:25.069000+00:00",
+      "date_done": "2026-07-22T04:16:28.845000+00:00",
+      "lead_time_hours": 212.78,
+      "url": "https://app.clickup.com/t/869e3uarf"
+    },
     {
       "task_id": "869e3991a",
       "name": "TRADUCCION FOTOS HAIR ES A PORTUGUES",
@@ -246,6 +259,19 @@
       "url": "https://app.clickup.com/t/869e72kp4"
     },
     {
+      "task_id": "869e6811g",
+      "name": "ADS REBAJAS FIN DE MES",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-07-18T00:10:34.826000+00:00",
+      "url": "https://app.clickup.com/t/869e6811g"
+    },
+    {
       "task_id": "869e47c87",
       "name": "L4-Pelos en la Almohada #Podcast",
       "client": "HAIR BIOLABS",
@@ -309,32 +335,6 @@
       ],
       "date_created": "2026-07-13T17:28:33.355000+00:00",
       "url": "https://app.clickup.com/t/869e479ra"
-    },
-    {
-      "task_id": "869e3uatb",
-      "name": "L57-C328 Dra Comentario-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-13T07:29:26.967000+00:00",
-      "url": "https://app.clickup.com/t/869e3uatb"
-    },
-    {
-      "task_id": "869e3uarf",
-      "name": "L57-C327-SOP Peluquera-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-13T07:29:25.069000+00:00",
-      "url": "https://app.clickup.com/t/869e3uarf"
     },
     {
       "task_id": "869e3uapv",
@@ -655,15 +655,35 @@
       "category": "aprobado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869df8rwe"
+    },
+    {
+      "ts": "2026-07-22T07:43:20.834998+00:00",
+      "task_id": "869e6811g",
+      "name": "ADS REBAJAS FIN DE MES",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869e6811g"
+    },
+    {
+      "ts": "2026-07-22T07:43:20.834998+00:00",
+      "task_id": "869e3uarf",
+      "name": "L57-C327-SOP Peluquera-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e3uarf"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 906,
-    "total_completed": 9,
-    "total_completed_with_dates": 9,
-    "total_completed_with_done": 9,
-    "total_currently_assigned": 33,
-    "total_transitions_logged": 8,
+    "total_completed": 10,
+    "total_completed_with_dates": 10,
+    "total_completed_with_done": 10,
+    "total_currently_assigned": 32,
+    "total_transitions_logged": 10,
     "total_editors": 7
   }
 }
