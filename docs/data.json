@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:43:20.943557+00:00",
-  "snapshot_timestamp": "2026-07-22T07:43:07.104441",
+  "generated_at": "2026-07-23T07:44:34.364139+00:00",
+  "snapshot_timestamp": "2026-07-23T07:44:19.855586",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -155,6 +155,19 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869e7vgq0",
+      "name": "L58-C179 ITER 2-Estilista-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-22T09:07:15.343000+00:00",
+      "url": "https://app.clickup.com/t/869e7vgq0"
+    },
+    {
       "task_id": "869e72kyj",
       "name": "L5-Dependencia #Caricatura",
       "client": "HAIR BIOLABS",
@@ -244,19 +257,6 @@
       ],
       "date_created": "2026-07-20T19:26:11.475000+00:00",
       "url": "https://app.clickup.com/t/869e72kqq"
-    },
-    {
-      "task_id": "869e72kp4",
-      "name": "L5-HB vs Minoxidil #B-Roll",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-20T19:25:58.395000+00:00",
-      "url": "https://app.clickup.com/t/869e72kp4"
     },
     {
       "task_id": "869e6811g",
@@ -678,7 +678,7 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 906,
+    "total_tasks_in_snapshot": 908,
     "total_completed": 10,
     "total_completed_with_dates": 10,
     "total_completed_with_done": 10,

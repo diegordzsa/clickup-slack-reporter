@@ -1,6 +1,28 @@
 {
-  "timestamp": "2026-07-22T07:43:07.104441",
+  "timestamp": "2026-07-23T07:44:19.855586",
   "tasks": {
+    "869e7vgq0": {
+      "name": "L58-C179 ITER 2-Estilista-VX-G",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869e7vgq0",
+      "date_created": "2026-07-22T09:07:15.343000+00:00",
+      "date_updated": "2026-07-22T09:07:16.870000+00:00",
+      "date_done": null
+    },
+    "869e7vghr": {
+      "name": "L58-C329-Ingredientes-VX-A",
+      "status": "draft",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869e7vghr",
+      "date_created": "2026-07-22T09:07:01.513000+00:00",
+      "date_updated": "2026-07-22T23:18:17.795000+00:00",
+      "date_done": null
+    },
     "869e72kyj": {
       "name": "L5-Dependencia #Caricatura",
       "status": "assigned",
@@ -80,13 +102,13 @@
     },
     "869e72kp4": {
       "name": "L5-HB vs Minoxidil #B-Roll",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e72kp4",
       "date_created": "2026-07-20T19:25:58.395000+00:00",
-      "date_updated": "2026-07-20T19:29:26.718000+00:00",
+      "date_updated": "2026-07-23T03:55:56.191000+00:00",
       "date_done": null
     },
     "869e6811g": {
@@ -141,7 +163,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47c87",
       "date_created": "2026-07-13T17:33:54.650000+00:00",
-      "date_updated": "2026-07-21T08:58:36.129000+00:00",
+      "date_updated": "2026-07-22T16:24:41.901000+00:00",
       "date_done": "2026-07-21T08:58:36.129000+00:00"
     },
     "869e47afm": {
@@ -152,7 +174,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47afm",
       "date_created": "2026-07-13T17:30:11.419000+00:00",
-      "date_updated": "2026-07-21T08:54:47.706000+00:00",
+      "date_updated": "2026-07-22T16:24:19.182000+00:00",
       "date_done": "2026-07-21T08:54:47.706000+00:00"
     },
     "869e47abf": {
@@ -163,7 +185,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47abf",
       "date_created": "2026-07-13T17:29:53.922000+00:00",
-      "date_updated": "2026-07-17T09:00:37.221000+00:00",
+      "date_updated": "2026-07-22T16:24:38.325000+00:00",
       "date_done": "2026-07-17T09:00:37.221000+00:00"
     },
     "869e47a4v": {
@@ -185,7 +207,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e479ra",
       "date_created": "2026-07-13T17:28:33.355000+00:00",
-      "date_updated": "2026-07-17T08:47:15.089000+00:00",
+      "date_updated": "2026-07-22T16:24:36.573000+00:00",
       "date_done": "2026-07-17T08:47:15.089000+00:00"
     },
     "869e3uatb": {
@@ -328,7 +350,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0rhdq",
       "date_created": "2026-07-06T11:01:36.788000+00:00",
-      "date_updated": "2026-07-13T08:40:03.936000+00:00",
+      "date_updated": "2026-07-22T16:20:11.240000+00:00",
       "date_done": "2026-07-13T08:31:27.093000+00:00"
     },
     "869e0rgq9": {
@@ -339,7 +361,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0rgq9",
       "date_created": "2026-07-06T11:00:35.086000+00:00",
-      "date_updated": "2026-07-17T09:00:39.554000+00:00",
+      "date_updated": "2026-07-22T16:24:39.696000+00:00",
       "date_done": "2026-07-17T09:00:39.554000+00:00"
     },
     "869e0rfrq": {
@@ -361,7 +383,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0r7hg",
       "date_created": "2026-07-06T10:51:51.999000+00:00",
-      "date_updated": "2026-07-15T08:11:56.814000+00:00",
+      "date_updated": "2026-07-22T16:24:23.227000+00:00",
       "date_done": "2026-07-15T08:11:56.010000+00:00"
     },
     "869e0r76v": {
@@ -372,7 +394,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0r76v",
       "date_created": "2026-07-06T10:51:32.023000+00:00",
-      "date_updated": "2026-07-15T08:08:05.964000+00:00",
+      "date_updated": "2026-07-22T16:24:17.374000+00:00",
       "date_done": "2026-07-15T08:08:03.500000+00:00"
     },
     "869e0mjnv": {
@@ -482,7 +504,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8x1n",
       "date_created": "2026-06-29T15:15:31.077000+00:00",
-      "date_updated": "2026-07-09T18:09:17.646000+00:00",
+      "date_updated": "2026-07-22T16:18:03.988000+00:00",
       "date_done": "2026-07-08T10:06:57.866000+00:00"
     },
     "869dx8wxa": {
@@ -658,7 +680,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dughjg",
       "date_created": "2026-06-22T17:20:08.281000+00:00",
-      "date_updated": "2026-07-21T13:36:00.965000+00:00",
+      "date_updated": "2026-07-22T16:18:42.445000+00:00",
       "date_done": "2026-07-02T09:15:35.974000+00:00"
     },
     "869dug08z": {
@@ -8055,7 +8077,7 @@
     },
     "869e2bgpa": {
       "name": "Dieta Alta en Histamina",
-      "status": "to do",
+      "status": "en tierra",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Ideas creativas",
@@ -8066,7 +8088,7 @@
     },
     "869e24x8a": {
       "name": "Separar las 3 señales",
-      "status": "to do",
+      "status": "en tierra",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Ideas creativas",
@@ -8077,7 +8099,7 @@
     },
     "869e24ww2": {
       "name": "Proteger el folículo",
-      "status": "to do",
+      "status": "en tierra",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Ideas creativas",
@@ -8088,18 +8110,18 @@
     },
     "869e24w9e": {
       "name": "Dejar las pesas por la testosterona",
-      "status": "to do",
+      "status": "ejecutando",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Ideas creativas",
       "url": "https://app.clickup.com/t/869e24w9e",
       "date_created": "2026-07-08T15:56:41.307000+00:00",
-      "date_updated": "2026-07-08T15:56:41.355000+00:00",
+      "date_updated": "2026-07-22T10:55:36.213000+00:00",
       "date_done": null
     },
     "869e0rf1g": {
       "name": "Explicación de la DHT en caricatura",
-      "status": "to do",
+      "status": "en tierra",
       "assignee": "Gonzalo Millán",
       "client": "HAIR BIOLABS",
       "list": "Ideas creativas",
