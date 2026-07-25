@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-07-24T07:42:20.728228",
+  "timestamp": "2026-07-25T07:28:54.938292",
   "tasks": {
     "869e8f6zv": {
       "name": "L58-C331 Menop Miedo-VX-D",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8f6zv",
       "date_created": "2026-07-23T09:37:59.657000+00:00",
-      "date_updated": "2026-07-23T09:38:00.910000+00:00",
+      "date_updated": "2026-07-25T03:15:15.516000+00:00",
       "date_done": null
     },
     "869e8eguc": {
       "name": "L58-C330 3RF-VX-G",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8eguc",
       "date_created": "2026-07-23T09:02:42.613000+00:00",
-      "date_updated": "2026-07-23T09:02:44.222000+00:00",
+      "date_updated": "2026-07-25T03:14:36.361000+00:00",
       "date_done": null
     },
     "869e7vgq0": {
       "name": "L58-C179 ITER 2-Estilista-VX-G",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7vgq0",
       "date_created": "2026-07-22T09:07:15.343000+00:00",
-      "date_updated": "2026-07-22T09:07:16.870000+00:00",
+      "date_updated": "2026-07-25T03:14:05.222000+00:00",
       "date_done": null
     },
     "869e7vghr": {
@@ -102,13 +102,13 @@
     },
     "869e72krj": {
       "name": "L5-HB vs Dutasteride #B-Roll",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e72krj",
       "date_created": "2026-07-20T19:26:21.157000+00:00",
-      "date_updated": "2026-07-20T19:29:29.952000+00:00",
+      "date_updated": "2026-07-25T04:23:21.099000+00:00",
       "date_done": null
     },
     "869e72kqq": {
@@ -212,13 +212,13 @@
     },
     "869e47a4v": {
       "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47a4v",
       "date_created": "2026-07-13T17:29:29.347000+00:00",
-      "date_updated": "2026-07-15T03:15:15.664000+00:00",
+      "date_updated": "2026-07-25T03:15:42.154000+00:00",
       "date_done": null
     },
     "869e479ra": {
@@ -262,7 +262,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3uapv",
       "date_created": "2026-07-13T07:29:20.515000+00:00",
-      "date_updated": "2026-07-13T07:29:21.279000+00:00",
+      "date_updated": "2026-07-25T03:13:30.350000+00:00",
       "date_done": null
     },
     "869e3uamq": {
@@ -465,13 +465,13 @@
     },
     "869e0mjnv": {
       "name": "L56-C315 Papel-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0mjnv",
       "date_created": "2026-07-06T08:51:22.498000+00:00",
-      "date_updated": "2026-07-07T04:41:17.673000+00:00",
+      "date_updated": "2026-07-25T02:51:10.321000+00:00",
       "date_done": null
     },
     "869e0mjm9": {

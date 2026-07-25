@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:42:37.680547+00:00",
-  "snapshot_timestamp": "2026-07-24T07:42:20.728228",
+  "generated_at": "2026-07-25T07:29:06.811494+00:00",
+  "snapshot_timestamp": "2026-07-25T07:28:54.938292",
   "editors": [
     "Alejandra Ramirez",
     "Dayana Caicedo",
@@ -147,8 +147,8 @@
       "name": "L58-C331 Menop Miedo-VX-D",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -160,8 +160,8 @@
       "name": "L58-C330 3RF-VX-G",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -173,8 +173,8 @@
       "name": "L58-C179 ITER 2-Estilista-VX-G",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -247,19 +247,6 @@
       "url": "https://app.clickup.com/t/869e72kty"
     },
     {
-      "task_id": "869e72krj",
-      "name": "L5-HB vs Dutasteride #B-Roll",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-20T19:26:21.157000+00:00",
-      "url": "https://app.clickup.com/t/869e72krj"
-    },
-    {
       "task_id": "869e6811g",
       "name": "ADS REBAJAS FIN DE MES",
       "client": "HAIR BIOLABS",
@@ -303,8 +290,8 @@
       "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -388,19 +375,6 @@
       ],
       "date_created": "2026-07-06T11:00:35.086000+00:00",
       "url": "https://app.clickup.com/t/869e0rgq9"
-    },
-    {
-      "task_id": "869e0mjnv",
-      "name": "L56-C315 Papel-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-06T08:51:22.498000+00:00",
-      "url": "https://app.clickup.com/t/869e0mjnv"
     },
     {
       "task_id": "869dughjg",
@@ -676,6 +650,46 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869e3uarf"
+    },
+    {
+      "ts": "2026-07-25T07:29:06.711480+00:00",
+      "task_id": "869e8f6zv",
+      "name": "L58-C331 Menop Miedo-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e8f6zv"
+    },
+    {
+      "ts": "2026-07-25T07:29:06.711480+00:00",
+      "task_id": "869e8eguc",
+      "name": "L58-C330 3RF-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e8eguc"
+    },
+    {
+      "ts": "2026-07-25T07:29:06.711480+00:00",
+      "task_id": "869e7vgq0",
+      "name": "L58-C179 ITER 2-Estilista-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e7vgq0"
+    },
+    {
+      "ts": "2026-07-25T07:29:06.711480+00:00",
+      "task_id": "869e47a4v",
+      "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e47a4v"
     }
   ],
   "stats": {
@@ -683,8 +697,8 @@
     "total_completed": 9,
     "total_completed_with_dates": 9,
     "total_completed_with_done": 9,
-    "total_currently_assigned": 33,
-    "total_transitions_logged": 10,
+    "total_currently_assigned": 31,
+    "total_transitions_logged": 14,
     "total_editors": 8
   }
 }
