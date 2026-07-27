@@ -33,11 +33,23 @@ def main():
     print("=" * 60)
 
     try:
-        validate_config()
+        proyectos_sin_configurar = validate_config()
     except EnvironmentError as e:
         print(f"ERROR de configuracion: {e}")
         send_alert("Falta configuracion", str(e))
         sys.exit(1)
+
+    # Un proyecto sin secret no aborta la recoleccion, pero tampoco pasa
+    # desapercibido: sus tareas no se estarian contando en ningun reporte.
+    if proyectos_sin_configurar:
+        send_alert(
+            "Hay proyectos sin trackear",
+            f"Estos proyectos no tienen CLICKUP_FOLDER_ID configurado y "
+            f"quedan fuera de todos los reportes: "
+            f"{', '.join(proyectos_sin_configurar)}.\n\n"
+            f"Agrega su secret en GitHub > Settings > Secrets > Actions.",
+            urgente=False,
+        )
 
     # Preflight: si el token murio, decirlo claro y avisar a Slack.
     print("\nVerificando token de ClickUp...")

@@ -5,7 +5,13 @@ Documentación oficial: https://clickup.com/api
 import time
 
 import requests
-from config import CLICKUP_TOKEN, CLICKUP_TEAM_ID, FOLDERS, is_excluded_list
+from config import (
+    CLICKUP_TOKEN,
+    CLICKUP_TEAM_ID,
+    FOLDERS,
+    get_active_folders,
+    is_excluded_list,
+)
 
 # URL base de la API de ClickUp v2
 BASE_URL = "https://api.clickup.com/api/v2"
@@ -214,7 +220,9 @@ def get_snapshot():
         "tasks": {}
     }
 
-    for client_name, folder_id in FOLDERS.items():
+    activas, _ = get_active_folders()
+
+    for client_name, folder_id in activas.items():
         tasks = get_tasks_from_folder(folder_id)
 
         for task in tasks:

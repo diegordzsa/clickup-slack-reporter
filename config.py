@@ -193,8 +193,27 @@ def is_completed_status(status):
     return categorize_status(status) == "completado"
 
 
+def get_active_folders():
+    """
+    Devuelve (activas, faltantes): solo los proyectos que tienen folder_id.
+
+    Un proyecto sin su secret configurado NO debe tumbar todo el sistema:
+    se saltea y se avisa. Antes, una sola variable faltante hacia fallar la
+    recoleccion entera y dejaba todos los reportes sin datos.
+    """
+    activas = {k: v for k, v in FOLDERS.items() if v}
+    faltantes = [k for k, v in FOLDERS.items() if not v]
+    return activas, faltantes
+
+
 def validate_config():
-    """Verifica que todas las variables criticas esten presentes."""
+    """
+    Verifica lo verdaderamente critico. Devuelve la lista de proyectos sin
+    configurar para que quien llame pueda avisar sin abortar.
+
+    Solo falla si falta algo sin lo cual el sistema no puede operar:
+    token, team, webhook, o CERO proyectos configurados.
+    """
     missing = []
     if not CLICKUP_TOKEN:
         missing.append("CLICKUP_TOKEN")
@@ -203,9 +222,11 @@ def validate_config():
     if not SLACK_WEBHOOK_URL:
         missing.append("SLACK_WEBHOOK_URL")
 
-    for client_name, folder_id in FOLDERS.items():
-        if not folder_id:
-            missing.append(f"CLICKUP_FOLDER_ID para {client_name}")
+    activas, faltantes = get_active_folders()
+    if not activas:
+        missing.append(
+            "al menos un CLICKUP_FOLDER_ID (no hay ningun proyecto configurado)"
+        )
 
     if missing:
         raise EnvironmentError(
@@ -214,10 +235,15 @@ def validate_config():
 
     print("Configuracion cargada correctamente")
     print(f"  - Team ID: {CLICKUP_TEAM_ID}")
-    print(f"  - Carpetas a monitorear: {len(FOLDERS)}")
-    for name in FOLDERS:
+    print(f"  - Proyectos activos: {len(activas)}")
+    for name in activas:
         print(f"    - {name}")
+    if faltantes:
+        print(f"  - SIN CONFIGURAR ({len(faltantes)}): {', '.join(faltantes)}")
+        print("    Agrega su CLICKUP_FOLDER_ID en los secrets para incluirlos.")
     print(f"  - Categorias de status: {list(STATUS_CATEGORIES.keys())}")
+
+    return faltantes
 
 
 if __name__ == "__main__":
