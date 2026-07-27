@@ -1,6 +1,28 @@
 {
-  "timestamp": "2026-07-26T07:46:14.105061",
+  "timestamp": "2026-07-27T08:48:04.812917",
   "tasks": {
+    "869e9n7jj": {
+      "name": "L59-C295 ITER 1-Peluquera-VX-G",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869e9n7jj",
+      "date_created": "2026-07-27T08:01:29.220000+00:00",
+      "date_updated": "2026-07-27T08:01:32.025000+00:00",
+      "date_done": null
+    },
+    "869e9kvfz": {
+      "name": "L59-C335 Dermatologa-VX-G",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869e9kvfz",
+      "date_created": "2026-07-27T06:46:34.734000+00:00",
+      "date_updated": "2026-07-27T06:46:35.685000+00:00",
+      "date_done": null
+    },
     "869e8f6zv": {
       "name": "L58-C331 Menop Miedo-VX-D",
       "status": "en curso",
@@ -212,13 +234,13 @@
     },
     "869e47a4v": {
       "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47a4v",
       "date_created": "2026-07-13T17:29:29.347000+00:00",
-      "date_updated": "2026-07-25T03:15:42.154000+00:00",
+      "date_updated": "2026-07-27T03:00:22.226000+00:00",
       "date_done": null
     },
     "869e479ra": {
