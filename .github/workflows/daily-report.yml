@@ -35,9 +35,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Solo aplica a corridas programadas: evita que el cron de respaldo
+      # (8:17) repita el trabajo si el de las 5:17 ya lo hizo. Una corrida
+      # manual (workflow_dispatch) SIEMPRE se ejecuta: si alguien la lanza
+      # a proposito, es porque quiere forzar el refresco.
       - name: Skip if today's snapshot already exists
         id: guard
         run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Corrida manual: se ejecuta siempre."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           if [ -f data/last_snapshot.json ]; then
             SNAP_DAY=$(python -c "import json;print(json.load(open('data/last_snapshot.json'))['timestamp'][:10])")
             if [ "$SNAP_DAY" = "$(date -u +%Y-%m-%d)" ]; then
