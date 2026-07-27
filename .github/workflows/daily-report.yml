@@ -1,10 +1,19 @@
-﻿name: Daily Report
+name: Daily Report
 
 on:
   schedule:
     # 6:00 AM hora España = 4:00 UTC en horario verano, 5:00 UTC en invierno
     - cron: '17 5 * * *'
+    # Reintento 3h despues: si el runner de la manana se cayo o GitHub
+    # descarto el cron por carga, la segunda pasada salva el dia.
+    # Si el snapshot del dia ya se tomo, el job termina sin hacer nada.
+    - cron: '17 8 * * *'
   workflow_dispatch:  # Permite correr manualmente desde GitHub
+
+# Evita que dos corridas se pisen al pushear el snapshot
+concurrency:
+  group: daily-report
+  cancel-in-progress: false
 
 jobs:
   generate-report:
@@ -26,19 +35,39 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Skip if today's snapshot already exists
+        id: guard
+        run: |
+          if [ -f data/last_snapshot.json ]; then
+            SNAP_DAY=$(python -c "import json;print(json.load(open('data/last_snapshot.json'))['timestamp'][:10])")
+            if [ "$SNAP_DAY" = "$(date -u +%Y-%m-%d)" ]; then
+              echo "El snapshot de hoy ($SNAP_DAY) ya existe. Nada que hacer."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+
       - name: Collect daily snapshot
+        if: steps.guard.outputs.skip != 'true'
         env:
           CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
           CLICKUP_TEAM_ID: ${{ secrets.CLICKUP_TEAM_ID }}
           CLICKUP_FOLDER_ID_HAIRBIOLABS: ${{ secrets.CLICKUP_FOLDER_ID_HAIRBIOLABS }}
-          CLICKUP_FOLDER_ID_SKINPLUS: ${{ secrets.CLICKUP_FOLDER_ID_SKINPLUS }}
+          CLICKUP_FOLDER_ID_HAIRBIOLABS_MX: ${{ secrets.CLICKUP_FOLDER_ID_HAIRBIOLABS_MX }}
+          CLICKUP_FOLDER_ID_LYSSODERMA: ${{ secrets.CLICKUP_FOLDER_ID_LYSSODERMA }}
+          CLICKUP_FOLDER_ID_LYSSODERMA_EN: ${{ secrets.CLICKUP_FOLDER_ID_LYSSODERMA_EN }}
+          CLICKUP_FOLDER_ID_ESPANA: ${{ secrets.CLICKUP_FOLDER_ID_ESPANA }}
+          CLICKUP_FOLDER_ID_ZENDI: ${{ secrets.CLICKUP_FOLDER_ID_ZENDI }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python main.py
 
       - name: Build dashboard data
+        if: steps.guard.outputs.skip != 'true'
         run: python dashboard_data.py
 
       - name: Commit snapshot, transitions log and dashboard data
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -49,5 +78,34 @@ jobs:
           if [ -f docs/data.json ]; then
             git add docs/data.json
           fi
-          git diff --staged --quiet || git commit -m "Daily update $(date -u +%Y-%m-%d)"
-          git push
+          git diff --staged --quiet && echo "Sin cambios que commitear" && exit 0
+          git commit -m "Daily update $(date -u +%Y-%m-%d)"
+          # Reintenta el push: si el weekly pusheo primero, rebasea y vuelve
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push OK"
+              exit 0
+            fi
+            echo "Push fallo (intento $i). Rebaseando sobre origin/main..."
+            git pull --rebase origin main || exit 1
+            sleep 5
+          done
+          echo "No se pudo pushear tras 3 intentos"
+          exit 1
+
+      # Cualquier fallo de arriba (incluso antes de que Python arranque)
+      # termina aqui. Sin esto, un fallo es invisible: exactamente lo que
+      # paso del 4 al 21 de julio de 2026 con el token vencido.
+      - name: Alertar a Slack si algo fallo
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "Sin SLACK_WEBHOOK_URL: no se puede alertar"
+            exit 0
+          fi
+          RUN_URL="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          curl -sS -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\":rotating_light: *Daily Report FALLO* — $(date -u +%Y-%m-%d\ %H:%M) UTC\nEl snapshot de ClickUp no se tomo. Los reportes van a quedar desactualizados hasta que se arregle.\n<${RUN_URL}|Ver el error>\"}" \
+            "$SLACK_WEBHOOK_URL"

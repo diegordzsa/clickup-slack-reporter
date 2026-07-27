@@ -2,8 +2,10 @@
 Cliente para interactuar con la API de ClickUp.
 Documentación oficial: https://clickup.com/api
 """
+import time
+
 import requests
-from config import CLICKUP_TOKEN, FOLDERS
+from config import CLICKUP_TOKEN, CLICKUP_TEAM_ID, FOLDERS, is_excluded_list
 
 # URL base de la API de ClickUp v2
 BASE_URL = "https://api.clickup.com/api/v2"
@@ -14,6 +16,68 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
+# Reintentos ante errores transitorios (rate limit y caidas de ClickUp)
+MAX_RETRIES = 4
+RETRY_STATUSES = {429, 500, 502, 503, 504}
+
+
+class TokenInvalidError(Exception):
+    """El token de ClickUp es invalido o expiro (401). No se reintenta."""
+
+
+def request_with_retry(url, params=None, timeout=30):
+    """
+    GET a la API de ClickUp con reintentos ante errores transitorios.
+
+    - 401  -> TokenInvalidError inmediato (reintentar no sirve de nada).
+    - 429 / 5xx -> backoff exponencial (2s, 4s, 8s...).
+    - Errores de red -> mismo backoff.
+
+    Este wrapper existe porque el sistema estuvo 18 dias fallando en silencio
+    por un token vencido: ahora el motivo sale explicito en el log.
+    """
+    last_error = None
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(url, headers=HEADERS, params=params, timeout=timeout)
+        except requests.RequestException as e:
+            last_error = f"error de red: {e}"
+        else:
+            if response.status_code == 200:
+                return response.json()
+
+            if response.status_code == 401:
+                raise TokenInvalidError(
+                    "El token de ClickUp es invalido o expiro (401). "
+                    "Generalo de nuevo en ClickUp (Settings > Apps > API Token) "
+                    "y actualiza el secret CLICKUP_TOKEN en GitHub."
+                )
+
+            if response.status_code not in RETRY_STATUSES:
+                raise Exception(
+                    f"Error {response.status_code} en {url}: {response.text[:200]}"
+                )
+
+            last_error = f"HTTP {response.status_code}: {response.text[:120]}"
+
+        if attempt < MAX_RETRIES - 1:
+            wait = 2 ** (attempt + 1)
+            print(f"   Reintento {attempt + 1}/{MAX_RETRIES - 1} en {wait}s ({last_error})")
+            time.sleep(wait)
+
+    raise Exception(f"Fallo tras {MAX_RETRIES} intentos en {url}: {last_error}")
+
+
+def check_token():
+    """
+    Verifica que el token sirva ANTES de intentar bajar nada.
+    Falla rapido y con un mensaje que se entiende.
+    """
+    request_with_retry(f"{BASE_URL}/team/{CLICKUP_TEAM_ID}/space",
+                       params={"archived": "false"})
+    return True
+
 
 def get_tasks_from_folder(folder_id, include_closed=True):
     """
@@ -21,20 +85,17 @@ def get_tasks_from_folder(folder_id, include_closed=True):
     """
     all_tasks = []
 
-    url = f"{BASE_URL}/folder/{folder_id}/list"
-    response = requests.get(url, headers=HEADERS)
-
-    if response.status_code != 200:
-        raise Exception(
-            f"Error al obtener lists de la carpeta {folder_id}: "
-            f"{response.status_code} - {response.text}"
-        )
-
-    lists = response.json().get("lists", [])
+    data = request_with_retry(f"{BASE_URL}/folder/{folder_id}/list")
+    lists = data.get("lists", [])
 
     for lst in lists:
         list_id = lst["id"]
         list_name = lst["name"]
+
+        # Las listas excluidas (ej: "Ideas creativas") no entran a metricas
+        if is_excluded_list(list_name):
+            continue
+
         tasks = get_tasks_from_list(list_id, include_closed)
         for task in tasks:
             task["_list_name"] = list_name
@@ -49,22 +110,15 @@ def get_tasks_from_list(list_id, include_closed=True):
     page = 0
 
     while True:
-        url = f"{BASE_URL}/list/{list_id}/task"
-        params = {
-            "page": page,
-            "include_closed": str(include_closed).lower(),
-            "subtasks": "true",
-        }
+        data = request_with_retry(
+            f"{BASE_URL}/list/{list_id}/task",
+            params={
+                "page": page,
+                "include_closed": str(include_closed).lower(),
+                "subtasks": "true",
+            },
+        )
 
-        response = requests.get(url, headers=HEADERS, params=params)
-
-        if response.status_code != 200:
-            raise Exception(
-                f"Error al obtener tasks de list {list_id}: "
-                f"{response.status_code} - {response.text}"
-            )
-
-        data = response.json()
         tasks = data.get("tasks", [])
 
         if not tasks:

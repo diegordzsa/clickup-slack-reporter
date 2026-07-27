@@ -3,8 +3,10 @@ Cliente para mandar mensajes a Slack via Incoming Webhook.
 Usa Block Kit para que el mensaje se vea profesional y estructurado.
 Documentacion de Block Kit: https://api.slack.com/block-kit
 """
-import requests
+import time
 from datetime import datetime
+
+import requests
 
 from config import (
     SLACK_WEBHOOK_URL,
@@ -15,8 +17,12 @@ from config import (
 )
 
 CLIENT_EMOJIS = {
-    "HAIR BIOLABS": ":lotion_bottle:",
-    "SKIN+":        ":sparkles:",
+    "HAIR BIOLABS":       ":lotion_bottle:",
+    "HAIR BIOLABS MX":    ":flag-mx:",
+    "Lyssoderma":         ":sparkles:",
+    "Lyssoderma English": ":flag-gb:",
+    "Proyecto Espana":    ":flag-es:",
+    "ZENDI":              ":zap:",
 }
 
 MAX_BLOCKS_PER_MESSAGE = 50
@@ -31,14 +37,71 @@ def send_to_slack(blocks, fallback_text="Reporte semanal de actividad"):
         "blocks": blocks,
     }
 
-    response = requests.post(SLACK_WEBHOOK_URL, json=payload, timeout=15)
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = requests.post(SLACK_WEBHOOK_URL, json=payload, timeout=15)
+            if response.status_code == 200:
+                print("Mensaje enviado a Slack correctamente")
+                return
+            last_error = f"{response.status_code} - {response.text[:150]}"
+        except requests.RequestException as e:
+            last_error = str(e)
 
-    if response.status_code != 200:
-        raise Exception(
-            f"Error al enviar a Slack: {response.status_code} - {response.text}"
+        if attempt < 2:
+            time.sleep(2 ** (attempt + 1))
+
+    raise Exception(f"Error al enviar a Slack tras 3 intentos: {last_error}")
+
+
+def send_alert(titulo, detalle, urgente=True):
+    """
+    Manda una alerta de fallo a Slack.
+
+    Existe porque el sistema estuvo 18 dias caido sin que nadie se enterara:
+    un fallo silencioso es peor que un fallo ruidoso. Nunca lanza excepcion
+    hacia arriba (si Slack tambien esta caido, solo lo loguea) para no tapar
+    el error original que la disparo.
+    """
+    icono = ":rotating_light:" if urgente else ":warning:"
+    blocks = [
+        {
+            "type": "header",
+            "text": {
+                "type": "plain_text",
+                "text": f"{'FALLO' if urgente else 'AVISO'}: reporte de ClickUp",
+                "emoji": True,
+            },
+        },
+        {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"{icono} *{titulo}*\n\n```{detalle}```"},
+        },
+        {
+            "type": "context",
+            "elements": [{
+                "type": "mrkdwn",
+                "text": f"_{datetime.now().strftime('%Y-%m-%d %H:%M UTC')}_ · "
+                        f"<https://github.com/diegordzsa/clickup-slack-reporter/actions|Ver ejecuciones>",
+            }],
+        },
+    ]
+
+    if not SLACK_WEBHOOK_URL:
+        print(f"ALERTA (sin webhook configurado): {titulo} - {detalle}")
+        return False
+
+    try:
+        requests.post(
+            SLACK_WEBHOOK_URL,
+            json={"text": f"{'FALLO' if urgente else 'AVISO'}: {titulo}", "blocks": blocks},
+            timeout=15,
         )
-
-    print("Mensaje enviado a Slack correctamente")
+        print(f"Alerta enviada a Slack: {titulo}")
+        return True
+    except Exception as e:
+        print(f"No se pudo enviar la alerta a Slack: {e}")
+        return False
 
 
 def build_weekly_report_blocks(weekly_data, period_start, period_end):

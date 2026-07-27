@@ -15,11 +15,22 @@ load_dotenv()
 CLICKUP_TOKEN = os.getenv("CLICKUP_TOKEN")
 CLICKUP_TEAM_ID = os.getenv("CLICKUP_TEAM_ID")
 
-# Carpetas a monitorear (cliente -> folder_id)
+# Carpetas a monitorear (cliente -> folder_id).
+# Es el folder "EQUIPO CREATIVOS" de cada space: ahi vive la produccion.
+# SKIN+ salio del tracking: su space esta ARCHIVADO en ClickUp y su contenido
+# se migro a Lyssoderma / Lyssoderma English.
 FOLDERS = {
-    "HAIR BIOLABS": os.getenv("CLICKUP_FOLDER_ID_HAIRBIOLABS"),
-    "SKIN+":        os.getenv("CLICKUP_FOLDER_ID_SKINPLUS"),
+    "HAIR BIOLABS":       os.getenv("CLICKUP_FOLDER_ID_HAIRBIOLABS"),
+    "HAIR BIOLABS MX":    os.getenv("CLICKUP_FOLDER_ID_HAIRBIOLABS_MX"),
+    "Lyssoderma":         os.getenv("CLICKUP_FOLDER_ID_LYSSODERMA"),
+    "Lyssoderma English": os.getenv("CLICKUP_FOLDER_ID_LYSSODERMA_EN"),
+    "Proyecto Espana":    os.getenv("CLICKUP_FOLDER_ID_ESPANA"),
+    "ZENDI":              os.getenv("CLICKUP_FOLDER_ID_ZENDI"),
 }
+
+# Listas que no entran a ninguna metrica. "Ideas creativas" es backlog de
+# ideas, no trabajo de edicion: no debe contarle a ningun editor.
+EXCLUDED_LISTS = ["ideas creativas"]
 
 # Slack
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
@@ -35,14 +46,23 @@ SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 # - SKIN+ / Tareas:                  ASIGNADO, REVISAR, HECHO
 STATUS_CATEGORIES = {
     "asignado":   ["asignado", "assigned"],
-    "en_curso":   ["en progreso", "en curso"],
-    "revision":   ["revision", "revisar"],
+    "en_curso":   ["en progreso", "en curso", "in progress"],
+    "revision":   ["revision", "revisar", "aprobacion"],
     "aprobado":   ["aprobado", "approved"],
-    "completado": ["completado", "final", "finales", "hecho", "complete"],
+    # "testado" es el estado TERMINAL del flujo creativo: el material ya se
+    # probo en ads. El flujo real es revision -> final -> testado, y tambien
+    # aprobado -> testado. ClickUp le sella date_done, o sea que lo trata
+    # como cierre. Es el 69% del tablero: dejarlo fuera subcontaba todo.
+    "completado": ["completado", "final", "finales", "hecho", "complete", "testado"],
 }
 
-# Status que ignoramos completamente (no entran en ninguna metrica)
-IGNORED_STATUSES = ["to do", "draft", "borrador", "pendiente", "archivado", "leer", "testado"]
+# Status que ignoramos completamente (no entran en ninguna metrica).
+# - draft: estado de trabajo intermedio, no cierre (assigned -> draft -> testado)
+# - en tierra / ejecutando / backlog / hold: estados de ideas y pausas
+IGNORED_STATUSES = [
+    "to do", "draft", "borrador", "pendiente", "archivado", "leer",
+    "en tierra", "ejecutando", "backlog", "hold",
+]
 
 # Orden en que aparecen las categorias en el reporte
 CATEGORY_ORDER = ["asignado", "en_curso", "revision", "aprobado", "completado"]
@@ -95,7 +115,8 @@ def _normalize(text):
         return ""
     nfkd = unicodedata.normalize("NFD", text)
     no_accents = "".join(c for c in nfkd if not unicodedata.combining(c))
-    return no_accents.strip().lower()
+    # Colapsa espacios internos para tolerar "en  curso" o "Ideas  creativas"
+    return re.sub(r"\s+", " ", no_accents).strip().lower()
 
 
 def normalize_editor(name):
@@ -153,6 +174,15 @@ def categorize_status(status_name):
             return category
 
     return None
+
+
+def is_excluded_list(list_name):
+    """
+    True si la lista no debe entrar en ninguna metrica (ej: "Ideas creativas").
+    Tolerante a acentos, mayusculas y espacios.
+    """
+    normalized = _normalize(list_name)
+    return any(normalized == _normalize(x) for x in EXCLUDED_LISTS)
 
 
 def is_completed_status(status):

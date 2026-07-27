@@ -21,11 +21,14 @@ Reglas de negocio:
   (ej: en_curso -> revision -> aprobado), cada transicion cuenta. Es lo
   esperado para medir actividad real.
 """
+import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 
 from config import validate_config, CATEGORY_ORDER, normalize_editor
-from slack_client import build_weekly_report_blocks, send_to_slack
+from slack_client import build_weekly_report_blocks, send_to_slack, send_alert
+from snapshot_manager import SNAPSHOT_FILE
 from transitions_log import (
     read_log,
     filter_by_date_range,
@@ -35,6 +38,46 @@ from transitions_log import (
 
 # Retencion del log: borrar entradas con mas de esto al final del weekly
 LOG_RETENTION_DAYS = 30
+
+# Si el ultimo snapshot tiene mas dias que esto, el daily esta caido y el
+# reporte semanal seria mentira. En julio de 2026 el daily estuvo 18 dias
+# fallando por un token vencido y el weekly siguio mandando reportes con
+# aspecto normal: nadie se entero. Esta guarda existe por eso.
+MAX_DIAS_SNAPSHOT = 3
+
+
+def check_data_freshness():
+    """
+    Verifica que el daily haya corrido hace poco. Devuelve (ok, mensaje).
+    Si el snapshot no existe o esta viejo, el weekly no debe reportar como
+    si nada: tiene que gritar.
+    """
+    if not os.path.exists(SNAPSHOT_FILE):
+        return False, (
+            f"No existe {SNAPSHOT_FILE}. El daily nunca corrio con exito o el "
+            f"archivo se perdio. El reporte semanal no tiene datos de donde salir."
+        )
+
+    try:
+        with open(SNAPSHOT_FILE, "r", encoding="utf-8") as f:
+            snapshot = json.load(f)
+        ts = datetime.fromisoformat(snapshot["timestamp"])
+    except (json.JSONDecodeError, KeyError, ValueError) as e:
+        return False, f"No se pudo leer el timestamp de {SNAPSHOT_FILE}: {e}"
+
+    if ts.tzinfo is None:
+        ts = ts.replace(tzinfo=timezone.utc)
+
+    edad = (datetime.now(timezone.utc) - ts).days
+    if edad > MAX_DIAS_SNAPSHOT:
+        return False, (
+            f"El ultimo snapshot es del {ts.strftime('%Y-%m-%d')} ({edad} dias). "
+            f"El daily no esta corriendo bien: revisa si el token de ClickUp "
+            f"vencio. Los numeros de esta semana serian incompletos, asi que "
+            f"no se envio el reporte."
+        )
+
+    return True, f"Snapshot al dia ({ts.strftime('%Y-%m-%d')}, {edad}d)"
 
 
 def _last_week_range():
@@ -159,6 +202,16 @@ def main():
         validate_config()
     except EnvironmentError as e:
         print(f"ERROR de configuracion: {e}")
+        send_alert("Falta configuracion en el reporte semanal", str(e))
+        sys.exit(1)
+
+    # Paso 1.5: no reportar sobre datos viejos. Mejor una alerta que un
+    # reporte que parece correcto y no lo es.
+    print("\nVerificando frescura de los datos...")
+    fresco, mensaje = check_data_freshness()
+    print(f"   {mensaje}")
+    if not fresco:
+        send_alert("Datos desactualizados: no se envio el reporte semanal", mensaje)
         sys.exit(1)
 
     # Paso 2: leer log y filtrar semana anterior (lunes a domingo)
@@ -188,6 +241,7 @@ def main():
         send_to_slack(blocks, fallback_text="Reporte semanal de actividad")
     except Exception as e:
         print(f"ERROR al enviar a Slack: {e}")
+        send_alert("Fallo el envio del reporte semanal", str(e))
         # No limpiamos el log si Slack fallo: queremos otra oportunidad
         sys.exit(1)
 
