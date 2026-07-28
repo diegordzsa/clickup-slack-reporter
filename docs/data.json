@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T21:48:18.612560+00:00",
-  "snapshot_timestamp": "2026-07-27T21:47:58.406095",
+  "generated_at": "2026-07-28T07:48:27.955408+00:00",
+  "snapshot_timestamp": "2026-07-28T07:48:04.220080",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -8812,19 +8812,6 @@
       "url": "https://app.clickup.com/t/869e9wdc6"
     },
     {
-      "task_id": "869e9w654",
-      "name": "L58-333-Beneficios DHT-VX-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-27T12:16:43.576000+00:00",
-      "url": "https://app.clickup.com/t/869e9w654"
-    },
-    {
       "task_id": "869e9vvqt",
       "name": "L58-332-GYM-VX-G",
       "client": "HAIR BIOLABS",
@@ -8849,19 +8836,6 @@
       ],
       "date_created": "2026-07-27T08:01:29.220000+00:00",
       "url": "https://app.clickup.com/t/869e9n7jj"
-    },
-    {
-      "task_id": "869e9kvfz",
-      "name": "L59-C335 Dermatologa-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-27T06:46:34.734000+00:00",
-      "url": "https://app.clickup.com/t/869e9kvfz"
     },
     {
       "task_id": "869e8f6zv",
@@ -9164,19 +9138,6 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
-      "task_id": "869e9wf8h",
-      "name": "B-ROLLS NUEVOS",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-07-27T12:27:40.137000+00:00",
-      "url": "https://app.clickup.com/t/869e9wf8h"
-    },
-    {
       "task_id": "869e8qeje",
       "name": "L12-C46-Traducción",
       "client": "HAIR BIOLABS MX",
@@ -9188,32 +9149,6 @@
       ],
       "date_created": "2026-07-23T14:12:45.105000+00:00",
       "url": "https://app.clickup.com/t/869e8qeje"
-    },
-    {
-      "task_id": "869e8qe6x",
-      "name": "L12-C42-Traducción",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-07-23T14:12:16.975000+00:00",
-      "url": "https://app.clickup.com/t/869e8qe6x"
-    },
-    {
-      "task_id": "869e8qdy5",
-      "name": "L12-C24-Traducción",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-07-23T14:11:52.112000+00:00",
-      "url": "https://app.clickup.com/t/869e8qdy5"
     },
     {
       "task_id": "869e1b43p",
@@ -10726,19 +10661,6 @@
       "url": "https://app.clickup.com/t/86999pwrb"
     },
     {
-      "task_id": "869e7m2v1",
-      "name": "New Product NIVELIA®",
-      "client": "ZENDI",
-      "list": "Landings PDP, Listicle",
-      "category": "en_curso",
-      "status": "in progress",
-      "assignees": [
-        "Milagros"
-      ],
-      "date_created": "2026-07-21T16:54:27.162000+00:00",
-      "url": "https://app.clickup.com/t/869e7m2v1"
-    },
-    {
       "task_id": "869e5fw6y",
       "name": "RECREAR HOME PAGE DE ZENDI",
       "client": "ZENDI",
@@ -10988,7 +10910,7 @@
     "total_completed": 672,
     "total_completed_with_dates": 672,
     "total_completed_with_done": 672,
-    "total_currently_assigned": 153,
+    "total_currently_assigned": 147,
     "total_transitions_logged": 19,
     "total_editors": 27
   }
