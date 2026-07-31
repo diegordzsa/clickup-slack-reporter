@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:42:58.445404+00:00",
-  "snapshot_timestamp": "2026-07-30T07:42:39.244460",
+  "generated_at": "2026-07-31T08:10:37.335439+00:00",
+  "snapshot_timestamp": "2026-07-31T08:10:20.250519",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -7523,6 +7523,20 @@
       "url": "https://app.clickup.com/t/869dkv620"
     },
     {
+      "task_id": "869eb6vhk",
+      "name": "Listicle 7RW Injerto",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-07-29T15:39:16.193000+00:00",
+      "date_done": "2026-07-30T15:43:55.057000+00:00",
+      "lead_time_hours": 24.08,
+      "url": "https://app.clickup.com/t/869eb6vhk"
+    },
+    {
       "task_id": "869eaf56x",
       "name": "Producto Dermarroller",
       "client": "HAIR BIOLABS",
@@ -7640,6 +7654,32 @@
       "url": "https://app.clickup.com/t/869e9wf8h"
     },
     {
+      "task_id": "869e8qe6x",
+      "name": "L12-C42-Traducción",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Olga Vasquez"
+      ],
+      "date_created": "2026-07-23T14:12:16.975000+00:00",
+      "date_done": "2026-07-29T10:23:54.852000+00:00",
+      "lead_time_hours": 140.19,
+      "url": "https://app.clickup.com/t/869e8qe6x"
+    },
+    {
+      "task_id": "869e8qdg2",
+      "name": "L12-C1-Traducción",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Olga Vasquez"
+      ],
+      "date_created": "2026-07-23T14:11:22.881000+00:00",
+      "date_done": "2026-07-29T10:22:34.442000+00:00",
+      "lead_time_hours": 140.19,
+      "url": "https://app.clickup.com/t/869e8qdg2"
+    },
+    {
       "task_id": "869e59eza",
       "name": "L4-Peluquera mayor-G",
       "client": "HAIR BIOLABS MX",
@@ -7677,6 +7717,19 @@
       "date_done": "2026-07-22T15:44:27.607000+00:00",
       "lead_time_hours": 219.76,
       "url": "https://app.clickup.com/t/869e4171b"
+    },
+    {
+      "task_id": "869e416zt",
+      "name": "L3-Caricatura-G",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-13T11:58:49.270000+00:00",
+      "date_done": "2026-07-29T10:25:09.668000+00:00",
+      "lead_time_hours": 382.44,
+      "url": "https://app.clickup.com/t/869e416zt"
     },
     {
       "task_id": "869e416ww",
@@ -7872,6 +7925,32 @@
       "date_done": "2026-07-29T01:11:03.306000+00:00",
       "lead_time_hours": 181.39,
       "url": "https://app.clickup.com/t/869e7d474"
+    },
+    {
+      "task_id": "869e7d455",
+      "name": "L1-C21-Comparación vs Marcas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-21T11:47:35.126000+00:00",
+      "date_done": "2026-07-27T15:58:08.313000+00:00",
+      "lead_time_hours": 148.18,
+      "url": "https://app.clickup.com/t/869e7d455"
+    },
+    {
+      "task_id": "869e7d42x",
+      "name": "L1-Expresiones Faciales #UGC",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-21T11:47:25.999000+00:00",
+      "date_done": "2026-07-29T15:49:38.889000+00:00",
+      "lead_time_hours": 196.04,
+      "url": "https://app.clickup.com/t/869e7d42x"
     },
     {
       "task_id": "869e7d3zz",
@@ -8994,6 +9073,19 @@
       "url": "https://app.clickup.com/t/869e9wdc6"
     },
     {
+      "task_id": "869e9w654",
+      "name": "L58-333-Beneficios DHT-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-27T12:16:43.576000+00:00",
+      "url": "https://app.clickup.com/t/869e9w654"
+    },
+    {
       "task_id": "869e9vvqt",
       "name": "L58-332-GYM-VX-G",
       "client": "HAIR BIOLABS",
@@ -9005,6 +9097,19 @@
       ],
       "date_created": "2026-07-27T12:04:25.169000+00:00",
       "url": "https://app.clickup.com/t/869e9vvqt"
+    },
+    {
+      "task_id": "869e9n7jj",
+      "name": "L59-C335 Dermatologa-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-27T08:01:29.220000+00:00",
+      "url": "https://app.clickup.com/t/869e9n7jj"
     },
     {
       "task_id": "869e8f6zv",
@@ -9050,8 +9155,8 @@
       "name": "L5-Dependencia #Caricatura",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -9161,6 +9266,19 @@
       ],
       "date_created": "2026-07-13T17:29:53.922000+00:00",
       "url": "https://app.clickup.com/t/869e47abf"
+    },
+    {
+      "task_id": "869e47a4v",
+      "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-13T17:29:29.347000+00:00",
+      "url": "https://app.clickup.com/t/869e47a4v"
     },
     {
       "task_id": "869e3uapv",
@@ -9281,19 +9399,6 @@
       "url": "https://app.clickup.com/t/869e8qeje"
     },
     {
-      "task_id": "869e8qe6x",
-      "name": "L12-C42-Traducción",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-07-23T14:12:16.975000+00:00",
-      "url": "https://app.clickup.com/t/869e8qe6x"
-    },
-    {
       "task_id": "869e8qdy5",
       "name": "L12-C24-Traducción",
       "client": "HAIR BIOLABS MX",
@@ -9305,19 +9410,6 @@
       ],
       "date_created": "2026-07-23T14:11:52.112000+00:00",
       "url": "https://app.clickup.com/t/869e8qdy5"
-    },
-    {
-      "task_id": "869e8qdg2",
-      "name": "L12-C1-Traducción",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-07-23T14:11:22.881000+00:00",
-      "url": "https://app.clickup.com/t/869e8qdg2"
     },
     {
       "task_id": "869e8qcny",
@@ -9357,19 +9449,6 @@
       ],
       "date_created": "2026-07-23T14:05:11.575000+00:00",
       "url": "https://app.clickup.com/t/869e8q8e3"
-    },
-    {
-      "task_id": "869e416zt",
-      "name": "L3-Caricatura-G",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-13T11:58:49.270000+00:00",
-      "url": "https://app.clickup.com/t/869e416zt"
     },
     {
       "task_id": "869e1b43p",
@@ -9454,8 +9533,8 @@
       "name": "L2-Verte Más Joven #Autoridad-VX",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -9463,8 +9542,8 @@
       "url": "https://app.clickup.com/t/869e9zvxr"
     },
     {
-      "task_id": "869e7d455",
-      "name": "L1-C21-Comparación vs Marcas #B-Roll",
+      "task_id": "869e9zvqu",
+      "name": "L2-Cansada y Apagada #UGC-VX",
       "client": "Lyssoderma",
       "list": "Producción",
       "category": "aprobado",
@@ -9472,21 +9551,8 @@
       "assignees": [
         "Dayana Caicedo"
       ],
-      "date_created": "2026-07-21T11:47:35.126000+00:00",
-      "url": "https://app.clickup.com/t/869e7d455"
-    },
-    {
-      "task_id": "869e7d42x",
-      "name": "L1-Expresiones Faciales #UGC",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-21T11:47:25.999000+00:00",
-      "url": "https://app.clickup.com/t/869e7d42x"
+      "date_created": "2026-07-27T14:39:22.761000+00:00",
+      "url": "https://app.clickup.com/t/869e9zvqu"
     },
     {
       "task_id": "869e3dmew",
@@ -9632,6 +9698,32 @@
       ],
       "date_created": "2026-06-25T10:16:07.077000+00:00",
       "url": "https://app.clickup.com/t/869dvtwap"
+    },
+    {
+      "task_id": "869ebfh2t",
+      "name": "NIVELIA VIDEOS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-30T03:21:48.753000+00:00",
+      "url": "https://app.clickup.com/t/869ebfh2t"
+    },
+    {
+      "task_id": "869eapd6n",
+      "name": "NIVELIA STATIC",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-28T18:50:21.691000+00:00",
+      "url": "https://app.clickup.com/t/869eapd6n"
     },
     {
       "task_id": "869eapcwb",
@@ -11459,15 +11551,165 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869e9wf8h"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e9w654",
+      "name": "L58-333-Beneficios DHT-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e9w654"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869ebfh2t",
+      "name": "NIVELIA VIDEOS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ebfh2t"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869eapd6n",
+      "name": "NIVELIA STATIC",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eapd6n"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e9n7jj",
+      "name": "L59-C335 Dermatologa-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e9n7jj"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e72kyj",
+      "name": "L5-Dependencia #Caricatura",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e72kyj"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e47a4v",
+      "name": "L4-5 Señales #Caricatura/Autoridad + B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e47a4v"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e9zvxr",
+      "name": "L2-Verte Más Joven #Autoridad-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e9zvxr"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e9zvqu",
+      "name": "L2-Cansada y Apagada #UGC-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e9zvqu"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869eb6vhk",
+      "name": "Listicle 7RW Injerto",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869eb6vhk"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869eb6vhk",
+      "name": "Listicle 7RW Injerto",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869eb6vhk"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e8qe6x",
+      "name": "L12-C42-Traducción",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869e8qe6x"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e8qdg2",
+      "name": "L12-C1-Traducción",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869e8qdg2"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e416zt",
+      "name": "L3-Caricatura-G",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e416zt"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e7d455",
+      "name": "L1-C21-Comparación vs Marcas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e7d455"
+    },
+    {
+      "ts": "2026-07-31T08:10:37.187233+00:00",
+      "task_id": "869e7d42x",
+      "name": "L1-Expresiones Faciales #UGC",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e7d42x"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1017,
-    "total_completed": 682,
-    "total_completed_with_dates": 682,
-    "total_completed_with_done": 682,
-    "total_currently_assigned": 159,
-    "total_transitions_logged": 46,
+    "total_completed": 688,
+    "total_completed_with_dates": 688,
+    "total_completed_with_done": 688,
+    "total_currently_assigned": 160,
+    "total_transitions_logged": 61,
     "total_editors": 27
   }
 }
