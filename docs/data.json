@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T08:10:37.335439+00:00",
-  "snapshot_timestamp": "2026-07-31T08:10:20.250519",
+  "generated_at": "2026-08-01T07:38:29.165850+00:00",
+  "snapshot_timestamp": "2026-08-01T07:38:11.306868",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9008,32 +9008,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869eb8444",
-      "name": "L59-C338-Comparativa-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-07-29T17:46:22.247000+00:00",
-      "url": "https://app.clickup.com/t/869eb8444"
-    },
-    {
-      "task_id": "869eb843t",
-      "name": "L59-C329 ITER 1-Ingredientes-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-07-29T17:46:19.413000+00:00",
-      "url": "https://app.clickup.com/t/869eb843t"
-    },
-    {
       "task_id": "869eazu3k",
       "name": "L59-C337-Cafeína-VX-G",
       "client": "HAIR BIOLABS",
@@ -9077,8 +9051,8 @@
       "name": "L58-333-Beneficios DHT-VX-D",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -9194,8 +9168,8 @@
       "name": "L5-Serum vs Remedios-ITER1 #Caricatura",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -9503,32 +9477,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869eb6ruz",
-      "name": "B-Rolls",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-29T15:33:21.051000+00:00",
-      "url": "https://app.clickup.com/t/869eb6ruz"
-    },
-    {
-      "task_id": "869e9zw2p",
-      "name": "L2-Cremas 24h #UGC-VX",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-27T14:39:47.840000+00:00",
-      "url": "https://app.clickup.com/t/869e9zw2p"
-    },
-    {
       "task_id": "869e9zvxr",
       "name": "L2-Verte Más Joven #Autoridad-VX",
       "client": "Lyssoderma",
@@ -9704,8 +9652,8 @@
       "name": "NIVELIA VIDEOS",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -9713,12 +9661,25 @@
       "url": "https://app.clickup.com/t/869ebfh2t"
     },
     {
-      "task_id": "869eapd6n",
-      "name": "NIVELIA STATIC",
+      "task_id": "869eapkp2",
+      "name": "SHORT GLENDA",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-28T19:24:57.927000+00:00",
+      "url": "https://app.clickup.com/t/869eapkp2"
+    },
+    {
+      "task_id": "869eapd6n",
+      "name": "NIVELIA STATIC",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -9750,6 +9711,19 @@
       ],
       "date_created": "2026-07-28T15:28:44.667000+00:00",
       "url": "https://app.clickup.com/t/869eampnm"
+    },
+    {
+      "task_id": "869eamntp",
+      "name": "REFUERZO DE ADS ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-28T15:27:13.532000+00:00",
+      "url": "https://app.clickup.com/t/869eamntp"
     },
     {
       "task_id": "869e7mpcb",
@@ -11026,17 +11000,17 @@
       "url": "https://app.clickup.com/t/869eanvwu"
     },
     {
-      "task_id": "869eanfw2",
-      "name": "NEW PDP GLENDA PARCHES",
+      "task_id": "869e7m2v1",
+      "name": "New Product NIVELIA®",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
-      "category": "en_curso",
-      "status": "in progress",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Milagros"
       ],
-      "date_created": "2026-07-28T16:41:48.329000+00:00",
-      "url": "https://app.clickup.com/t/869eanfw2"
+      "date_created": "2026-07-21T16:54:27.162000+00:00",
+      "url": "https://app.clickup.com/t/869e7m2v1"
     },
     {
       "task_id": "869e5fw6y",
@@ -11701,15 +11675,85 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869e7d42x"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869eapkp2",
+      "name": "SHORT GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eapkp2"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869e9w654",
+      "name": "L58-333-Beneficios DHT-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e9w654"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869e72kva",
+      "name": "L5-Serum vs Remedios-ITER1 #Caricatura",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e72kva"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869ebfh2t",
+      "name": "NIVELIA VIDEOS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ebfh2t"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869eapd6n",
+      "name": "NIVELIA STATIC",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eapd6n"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869eamntp",
+      "name": "REFUERZO DE ADS ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869eamntp"
+    },
+    {
+      "ts": "2026-08-01T07:38:28.995974+00:00",
+      "task_id": "869e7m2v1",
+      "name": "New Product NIVELIA®",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869e7m2v1"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1017,
+    "total_tasks_in_snapshot": 1018,
     "total_completed": 688,
     "total_completed_with_dates": 688,
     "total_completed_with_done": 688,
-    "total_currently_assigned": 160,
-    "total_transitions_logged": 61,
+    "total_currently_assigned": 158,
+    "total_transitions_logged": 68,
     "total_editors": 27
   }
 }
