@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:38:29.165850+00:00",
-  "snapshot_timestamp": "2026-08-01T07:38:11.306868",
+  "generated_at": "2026-08-02T07:41:23.202810+00:00",
+  "snapshot_timestamp": "2026-08-02T07:41:04.635107",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9008,32 +9008,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869eazu3k",
-      "name": "L59-C337-Cafeína-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-29T10:27:53.013000+00:00",
-      "url": "https://app.clickup.com/t/869eazu3k"
-    },
-    {
-      "task_id": "869eabjae",
-      "name": "L59-C336 Pelo fino-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-28T08:31:44.128000+00:00",
-      "url": "https://app.clickup.com/t/869eabjae"
-    },
-    {
       "task_id": "869e9wdc6",
       "name": "L58-334-Peque-VX-G",
       "client": "HAIR BIOLABS",
@@ -11752,7 +11726,7 @@
     "total_completed": 688,
     "total_completed_with_dates": 688,
     "total_completed_with_done": 688,
-    "total_currently_assigned": 158,
+    "total_currently_assigned": 156,
     "total_transitions_logged": 68,
     "total_editors": 27
   }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T07:38:11.306868",
+  "timestamp": "2026-08-02T07:41:04.635107",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -25,13 +25,13 @@
     },
     "869eazu3k": {
       "name": "L59-C337-Cafeína-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eazu3k",
       "date_created": "2026-07-29T10:27:53.013000+00:00",
-      "date_updated": "2026-07-29T21:23:41.261000+00:00",
+      "date_updated": "2026-08-01T23:35:55.550000+00:00",
       "date_done": null
     },
     "869eabk9a": {
@@ -47,13 +47,13 @@
     },
     "869eabjae": {
       "name": "L59-C336 Pelo fino-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eabjae",
       "date_created": "2026-07-28T08:31:44.128000+00:00",
-      "date_updated": "2026-07-29T21:23:34.493000+00:00",
+      "date_updated": "2026-08-01T19:10:10.935000+00:00",
       "date_done": null
     },
     "869e9wdc6": {
@@ -9579,7 +9579,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eap8v7",
       "date_created": "2026-07-28T18:20:44.552000+00:00",
-      "date_updated": "2026-07-28T18:25:21.134000+00:00",
+      "date_updated": "2026-08-02T00:54:50.116000+00:00",
       "date_done": null
     },
     "869eampnm": {
@@ -10954,7 +10954,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eanfw2",
       "date_created": "2026-07-28T16:41:48.329000+00:00",
-      "date_updated": "2026-08-01T05:55:35.415000+00:00",
+      "date_updated": "2026-08-02T04:07:10.696000+00:00",
       "date_done": null
     },
     "869e7m2v1": {
