@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T07:41:04.635107",
+  "timestamp": "2026-08-03T08:42:41.883625",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -438,7 +438,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e5kn",
       "date_created": "2026-07-11T18:38:31.697000+00:00",
-      "date_updated": "2026-07-23T09:11:40.924000+00:00",
+      "date_updated": "2026-08-03T02:47:46.556000+00:00",
       "date_done": null
     },
     "869e3e3uf": {
@@ -449,7 +449,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e3uf",
       "date_created": "2026-07-11T18:30:34.361000+00:00",
-      "date_updated": "2026-07-23T09:11:44.033000+00:00",
+      "date_updated": "2026-08-03T02:47:24.112000+00:00",
       "date_done": null
     },
     "869e1udkf": {
@@ -10948,14 +10948,14 @@
     },
     "869eanfw2": {
       "name": "NEW PDP GLENDA PARCHES",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eanfw2",
       "date_created": "2026-07-28T16:41:48.329000+00:00",
-      "date_updated": "2026-08-02T04:07:10.696000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T06:07:00.669000+00:00",
+      "date_done": "2026-08-03T06:07:00.669000+00:00"
     },
     "869e7m2v1": {
       "name": "New Product NIVELIA®",

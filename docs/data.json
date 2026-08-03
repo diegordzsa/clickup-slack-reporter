@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T07:41:23.202810+00:00",
-  "snapshot_timestamp": "2026-08-02T07:41:04.635107",
+  "generated_at": "2026-08-03T08:43:05.612320+00:00",
+  "snapshot_timestamp": "2026-08-03T08:42:41.883625",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10974,6 +10974,19 @@
       "url": "https://app.clickup.com/t/869eanvwu"
     },
     {
+      "task_id": "869eanfw2",
+      "name": "NEW PDP GLENDA PARCHES",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-07-28T16:41:48.329000+00:00",
+      "url": "https://app.clickup.com/t/869eanfw2"
+    },
+    {
       "task_id": "869e7m2v1",
       "name": "New Product NIVELIA®",
       "client": "ZENDI",
@@ -11719,6 +11732,16 @@
       "category": "aprobado",
       "assignee": "Milagros",
       "url": "https://app.clickup.com/t/869e7m2v1"
+    },
+    {
+      "ts": "2026-08-03T08:43:05.447749+00:00",
+      "task_id": "869eanfw2",
+      "name": "NEW PDP GLENDA PARCHES",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869eanfw2"
     }
   ],
   "stats": {
@@ -11726,8 +11749,8 @@
     "total_completed": 688,
     "total_completed_with_dates": 688,
     "total_completed_with_done": 688,
-    "total_currently_assigned": 156,
-    "total_transitions_logged": 68,
+    "total_currently_assigned": 157,
+    "total_transitions_logged": 69,
     "total_editors": 27
   }
 }
