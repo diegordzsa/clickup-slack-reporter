@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T08:42:41.883625",
+  "timestamp": "2026-08-04T07:48:33.363138",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -113,24 +113,24 @@
     },
     "869e8f6zv": {
       "name": "L58-C331 Menop Miedo-VX-D",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8f6zv",
       "date_created": "2026-07-23T09:37:59.657000+00:00",
-      "date_updated": "2026-07-25T03:15:15.516000+00:00",
+      "date_updated": "2026-08-03T21:07:17.362000+00:00",
       "date_done": null
     },
     "869e8eguc": {
       "name": "L58-C330 3RF-VX-G",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8eguc",
       "date_created": "2026-07-23T09:02:42.613000+00:00",
-      "date_updated": "2026-07-25T03:14:36.361000+00:00",
+      "date_updated": "2026-08-04T03:20:08.176000+00:00",
       "date_done": null
     },
     "869e7vgq0": {
@@ -432,25 +432,25 @@
     },
     "869e3e5kn": {
       "name": "L57-323-KOREANUGC",
-      "status": "assigned",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e5kn",
       "date_created": "2026-07-11T18:38:31.697000+00:00",
-      "date_updated": "2026-08-03T02:47:46.556000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T20:41:33.642000+00:00",
+      "date_done": "2026-08-03T20:41:33.642000+00:00"
     },
     "869e3e3uf": {
       "name": "L57-322--BOF-YAPPING--GROWF",
-      "status": "assigned",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e3uf",
       "date_created": "2026-07-11T18:30:34.361000+00:00",
-      "date_updated": "2026-08-03T02:47:24.112000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T20:41:35.247000+00:00",
+      "date_done": "2026-08-03T20:41:35.247000+00:00"
     },
     "869e1udkf": {
       "name": "L56-C320-VX-A",
@@ -8669,6 +8669,39 @@
       "date_updated": "2026-01-08T20:21:26.292000+00:00",
       "date_done": null
     },
+    "869ed3hp9": {
+      "name": "L3-Líneas de Marioneta-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ed3hp9",
+      "date_created": "2026-08-03T11:10:41.308000+00:00",
+      "date_updated": "2026-08-03T11:12:21.438000+00:00",
+      "date_done": null
+    },
+    "869ed3heg": {
+      "name": "L3-Comparación-VX #Caricatura",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ed3heg",
+      "date_created": "2026-08-03T11:10:18.513000+00:00",
+      "date_updated": "2026-08-03T11:12:18.161000+00:00",
+      "date_done": null
+    },
+    "869ed3h5d": {
+      "name": "L3-Piel Apagada-VX #Caricatura",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ed3h5d",
+      "date_created": "2026-08-03T11:09:47.611000+00:00",
+      "date_updated": "2026-08-03T11:12:16.141000+00:00",
+      "date_done": null
+    },
     "869eb6ruz": {
       "name": "B-Rolls",
       "status": "draft",
@@ -8715,14 +8748,14 @@
     },
     "869e7d474": {
       "name": "L1-Miedo a las Agujas #B-Roll",
-      "status": "final",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d474",
       "date_created": "2026-07-21T11:47:43.669000+00:00",
-      "date_updated": "2026-07-29T01:11:03.306000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T19:28:29.914000+00:00",
+      "date_done": "2026-08-03T19:28:29.914000+00:00"
     },
     "869e7d455": {
       "name": "L1-C21-Comparación vs Marcas #B-Roll",
@@ -8748,14 +8781,14 @@
     },
     "869e7d3zz": {
       "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
-      "status": "final",
+      "status": "approved",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d3zz",
       "date_created": "2026-07-21T11:47:15.357000+00:00",
-      "date_updated": "2026-07-29T01:10:58.483000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T19:30:00.158000+00:00",
+      "date_done": "2026-08-03T19:30:00.158000+00:00"
     },
     "869e3dmew": {
       "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
@@ -9527,6 +9560,28 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869edbdzm": {
+      "name": "NIVELIA ADS",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869edbdzm",
+      "date_created": "2026-08-03T20:30:06.294000+00:00",
+      "date_updated": "2026-08-03T20:33:34.066000+00:00",
+      "date_done": null
+    },
+    "869ed0gtz": {
+      "name": "Short Adelgazante Glenda",
+      "status": "aprobación",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ed0gtz",
+      "date_created": "2026-08-03T09:01:11.163000+00:00",
+      "date_updated": "2026-08-04T04:12:47.541000+00:00",
+      "date_done": null
+    },
     "869ebfh2t": {
       "name": "NIVELIA VIDEOS",
       "status": "aprobado",
@@ -9540,14 +9595,14 @@
     },
     "869eapkp2": {
       "name": "SHORT GLENDA",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eapkp2",
       "date_created": "2026-07-28T19:24:57.927000+00:00",
-      "date_updated": "2026-08-01T01:11:45.069000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T08:59:48.788000+00:00",
+      "date_done": "2026-08-03T08:59:48.788000+00:00"
     },
     "869eapd6n": {
       "name": "NIVELIA STATIC",
@@ -9612,7 +9667,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8940g",
       "date_created": "2026-07-22T23:11:24.016000+00:00",
-      "date_updated": "2026-07-28T15:26:44.867000+00:00",
+      "date_updated": "2026-08-03T09:00:46.769000+00:00",
       "date_done": null
     },
     "869e7mpcb": {
@@ -9769,28 +9824,6 @@
       "date_updated": "2026-07-14T16:05:53.664000+00:00",
       "date_done": "2026-07-14T16:05:53.664000+00:00"
     },
-    "869e288rp": {
-      "name": "Parches Nivelia",
-      "status": "aprobado",
-      "assignee": "Dayana Caicedo",
-      "client": "ZENDI",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869e288rp",
-      "date_created": "2026-07-09T02:38:12.150000+00:00",
-      "date_updated": "2026-07-14T16:05:58.722000+00:00",
-      "date_done": "2026-07-14T16:05:58.722000+00:00"
-    },
-    "869e1ad6f": {
-      "name": "Parches Nivelia®",
-      "status": "aprobado",
-      "assignee": "Dayana Caicedo",
-      "client": "ZENDI",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869e1ad6f",
-      "date_created": "2026-07-07T10:10:36.480000+00:00",
-      "date_updated": "2026-07-09T02:37:52.708000+00:00",
-      "date_done": "2026-07-09T02:37:52.708000+00:00"
-    },
     "869dzwx0k": {
       "name": "🔴 URGENTE — Maquetar HOME PAGE NIVELIA®",
       "status": "aprobado",
@@ -9812,39 +9845,6 @@
       "date_created": "2026-07-04T08:45:10.835000+00:00",
       "date_updated": "2026-07-08T08:30:31.666000+00:00",
       "date_done": "2026-07-08T08:30:31.666000+00:00"
-    },
-    "869dyrbz8": {
-      "name": "GLENDA BRA VARIACIONES",
-      "status": "aprobado",
-      "assignee": "Dayana Caicedo",
-      "client": "ZENDI",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869dyrbz8",
-      "date_created": "2026-07-02T07:57:52.456000+00:00",
-      "date_updated": "2026-07-14T10:22:57.195000+00:00",
-      "date_done": "2026-07-07T10:17:18.839000+00:00"
-    },
-    "869dyr0p0": {
-      "name": "STATIC GLENDA",
-      "status": "aprobado",
-      "assignee": "Dayana Caicedo",
-      "client": "ZENDI",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869dyr0p0",
-      "date_created": "2026-07-02T07:39:40.132000+00:00",
-      "date_updated": "2026-07-22T17:19:20.541000+00:00",
-      "date_done": "2026-07-09T00:46:39.471000+00:00"
-    },
-    "869dyqmmn": {
-      "name": "VARIACIONES GLENDA",
-      "status": "aprobado",
-      "assignee": "Dayana Caicedo",
-      "client": "ZENDI",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869dyqmmn",
-      "date_created": "2026-07-02T07:15:21.239000+00:00",
-      "date_updated": "2026-07-14T10:23:13.229000+00:00",
-      "date_done": "2026-07-07T10:15:47.487000+00:00"
     },
     "869dv6nw3": {
       "name": "ZENDI - HEALRIZE",
@@ -10913,37 +10913,48 @@
       "date_updated": "2025-07-31T12:22:30.655000+00:00",
       "date_done": "2025-06-04T14:04:58.614000+00:00"
     },
+    "869ed0k3y": {
+      "name": "NEW PRODUCT GLENDA",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869ed0k3y",
+      "date_created": "2026-08-03T09:03:57.316000+00:00",
+      "date_updated": "2026-08-03T19:29:22.077000+00:00",
+      "date_done": null
+    },
     "869eany72": {
       "name": "NEW PDP PARCHES GLENDA",
-      "status": "backlog",
+      "status": "ready for review",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eany72",
       "date_created": "2026-07-28T17:14:12.699000+00:00",
-      "date_updated": "2026-07-28T17:21:34.847000+00:00",
+      "date_updated": "2026-08-04T01:57:33.454000+00:00",
       "date_done": null
     },
     "869eanwzp": {
       "name": "NEW PDP PARCHES ZENDI",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eanwzp",
       "date_created": "2026-07-28T17:07:24.881000+00:00",
-      "date_updated": "2026-08-01T00:14:26.072000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-03T20:29:31.898000+00:00",
+      "date_done": "2026-08-03T20:29:31.898000+00:00"
     },
     "869eanvwu": {
       "name": "NEW PDP GLENDA SORT",
-      "status": "in progress",
+      "status": "ready for review",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eanvwu",
       "date_created": "2026-07-28T17:04:32.137000+00:00",
-      "date_updated": "2026-07-29T13:15:36.400000+00:00",
+      "date_updated": "2026-08-04T02:26:45.325000+00:00",
       "date_done": null
     },
     "869eanfw2": {
