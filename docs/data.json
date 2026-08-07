@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:56:42.378298+00:00",
-  "snapshot_timestamp": "2026-08-06T07:56:24.247385",
+  "generated_at": "2026-08-07T06:34:14.868590+00:00",
+  "snapshot_timestamp": "2026-08-07T06:33:55.922673",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -204,6 +204,19 @@
       "url": "https://app.clickup.com/t/869e47afm"
     },
     {
+      "task_id": "869e47abf",
+      "name": "L4-El Folículo #Autoridad + B-roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-13T17:29:53.922000+00:00",
+      "date_done": "2026-07-17T09:00:37.221000+00:00",
+      "lead_time_hours": 87.51,
+      "url": "https://app.clickup.com/t/869e47abf"
+    },
+    {
       "task_id": "869e479ra",
       "name": "L4-5 Mentiras #B-Roll",
       "client": "HAIR BIOLABS",
@@ -358,6 +371,19 @@
       "date_done": "2026-07-08T08:46:57.226000+00:00",
       "lead_time_hours": 45.75,
       "url": "https://app.clickup.com/t/869e0rhjy"
+    },
+    {
+      "task_id": "869e0rhdq",
+      "name": "L3-Alopecia Androgenética #B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-06T11:01:36.788000+00:00",
+      "date_done": "2026-07-13T08:31:27.093000+00:00",
+      "lead_time_hours": 165.5,
+      "url": "https://app.clickup.com/t/869e0rhdq"
     },
     {
       "task_id": "869e0rgq9",
@@ -7609,8 +7635,8 @@
         "Alejandra Ramirez"
       ],
       "date_created": "2026-08-05T07:16:26.305000+00:00",
-      "date_done": "2026-08-05T19:57:01.235000+00:00",
-      "lead_time_hours": 12.68,
+      "date_done": "2026-08-06T09:22:27.349000+00:00",
+      "lead_time_hours": 26.1,
       "url": "https://app.clickup.com/t/869edze7x"
     },
     {
@@ -8122,6 +8148,19 @@
       "url": "https://app.clickup.com/t/869eb6ruz"
     },
     {
+      "task_id": "869e7d474",
+      "name": "L1-Miedo a las Agujas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-21T11:47:43.669000+00:00",
+      "date_done": "2026-08-03T19:28:29.914000+00:00",
+      "lead_time_hours": 319.68,
+      "url": "https://app.clickup.com/t/869e7d474"
+    },
+    {
       "task_id": "869e7d455",
       "name": "L1-C21-Comparación vs Marcas #B-Roll",
       "client": "Lyssoderma",
@@ -8146,6 +8185,19 @@
       "date_done": "2026-07-29T15:49:38.889000+00:00",
       "lead_time_hours": 196.04,
       "url": "https://app.clickup.com/t/869e7d42x"
+    },
+    {
+      "task_id": "869e7d3zz",
+      "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-21T11:47:15.357000+00:00",
+      "date_done": "2026-08-03T19:30:00.158000+00:00",
+      "lead_time_hours": 319.71,
+      "url": "https://app.clickup.com/t/869e7d3zz"
     },
     {
       "task_id": "869e1d9xr",
@@ -9233,26 +9285,13 @@
       "name": "L5-Apps de citas 50 #Caricatura",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-20T19:27:16.535000+00:00",
-      "url": "https://app.clickup.com/t/869e72kx8"
-    },
-    {
-      "task_id": "869e72kty",
-      "name": "L5-Disciplina y Datos #UGC",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
       "category": "en_curso",
       "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
-      "date_created": "2026-07-20T19:26:43.773000+00:00",
-      "url": "https://app.clickup.com/t/869e72kty"
+      "date_created": "2026-07-20T19:27:16.535000+00:00",
+      "url": "https://app.clickup.com/t/869e72kx8"
     },
     {
       "task_id": "869e72krj",
@@ -9279,19 +9318,6 @@
       ],
       "date_created": "2026-07-20T19:26:11.475000+00:00",
       "url": "https://app.clickup.com/t/869e72kqq"
-    },
-    {
-      "task_id": "869e47abf",
-      "name": "L4-El Folículo #Autoridad + B-roll",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-13T17:29:53.922000+00:00",
-      "url": "https://app.clickup.com/t/869e47abf"
     },
     {
       "task_id": "869e47a4v",
@@ -9346,19 +9372,6 @@
       "url": "https://app.clickup.com/t/869e3e3uf"
     },
     {
-      "task_id": "869e0rhdq",
-      "name": "L3-Alopecia Androgenética #B-Roll",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-06T11:01:36.788000+00:00",
-      "url": "https://app.clickup.com/t/869e0rhdq"
-    },
-    {
       "task_id": "869e4v1gf",
       "name": "L57-324-PELUQUERO-COMPARATIVA",
       "client": "HAIR BIOLABS",
@@ -9397,19 +9410,6 @@
       ],
       "date_created": "2026-08-04T20:18:44.298000+00:00",
       "url": "https://app.clickup.com/t/869edwcv0"
-    },
-    {
-      "task_id": "869edwcu9",
-      "name": "Gon-Modo de Uso-VX #UGC",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-04T20:18:38.549000+00:00",
-      "url": "https://app.clickup.com/t/869edwcu9"
     },
     {
       "task_id": "869edwctm",
@@ -9553,32 +9553,6 @@
       ],
       "date_created": "2026-07-27T14:39:22.761000+00:00",
       "url": "https://app.clickup.com/t/869e9zvqu"
-    },
-    {
-      "task_id": "869e7d474",
-      "name": "L1-Miedo a las Agujas #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-21T11:47:43.669000+00:00",
-      "url": "https://app.clickup.com/t/869e7d474"
-    },
-    {
-      "task_id": "869e7d3zz",
-      "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-21T11:47:15.357000+00:00",
-      "url": "https://app.clickup.com/t/869e7d3zz"
     },
     {
       "task_id": "869e3dmew",
@@ -9726,6 +9700,19 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
+      "task_id": "869eer5jp",
+      "name": "Short GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-06T12:02:06.577000+00:00",
+      "url": "https://app.clickup.com/t/869eer5jp"
+    },
+    {
       "task_id": "869eebnka",
       "name": "PARCHES GLENDA",
       "client": "ZENDI",
@@ -9743,8 +9730,8 @@
       "name": "NIVELIA ADS",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -11052,6 +11039,19 @@
       "url": "https://app.clickup.com/t/869ed0k3y"
     },
     {
+      "task_id": "869eany72",
+      "name": "NEW PDP PARCHES GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-07-28T17:14:12.699000+00:00",
+      "url": "https://app.clickup.com/t/869eany72"
+    },
+    {
       "task_id": "869eanwzp",
       "name": "NEW PDP PARCHES ZENDI",
       "client": "ZENDI",
@@ -11063,6 +11063,19 @@
       ],
       "date_created": "2026-07-28T17:07:24.881000+00:00",
       "url": "https://app.clickup.com/t/869eanwzp"
+    },
+    {
+      "task_id": "869eanvwu",
+      "name": "NEW PDP GLENDA SORT",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-07-28T17:04:32.137000+00:00",
+      "url": "https://app.clickup.com/t/869eanvwu"
     },
     {
       "task_id": "869eanfw2",
@@ -12073,15 +12086,95 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869eb6ruz"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869e72kx8",
+      "name": "L5-Apps de citas 50 #Caricatura",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e72kx8"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869edbdzm",
+      "name": "NIVELIA ADS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869edbdzm"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869eany72",
+      "name": "NEW PDP PARCHES GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869eany72"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869eanvwu",
+      "name": "NEW PDP GLENDA SORT",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869eanvwu"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869e47abf",
+      "name": "L4-El Folículo #Autoridad + B-roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e47abf"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869e0rhdq",
+      "name": "L3-Alopecia Androgenética #B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e0rhdq"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869e7d474",
+      "name": "L1-Miedo a las Agujas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e7d474"
+    },
+    {
+      "ts": "2026-08-07T06:34:14.699541+00:00",
+      "task_id": "869e7d3zz",
+      "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e7d3zz"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1030,
-    "total_completed": 702,
-    "total_completed_with_dates": 702,
-    "total_completed_with_done": 702,
-    "total_currently_assigned": 150,
-    "total_transitions_logged": 93,
+    "total_tasks_in_snapshot": 1032,
+    "total_completed": 706,
+    "total_completed_with_dates": 706,
+    "total_completed_with_done": 706,
+    "total_currently_assigned": 147,
+    "total_transitions_logged": 101,
     "total_editors": 27
   }
 }
