@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T06:33:55.922673",
+  "timestamp": "2026-08-08T05:58:49.452619",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -8737,13 +8737,13 @@
     },
     "869ee5fnt": {
       "name": "L4-Tecnología K-Beauty-VX #B-Roll",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5fnt",
       "date_created": "2026-08-05T11:40:32.794000+00:00",
-      "date_updated": "2026-08-05T11:48:39.263000+00:00",
+      "date_updated": "2026-08-08T03:32:15.479000+00:00",
       "date_done": null
     },
     "869ee5c3t": {
@@ -9648,16 +9648,27 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869efd76r": {
+      "name": "NIVELIA NEW PRODUCT",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869efd76r",
+      "date_created": "2026-08-07T13:05:13.579000+00:00",
+      "date_updated": "2026-08-07T13:12:11.601000+00:00",
+      "date_done": null
+    },
     "869eer5jp": {
       "name": "Short GLENDA",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eer5jp",
       "date_created": "2026-08-06T12:02:06.577000+00:00",
-      "date_updated": "2026-08-07T04:16:15.553000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-07T17:43:48.166000+00:00",
+      "date_done": "2026-08-07T17:43:48.166000+00:00"
     },
     "869eecnj5": {
       "name": "BRIEF ZENDI",
@@ -9678,7 +9689,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eebnka",
       "date_created": "2026-08-05T16:15:55.306000+00:00",
-      "date_updated": "2026-08-06T04:39:06.583000+00:00",
+      "date_updated": "2026-08-07T17:13:15.889000+00:00",
       "date_done": null
     },
     "869edbdzm": {

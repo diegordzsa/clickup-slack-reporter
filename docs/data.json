@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T06:34:14.868590+00:00",
-  "snapshot_timestamp": "2026-08-07T06:33:55.922673",
+  "generated_at": "2026-08-08T05:59:04.869248+00:00",
+  "snapshot_timestamp": "2026-08-08T05:58:49.452619",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9477,19 +9477,6 @@
       "url": "https://app.clickup.com/t/869ee5fpu"
     },
     {
-      "task_id": "869ee5fnt",
-      "name": "L4-Tecnología K-Beauty-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-05T11:40:32.794000+00:00",
-      "url": "https://app.clickup.com/t/869ee5fnt"
-    },
-    {
       "task_id": "869ee5c3t",
       "name": "L4-Coreana Sephora-VX #UGC B-Roll",
       "client": "Lyssoderma",
@@ -9704,8 +9691,8 @@
       "name": "Short GLENDA",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -12166,15 +12153,25 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869e7d3zz"
+    },
+    {
+      "ts": "2026-08-08T05:59:04.697431+00:00",
+      "task_id": "869eer5jp",
+      "name": "Short GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eer5jp"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1032,
+    "total_tasks_in_snapshot": 1033,
     "total_completed": 706,
     "total_completed_with_dates": 706,
     "total_completed_with_done": 706,
-    "total_currently_assigned": 147,
-    "total_transitions_logged": 101,
+    "total_currently_assigned": 146,
+    "total_transitions_logged": 102,
     "total_editors": 27
   }
 }
