@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:59:04.869248+00:00",
-  "snapshot_timestamp": "2026-08-08T05:58:49.452619",
+  "generated_at": "2026-08-09T06:00:45.985352+00:00",
+  "snapshot_timestamp": "2026-08-09T06:00:21.141235",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9281,19 +9281,6 @@
       "url": "https://app.clickup.com/t/869e8eguc"
     },
     {
-      "task_id": "869e72kx8",
-      "name": "L5-Apps de citas 50 #Caricatura",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-20T19:27:16.535000+00:00",
-      "url": "https://app.clickup.com/t/869e72kx8"
-    },
-    {
       "task_id": "869e72krj",
       "name": "L5-HB vs Dutasteride #B-Roll",
       "client": "HAIR BIOLABS",
@@ -12170,7 +12157,7 @@
     "total_completed": 706,
     "total_completed_with_dates": 706,
     "total_completed_with_done": 706,
-    "total_currently_assigned": 146,
+    "total_currently_assigned": 145,
     "total_transitions_logged": 102,
     "total_editors": 27
   }

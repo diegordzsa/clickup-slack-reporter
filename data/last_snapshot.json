@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T05:58:49.452619",
+  "timestamp": "2026-08-09T06:00:21.141235",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -168,13 +168,13 @@
     },
     "869e72kx8": {
       "name": "L5-Apps de citas 50 #Caricatura",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e72kx8",
       "date_created": "2026-07-20T19:27:16.535000+00:00",
-      "date_updated": "2026-08-07T02:41:55.512000+00:00",
+      "date_updated": "2026-08-08T18:59:29.912000+00:00",
       "date_done": null
     },
     "869e72kwn": {
@@ -11075,7 +11075,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ed0k3y",
       "date_created": "2026-08-03T09:03:57.316000+00:00",
-      "date_updated": "2026-08-06T01:55:48.144000+00:00",
+      "date_updated": "2026-08-08T15:33:35.828000+00:00",
       "date_done": null
     },
     "869eany72": {
