@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:00:45.985352+00:00",
-  "snapshot_timestamp": "2026-08-09T06:00:21.141235",
+  "generated_at": "2026-08-10T06:44:29.087673+00:00",
+  "snapshot_timestamp": "2026-08-10T06:44:05.298086",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9320,19 +9320,6 @@
       "url": "https://app.clickup.com/t/869e47a4v"
     },
     {
-      "task_id": "869e3uapv",
-      "name": "L57-324- COMP-SALONBELLEZA",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-13T07:29:20.515000+00:00",
-      "url": "https://app.clickup.com/t/869e3uapv"
-    },
-    {
       "task_id": "869e3e5kn",
       "name": "L57-323-KOREANUGC",
       "client": "HAIR BIOLABS",
@@ -9691,8 +9678,8 @@
       "name": "PARCHES GLENDA",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -11000,17 +10987,17 @@
       "url": "https://app.clickup.com/t/86999pwrb"
     },
     {
-      "task_id": "869ed0k3y",
-      "name": "NEW PRODUCT GLENDA",
+      "task_id": "869edjfun",
+      "name": "NEW PRODUCT NIVELIA",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
-      "category": "en_curso",
-      "status": "in progress",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
-        "Milagros"
+        "Alejandra Ramirez"
       ],
-      "date_created": "2026-08-03T09:03:57.316000+00:00",
-      "url": "https://app.clickup.com/t/869ed0k3y"
+      "date_created": "2026-08-04T10:05:13.706000+00:00",
+      "url": "https://app.clickup.com/t/869edjfun"
     },
     {
       "task_id": "869eany72",
@@ -12150,15 +12137,35 @@
       "category": "aprobado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869eer5jp"
+    },
+    {
+      "ts": "2026-08-10T06:44:28.920309+00:00",
+      "task_id": "869eebnka",
+      "name": "PARCHES GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eebnka"
+    },
+    {
+      "ts": "2026-08-10T06:44:28.920309+00:00",
+      "task_id": "869edjfun",
+      "name": "NEW PRODUCT NIVELIA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869edjfun"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1033,
+    "total_tasks_in_snapshot": 1034,
     "total_completed": 706,
     "total_completed_with_dates": 706,
     "total_completed_with_done": 706,
-    "total_currently_assigned": 145,
-    "total_transitions_logged": 102,
+    "total_currently_assigned": 144,
+    "total_transitions_logged": 104,
     "total_editors": 27
   }
 }

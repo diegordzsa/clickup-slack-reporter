@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T06:00:21.141235",
+  "timestamp": "2026-08-10T06:44:05.298086",
   "tasks": {
     "869eb8444": {
       "name": "L59-C338-Comparativa-A",
@@ -366,13 +366,13 @@
     },
     "869e3uapv": {
       "name": "L57-324- COMP-SALONBELLEZA",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3uapv",
       "date_created": "2026-07-13T07:29:20.515000+00:00",
-      "date_updated": "2026-07-25T03:13:30.350000+00:00",
+      "date_updated": "2026-08-09T19:43:21.932000+00:00",
       "date_done": null
     },
     "869e3uamq": {
@@ -8292,7 +8292,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869edwcta",
       "date_created": "2026-08-04T20:18:26.693000+00:00",
-      "date_updated": "2026-08-04T20:19:51.798000+00:00",
+      "date_updated": "2026-08-10T03:59:59.582000+00:00",
       "date_done": null
     },
     "869e9zfwf": {
@@ -8732,7 +8732,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5fpu",
       "date_created": "2026-08-05T11:40:35.459000+00:00",
-      "date_updated": "2026-08-05T11:48:57.555000+00:00",
+      "date_updated": "2026-08-10T00:56:03.146000+00:00",
       "date_done": null
     },
     "869ee5fnt": {
@@ -8754,7 +8754,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5c3t",
       "date_created": "2026-08-05T11:33:21.472000+00:00",
-      "date_updated": "2026-08-05T11:48:51.692000+00:00",
+      "date_updated": "2026-08-10T00:56:18.087000+00:00",
       "date_done": null
     },
     "869ed3hp9": {
@@ -9683,14 +9683,14 @@
     },
     "869eebnka": {
       "name": "PARCHES GLENDA",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eebnka",
       "date_created": "2026-08-05T16:15:55.306000+00:00",
-      "date_updated": "2026-08-07T17:13:15.889000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-09T07:59:35.258000+00:00",
+      "date_done": "2026-08-09T07:59:35.258000+00:00"
     },
     "869edbdzm": {
       "name": "NIVELIA ADS",
@@ -11045,6 +11045,17 @@
       "date_updated": "2025-07-31T12:22:30.655000+00:00",
       "date_done": "2025-06-04T14:04:58.614000+00:00"
     },
+    "869eftxmu": {
+      "name": "NEW PDP ZENDI",
+      "status": "backlog",
+      "assignee": "Alejandra Ramirez",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869eftxmu",
+      "date_created": "2026-08-09T08:17:09.544000+00:00",
+      "date_updated": "2026-08-09T08:18:48.394000+00:00",
+      "date_done": null
+    },
     "869eer815": {
       "name": "NEW PRODUCT NIVELIA 2",
       "status": "backlog",
@@ -11058,24 +11069,24 @@
     },
     "869edjfun": {
       "name": "NEW PRODUCT NIVELIA",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869edjfun",
       "date_created": "2026-08-04T10:05:13.706000+00:00",
-      "date_updated": "2026-08-06T00:20:09.883000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-09T08:16:34.288000+00:00",
+      "date_done": "2026-08-09T08:16:34.288000+00:00"
     },
     "869ed0k3y": {
       "name": "NEW PRODUCT GLENDA",
-      "status": "in progress",
+      "status": "ready for review",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ed0k3y",
       "date_created": "2026-08-03T09:03:57.316000+00:00",
-      "date_updated": "2026-08-08T15:33:35.828000+00:00",
+      "date_updated": "2026-08-10T04:03:18.973000+00:00",
       "date_done": null
     },
     "869eany72": {
