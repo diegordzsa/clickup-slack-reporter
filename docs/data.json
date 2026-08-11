@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:44:29.087673+00:00",
-  "snapshot_timestamp": "2026-08-10T06:44:05.298086",
+  "generated_at": "2026-08-11T06:06:56.460015+00:00",
+  "snapshot_timestamp": "2026-08-11T06:06:37.593810",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -48,6 +48,45 @@
   ],
   "completed_tasks": [
     {
+      "task_id": "869eb8444",
+      "name": "L59-C338-Comparativa-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-07-29T17:46:22.247000+00:00",
+      "date_done": "2026-08-10T14:12:33.262000+00:00",
+      "lead_time_hours": 284.44,
+      "url": "https://app.clickup.com/t/869eb8444"
+    },
+    {
+      "task_id": "869eb843t",
+      "name": "L59-C329 ITER 1-Ingredientes-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-07-29T17:46:19.413000+00:00",
+      "date_done": "2026-08-10T08:35:14.921000+00:00",
+      "lead_time_hours": 278.82,
+      "url": "https://app.clickup.com/t/869eb843t"
+    },
+    {
+      "task_id": "869eabk9a",
+      "name": "L59-C328 Dra Comentario ITER 1-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-28T08:32:56.515000+00:00",
+      "date_done": "2026-08-11T03:55:47.804000+00:00",
+      "lead_time_hours": 331.38,
+      "url": "https://app.clickup.com/t/869eabk9a"
+    },
+    {
       "task_id": "869e9w654",
       "name": "L58-333-Beneficios DHT-VX-D",
       "client": "HAIR BIOLABS",
@@ -87,6 +126,32 @@
       "url": "https://app.clickup.com/t/869e9kvfz"
     },
     {
+      "task_id": "869e8f6zv",
+      "name": "L58-C331 Menop Miedo-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-23T09:37:59.657000+00:00",
+      "date_done": "2026-08-10T09:20:18.672000+00:00",
+      "lead_time_hours": 431.71,
+      "url": "https://app.clickup.com/t/869e8f6zv"
+    },
+    {
+      "task_id": "869e7vgq0",
+      "name": "L58-C179 ITER 2-Estilista-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-22T09:07:15.343000+00:00",
+      "date_done": "2026-08-10T09:22:38.076000+00:00",
+      "lead_time_hours": 456.26,
+      "url": "https://app.clickup.com/t/869e7vgq0"
+    },
+    {
       "task_id": "869e7vghr",
       "name": "L58-C329-Ingredientes-VX-A",
       "client": "HAIR BIOLABS",
@@ -124,6 +189,19 @@
       "date_done": "2026-08-01T06:44:53.374000+00:00",
       "lead_time_hours": 275.3,
       "url": "https://app.clickup.com/t/869e72kva"
+    },
+    {
+      "task_id": "869e72kty",
+      "name": "L5-Disciplina y Datos #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-07-20T19:26:43.773000+00:00",
+      "date_done": "2026-08-10T11:34:53.661000+00:00",
+      "lead_time_hours": 496.14,
+      "url": "https://app.clickup.com/t/869e72kty"
     },
     {
       "task_id": "869e72kp4",
@@ -8135,6 +8213,19 @@
       "url": "https://app.clickup.com/t/869bpv1w0"
     },
     {
+      "task_id": "869ed3h5d",
+      "name": "L3-Piel Apagada-VX #Caricatura",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-08-03T11:09:47.611000+00:00",
+      "date_done": "2026-08-05T08:36:09.559000+00:00",
+      "lead_time_hours": 45.44,
+      "url": "https://app.clickup.com/t/869ed3h5d"
+    },
+    {
       "task_id": "869eb6ruz",
       "name": "B-Rolls",
       "client": "Lyssoderma",
@@ -8146,6 +8237,19 @@
       "date_done": "2026-08-05T08:38:38.929000+00:00",
       "lead_time_hours": 161.09,
       "url": "https://app.clickup.com/t/869eb6ruz"
+    },
+    {
+      "task_id": "869e9zvqu",
+      "name": "L2-Cansada y Apagada #UGC-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-07-27T14:39:22.761000+00:00",
+      "date_done": "2026-07-31T07:45:13.048000+00:00",
+      "lead_time_hours": 89.1,
+      "url": "https://app.clickup.com/t/869e9zvqu"
     },
     {
       "task_id": "869e7d474",
@@ -9373,12 +9477,25 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
-      "task_id": "869edwcv0",
-      "name": "Gon-Productos Superficiales-VX #Caricatura",
+      "task_id": "869egdc71",
+      "name": "L3-Menopausia-Elias",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "category": "asignado",
       "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-10T17:07:13.402000+00:00",
+      "url": "https://app.clickup.com/t/869egdc71"
+    },
+    {
+      "task_id": "869edwcv0",
+      "name": "Gon-Productos Superficiales-VX #Caricatura",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -9438,45 +9555,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869ee5fpu",
-      "name": "L4-Doctora K-Beauty-VX #Autoridad",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Leonidas"
-      ],
-      "date_created": "2026-08-05T11:40:35.459000+00:00",
-      "url": "https://app.clickup.com/t/869ee5fpu"
-    },
-    {
-      "task_id": "869ee5c3t",
-      "name": "L4-Coreana Sephora-VX #UGC B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Leonidas"
-      ],
-      "date_created": "2026-08-05T11:33:21.472000+00:00",
-      "url": "https://app.clickup.com/t/869ee5c3t"
-    },
-    {
-      "task_id": "869ed3h5d",
-      "name": "L3-Piel Apagada-VX #Caricatura",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-03T11:09:47.611000+00:00",
-      "url": "https://app.clickup.com/t/869ed3h5d"
-    },
-    {
       "task_id": "869e9zw2p",
       "name": "L2-Cremas 24h #UGC-VX",
       "client": "Lyssoderma",
@@ -9503,19 +9581,6 @@
       "url": "https://app.clickup.com/t/869e9zvxr"
     },
     {
-      "task_id": "869e9zvqu",
-      "name": "L2-Cansada y Apagada #UGC-VX",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-27T14:39:22.761000+00:00",
-      "url": "https://app.clickup.com/t/869e9zvqu"
-    },
-    {
       "task_id": "869e3dmew",
       "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
       "client": "Lyssoderma",
@@ -9527,6 +9592,45 @@
       ],
       "date_created": "2026-07-11T17:53:17.819000+00:00",
       "url": "https://app.clickup.com/t/869e3dmew"
+    },
+    {
+      "task_id": "869egf2pb",
+      "name": "Nueva PDP + Brand",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-10T20:39:12.915000+00:00",
+      "url": "https://app.clickup.com/t/869egf2pb"
+    },
+    {
+      "task_id": "869dv0xpn",
+      "name": "Copiar PDP de Lyssoderma a inglés",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-06-23T15:44:48.255000+00:00",
+      "url": "https://app.clickup.com/t/869dv0xpn"
+    },
+    {
+      "task_id": "869dv0xkt",
+      "name": "Copiar Home de Lyssoderma a inglés",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-06-23T15:44:35.895000+00:00",
+      "url": "https://app.clickup.com/t/869dv0xkt"
     },
     {
       "task_id": "869dt4ve2",
@@ -9659,6 +9763,19 @@
       ],
       "date_created": "2026-06-25T10:16:07.077000+00:00",
       "url": "https://app.clickup.com/t/869dvtwap"
+    },
+    {
+      "task_id": "869efd76r",
+      "name": "NIVELIA NEW PRODUCT",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-07T13:05:13.579000+00:00",
+      "url": "https://app.clickup.com/t/869efd76r"
     },
     {
       "task_id": "869eer5jp",
@@ -12157,15 +12274,135 @@
       "category": "aprobado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869edjfun"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869edwcv0",
+      "name": "Gon-Productos Superficiales-VX #Caricatura",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869edwcv0"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869efd76r",
+      "name": "NIVELIA NEW PRODUCT",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869efd76r"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869dv0xpn",
+      "name": "Copiar PDP de Lyssoderma a inglés",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869dv0xpn"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869dv0xkt",
+      "name": "Copiar Home de Lyssoderma a inglés",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869dv0xkt"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869eb8444",
+      "name": "L59-C338-Comparativa-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869eb8444"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869eb843t",
+      "name": "L59-C329 ITER 1-Ingredientes-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869eb843t"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869eabk9a",
+      "name": "L59-C328 Dra Comentario ITER 1-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869eabk9a"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869e8f6zv",
+      "name": "L58-C331 Menop Miedo-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e8f6zv"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869e7vgq0",
+      "name": "L58-C179 ITER 2-Estilista-VX-G",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e7vgq0"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869e72kty",
+      "name": "L5-Disciplina y Datos #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869e72kty"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869ed3h5d",
+      "name": "L3-Piel Apagada-VX #Caricatura",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ed3h5d"
+    },
+    {
+      "ts": "2026-08-11T06:06:56.092756+00:00",
+      "task_id": "869e9zvqu",
+      "name": "L2-Cansada y Apagada #UGC-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869e9zvqu"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1034,
-    "total_completed": 706,
-    "total_completed_with_dates": 706,
-    "total_completed_with_done": 706,
-    "total_currently_assigned": 144,
-    "total_transitions_logged": 104,
+    "total_tasks_in_snapshot": 1042,
+    "total_completed": 714,
+    "total_completed_with_dates": 714,
+    "total_completed_with_done": 714,
+    "total_currently_assigned": 145,
+    "total_transitions_logged": 116,
     "total_editors": 27
   }
 }
