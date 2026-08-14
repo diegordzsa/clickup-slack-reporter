@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T06:48:26.667691+00:00",
-  "snapshot_timestamp": "2026-08-13T06:48:05.745601",
+  "generated_at": "2026-08-14T06:45:04.046959+00:00",
+  "snapshot_timestamp": "2026-08-14T06:44:42.087495",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9412,6 +9412,19 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869ehk12f",
+      "name": "L60-C346-Audio Whatsap-B-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Braulio Romero"
+      ],
+      "date_created": "2026-08-13T09:41:28.040000+00:00",
+      "url": "https://app.clickup.com/t/869ehk12f"
+    },
+    {
       "task_id": "869egwvp2",
       "name": "L60-C345-Producto-B-VX",
       "client": "HAIR BIOLABS",
@@ -9436,32 +9449,6 @@
       ],
       "date_created": "2026-08-11T14:57:35.455000+00:00",
       "url": "https://app.clickup.com/t/869egvzqr"
-    },
-    {
-      "task_id": "869egvzqd",
-      "name": "L60-C344-FASES-TESTIMONIO",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-11T14:57:33.938000+00:00",
-      "url": "https://app.clickup.com/t/869egvzqd"
-    },
-    {
-      "task_id": "869egvzpw",
-      "name": "L60-C343-SENALES-HORMONAL",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-11T14:57:32.066000+00:00",
-      "url": "https://app.clickup.com/t/869egvzpw"
     },
     {
       "task_id": "869egvzp3",
@@ -9514,32 +9501,6 @@
       ],
       "date_created": "2026-08-11T12:21:52.516000+00:00",
       "url": "https://app.clickup.com/t/869egrv9q"
-    },
-    {
-      "task_id": "869egmv7a",
-      "name": "L59-C329 ITER 2-Ingredientes-A",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-08-11T09:11:30.853000+00:00",
-      "url": "https://app.clickup.com/t/869egmv7a"
-    },
-    {
-      "task_id": "869e9wdc6",
-      "name": "L58-334-Peque-VX-G",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-07-27T12:26:18.501000+00:00",
-      "url": "https://app.clickup.com/t/869e9wdc6"
     },
     {
       "task_id": "869e9vvqt",
@@ -9673,6 +9634,19 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
+      "task_id": "869ehj8wz",
+      "name": "L7-C14-Minox-B-VX",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Braulio Romero"
+      ],
+      "date_created": "2026-08-13T09:03:12.080000+00:00",
+      "url": "https://app.clickup.com/t/869ehj8wz"
+    },
+    {
       "task_id": "869eh4rwa",
       "name": "L7-C13-Comp Producto-D-VX",
       "client": "HAIR BIOLABS MX",
@@ -9684,19 +9658,6 @@
       ],
       "date_created": "2026-08-12T09:46:23.554000+00:00",
       "url": "https://app.clickup.com/t/869eh4rwa"
-    },
-    {
-      "task_id": "869egm49m",
-      "name": "L7-C12-Producto-G-VX",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-11T08:36:29.573000+00:00",
-      "url": "https://app.clickup.com/t/869egm49m"
     },
     {
       "task_id": "869egdc71",
@@ -10026,17 +9987,43 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
-      "task_id": "869egfjex",
-      "name": "NIVELIA ADS",
+      "task_id": "869egfn8e",
+      "name": "PARCHES SENOS GLENDA",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
       "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-10T21:51:52.453000+00:00",
+      "url": "https://app.clickup.com/t/869egfn8e"
+    },
+    {
+      "task_id": "869egfjex",
+      "name": "NIVELIA ADS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
         "Dayana Caicedo"
       ],
       "date_created": "2026-08-10T21:29:34.806000+00:00",
       "url": "https://app.clickup.com/t/869egfjex"
+    },
+    {
+      "task_id": "869egee9e",
+      "name": "BRIEF ZENDI v3",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-10T19:13:37.080000+00:00",
+      "url": "https://app.clickup.com/t/869egee9e"
     },
     {
       "task_id": "869eg4zg8",
@@ -12907,15 +12894,45 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869ee5fnt"
+    },
+    {
+      "ts": "2026-08-14T06:45:03.933416+00:00",
+      "task_id": "869egfn8e",
+      "name": "PARCHES SENOS GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869egfn8e"
+    },
+    {
+      "ts": "2026-08-14T06:45:03.933416+00:00",
+      "task_id": "869egee9e",
+      "name": "BRIEF ZENDI v3",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869egee9e"
+    },
+    {
+      "ts": "2026-08-14T06:45:03.933416+00:00",
+      "task_id": "869egfjex",
+      "name": "NIVELIA ADS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869egfjex"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1057,
+    "total_tasks_in_snapshot": 1062,
     "total_completed": 719,
     "total_completed_with_dates": 719,
     "total_completed_with_done": 719,
-    "total_currently_assigned": 164,
-    "total_transitions_logged": 136,
+    "total_currently_assigned": 163,
+    "total_transitions_logged": 139,
     "total_editors": 28
   }
 }
