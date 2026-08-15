@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T06:44:42.087495",
+  "timestamp": "2026-08-15T05:43:50.439699",
   "tasks": {
     "869ehk12f": {
       "name": "L60-C346-Audio Whatsap-B-VX",
@@ -8374,13 +8374,13 @@
     },
     "869eh4rwa": {
       "name": "L7-C13-Comp Producto-D-VX",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eh4rwa",
       "date_created": "2026-08-12T09:46:23.554000+00:00",
-      "date_updated": "2026-08-12T09:46:24.586000+00:00",
+      "date_updated": "2026-08-15T04:07:19.880000+00:00",
       "date_done": null
     },
     "869egm49m": {
@@ -8902,13 +8902,13 @@
     },
     "869eh2yf1": {
       "name": "L4-Product-David",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eh2yf1",
       "date_created": "2026-08-12T08:32:34.725000+00:00",
-      "date_updated": "2026-08-12T08:32:44.624000+00:00",
+      "date_updated": "2026-08-15T04:06:01.726000+00:00",
       "date_done": null
     },
     "869ee5fpu": {
@@ -9661,13 +9661,13 @@
     },
     "869egf2pb": {
       "name": "Nueva PDP + Brand",
-      "status": "borrador",
+      "status": "finales",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869egf2pb",
       "date_created": "2026-08-10T20:39:12.915000+00:00",
-      "date_updated": "2026-08-13T00:45:18.808000+00:00",
+      "date_updated": "2026-08-14T14:11:46.912000+00:00",
       "date_done": null
     },
     "869dv0xpn": {
@@ -9846,6 +9846,50 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869ej7r09": {
+      "name": "VSL 5 MIN ZENDI",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ej7r09",
+      "date_created": "2026-08-14T17:51:02.025000+00:00",
+      "date_updated": "2026-08-14T18:07:29.218000+00:00",
+      "date_done": null
+    },
+    "869ehz0ye": {
+      "name": "C - Rating Medico - ALBERT",
+      "status": "aprobación",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ehz0ye",
+      "date_created": "2026-08-14T07:09:57.401000+00:00",
+      "date_updated": "2026-08-14T19:01:52.176000+00:00",
+      "date_done": null
+    },
+    "869ehyynx": {
+      "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ehyynx",
+      "date_created": "2026-08-14T07:05:17.572000+00:00",
+      "date_updated": "2026-08-14T07:09:42.962000+00:00",
+      "date_done": null
+    },
+    "869ehyy2g": {
+      "name": "C - Rating Medico - ALBERT",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ehyy2g",
+      "date_created": "2026-08-14T07:03:26.528000+00:00",
+      "date_updated": "2026-08-14T07:09:41.190000+00:00",
+      "date_done": null
+    },
     "869ehvwvx": {
       "name": "BRIEF GLENDA SEMANA 2",
       "status": "pendiente",
@@ -9876,19 +9920,19 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ehfb6f",
       "date_created": "2026-08-13T05:07:21.456000+00:00",
-      "date_updated": "2026-08-13T05:54:40.260000+00:00",
+      "date_updated": "2026-08-14T21:09:52.895000+00:00",
       "date_done": null
     },
     "869egfn8e": {
       "name": "PARCHES SENOS GLENDA",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egfn8e",
       "date_created": "2026-08-10T21:51:52.453000+00:00",
-      "date_updated": "2026-08-14T04:53:51.683000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-14T10:17:48.135000+00:00",
+      "date_done": "2026-08-14T10:17:48.135000+00:00"
     },
     "869egfjex": {
       "name": "NIVELIA ADS",
@@ -9903,14 +9947,14 @@
     },
     "869egee9e": {
       "name": "BRIEF ZENDI v3",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egee9e",
       "date_created": "2026-08-10T19:13:37.080000+00:00",
-      "date_updated": "2026-08-14T04:53:50.280000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-14T18:28:55.357000+00:00",
+      "date_done": "2026-08-14T18:28:55.357000+00:00"
     },
     "869eg4zg8": {
       "name": "GLENDA NEW PRODUCT",
@@ -11322,24 +11366,24 @@
     },
     "869ehvkkk": {
       "name": "NEW PRODUCT NIVELIA",
-      "status": "backlog",
+      "status": "in progress",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ehvkkk",
       "date_created": "2026-08-13T19:02:56.454000+00:00",
-      "date_updated": "2026-08-13T19:10:35.803000+00:00",
+      "date_updated": "2026-08-15T04:16:51.186000+00:00",
       "date_done": null
     },
     "869egf3gw": {
       "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
-      "status": "in progress",
+      "status": "ready for review",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869egf3gw",
       "date_created": "2026-08-10T20:44:03.447000+00:00",
-      "date_updated": "2026-08-11T18:45:47.816000+00:00",
+      "date_updated": "2026-08-15T04:15:33.253000+00:00",
       "date_done": null
     },
     "869eg46yh": {
@@ -11366,13 +11410,13 @@
     },
     "869eer815": {
       "name": "NEW PRODUCT NIVELIA 2",
-      "status": "backlog",
+      "status": "ready for review",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eer815",
       "date_created": "2026-08-06T12:06:24.408000+00:00",
-      "date_updated": "2026-08-06T12:09:54.793000+00:00",
+      "date_updated": "2026-08-15T03:33:54.163000+00:00",
       "date_done": null
     },
     "869edjfun": {

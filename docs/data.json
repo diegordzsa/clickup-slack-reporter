@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:45:04.046959+00:00",
-  "snapshot_timestamp": "2026-08-14T06:44:42.087495",
+  "generated_at": "2026-08-15T05:44:07.523289+00:00",
+  "snapshot_timestamp": "2026-08-15T05:43:50.439699",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9033,6 +9033,20 @@
       "url": "https://app.clickup.com/t/869dheqnw"
     },
     {
+      "task_id": "869egf2pb",
+      "name": "Nueva PDP + Brand",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-08-10T20:39:12.915000+00:00",
+      "date_done": "2026-08-14T14:11:46.912000+00:00",
+      "lead_time_hours": 89.54,
+      "url": "https://app.clickup.com/t/869egf2pb"
+    },
+    {
       "task_id": "869dbc21j",
       "name": "Recopilar ads SKIN para reu creativos",
       "client": "Lyssoderma",
@@ -9647,19 +9661,6 @@
       "url": "https://app.clickup.com/t/869ehj8wz"
     },
     {
-      "task_id": "869eh4rwa",
-      "name": "L7-C13-Comp Producto-D-VX",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-12T09:46:23.554000+00:00",
-      "url": "https://app.clickup.com/t/869eh4rwa"
-    },
-    {
       "task_id": "869egdc71",
       "name": "L3-Menopausia-Elias",
       "client": "HAIR BIOLABS MX",
@@ -9723,19 +9724,6 @@
       ],
       "date_created": "2026-07-07T10:34:28.486000+00:00",
       "url": "https://app.clickup.com/t/869e1b11r"
-    },
-    {
-      "task_id": "869eh2yf1",
-      "name": "L4-Product-David",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-12T08:32:34.725000+00:00",
-      "url": "https://app.clickup.com/t/869eh2yf1"
     },
     {
       "task_id": "869ee5fpu",
@@ -9987,12 +9975,25 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
-      "task_id": "869egfn8e",
-      "name": "PARCHES SENOS GLENDA",
+      "task_id": "869ehz0ye",
+      "name": "C - Rating Medico - ALBERT",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-14T07:09:57.401000+00:00",
+      "url": "https://app.clickup.com/t/869ehz0ye"
+    },
+    {
+      "task_id": "869egfn8e",
+      "name": "PARCHES SENOS GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Leonidas"
       ],
@@ -10017,8 +10018,8 @@
       "name": "BRIEF ZENDI v3",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Leonidas"
       ],
@@ -11391,8 +11392,8 @@
       "url": "https://app.clickup.com/t/86999pwrb"
     },
     {
-      "task_id": "869egf3gw",
-      "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
+      "task_id": "869ehvkkk",
+      "name": "NEW PRODUCT NIVELIA",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "category": "en_curso",
@@ -11400,8 +11401,8 @@
       "assignees": [
         "Milagros"
       ],
-      "date_created": "2026-08-10T20:44:03.447000+00:00",
-      "url": "https://app.clickup.com/t/869egf3gw"
+      "date_created": "2026-08-13T19:02:56.454000+00:00",
+      "url": "https://app.clickup.com/t/869ehvkkk"
     },
     {
       "task_id": "869edjfun",
@@ -12924,15 +12925,65 @@
       "category": "aprobado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869egfjex"
+    },
+    {
+      "ts": "2026-08-15T05:44:07.345408+00:00",
+      "task_id": "869ehvkkk",
+      "name": "NEW PRODUCT NIVELIA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869ehvkkk"
+    },
+    {
+      "ts": "2026-08-15T05:44:07.345408+00:00",
+      "task_id": "869egfn8e",
+      "name": "PARCHES SENOS GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869egfn8e"
+    },
+    {
+      "ts": "2026-08-15T05:44:07.345408+00:00",
+      "task_id": "869egee9e",
+      "name": "BRIEF ZENDI v3",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869egee9e"
+    },
+    {
+      "ts": "2026-08-15T05:44:07.345408+00:00",
+      "task_id": "869egf2pb",
+      "name": "Nueva PDP + Brand",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869egf2pb"
+    },
+    {
+      "ts": "2026-08-15T05:44:07.345408+00:00",
+      "task_id": "869egf2pb",
+      "name": "Nueva PDP + Brand",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "completado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869egf2pb"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1062,
-    "total_completed": 719,
-    "total_completed_with_dates": 719,
-    "total_completed_with_done": 719,
-    "total_currently_assigned": 163,
-    "total_transitions_logged": 139,
+    "total_tasks_in_snapshot": 1066,
+    "total_completed": 720,
+    "total_completed_with_dates": 720,
+    "total_completed_with_done": 720,
+    "total_currently_assigned": 162,
+    "total_transitions_logged": 144,
     "total_editors": 28
   }
 }
