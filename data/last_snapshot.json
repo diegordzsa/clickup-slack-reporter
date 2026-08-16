@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T05:43:50.439699",
+  "timestamp": "2026-08-16T05:45:46.804685",
   "tasks": {
     "869ehk12f": {
       "name": "L60-C346-Audio Whatsap-B-VX",
@@ -42,7 +42,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egvzqd",
       "date_created": "2026-08-11T14:57:33.938000+00:00",
-      "date_updated": "2026-08-14T04:04:22.625000+00:00",
+      "date_updated": "2026-08-15T13:09:51.117000+00:00",
       "date_done": null
     },
     "869egvzpw": {
@@ -8424,7 +8424,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869egdc71",
       "date_created": "2026-08-10T17:07:13.402000+00:00",
-      "date_updated": "2026-08-11T07:09:34.348000+00:00",
+      "date_updated": "2026-08-15T08:15:22.708000+00:00",
       "date_done": null
     },
     "869edwcv0": {
@@ -8457,7 +8457,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869edwctm",
       "date_created": "2026-08-04T20:18:32.019000+00:00",
-      "date_updated": "2026-08-04T20:19:58.460000+00:00",
+      "date_updated": "2026-08-15T08:24:08.431000+00:00",
       "date_done": null
     },
     "869edwcta": {
@@ -8919,7 +8919,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5fpu",
       "date_created": "2026-08-05T11:40:35.459000+00:00",
-      "date_updated": "2026-08-12T17:18:06.089000+00:00",
+      "date_updated": "2026-08-15T08:12:23.378000+00:00",
       "date_done": null
     },
     "869ee5fnt": {
@@ -8941,7 +8941,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5c3t",
       "date_created": "2026-08-05T11:33:21.472000+00:00",
-      "date_updated": "2026-08-12T17:03:53.042000+00:00",
+      "date_updated": "2026-08-15T08:11:44.953000+00:00",
       "date_done": null
     },
     "869ed3hp9": {
@@ -11432,14 +11432,14 @@
     },
     "869ed0k3y": {
       "name": "NEW PRODUCT GLENDA",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ed0k3y",
       "date_created": "2026-08-03T09:03:57.316000+00:00",
-      "date_updated": "2026-08-12T22:53:56.109000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-15T20:30:11.704000+00:00",
+      "date_done": "2026-08-15T20:30:11.704000+00:00"
     },
     "869eany72": {
       "name": "NEW PDP PARCHES GLENDA",

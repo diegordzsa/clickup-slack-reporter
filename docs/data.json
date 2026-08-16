@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T05:44:07.523289+00:00",
-  "snapshot_timestamp": "2026-08-15T05:43:50.439699",
+  "generated_at": "2026-08-16T05:46:08.534558+00:00",
+  "snapshot_timestamp": "2026-08-16T05:45:46.804685",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -11418,6 +11418,19 @@
       "url": "https://app.clickup.com/t/869edjfun"
     },
     {
+      "task_id": "869ed0k3y",
+      "name": "NEW PRODUCT GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-03T09:03:57.316000+00:00",
+      "url": "https://app.clickup.com/t/869ed0k3y"
+    },
+    {
       "task_id": "869eany72",
       "name": "NEW PDP PARCHES GLENDA",
       "client": "ZENDI",
@@ -12975,6 +12988,16 @@
       "category": "completado",
       "assignee": "Gonzalo Millán",
       "url": "https://app.clickup.com/t/869egf2pb"
+    },
+    {
+      "ts": "2026-08-16T05:46:08.369206+00:00",
+      "task_id": "869ed0k3y",
+      "name": "NEW PRODUCT GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869ed0k3y"
     }
   ],
   "stats": {
@@ -12982,8 +13005,8 @@
     "total_completed": 720,
     "total_completed_with_dates": 720,
     "total_completed_with_done": 720,
-    "total_currently_assigned": 162,
-    "total_transitions_logged": 144,
+    "total_currently_assigned": 163,
+    "total_transitions_logged": 145,
     "total_editors": 28
   }
 }
