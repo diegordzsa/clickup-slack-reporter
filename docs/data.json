@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T05:46:08.534558+00:00",
-  "snapshot_timestamp": "2026-08-16T05:45:46.804685",
+  "generated_at": "2026-08-17T05:52:42.238174+00:00",
+  "snapshot_timestamp": "2026-08-17T05:52:20.094940",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -11405,6 +11405,19 @@
       "url": "https://app.clickup.com/t/869ehvkkk"
     },
     {
+      "task_id": "869egf3gw",
+      "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-10T20:44:03.447000+00:00",
+      "url": "https://app.clickup.com/t/869egf3gw"
+    },
+    {
       "task_id": "869edjfun",
       "name": "NEW PRODUCT NIVELIA",
       "client": "ZENDI",
@@ -12998,15 +13011,25 @@
       "category": "aprobado",
       "assignee": "Milagros",
       "url": "https://app.clickup.com/t/869ed0k3y"
+    },
+    {
+      "ts": "2026-08-17T05:52:42.104872+00:00",
+      "task_id": "869egf3gw",
+      "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869egf3gw"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1066,
+    "total_tasks_in_snapshot": 1070,
     "total_completed": 720,
     "total_completed_with_dates": 720,
     "total_completed_with_done": 720,
-    "total_currently_assigned": 163,
-    "total_transitions_logged": 145,
+    "total_currently_assigned": 164,
+    "total_transitions_logged": 146,
     "total_editors": 28
   }
 }

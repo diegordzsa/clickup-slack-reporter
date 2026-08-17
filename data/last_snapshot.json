@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T05:45:46.804685",
+  "timestamp": "2026-08-17T05:52:20.094940",
   "tasks": {
     "869ehk12f": {
       "name": "L60-C346-Audio Whatsap-B-VX",
@@ -9846,6 +9846,39 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869ejkbe5": {
+      "name": "BRIEF GLENDA . JUEVES SEMANA 2",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ejkbe5",
+      "date_created": "2026-08-17T04:28:00.321000+00:00",
+      "date_updated": "2026-08-17T04:32:33.816000+00:00",
+      "date_done": null
+    },
+    "869ejk9rw": {
+      "name": "BRIEF ZENDI · JUEVES SEMANA 2",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ejk9rw",
+      "date_created": "2026-08-17T03:58:50.295000+00:00",
+      "date_updated": "2026-08-17T04:27:37.322000+00:00",
+      "date_done": null
+    },
+    "869ejk9km": {
+      "name": "BRIEF ELI · 3 DCTs Semana 15-22 AGO · Almacén + Flacidez + NUEVO Hombre Padre",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ejk9km",
+      "date_created": "2026-08-17T03:53:00.166000+00:00",
+      "date_updated": "2026-08-17T03:53:00.166000+00:00",
+      "date_done": null
+    },
     "869ej7r09": {
       "name": "VSL 5 MIN ZENDI",
       "status": "pendiente",
@@ -11364,6 +11397,17 @@
       "date_updated": "2025-07-31T12:22:30.655000+00:00",
       "date_done": "2025-06-04T14:04:58.614000+00:00"
     },
+    "869ejk7ub": {
+      "name": "PDP ZENDI",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869ejk7ub",
+      "date_created": "2026-08-17T03:28:41.714000+00:00",
+      "date_updated": "2026-08-17T03:33:52.041000+00:00",
+      "date_done": null
+    },
     "869ehvkkk": {
       "name": "NEW PRODUCT NIVELIA",
       "status": "in progress",
@@ -11372,19 +11416,19 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ehvkkk",
       "date_created": "2026-08-13T19:02:56.454000+00:00",
-      "date_updated": "2026-08-15T04:16:51.186000+00:00",
+      "date_updated": "2026-08-17T01:45:55.521000+00:00",
       "date_done": null
     },
     "869egf3gw": {
       "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869egf3gw",
       "date_created": "2026-08-10T20:44:03.447000+00:00",
-      "date_updated": "2026-08-15T04:15:33.253000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-17T03:27:57.026000+00:00",
+      "date_done": "2026-08-17T03:27:57.026000+00:00"
     },
     "869eg46yh": {
       "name": "Nuevos Flyers para zendi",
