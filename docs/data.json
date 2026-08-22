@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T05:50:15.524105+00:00",
-  "snapshot_timestamp": "2026-08-21T05:49:55.002705",
+  "generated_at": "2026-08-22T05:45:13.370128+00:00",
+  "snapshot_timestamp": "2026-08-22T05:44:49.336209",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -47,6 +47,32 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "869ekuux7",
+      "name": "L60-C348 Product-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-19T09:21:27.386000+00:00",
+      "date_done": "2026-08-21T14:12:05.032000+00:00",
+      "lead_time_hours": 52.84,
+      "url": "https://app.clickup.com/t/869ekuux7"
+    },
+    {
+      "task_id": "869ekuuvh",
+      "name": "L60-C351 Us.VS.Them-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-19T09:21:21.789000+00:00",
+      "date_done": "2026-08-21T14:17:30.204000+00:00",
+      "lead_time_hours": 52.94,
+      "url": "https://app.clickup.com/t/869ekuuvh"
+    },
     {
       "task_id": "869egvzpw",
       "name": "L60-C343-SENALES-HORMONAL",
@@ -9344,6 +9370,32 @@
       "url": "https://app.clickup.com/t/869eecnj5"
     },
     {
+      "task_id": "869eap8v7",
+      "name": "Parches de Pechos GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-28T18:20:44.552000+00:00",
+      "date_done": "2026-08-21T20:08:35.380000+00:00",
+      "lead_time_hours": 577.8,
+      "url": "https://app.clickup.com/t/869eap8v7"
+    },
+    {
+      "task_id": "869e8940g",
+      "name": "Short Adelgazante Glenda",
+      "client": "ZENDI",
+      "list": "Producción",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-22T23:11:24.016000+00:00",
+      "date_done": "2026-08-21T20:08:36.102000+00:00",
+      "lead_time_hours": 716.95,
+      "url": "https://app.clickup.com/t/869e8940g"
+    },
+    {
       "task_id": "8699xw061",
       "name": "Gráficos para Activación REUS RESEARCH",
       "client": "ZENDI",
@@ -9501,6 +9553,32 @@
     }
   ],
   "currently_assigned": [
+    {
+      "task_id": "869ekuuwn",
+      "name": "L60-C329-Ingredientes ITER 2-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-19T09:21:25.385000+00:00",
+      "url": "https://app.clickup.com/t/869ekuuwn"
+    },
+    {
+      "task_id": "869ekuuw1",
+      "name": "L60-C349 H.Text-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-19T09:21:23.373000+00:00",
+      "url": "https://app.clickup.com/t/869ekuuw1"
+    },
     {
       "task_id": "869ekuuuz",
       "name": "L60-O. Vuelta al Cole-VX-A",
@@ -10026,12 +10104,38 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
-      "task_id": "869emuuaw",
-      "name": "GLENDA TRADUCCIONES",
+      "task_id": "869en0w2b",
+      "name": "NIVELIA GUT FRESH",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-21T06:23:25.485000+00:00",
+      "url": "https://app.clickup.com/t/869en0w2b"
+    },
+    {
+      "task_id": "869en0pk5",
+      "name": "VSL HOOKS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-21T06:10:11.303000+00:00",
+      "url": "https://app.clickup.com/t/869en0pk5"
+    },
+    {
+      "task_id": "869emuuaw",
+      "name": "GLENDA TRADUCCIONES",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -10056,8 +10160,8 @@
       "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Leonidas"
       ],
@@ -10069,8 +10173,8 @@
       "name": "VSL PARCHES  ZENDI",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -12207,15 +12311,105 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869e9zvxr"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ekuuwn",
+      "name": "L60-C329-Ingredientes ITER 2-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ekuuwn"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ekuuw1",
+      "name": "L60-C349 H.Text-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ekuuw1"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869emuuaw",
+      "name": "GLENDA TRADUCCIONES",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869emuuaw"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ehyynx",
+      "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869ehyynx"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ehfb6f",
+      "name": "VSL PARCHES  ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ehfb6f"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ekuux7",
+      "name": "L60-C348 Product-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ekuux7"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869ekuuvh",
+      "name": "L60-C351 Us.VS.Them-VX-A",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ekuuvh"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869eap8v7",
+      "name": "Parches de Pechos GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869eap8v7"
+    },
+    {
+      "ts": "2026-08-22T05:45:13.206802+00:00",
+      "task_id": "869e8940g",
+      "name": "Short Adelgazante Glenda",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869e8940g"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 958,
-    "total_completed": 726,
-    "total_completed_with_dates": 726,
-    "total_completed_with_done": 726,
-    "total_currently_assigned": 57,
-    "total_transitions_logged": 196,
+    "total_tasks_in_snapshot": 962,
+    "total_completed": 730,
+    "total_completed_with_dates": 730,
+    "total_completed_with_done": 730,
+    "total_currently_assigned": 61,
+    "total_transitions_logged": 205,
     "total_editors": 27
   }
 }

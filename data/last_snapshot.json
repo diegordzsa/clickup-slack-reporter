@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T05:49:55.002705",
+  "timestamp": "2026-08-22T05:44:49.336209",
   "tasks": {
     "869emcjra": {
       "name": "L60-C352 Yapping TOF-VX-G",
@@ -14,46 +14,46 @@
     },
     "869ekuux7": {
       "name": "L60-C348 Product-VX-A",
-      "status": "draft",
+      "status": "final",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuux7",
       "date_created": "2026-08-19T09:21:27.386000+00:00",
-      "date_updated": "2026-08-20T00:38:16.175000+00:00",
+      "date_updated": "2026-08-21T14:12:05.032000+00:00",
       "date_done": null
     },
     "869ekuuwn": {
       "name": "L60-C329-Ingredientes ITER 2-VX-A",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuuwn",
       "date_created": "2026-08-19T09:21:25.385000+00:00",
-      "date_updated": "2026-08-20T17:29:41.078000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T09:23:33.643000+00:00",
+      "date_done": "2026-08-21T09:23:26.720000+00:00"
     },
     "869ekuuw1": {
       "name": "L60-C349 H.Text-VX-A",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuuw1",
       "date_created": "2026-08-19T09:21:23.373000+00:00",
-      "date_updated": "2026-08-20T00:37:51.646000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T09:22:16.247000+00:00",
+      "date_done": "2026-08-21T09:22:05.767000+00:00"
     },
     "869ekuuvh": {
       "name": "L60-C351 Us.VS.Them-VX-A",
-      "status": "draft",
+      "status": "final",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuuvh",
       "date_created": "2026-08-19T09:21:21.789000+00:00",
-      "date_updated": "2026-08-20T21:31:53.969000+00:00",
+      "date_updated": "2026-08-21T14:17:30.204000+00:00",
       "date_done": null
     },
     "869ekuuuz": {
@@ -306,7 +306,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8eguc",
       "date_created": "2026-07-23T09:02:42.613000+00:00",
-      "date_updated": "2026-08-19T12:42:42.957000+00:00",
+      "date_updated": "2026-08-21T22:36:50.707000+00:00",
       "date_done": null
     },
     "869e7vgq0": {
@@ -9967,16 +9967,38 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869en0w2b": {
+      "name": "NIVELIA GUT FRESH",
+      "status": "aprobación",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869en0w2b",
+      "date_created": "2026-08-21T06:23:25.485000+00:00",
+      "date_updated": "2026-08-22T04:04:58.930000+00:00",
+      "date_done": null
+    },
+    "869en0pk5": {
+      "name": "VSL HOOKS",
+      "status": "aprobación",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869en0pk5",
+      "date_created": "2026-08-21T06:10:11.303000+00:00",
+      "date_updated": "2026-08-22T04:03:30.501000+00:00",
+      "date_done": null
+    },
     "869emuuaw": {
       "name": "GLENDA TRADUCCIONES",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869emuuaw",
       "date_created": "2026-08-20T19:01:56.080000+00:00",
-      "date_updated": "2026-08-21T04:02:11.949000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T06:03:14.029000+00:00",
+      "date_done": "2026-08-21T06:03:14.029000+00:00"
     },
     "869embdpy": {
       "name": "BRIEF - LUNES  SEMANA 3",
@@ -9986,29 +10008,29 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869embdpy",
       "date_created": "2026-08-20T07:21:13+00:00",
-      "date_updated": "2026-08-20T07:25:12.743000+00:00",
+      "date_updated": "2026-08-21T20:09:03.268000+00:00",
       "date_done": null
     },
     "869ejkbe5": {
       "name": "BRIEF GLENDA . JUEVES SEMANA 2",
-      "status": "pendiente",
+      "status": "realizar cambios",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejkbe5",
       "date_created": "2026-08-17T04:28:00.321000+00:00",
-      "date_updated": "2026-08-17T04:32:33.816000+00:00",
+      "date_updated": "2026-08-21T20:50:07.141000+00:00",
       "date_done": null
     },
     "869ejk9rw": {
       "name": "BRIEF ZENDI · JUEVES SEMANA 2",
-      "status": "pendiente",
+      "status": "realizar cambios",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejk9rw",
       "date_created": "2026-08-17T03:58:50.295000+00:00",
-      "date_updated": "2026-08-17T04:27:37.322000+00:00",
+      "date_updated": "2026-08-21T20:43:44.897000+00:00",
       "date_done": null
     },
     "869ejk9km": {
@@ -10019,7 +10041,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejk9km",
       "date_created": "2026-08-17T03:53:00.166000+00:00",
-      "date_updated": "2026-08-20T07:50:51.009000+00:00",
+      "date_updated": "2026-08-21T20:09:08.965000+00:00",
       "date_done": null
     },
     "869ej7r09": {
@@ -10046,14 +10068,14 @@
     },
     "869ehyynx": {
       "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ehyynx",
       "date_created": "2026-08-14T07:05:17.572000+00:00",
-      "date_updated": "2026-08-20T06:43:58.205000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T06:01:28.160000+00:00",
+      "date_done": "2026-08-21T06:01:28.160000+00:00"
     },
     "869ehyy2g": {
       "name": "C - Rating Medico - ALBERT",
@@ -10090,14 +10112,14 @@
     },
     "869ehfb6f": {
       "name": "VSL PARCHES  ZENDI",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ehfb6f",
       "date_created": "2026-08-13T05:07:21.456000+00:00",
-      "date_updated": "2026-08-20T04:14:27.699000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T06:23:10.860000+00:00",
+      "date_done": "2026-08-21T06:23:10.860000+00:00"
     },
     "869egfjex": {
       "name": "NIVELIA ADS",
@@ -10134,24 +10156,46 @@
     },
     "869eap8v7": {
       "name": "Parches de Pechos GLENDA",
-      "status": "pendiente",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eap8v7",
       "date_created": "2026-07-28T18:20:44.552000+00:00",
-      "date_updated": "2026-08-02T00:54:50.116000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T20:08:35.380000+00:00",
+      "date_done": "2026-08-21T20:08:35.380000+00:00"
     },
     "869e8940g": {
       "name": "Short Adelgazante Glenda",
-      "status": "pendiente",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e8940g",
       "date_created": "2026-07-22T23:11:24.016000+00:00",
-      "date_updated": "2026-08-03T09:00:46.769000+00:00",
+      "date_updated": "2026-08-21T20:08:36.102000+00:00",
+      "date_done": "2026-08-21T20:08:36.102000+00:00"
+    },
+    "869eneftz": {
+      "name": "NEW PDP GLENDA",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869eneftz",
+      "date_created": "2026-08-21T20:55:24.519000+00:00",
+      "date_updated": "2026-08-21T20:56:23.347000+00:00",
+      "date_done": null
+    },
+    "869eneezh": {
+      "name": "NEW BRAND GLENDA",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869eneezh",
+      "date_created": "2026-08-21T20:52:25.546000+00:00",
+      "date_updated": "2026-08-21T20:55:06.922000+00:00",
       "date_done": null
     },
     "869ek8016": {
@@ -10184,7 +10228,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ehvkkk",
       "date_created": "2026-08-13T19:02:56.454000+00:00",
-      "date_updated": "2026-08-18T12:44:54.754000+00:00",
+      "date_updated": "2026-08-21T06:24:49.518000+00:00",
       "date_done": null
     },
     "869egf3gw": {
@@ -10200,14 +10244,14 @@
     },
     "869eg46yh": {
       "name": "Nuevos Flyers para zendi",
-      "status": "backlog",
+      "status": "done",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eg46yh",
       "date_created": "2026-08-10T09:33:10.583000+00:00",
-      "date_updated": "2026-08-10T09:42:20.403000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-21T20:52:02.817000+00:00",
+      "date_done": "2026-08-21T20:52:02.817000+00:00"
     },
     "869eftxmu": {
       "name": "NEW PDP ZENDI",
@@ -10217,7 +10261,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eftxmu",
       "date_created": "2026-08-09T08:17:09.544000+00:00",
-      "date_updated": "2026-08-19T13:54:01.310000+00:00",
+      "date_updated": "2026-08-21T06:24:14.985000+00:00",
       "date_done": null
     },
     "869eer815": {
@@ -10305,7 +10349,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869e7m2v1",
       "date_created": "2026-07-21T16:54:27.162000+00:00",
-      "date_updated": "2026-08-01T00:09:32.726000+00:00",
+      "date_updated": "2026-08-21T06:24:24.647000+00:00",
       "date_done": "2026-08-01T00:09:32.726000+00:00"
     },
     "869e5fw6y": {
