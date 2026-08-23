@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T05:44:49.336209",
+  "timestamp": "2026-08-23T05:47:32.076073",
   "tasks": {
     "869emcjra": {
       "name": "L60-C352 Yapping TOF-VX-G",
@@ -58,13 +58,13 @@
     },
     "869ekuuuz": {
       "name": "L60-O. Vuelta al Cole-VX-A",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuuuz",
       "date_created": "2026-08-19T09:21:19.903000+00:00",
-      "date_updated": "2026-08-20T21:31:56.252000+00:00",
+      "date_updated": "2026-08-23T03:59:15.848000+00:00",
       "date_done": null
     },
     "869ekjzqr": {
@@ -8996,7 +8996,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekx2gx",
       "date_created": "2026-08-19T10:44:09+00:00",
-      "date_updated": "2026-08-19T13:26:26.240000+00:00",
+      "date_updated": "2026-08-22T23:49:23.508000+00:00",
       "date_done": null
     },
     "869ekwky1": {
@@ -9969,14 +9969,14 @@
     },
     "869en0w2b": {
       "name": "NIVELIA GUT FRESH",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869en0w2b",
       "date_created": "2026-08-21T06:23:25.485000+00:00",
-      "date_updated": "2026-08-22T04:04:58.930000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-22T08:32:59.563000+00:00",
+      "date_done": "2026-08-22T08:32:59.563000+00:00"
     },
     "869en0pk5": {
       "name": "VSL HOOKS",
@@ -10030,7 +10030,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejk9rw",
       "date_created": "2026-08-17T03:58:50.295000+00:00",
-      "date_updated": "2026-08-21T20:43:44.897000+00:00",
+      "date_updated": "2026-08-22T08:30:35.629000+00:00",
       "date_done": null
     },
     "869ejk9km": {
@@ -10041,7 +10041,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejk9km",
       "date_created": "2026-08-17T03:53:00.166000+00:00",
-      "date_updated": "2026-08-21T20:09:08.965000+00:00",
+      "date_updated": "2026-08-23T02:05:41.913000+00:00",
       "date_done": null
     },
     "869ej7r09": {
@@ -10052,7 +10052,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ej7r09",
       "date_created": "2026-08-14T17:51:02.025000+00:00",
-      "date_updated": "2026-08-19T07:57:55.860000+00:00",
+      "date_updated": "2026-08-22T08:28:31.627000+00:00",
       "date_done": null
     },
     "869ehz0ye": {
@@ -10068,13 +10068,13 @@
     },
     "869ehyynx": {
       "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ehyynx",
       "date_created": "2026-08-14T07:05:17.572000+00:00",
-      "date_updated": "2026-08-21T06:01:28.160000+00:00",
+      "date_updated": "2026-08-22T08:33:12.043000+00:00",
       "date_done": "2026-08-21T06:01:28.160000+00:00"
     },
     "869ehyy2g": {
