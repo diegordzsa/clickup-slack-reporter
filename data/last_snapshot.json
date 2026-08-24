@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T05:47:32.076073",
+  "timestamp": "2026-08-24T05:55:22.752561",
   "tasks": {
     "869emcjra": {
       "name": "L60-C352 Yapping TOF-VX-G",
@@ -102,13 +102,13 @@
     },
     "869egvzqr": {
       "name": "L60-341-HORMONAL-PRUEBA-DOC",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egvzqr",
       "date_created": "2026-08-11T14:57:35.455000+00:00",
-      "date_updated": "2026-08-21T03:36:59.604000+00:00",
+      "date_updated": "2026-08-24T02:54:22.776000+00:00",
       "date_done": null
     },
     "869egvzpw": {
@@ -124,13 +124,13 @@
     },
     "869egvzp3": {
       "name": "L60-C342-EXP-MEDICION-HOMBRE-BROLL",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egvzp3",
       "date_created": "2026-08-11T14:57:29.966000+00:00",
-      "date_updated": "2026-08-21T03:36:54.486000+00:00",
+      "date_updated": "2026-08-24T02:53:32.938000+00:00",
       "date_done": null
     },
     "869egvuwb": {
@@ -9183,7 +9183,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3dmew",
       "date_created": "2026-07-11T17:53:17.819000+00:00",
-      "date_updated": "2026-08-19T10:28:37.584000+00:00",
+      "date_updated": "2026-08-23T23:31:12.517000+00:00",
       "date_done": null
     },
     "869e1d9xr": {
@@ -9967,6 +9967,39 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869enr0jd": {
+      "name": "Replicar los 3 mejores ads de GLUCORA",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869enr0jd",
+      "date_created": "2026-08-23T13:52:31.282000+00:00",
+      "date_updated": "2026-08-23T13:52:31.282000+00:00",
+      "date_done": null
+    },
+    "869enqz1z": {
+      "name": "Statics ZENDI · Replicar Eleveit MX — SOLUTION AWARE",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869enqz1z",
+      "date_created": "2026-08-23T13:44:57.900000+00:00",
+      "date_updated": "2026-08-24T01:06:20.196000+00:00",
+      "date_done": null
+    },
+    "869enqz0z": {
+      "name": "Statics ZENDI · Replicar Eleveit MX — PROBLEM AWARE",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869enqz0z",
+      "date_created": "2026-08-23T13:44:52.862000+00:00",
+      "date_updated": "2026-08-24T01:07:13.012000+00:00",
+      "date_done": null
+    },
     "869en0w2b": {
       "name": "NIVELIA GUT FRESH",
       "status": "aprobado",
@@ -9980,14 +10013,14 @@
     },
     "869en0pk5": {
       "name": "VSL HOOKS",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869en0pk5",
       "date_created": "2026-08-21T06:10:11.303000+00:00",
-      "date_updated": "2026-08-22T04:03:30.501000+00:00",
-      "date_done": null
+      "date_updated": "2026-08-23T07:38:30.423000+00:00",
+      "date_done": "2026-08-23T07:38:30.423000+00:00"
     },
     "869emuuaw": {
       "name": "GLENDA TRADUCCIONES",
@@ -10008,7 +10041,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869embdpy",
       "date_created": "2026-08-20T07:21:13+00:00",
-      "date_updated": "2026-08-21T20:09:03.268000+00:00",
+      "date_updated": "2026-08-23T23:49:28.695000+00:00",
       "date_done": null
     },
     "869ejkbe5": {
@@ -10030,7 +10063,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejk9rw",
       "date_created": "2026-08-17T03:58:50.295000+00:00",
-      "date_updated": "2026-08-22T08:30:35.629000+00:00",
+      "date_updated": "2026-08-23T23:47:28.009000+00:00",
       "date_done": null
     },
     "869ejk9km": {
@@ -10052,7 +10085,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ej7r09",
       "date_created": "2026-08-14T17:51:02.025000+00:00",
-      "date_updated": "2026-08-22T08:28:31.627000+00:00",
+      "date_updated": "2026-08-23T23:38:41.108000+00:00",
       "date_done": null
     },
     "869ehz0ye": {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:47:48.873213+00:00",
-  "snapshot_timestamp": "2026-08-23T05:47:32.076073",
+  "generated_at": "2026-08-24T05:55:39.819485+00:00",
+  "snapshot_timestamp": "2026-08-24T05:55:22.752561",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9632,32 +9632,6 @@
       "url": "https://app.clickup.com/t/869egwvp2"
     },
     {
-      "task_id": "869egvzqr",
-      "name": "L60-341-HORMONAL-PRUEBA-DOC",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-11T14:57:35.455000+00:00",
-      "url": "https://app.clickup.com/t/869egvzqr"
-    },
-    {
-      "task_id": "869egvzp3",
-      "name": "L60-C342-EXP-MEDICION-HOMBRE-BROLL",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-11T14:57:29.966000+00:00",
-      "url": "https://app.clickup.com/t/869egvzp3"
-    },
-    {
       "task_id": "869egvuwb",
       "name": "L59-C339-P. Grueso-VX-D",
       "client": "HAIR BIOLABS",
@@ -10121,8 +10095,8 @@
       "name": "VSL HOOKS",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -12408,15 +12382,25 @@
       "category": "completado",
       "assignee": "Leonidas",
       "url": "https://app.clickup.com/t/869ehyynx"
+    },
+    {
+      "ts": "2026-08-24T05:55:39.655339+00:00",
+      "task_id": "869en0pk5",
+      "name": "VSL HOOKS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869en0pk5"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 962,
+    "total_tasks_in_snapshot": 965,
     "total_completed": 731,
     "total_completed_with_dates": 731,
     "total_completed_with_done": 731,
-    "total_currently_assigned": 59,
-    "total_transitions_logged": 207,
+    "total_currently_assigned": 57,
+    "total_transitions_logged": 208,
     "total_editors": 27
   }
 }
