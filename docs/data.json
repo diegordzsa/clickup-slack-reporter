@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T05:49:29.637280+00:00",
-  "snapshot_timestamp": "2026-08-25T05:49:09.042638",
+  "generated_at": "2026-08-26T05:52:03.722518+00:00",
+  "snapshot_timestamp": "2026-08-26T05:51:42.122099",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9632,30 +9632,30 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869enw762",
-      "name": "L61-C353 Pelo Fino-VX-Gonzalo",
+      "task_id": "869epmjmh",
+      "name": "L61-C355 Podcast-VX-Deyby",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
-        "Gonzalo Flores"
+        "Deyby Santiago Gonzalez Murillo"
       ],
-      "date_created": "2026-08-24T06:44:48.273000+00:00",
-      "url": "https://app.clickup.com/t/869enw762"
+      "date_created": "2026-08-25T11:14:34.027000+00:00",
+      "url": "https://app.clickup.com/t/869epmjmh"
     },
     {
-      "task_id": "869emcjra",
-      "name": "L60-C352 Yapping TOF-VX-G",
+      "task_id": "869ephu69",
+      "name": "L61-C354 Alternativa-VX-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
-      "date_created": "2026-08-20T08:25:40.420000+00:00",
-      "url": "https://app.clickup.com/t/869emcjra"
+      "date_created": "2026-08-25T09:07:35.330000+00:00",
+      "url": "https://app.clickup.com/t/869ephu69"
     },
     {
       "task_id": "869ekuuwn",
@@ -9734,6 +9734,19 @@
       ],
       "date_created": "2026-08-11T14:48:32.254000+00:00",
       "url": "https://app.clickup.com/t/869egvuwb"
+    },
+    {
+      "task_id": "869e47bzf",
+      "name": "L4-No Reconocerte #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-07-13T17:33:14.274000+00:00",
+      "url": "https://app.clickup.com/t/869e47bzf"
     },
     {
       "task_id": "869e47bgk",
@@ -9815,25 +9828,12 @@
       "url": "https://app.clickup.com/t/869ep929r"
     },
     {
-      "task_id": "869ep1dg0",
-      "name": "L7-C11-Raya Central ITER 1-G-VX",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-24T10:28:27.910000+00:00",
-      "url": "https://app.clickup.com/t/869ep1dg0"
-    },
-    {
       "task_id": "869enwd29",
       "name": "L9-C15 Pelo Fino-VX-Gonzalo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -9969,19 +9969,6 @@
       ],
       "date_created": "2026-07-11T17:53:17.819000+00:00",
       "url": "https://app.clickup.com/t/869e3dmew"
-    },
-    {
-      "task_id": "869ejrj3y",
-      "name": "Us vs Them",
-      "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-08-17T09:33:12.725000+00:00",
-      "url": "https://app.clickup.com/t/869ejrj3y"
     },
     {
       "task_id": "869egf2pb",
@@ -10156,6 +10143,45 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
+      "task_id": "869epvd2g",
+      "name": "NIVELIA ADS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-25T17:49:15.262000+00:00",
+      "url": "https://app.clickup.com/t/869epvd2g"
+    },
+    {
+      "task_id": "869enqz1z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — SOLUTION AWARE",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-23T13:44:57.900000+00:00",
+      "url": "https://app.clickup.com/t/869enqz1z"
+    },
+    {
+      "task_id": "869enqz0z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — PROBLEM AWARE",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-23T13:44:52.862000+00:00",
+      "url": "https://app.clickup.com/t/869enqz0z"
+    },
+    {
       "task_id": "869en0w2b",
       "name": "NIVELIA GUT FRESH",
       "client": "ZENDI",
@@ -10193,6 +10219,19 @@
       ],
       "date_created": "2026-08-20T19:01:56.080000+00:00",
       "url": "https://app.clickup.com/t/869emuuaw"
+    },
+    {
+      "task_id": "869embdpy",
+      "name": "BRIEF GLENDA- LUNES  SEMANA 3",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-20T07:21:13+00:00",
+      "url": "https://app.clickup.com/t/869embdpy"
     },
     {
       "task_id": "869ejk9rw",
@@ -10234,6 +10273,19 @@
       "url": "https://app.clickup.com/t/869ehfb6f"
     },
     {
+      "task_id": "869eneftz",
+      "name": "NEW PDP GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "status": "in progress",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-21T20:55:24.519000+00:00",
+      "url": "https://app.clickup.com/t/869eneftz"
+    },
+    {
       "task_id": "869ejk7ub",
       "name": "PDP ZENDI",
       "client": "ZENDI",
@@ -10247,6 +10299,19 @@
       "url": "https://app.clickup.com/t/869ejk7ub"
     },
     {
+      "task_id": "869ehvkkk",
+      "name": "NEW PRODUCT NIVELIA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-13T19:02:56.454000+00:00",
+      "url": "https://app.clickup.com/t/869ehvkkk"
+    },
+    {
       "task_id": "869egf3gw",
       "name": "NIVELIA® BERBERINE — Nueva PDP v2 (arquitectura Glucora / eje A1C)",
       "client": "ZENDI",
@@ -10258,6 +10323,19 @@
       ],
       "date_created": "2026-08-10T20:44:03.447000+00:00",
       "url": "https://app.clickup.com/t/869egf3gw"
+    },
+    {
+      "task_id": "869eftxmu",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-08-09T08:17:09.544000+00:00",
+      "url": "https://app.clickup.com/t/869eftxmu"
     },
     {
       "task_id": "869eer815",
@@ -12566,15 +12644,95 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869e72kx8"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869enwd29",
+      "name": "L9-C15 Pelo Fino-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869enwd29"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869eneftz",
+      "name": "NEW PDP GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869eneftz"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869embdpy",
+      "name": "BRIEF GLENDA- LUNES  SEMANA 3",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869embdpy"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869e47bzf",
+      "name": "L4-No Reconocerte #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869e47bzf"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869enqz1z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — SOLUTION AWARE",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869enqz1z"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869enqz0z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — PROBLEM AWARE",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869enqz0z"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869ehvkkk",
+      "name": "NEW PRODUCT NIVELIA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869ehvkkk"
+    },
+    {
+      "ts": "2026-08-26T05:52:03.547761+00:00",
+      "task_id": "869eftxmu",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869eftxmu"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 977,
+    "total_tasks_in_snapshot": 980,
     "total_completed": 736,
     "total_completed_with_dates": 736,
     "total_completed_with_done": 736,
-    "total_currently_assigned": 60,
-    "total_transitions_logged": 215,
+    "total_currently_assigned": 66,
+    "total_transitions_logged": 223,
     "total_editors": 27
   }
 }
