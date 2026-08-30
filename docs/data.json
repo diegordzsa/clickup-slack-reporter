@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T11:40:59.775538+00:00",
-  "snapshot_timestamp": "2026-08-29T11:40:42.839302",
+  "generated_at": "2026-08-30T10:30:26.333386+00:00",
+  "snapshot_timestamp": "2026-08-30T10:30:01.065232",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9905,19 +9905,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869er1q7f",
-      "name": "L61-C360-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-28T08:13:12.652000+00:00",
-      "url": "https://app.clickup.com/t/869er1q7f"
-    },
-    {
       "task_id": "869er1q3t",
       "name": "L61-C359-VX",
       "client": "HAIR BIOLABS",
@@ -13670,7 +13657,7 @@
     "total_completed": 757,
     "total_completed_with_dates": 757,
     "total_completed_with_done": 757,
-    "total_currently_assigned": 78,
+    "total_currently_assigned": 77,
     "total_transitions_logged": 274,
     "total_editors": 27
   }

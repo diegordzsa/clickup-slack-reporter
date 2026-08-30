@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-29T11:40:42.839302",
+  "timestamp": "2026-08-30T10:30:01.065232",
   "tasks": {
     "869er1q7f": {
       "name": "L61-C360-VX",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q7f",
       "date_created": "2026-08-28T08:13:12.652000+00:00",
-      "date_updated": "2026-08-28T08:14:10.326000+00:00",
+      "date_updated": "2026-08-29T20:24:57.729000+00:00",
       "date_done": null
     },
     "869er1q3t": {
@@ -262,7 +262,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egvuwb",
       "date_created": "2026-08-11T14:48:32.254000+00:00",
-      "date_updated": "2026-08-27T17:54:13.928000+00:00",
+      "date_updated": "2026-08-30T08:13:06.513000+00:00",
       "date_done": null
     },
     "869egrvaf": {
@@ -8611,7 +8611,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eqhhg7",
       "date_created": "2026-08-27T07:59:07.405000+00:00",
-      "date_updated": "2026-08-28T00:48:35.097000+00:00",
+      "date_updated": "2026-08-30T07:08:13.998000+00:00",
       "date_done": null
     },
     "869eqgw19": {
