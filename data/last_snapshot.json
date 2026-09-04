@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T09:54:22.878564",
+  "timestamp": "2026-09-04T09:42:03.934548",
   "tasks": {
     "869er1q7f": {
       "name": "L61-C360-VX",
@@ -9,51 +9,51 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q7f",
       "date_created": "2026-08-28T08:13:12.652000+00:00",
-      "date_updated": "2026-08-29T20:24:57.729000+00:00",
+      "date_updated": "2026-09-03T16:36:50.276000+00:00",
       "date_done": null
     },
     "869er1q3t": {
       "name": "L61-C359-VX",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q3t",
       "date_created": "2026-08-28T08:13:04.850000+00:00",
-      "date_updated": "2026-08-31T19:55:07.923000+00:00",
+      "date_updated": "2026-09-03T15:16:51.923000+00:00",
       "date_done": null
     },
     "869er1q15": {
       "name": "L61-C358-VX",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q15",
       "date_created": "2026-08-28T08:12:58.716000+00:00",
-      "date_updated": "2026-08-31T19:53:06.371000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-03T15:17:19.222000+00:00",
+      "date_done": "2026-09-03T15:14:20.053000+00:00"
     },
     "869er1px3": {
       "name": "L61-C357-VX",
       "status": "assigned",
-      "assignee": "Leonidas",
+      "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1px3",
       "date_created": "2026-08-28T08:12:48.572000+00:00",
-      "date_updated": "2026-09-01T07:18:15.369000+00:00",
+      "date_updated": "2026-09-04T07:57:23.023000+00:00",
       "date_done": null
     },
     "869eqhz93": {
       "name": "L61-Animaciones-VX-Alejandra",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eqhz93",
       "date_created": "2026-08-27T08:21:03.199000+00:00",
-      "date_updated": "2026-09-03T08:45:17.485000+00:00",
+      "date_updated": "2026-09-03T18:38:32.341000+00:00",
       "date_done": "2026-09-03T08:45:02.126000+00:00"
     },
     "869eqgtw2": {
@@ -69,13 +69,13 @@
     },
     "869eq3ehd": {
       "name": "L61-C36  Cortisol-VX-Gonzalo",
-      "status": "revisión",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eq3ehd",
       "date_created": "2026-08-26T09:46:53.131000+00:00",
-      "date_updated": "2026-09-03T08:49:50.258000+00:00",
+      "date_updated": "2026-09-04T02:47:31.246000+00:00",
       "date_done": null
     },
     "869epmjmh": {
@@ -91,13 +91,13 @@
     },
     "869ephu69": {
       "name": "L61-C354 Alternativa-VX-Gonzalo",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ephu69",
       "date_created": "2026-08-25T09:07:35.330000+00:00",
-      "date_updated": "2026-09-03T08:51:47.689000+00:00",
+      "date_updated": "2026-09-04T01:21:04.404000+00:00",
       "date_done": "2026-09-03T08:51:35.371000+00:00"
     },
     "869enw762": {
@@ -168,13 +168,13 @@
     },
     "869ekuuuz": {
       "name": "L60-O. Vuelta al Cole-VX-A",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekuuuz",
       "date_created": "2026-08-19T09:21:19.903000+00:00",
-      "date_updated": "2026-09-03T08:54:56.417000+00:00",
+      "date_updated": "2026-09-03T18:14:09.879000+00:00",
       "date_done": "2026-09-03T08:54:56.417000+00:00"
     },
     "869ekjzqr": {
@@ -190,24 +190,24 @@
     },
     "869ehk12f": {
       "name": "L60-C346-Audio Whatsap-B-VX",
-      "status": "aprobado",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ehk12f",
       "date_created": "2026-08-13T09:41:28.040000+00:00",
-      "date_updated": "2026-09-02T15:52:35.586000+00:00",
-      "date_done": "2026-09-02T15:52:27.173000+00:00"
+      "date_updated": "2026-09-03T16:03:31.667000+00:00",
+      "date_done": null
     },
     "869egwvp2": {
       "name": "L60-C345-Producto-B-VX",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Braulio Romero",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egwvp2",
       "date_created": "2026-08-11T15:53:53.698000+00:00",
-      "date_updated": "2026-09-03T08:52:52.066000+00:00",
+      "date_updated": "2026-09-04T01:10:23.799000+00:00",
       "date_done": "2026-09-03T08:52:43.597000+00:00"
     },
     "869egvzqr": {
@@ -553,13 +553,13 @@
     },
     "869e5p57q": {
       "name": "L57-Pack completo-VX-A",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e5p57q",
       "date_created": "2026-07-16T14:16:56.991000+00:00",
-      "date_updated": "2026-09-03T08:56:33.538000+00:00",
+      "date_updated": "2026-09-03T19:20:28.987000+00:00",
       "date_done": "2026-09-03T08:56:33.538000+00:00"
     },
     "869e4kgpc": {
@@ -603,7 +603,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47bzf",
       "date_created": "2026-07-13T17:33:14.274000+00:00",
-      "date_updated": "2026-08-25T10:52:11.870000+00:00",
+      "date_updated": "2026-09-03T11:44:10.623000+00:00",
       "date_done": "2026-08-25T10:52:11.870000+00:00"
     },
     "869e47bgk": {
@@ -625,7 +625,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e47bab",
       "date_created": "2026-07-13T17:31:43.830000+00:00",
-      "date_updated": "2026-08-26T18:39:33.887000+00:00",
+      "date_updated": "2026-09-03T11:44:12.434000+00:00",
       "date_done": "2026-08-26T18:39:33.887000+00:00"
     },
     "869e47afm": {
@@ -762,13 +762,13 @@
     },
     "869e3e5kn": {
       "name": "L57-323-KOREANUGC",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e5kn",
       "date_created": "2026-07-11T18:38:31.697000+00:00",
-      "date_updated": "2026-09-03T08:59:31.840000+00:00",
+      "date_updated": "2026-09-04T00:48:32.922000+00:00",
       "date_done": "2026-08-03T20:41:33.642000+00:00"
     },
     "869e3e3uf": {
@@ -889,7 +889,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e0r7v0",
       "date_created": "2026-07-06T10:52:10.573000+00:00",
-      "date_updated": "2026-08-12T08:37:49.770000+00:00",
+      "date_updated": "2026-09-03T11:42:34.262000+00:00",
       "date_done": "2026-08-12T08:37:48.861000+00:00"
     },
     "869e0r7hg": {
@@ -1021,7 +1021,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8x33",
       "date_created": "2026-06-29T15:15:35.899000+00:00",
-      "date_updated": "2026-08-12T08:42:28.570000+00:00",
+      "date_updated": "2026-09-03T11:42:59.083000+00:00",
       "date_done": "2026-08-12T08:42:27.660000+00:00"
     },
     "869dx8x2j": {
@@ -1032,7 +1032,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx8x2j",
       "date_created": "2026-06-29T15:15:34.352000+00:00",
-      "date_updated": "2026-08-26T10:55:34.451000+00:00",
+      "date_updated": "2026-09-03T11:44:14.451000+00:00",
       "date_done": "2026-08-26T10:55:34.451000+00:00"
     },
     "869dx8x1n": {
@@ -8550,24 +8550,24 @@
     },
     "869euwxku": {
       "name": "L10-C20 Producto-Deyby",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869euwxku",
       "date_created": "2026-09-03T08:24:14.090000+00:00",
-      "date_updated": "2026-09-03T08:24:14.118000+00:00",
+      "date_updated": "2026-09-03T15:54:21.656000+00:00",
       "date_done": null
     },
     "869euvg75": {
       "name": "L10-C15 Pelo Fino ITER 1-VX-Gonzalo",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869euvg75",
       "date_created": "2026-09-03T07:13:53.097000+00:00",
-      "date_updated": "2026-09-03T07:13:54.168000+00:00",
+      "date_updated": "2026-09-04T02:47:07.720000+00:00",
       "date_done": null
     },
     "869etbkqv": {
@@ -8594,13 +8594,13 @@
     },
     "869erxdgj": {
       "name": "L10-C16-VX-Deyby",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869erxdgj",
       "date_created": "2026-08-31T09:19:54.807000+00:00",
-      "date_updated": "2026-09-03T09:06:54.004000+00:00",
+      "date_updated": "2026-09-03T17:35:22.125000+00:00",
       "date_done": "2026-09-03T09:06:42.282000+00:00"
     },
     "869erxd52": {
@@ -8616,35 +8616,35 @@
     },
     "869eru80t": {
       "name": "L10-PROMO-VX-ALEJANDRA",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eru80t",
       "date_created": "2026-08-31T07:24:49.618000+00:00",
-      "date_updated": "2026-09-03T09:07:27.043000+00:00",
+      "date_updated": "2026-09-03T17:30:21.043000+00:00",
       "date_done": "2026-09-03T09:07:19.406000+00:00"
     },
     "869eru7zw": {
       "name": "L10-C4 ITER 3-VX-ALEJANDRA",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eru7zw",
       "date_created": "2026-08-31T07:24:46.816000+00:00",
-      "date_updated": "2026-09-03T09:07:37.171000+00:00",
+      "date_updated": "2026-09-03T17:22:21.942000+00:00",
       "date_done": "2026-09-01T09:04:21.039000+00:00"
     },
     "869er3faj": {
       "name": "L7-C11-Raya Central - Ciclo Acortado - VX - Gonzalo",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869er3faj",
       "date_created": "2026-08-28T09:42:44.432000+00:00",
-      "date_updated": "2026-09-03T09:07:38.417000+00:00",
+      "date_updated": "2026-09-03T17:12:36.266000+00:00",
       "date_done": "2026-09-01T09:03:59.518000+00:00"
     },
     "869er3d09": {
@@ -9327,6 +9327,28 @@
       "url": "https://app.clickup.com/t/869bpv1w0",
       "date_created": "2026-01-08T15:52:24.811000+00:00",
       "date_updated": "2026-01-08T20:21:26.292000+00:00",
+      "date_done": null
+    },
+    "869ev4zaw": {
+      "name": "L5-Corrector-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ev4zaw",
+      "date_created": "2026-09-03T15:03:23.885000+00:00",
+      "date_updated": "2026-09-03T15:04:15.762000+00:00",
+      "date_done": null
+    },
+    "869ev4z6m": {
+      "name": "L5-3 Razones Corea-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ev4z6m",
+      "date_created": "2026-09-03T15:03:09.467000+00:00",
+      "date_updated": "2026-09-03T15:04:12.971000+00:00",
       "date_done": null
     },
     "869eq5yv4": {
@@ -10341,27 +10363,38 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869ev7bc1": {
+      "name": "BRIEF ZENDI",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ev7bc1",
+      "date_created": "2026-09-03T17:52:43.731000+00:00",
+      "date_updated": "2026-09-03T18:07:59.152000+00:00",
+      "date_done": null
+    },
     "869eupwqc": {
       "name": "BERBERINE NIVELIA",
-      "status": "pendiente",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eupwqc",
       "date_created": "2026-09-03T01:05:43.210000+00:00",
-      "date_updated": "2026-09-03T01:08:10.703000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-04T05:34:03.916000+00:00",
+      "date_done": "2026-09-04T05:34:03.916000+00:00"
     },
     "869eu50gq": {
       "name": "SKIN CU - GLENDA",
-      "status": "pendiente",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eu50gq",
       "date_created": "2026-09-02T05:10:59.389000+00:00",
-      "date_updated": "2026-09-03T03:12:31.714000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-04T03:59:42.449000+00:00",
+      "date_done": "2026-09-04T03:59:42.449000+00:00"
     },
     "869et6g1h": {
       "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
@@ -10387,14 +10420,14 @@
     },
     "869erd9gq": {
       "name": "BRIEF ZENDI JUEVES SEMANA 4",
-      "status": "en proceso",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869erd9gq",
       "date_created": "2026-08-29T06:56:24.008000+00:00",
-      "date_updated": "2026-08-29T06:56:56.082000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-04T05:34:07.492000+00:00",
+      "date_done": "2026-09-04T05:34:07.492000+00:00"
     },
     "869er8qv8": {
       "name": "ZENDI ADS",
@@ -10464,14 +10497,14 @@
     },
     "869epby75": {
       "name": "BRIEF NIVELIA BERBERINE",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869epby75",
       "date_created": "2026-08-24T21:48:08.877000+00:00",
-      "date_updated": "2026-09-02T04:47:12.131000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-04T03:59:40.039000+00:00",
+      "date_done": "2026-09-04T03:59:40.039000+00:00"
     },
     "869epbxzv": {
       "name": "BRIEF NIVELIA GUTFRESH",
@@ -10811,7 +10844,7 @@
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ek8016",
       "date_created": "2026-08-18T08:44:17.713000+00:00",
-      "date_updated": "2026-09-01T05:20:48.259000+00:00",
+      "date_updated": "2026-09-04T00:56:06.406000+00:00",
       "date_done": null
     },
     "869ejk7ub": {
