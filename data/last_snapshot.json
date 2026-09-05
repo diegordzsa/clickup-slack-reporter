@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T09:42:03.934548",
+  "timestamp": "2026-09-05T09:07:35.644120",
   "tasks": {
     "869er1q7f": {
       "name": "L61-C360-VX",
@@ -36,13 +36,13 @@
     },
     "869er1px3": {
       "name": "L61-C357-VX",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1px3",
       "date_created": "2026-08-28T08:12:48.572000+00:00",
-      "date_updated": "2026-09-04T07:57:23.023000+00:00",
+      "date_updated": "2026-09-04T16:05:22.972000+00:00",
       "date_done": null
     },
     "869eqhz93": {
@@ -9331,13 +9331,13 @@
     },
     "869ev4zaw": {
       "name": "L5-Corrector-VX #B-Roll",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ev4zaw",
       "date_created": "2026-09-03T15:03:23.885000+00:00",
-      "date_updated": "2026-09-03T15:04:15.762000+00:00",
+      "date_updated": "2026-09-05T04:02:15.235000+00:00",
       "date_done": null
     },
     "869ev4z6m": {
@@ -10365,13 +10365,13 @@
     },
     "869ev7bc1": {
       "name": "BRIEF ZENDI",
-      "status": "pendiente",
+      "status": "aprobación",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ev7bc1",
       "date_created": "2026-09-03T17:52:43.731000+00:00",
-      "date_updated": "2026-09-03T18:07:59.152000+00:00",
+      "date_updated": "2026-09-05T04:03:16.726000+00:00",
       "date_done": null
     },
     "869eupwqc": {
@@ -10404,7 +10404,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869et6g1h",
       "date_created": "2026-08-31T18:59:01.716000+00:00",
-      "date_updated": "2026-09-01T16:36:20.906000+00:00",
+      "date_updated": "2026-09-05T03:50:15.253000+00:00",
       "date_done": null
     },
     "869et67tr": {

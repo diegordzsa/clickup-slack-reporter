@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T09:42:28.889839+00:00",
-  "snapshot_timestamp": "2026-09-04T09:42:03.934548",
+  "generated_at": "2026-09-05T09:07:52.702785+00:00",
+  "snapshot_timestamp": "2026-09-05T09:07:35.644120",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10061,19 +10061,6 @@
       "url": "https://app.clickup.com/t/869er1q15"
     },
     {
-      "task_id": "869er1px3",
-      "name": "L61-C357-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-28T08:12:48.572000+00:00",
-      "url": "https://app.clickup.com/t/869er1px3"
-    },
-    {
       "task_id": "869eq3ehd",
       "name": "L61-C36  Cortisol-VX-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -10412,19 +10399,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869ev4zaw",
-      "name": "L5-Corrector-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-03T15:03:23.885000+00:00",
-      "url": "https://app.clickup.com/t/869ev4zaw"
-    },
-    {
       "task_id": "869ev4z6m",
       "name": "L5-3 Razones Corea-VX #B-Roll",
       "client": "Lyssoderma",
@@ -10675,6 +10649,19 @@
       ],
       "date_created": "2026-06-25T10:16:07.077000+00:00",
       "url": "https://app.clickup.com/t/869dvtwap"
+    },
+    {
+      "task_id": "869ev7bc1",
+      "name": "BRIEF ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-03T17:52:43.731000+00:00",
+      "url": "https://app.clickup.com/t/869ev7bc1"
     },
     {
       "task_id": "869eupwqc",
@@ -13894,6 +13881,16 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869er3faj"
+    },
+    {
+      "ts": "2026-09-05T09:07:52.560840+00:00",
+      "task_id": "869ev7bc1",
+      "name": "BRIEF ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ev7bc1"
     }
   ],
   "stats": {
@@ -13901,8 +13898,8 @@
     "total_completed": 767,
     "total_completed_with_dates": 767,
     "total_completed_with_done": 767,
-    "total_currently_assigned": 88,
-    "total_transitions_logged": 271,
+    "total_currently_assigned": 87,
+    "total_transitions_logged": 272,
     "total_editors": 27
   }
 }
