@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T09:07:52.702785+00:00",
-  "snapshot_timestamp": "2026-09-05T09:07:35.644120",
+  "generated_at": "2026-09-06T09:28:59.042000+00:00",
+  "snapshot_timestamp": "2026-09-06T09:28:38.267298",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10035,19 +10035,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869er1q3t",
-      "name": "L61-C359-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-28T08:13:04.850000+00:00",
-      "url": "https://app.clickup.com/t/869er1q3t"
-    },
-    {
       "task_id": "869er1q15",
       "name": "L61-C358-VX",
       "client": "HAIR BIOLABS",
@@ -10061,32 +10048,6 @@
       "url": "https://app.clickup.com/t/869er1q15"
     },
     {
-      "task_id": "869eq3ehd",
-      "name": "L61-C36  Cortisol-VX-Gonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-08-26T09:46:53.131000+00:00",
-      "url": "https://app.clickup.com/t/869eq3ehd"
-    },
-    {
-      "task_id": "869epmjmh",
-      "name": "L61-C355 Podcast-VX-Deyby",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-25T11:14:34.027000+00:00",
-      "url": "https://app.clickup.com/t/869epmjmh"
-    },
-    {
       "task_id": "869ekjzqr",
       "name": "L60-437-PELUQUERA-STATUS",
       "client": "HAIR BIOLABS",
@@ -10098,19 +10059,6 @@
       ],
       "date_created": "2026-08-18T17:39:41.256000+00:00",
       "url": "https://app.clickup.com/t/869ekjzqr"
-    },
-    {
-      "task_id": "869egvuwb",
-      "name": "L59-Dra Comentario-VX-Deyby",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-11T14:48:32.254000+00:00",
-      "url": "https://app.clickup.com/t/869egvuwb"
     },
     {
       "task_id": "869egrvaf",
@@ -10282,32 +10230,6 @@
       "url": "https://app.clickup.com/t/869etbkkw"
     },
     {
-      "task_id": "869erxd52",
-      "name": "L10-C17 Ranking-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-31T09:19:29.018000+00:00",
-      "url": "https://app.clickup.com/t/869erxd52"
-    },
-    {
-      "task_id": "869er3d09",
-      "name": "L10-C11-Dra Raya Central-VX-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-28T09:37:08.268000+00:00",
-      "url": "https://app.clickup.com/t/869er3d09"
-    },
-    {
       "task_id": "869er3cv5",
       "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
       "client": "HAIR BIOLABS MX",
@@ -10332,19 +10254,6 @@
       ],
       "date_created": "2026-08-27T07:59:07.405000+00:00",
       "url": "https://app.clickup.com/t/869eqhhg7"
-    },
-    {
-      "task_id": "869eqbahr",
-      "name": "L7-C11-Raya Central ITER 2-G-VX",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-26T16:18:10.647000+00:00",
-      "url": "https://app.clickup.com/t/869eqbahr"
     },
     {
       "task_id": "869egdc71",
@@ -10449,6 +10358,34 @@
       ],
       "date_created": "2026-08-17T09:33:12.725000+00:00",
       "url": "https://app.clickup.com/t/869ejrj3y"
+    },
+    {
+      "task_id": "869ewya1t",
+      "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-05T17:20:04.773000+00:00",
+      "url": "https://app.clickup.com/t/869ewya1t"
+    },
+    {
+      "task_id": "869ewxbdz",
+      "name": "Imagenes de Listicle 5RW",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-05T16:39:41.383000+00:00",
+      "url": "https://app.clickup.com/t/869ewxbdz"
     },
     {
       "task_id": "869etphg4",
@@ -13894,11 +13831,11 @@
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1020,
+    "total_tasks_in_snapshot": 1022,
     "total_completed": 767,
     "total_completed_with_dates": 767,
     "total_completed_with_done": 767,
-    "total_currently_assigned": 87,
+    "total_currently_assigned": 82,
     "total_transitions_logged": 272,
     "total_editors": 27
   }

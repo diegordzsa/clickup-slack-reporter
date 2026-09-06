@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T09:07:35.644120",
+  "timestamp": "2026-09-06T09:28:38.267298",
   "tasks": {
     "869er1q7f": {
       "name": "L61-C360-VX",
@@ -14,13 +14,13 @@
     },
     "869er1q3t": {
       "name": "L61-C359-VX",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q3t",
       "date_created": "2026-08-28T08:13:04.850000+00:00",
-      "date_updated": "2026-09-03T15:16:51.923000+00:00",
+      "date_updated": "2026-09-05T18:17:36.513000+00:00",
       "date_done": null
     },
     "869er1q15": {
@@ -69,24 +69,24 @@
     },
     "869eq3ehd": {
       "name": "L61-C36  Cortisol-VX-Gonzalo",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eq3ehd",
       "date_created": "2026-08-26T09:46:53.131000+00:00",
-      "date_updated": "2026-09-04T02:47:31.246000+00:00",
+      "date_updated": "2026-09-05T18:51:25.470000+00:00",
       "date_done": null
     },
     "869epmjmh": {
       "name": "L61-C355 Podcast-VX-Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869epmjmh",
       "date_created": "2026-08-25T11:14:34.027000+00:00",
-      "date_updated": "2026-09-02T16:11:11.847000+00:00",
+      "date_updated": "2026-09-05T22:48:44.899000+00:00",
       "date_done": null
     },
     "869ephu69": {
@@ -256,13 +256,13 @@
     },
     "869egvuwb": {
       "name": "L59-Dra Comentario-VX-Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egvuwb",
       "date_created": "2026-08-11T14:48:32.254000+00:00",
-      "date_updated": "2026-09-02T15:50:01.343000+00:00",
+      "date_updated": "2026-09-06T00:17:44.816000+00:00",
       "date_done": null
     },
     "869egrvaf": {
@@ -8605,13 +8605,13 @@
     },
     "869erxd52": {
       "name": "L10-C17 Ranking-Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869erxd52",
       "date_created": "2026-08-31T09:19:29.018000+00:00",
-      "date_updated": "2026-09-03T09:03:27.773000+00:00",
+      "date_updated": "2026-09-05T18:08:40.452000+00:00",
       "date_done": null
     },
     "869eru80t": {
@@ -8649,13 +8649,13 @@
     },
     "869er3d09": {
       "name": "L10-C11-Dra Raya Central-VX-Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869er3d09",
       "date_created": "2026-08-28T09:37:08.268000+00:00",
-      "date_updated": "2026-09-03T09:01:23.090000+00:00",
+      "date_updated": "2026-09-06T04:02:28.095000+00:00",
       "date_done": null
     },
     "869er3cv5": {
@@ -8666,7 +8666,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869er3cv5",
       "date_created": "2026-08-28T09:36:55.927000+00:00",
-      "date_updated": "2026-09-01T08:32:59.319000+00:00",
+      "date_updated": "2026-09-06T01:46:42.057000+00:00",
       "date_done": null
     },
     "869eqmcq5": {
@@ -8715,13 +8715,13 @@
     },
     "869eqbahr": {
       "name": "L7-C11-Raya Central ITER 2-G-VX",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eqbahr",
       "date_created": "2026-08-26T16:18:10.647000+00:00",
-      "date_updated": "2026-09-01T08:05:36.204000+00:00",
+      "date_updated": "2026-09-06T01:45:36.322000+00:00",
       "date_done": null
     },
     "869eq4rpc": {
@@ -10153,6 +10153,28 @@
       "date_created": "2026-06-02T09:54:48.141000+00:00",
       "date_updated": "2026-06-09T16:36:48.119000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
+    },
+    "869ewya1t": {
+      "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
+      "status": "asignado",
+      "assignee": "Alejandra Ramirez, Gonzalo Millán",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869ewya1t",
+      "date_created": "2026-09-05T17:20:04.773000+00:00",
+      "date_updated": "2026-09-05T17:22:25.786000+00:00",
+      "date_done": null
+    },
+    "869ewxbdz": {
+      "name": "Imagenes de Listicle 5RW",
+      "status": "asignado",
+      "assignee": "Alejandra Ramirez, Gonzalo Millán",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869ewxbdz",
+      "date_created": "2026-09-05T16:39:41.383000+00:00",
+      "date_updated": "2026-09-05T16:42:12.773000+00:00",
+      "date_done": null
     },
     "869etphg4": {
       "name": "Foto principal",
