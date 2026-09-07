@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T09:28:59.042000+00:00",
-  "snapshot_timestamp": "2026-09-06T09:28:38.267298",
+  "generated_at": "2026-09-07T10:25:03.092089+00:00",
+  "snapshot_timestamp": "2026-09-07T10:24:44.659001",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10230,32 +10230,6 @@
       "url": "https://app.clickup.com/t/869etbkkw"
     },
     {
-      "task_id": "869er3cv5",
-      "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-28T09:36:55.927000+00:00",
-      "url": "https://app.clickup.com/t/869er3cv5"
-    },
-    {
-      "task_id": "869eqhhg7",
-      "name": "L9-C13 Transformación-VX-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-27T07:59:07.405000+00:00",
-      "url": "https://app.clickup.com/t/869eqhhg7"
-    },
-    {
       "task_id": "869egdc71",
       "name": "L3-Menopausia-Elias",
       "client": "HAIR BIOLABS MX",
@@ -10306,6 +10280,32 @@
       ],
       "date_created": "2026-07-07T10:34:28.486000+00:00",
       "url": "https://app.clickup.com/t/869e1b11r"
+    },
+    {
+      "task_id": "869ey0wp1",
+      "name": "L6-Menopausia-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-09-07T09:14:45.061000+00:00",
+      "url": "https://app.clickup.com/t/869ey0wp1"
+    },
+    {
+      "task_id": "869ey0wd6",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-07T09:14:29.541000+00:00",
+      "url": "https://app.clickup.com/t/869ey0wd6"
     },
     {
       "task_id": "869ev4z6m",
@@ -10386,34 +10386,6 @@
       ],
       "date_created": "2026-09-05T16:39:41.383000+00:00",
       "url": "https://app.clickup.com/t/869ewxbdz"
-    },
-    {
-      "task_id": "869etphg4",
-      "name": "Foto principal",
-      "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
-      "assignees": [
-        "Gonzalo Millán",
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-09-01T17:17:38.768000+00:00",
-      "url": "https://app.clickup.com/t/869etphg4"
-    },
-    {
-      "task_id": "869etph4b",
-      "name": "Tipografía",
-      "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
-      "assignees": [
-        "Gonzalo Millán",
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-09-01T17:15:28.572000+00:00",
-      "url": "https://app.clickup.com/t/869etph4b"
     },
     {
       "task_id": "869egf2pb",
@@ -10592,8 +10564,8 @@
       "name": "BRIEF ZENDI",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -10625,6 +10597,19 @@
       ],
       "date_created": "2026-09-02T05:10:59.389000+00:00",
       "url": "https://app.clickup.com/t/869eu50gq"
+    },
+    {
+      "task_id": "869et6g1h",
+      "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-31T18:59:01.716000+00:00",
+      "url": "https://app.clickup.com/t/869et6g1h"
     },
     {
       "task_id": "869erd9gq",
@@ -10874,6 +10859,45 @@
       "url": "https://app.clickup.com/t/869ehfb6f"
     },
     {
+      "task_id": "869et5vm3",
+      "name": "BRAND PACKAGING",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-31T17:24:23.685000+00:00",
+      "url": "https://app.clickup.com/t/869et5vm3"
+    },
+    {
+      "task_id": "869epbu3b",
+      "name": "NEW PRODUCT ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "status": "in progress",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-24T21:22:35.911000+00:00",
+      "url": "https://app.clickup.com/t/869epbu3b"
+    },
+    {
+      "task_id": "869epbrzn",
+      "name": "NEW PRODUCT GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-24T21:11:56.375000+00:00",
+      "url": "https://app.clickup.com/t/869epbrzn"
+    },
+    {
       "task_id": "869eneftz",
       "name": "NEW PDP GLENDA",
       "client": "ZENDI",
@@ -10887,17 +10911,17 @@
       "url": "https://app.clickup.com/t/869eneftz"
     },
     {
-      "task_id": "869ek8016",
-      "name": "NEW PDP ZENDI USA",
+      "task_id": "869eneezh",
+      "name": "NEW BRAND GLENDA",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
-      "category": "en_curso",
-      "status": "in progress",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Milagros"
       ],
-      "date_created": "2026-08-18T08:44:17.713000+00:00",
-      "url": "https://app.clickup.com/t/869ek8016"
+      "date_created": "2026-08-21T20:52:25.546000+00:00",
+      "url": "https://app.clickup.com/t/869eneezh"
     },
     {
       "task_id": "869ejk7ub",
@@ -13828,15 +13852,75 @@
       "category": "revision",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869ev7bc1"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869epbu3b",
+      "name": "NEW PRODUCT ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869epbu3b"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869ev7bc1",
+      "name": "BRIEF ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ev7bc1"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869et6g1h",
+      "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869et6g1h"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869et5vm3",
+      "name": "BRAND PACKAGING",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869et5vm3"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869epbrzn",
+      "name": "NEW PRODUCT GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869epbrzn"
+    },
+    {
+      "ts": "2026-09-07T10:25:02.958820+00:00",
+      "task_id": "869eneezh",
+      "name": "NEW BRAND GLENDA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869eneezh"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1022,
+    "total_tasks_in_snapshot": 1027,
     "total_completed": 767,
     "total_completed_with_dates": 767,
     "total_completed_with_done": 767,
-    "total_currently_assigned": 82,
-    "total_transitions_logged": 272,
+    "total_currently_assigned": 84,
+    "total_transitions_logged": 278,
     "total_editors": 27
   }
 }

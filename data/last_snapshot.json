@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T09:28:38.267298",
+  "timestamp": "2026-09-07T10:24:44.659001",
   "tasks": {
     "869er1q7f": {
       "name": "L61-C360-VX",
@@ -8655,18 +8655,18 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869er3d09",
       "date_created": "2026-08-28T09:37:08.268000+00:00",
-      "date_updated": "2026-09-06T04:02:28.095000+00:00",
+      "date_updated": "2026-09-06T14:40:12.483000+00:00",
       "date_done": null
     },
     "869er3cv5": {
       "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869er3cv5",
       "date_created": "2026-08-28T09:36:55.927000+00:00",
-      "date_updated": "2026-09-06T01:46:42.057000+00:00",
+      "date_updated": "2026-09-06T13:40:40.526000+00:00",
       "date_done": null
     },
     "869eqmcq5": {
@@ -8693,13 +8693,13 @@
     },
     "869eqhhg7": {
       "name": "L9-C13 Transformación-VX-Deyby",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869eqhhg7",
       "date_created": "2026-08-27T07:59:07.405000+00:00",
-      "date_updated": "2026-09-01T08:24:20.864000+00:00",
+      "date_updated": "2026-09-06T18:29:14.307000+00:00",
       "date_done": null
     },
     "869eqgw19": {
@@ -9327,6 +9327,28 @@
       "url": "https://app.clickup.com/t/869bpv1w0",
       "date_created": "2026-01-08T15:52:24.811000+00:00",
       "date_updated": "2026-01-08T20:21:26.292000+00:00",
+      "date_done": null
+    },
+    "869ey0wp1": {
+      "name": "L6-Menopausia-VX #Autoridad",
+      "status": "assigned",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ey0wp1",
+      "date_created": "2026-09-07T09:14:45.061000+00:00",
+      "date_updated": "2026-09-07T09:15:31.560000+00:00",
+      "date_done": null
+    },
+    "869ey0wd6": {
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869ey0wd6",
+      "date_created": "2026-09-07T09:14:29.541000+00:00",
+      "date_updated": "2026-09-07T09:15:35.374000+00:00",
       "date_done": null
     },
     "869ev4zaw": {
@@ -10178,24 +10200,24 @@
     },
     "869etphg4": {
       "name": "Foto principal",
-      "status": "asignado",
+      "status": "borrador",
       "assignee": "Gonzalo Millán, Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869etphg4",
       "date_created": "2026-09-01T17:17:38.768000+00:00",
-      "date_updated": "2026-09-01T17:51:40.346000+00:00",
+      "date_updated": "2026-09-07T06:04:06.725000+00:00",
       "date_done": null
     },
     "869etph4b": {
       "name": "Tipografía",
-      "status": "asignado",
+      "status": "borrador",
       "assignee": "Gonzalo Millán, Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869etph4b",
       "date_created": "2026-09-01T17:15:28.572000+00:00",
-      "date_updated": "2026-09-01T17:51:42.683000+00:00",
+      "date_updated": "2026-09-07T06:08:35.469000+00:00",
       "date_done": null
     },
     "869egf2pb": {
@@ -10385,16 +10407,38 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869exxfc5": {
+      "name": "GLENDA SKIN-CU",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869exxfc5",
+      "date_created": "2026-09-07T07:01:51.709000+00:00",
+      "date_updated": "2026-09-07T07:24:24.408000+00:00",
+      "date_done": null
+    },
+    "869exxc7x": {
+      "name": "Brief Lunes semana 2 Sep",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869exxc7x",
+      "date_created": "2026-09-07T06:58:08.003000+00:00",
+      "date_updated": "2026-09-07T06:58:08.003000+00:00",
+      "date_done": null
+    },
     "869ev7bc1": {
       "name": "BRIEF ZENDI",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ev7bc1",
       "date_created": "2026-09-03T17:52:43.731000+00:00",
-      "date_updated": "2026-09-05T04:03:16.726000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-07T06:57:38.377000+00:00",
+      "date_done": "2026-09-07T06:57:38.377000+00:00"
     },
     "869eupwqc": {
       "name": "BERBERINE NIVELIA",
@@ -10420,14 +10464,14 @@
     },
     "869et6g1h": {
       "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
-      "status": "pendiente",
+      "status": "aprobado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869et6g1h",
       "date_created": "2026-08-31T18:59:01.716000+00:00",
-      "date_updated": "2026-09-05T03:50:15.253000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-07T06:57:44.061000+00:00",
+      "date_done": "2026-09-07T06:57:44.061000+00:00"
     },
     "869et67tr": {
       "name": "GLENDA ADS",
@@ -10803,38 +10847,49 @@
       "date_updated": "2026-08-21T20:08:36.102000+00:00",
       "date_done": "2026-08-21T20:08:36.102000+00:00"
     },
+    "869exymvd": {
+      "name": "NUEVA TIEDNA",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869exymvd",
+      "date_created": "2026-09-07T07:48:08.257000+00:00",
+      "date_updated": "2026-09-07T08:04:44.200000+00:00",
+      "date_done": null
+    },
     "869et5vm3": {
       "name": "BRAND PACKAGING",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869et5vm3",
       "date_created": "2026-08-31T17:24:23.685000+00:00",
-      "date_updated": "2026-09-01T04:00:18.443000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-07T07:45:25.460000+00:00",
+      "date_done": "2026-09-07T07:45:25.460000+00:00"
     },
     "869epbu3b": {
       "name": "NEW PRODUCT ZENDI",
-      "status": "backlog",
+      "status": "in progress",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869epbu3b",
       "date_created": "2026-08-24T21:22:35.911000+00:00",
-      "date_updated": "2026-08-31T17:24:47.020000+00:00",
+      "date_updated": "2026-09-06T16:52:38.392000+00:00",
       "date_done": null
     },
     "869epbrzn": {
       "name": "NEW PRODUCT GLENDA",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869epbrzn",
       "date_created": "2026-08-24T21:11:56.375000+00:00",
-      "date_updated": "2026-09-01T05:20:35.426000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-07T07:45:29.170000+00:00",
+      "date_done": "2026-09-07T07:45:29.170000+00:00"
     },
     "869eneftz": {
       "name": "NEW PDP GLENDA",
@@ -10849,24 +10904,24 @@
     },
     "869eneezh": {
       "name": "NEW BRAND GLENDA",
-      "status": "ready for review",
+      "status": "approved",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869eneezh",
       "date_created": "2026-08-21T20:52:25.546000+00:00",
-      "date_updated": "2026-08-30T15:57:50.226000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-07T07:45:33.439000+00:00",
+      "date_done": "2026-09-07T07:45:33.439000+00:00"
     },
     "869ek8016": {
       "name": "NEW PDP ZENDI USA",
-      "status": "in progress",
+      "status": "ready for review",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869ek8016",
       "date_created": "2026-08-18T08:44:17.713000+00:00",
-      "date_updated": "2026-09-04T00:56:06.406000+00:00",
+      "date_updated": "2026-09-06T16:52:13.485000+00:00",
       "date_done": null
     },
     "869ejk7ub": {
