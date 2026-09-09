@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-08T09:45:54.677437",
+  "timestamp": "2026-09-09T09:49:59.669927",
   "tasks": {
     "869ey500k": {
       "name": "L62-364-Barbero Recomendación-VX #UGC",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey500k",
       "date_created": "2026-09-07T11:34:50.033000+00:00",
-      "date_updated": "2026-09-07T19:07:37.353000+00:00",
+      "date_updated": "2026-09-08T17:32:27.550000+00:00",
       "date_done": null
     },
     "869ey4zr7": {
@@ -36,13 +36,13 @@
     },
     "869ey4jwk": {
       "name": "L62-C361-3 Señales-ITER1-Cortisol-VX #UGC",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey4jwk",
       "date_created": "2026-09-07T11:18:28.398000+00:00",
-      "date_updated": "2026-09-07T19:07:35.802000+00:00",
+      "date_updated": "2026-09-08T16:54:02.291000+00:00",
       "date_done": null
     },
     "869er1q7f": {
@@ -7580,6 +7580,17 @@
       "date_updated": "2026-07-14T02:37:17.335000+00:00",
       "date_done": "2026-06-11T06:20:27.914000+00:00"
     },
+    "869ez1hr6": {
+      "name": "Diseño suscripción + regalos figma",
+      "status": "to do",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869ez1hr6",
+      "date_created": "2026-09-08T15:04:25.184000+00:00",
+      "date_updated": "2026-09-08T15:04:51.323000+00:00",
+      "date_done": null
+    },
     "869edze7x": {
       "name": "🔴 Branding del sérum para producción en CHINA (bote + packaging sobre troquel) — HOY",
       "status": "completado",
@@ -7681,25 +7692,25 @@
     },
     "869dtanp3": {
       "name": "reditar static ofertas semana santa (checkear imagen adjunta)",
-      "status": "completado",
+      "status": "archivado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dtanp3",
       "date_created": "2026-06-19T08:50:12.810000+00:00",
-      "date_updated": "2026-06-19T21:30:44.653000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-08T15:04:18.447000+00:00",
+      "date_done": "2026-09-08T15:04:18.447000+00:00"
     },
     "869dt5k5z": {
       "name": "Relanzar a landing retarget-angulo verano",
-      "status": "to do",
+      "status": "archivado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869dt5k5z",
       "date_created": "2026-06-18T22:16:52.644000+00:00",
-      "date_updated": "2026-06-25T10:17:36.072000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-08T15:04:18.447000+00:00",
+      "date_done": "2026-09-08T15:04:18.447000+00:00"
     },
     "869dqqxtm": {
       "name": "Nueva foto PDP",
@@ -9216,7 +9227,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869e1w33x",
       "date_created": "2026-07-08T10:16:04.740000+00:00",
-      "date_updated": "2026-07-16T16:29:40.018000+00:00",
+      "date_updated": "2026-09-08T17:33:29.974000+00:00",
       "date_done": "2026-07-10T16:42:15.261000+00:00"
     },
     "869e1w335": {
@@ -9628,13 +9639,13 @@
     },
     "869e3dmew": {
       "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3dmew",
       "date_created": "2026-07-11T17:53:17.819000+00:00",
-      "date_updated": "2026-09-07T11:45:11.208000+00:00",
+      "date_updated": "2026-09-08T20:33:53.116000+00:00",
       "date_done": "2026-09-07T11:45:11.208000+00:00"
     },
     "869e1d9xr": {
@@ -10233,13 +10244,13 @@
     },
     "869ewxbdz": {
       "name": "Imagenes de Listicle 5RW",
-      "status": "asignado",
+      "status": "borrador",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ewxbdz",
       "date_created": "2026-09-05T16:39:41.383000+00:00",
-      "date_updated": "2026-09-05T16:42:12.773000+00:00",
+      "date_updated": "2026-09-08T22:16:51.054000+00:00",
       "date_done": null
     },
     "869etphg4": {
@@ -10451,16 +10462,27 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869eyw5m3": {
+      "name": "NIVELIA ADS",
+      "status": "aprobación",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869eyw5m3",
+      "date_created": "2026-09-08T11:31:34.571000+00:00",
+      "date_updated": "2026-09-09T04:03:07.254000+00:00",
+      "date_done": null
+    },
     "869exxfc5": {
       "name": "GLENDA SKIN-CU",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869exxfc5",
       "date_created": "2026-09-07T07:01:51.709000+00:00",
-      "date_updated": "2026-09-08T05:06:30.583000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-08T11:29:04.591000+00:00",
+      "date_done": "2026-09-08T11:29:04.591000+00:00"
     },
     "869exxc7x": {
       "name": "Brief Lunes semana 2 Sep",
@@ -10893,13 +10915,13 @@
     },
     "869exymvd": {
       "name": "NUEVA TIEDNA",
-      "status": "backlog",
+      "status": "in progress",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869exymvd",
       "date_created": "2026-09-07T07:48:08.257000+00:00",
-      "date_updated": "2026-09-07T20:15:06.345000+00:00",
+      "date_updated": "2026-09-09T05:01:46.128000+00:00",
       "date_done": null
     },
     "869et5vm3": {
@@ -10915,13 +10937,13 @@
     },
     "869epbu3b": {
       "name": "NEW PRODUCT ZENDI",
-      "status": "in progress",
+      "status": "ready for review",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869epbu3b",
       "date_created": "2026-08-24T21:22:35.911000+00:00",
-      "date_updated": "2026-09-06T16:52:38.392000+00:00",
+      "date_updated": "2026-09-09T05:01:15.924000+00:00",
       "date_done": null
     },
     "869epbrzn": {

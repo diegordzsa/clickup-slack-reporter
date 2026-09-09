@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T09:46:13.300896+00:00",
-  "snapshot_timestamp": "2026-09-08T09:45:54.677437",
+  "generated_at": "2026-09-09T09:50:24.973623+00:00",
+  "snapshot_timestamp": "2026-09-09T09:49:59.669927",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -8213,19 +8213,6 @@
       "url": "https://app.clickup.com/t/869e0x999"
     },
     {
-      "task_id": "869dtanp3",
-      "name": "reditar static ofertas semana santa (checkear imagen adjunta)",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-06-19T08:50:12.810000+00:00",
-      "date_done": "2026-06-19T21:30:44.653000+00:00",
-      "lead_time_hours": 12.68,
-      "url": "https://app.clickup.com/t/869dtanp3"
-    },
-    {
       "task_id": "869e3vque",
       "name": "Rebajas fin de mes",
       "client": "HAIR BIOLABS",
@@ -9121,6 +9108,19 @@
       "date_done": "2026-08-03T19:30:00.158000+00:00",
       "lead_time_hours": 319.71,
       "url": "https://app.clickup.com/t/869e7d3zz"
+    },
+    {
+      "task_id": "869e3dmew",
+      "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-11T17:53:17.819000+00:00",
+      "date_done": "2026-09-07T11:45:11.208000+00:00",
+      "lead_time_hours": 1385.86,
+      "url": "https://app.clickup.com/t/869e3dmew"
     },
     {
       "task_id": "869e1d9xr",
@@ -10100,19 +10100,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869ey500k",
-      "name": "L62-364-Barbero Recomendación-VX #UGC",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-09-07T11:34:50.033000+00:00",
-      "url": "https://app.clickup.com/t/869ey500k"
-    },
-    {
       "task_id": "869ey4zr7",
       "name": "L62-363-3 Señales-ITER2-VX #Autoridad",
       "client": "HAIR BIOLABS",
@@ -10137,19 +10124,6 @@
       ],
       "date_created": "2026-09-07T11:19:38.263000+00:00",
       "url": "https://app.clickup.com/t/869ey4m2b"
-    },
-    {
-      "task_id": "869ey4jwk",
-      "name": "L62-C361-3 Señales-ITER1-Cortisol-VX #UGC",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-09-07T11:18:28.398000+00:00",
-      "url": "https://app.clickup.com/t/869ey4jwk"
     },
     {
       "task_id": "869er1q7f",
@@ -10373,33 +10347,6 @@
       "url": "https://app.clickup.com/t/869ejrj3y"
     },
     {
-      "task_id": "869e3dmew",
-      "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Leonidas"
-      ],
-      "date_created": "2026-07-11T17:53:17.819000+00:00",
-      "url": "https://app.clickup.com/t/869e3dmew"
-    },
-    {
-      "task_id": "869ewxbdz",
-      "name": "Imagenes de Listicle 5RW",
-      "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
-      "assignees": [
-        "Alejandra Ramirez",
-        "Gonzalo Millán"
-      ],
-      "date_created": "2026-09-05T16:39:41.383000+00:00",
-      "url": "https://app.clickup.com/t/869ewxbdz"
-    },
-    {
       "task_id": "869egf2pb",
       "name": "Nueva PDP + Brand",
       "client": "Lyssoderma",
@@ -10572,12 +10519,25 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
-      "task_id": "869exxfc5",
-      "name": "GLENDA SKIN-CU",
+      "task_id": "869eyw5m3",
+      "name": "NIVELIA ADS",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-08T11:31:34.571000+00:00",
+      "url": "https://app.clickup.com/t/869eyw5m3"
+    },
+    {
+      "task_id": "869exxfc5",
+      "name": "GLENDA SKIN-CU",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -10884,6 +10844,19 @@
       "url": "https://app.clickup.com/t/869ehfb6f"
     },
     {
+      "task_id": "869exymvd",
+      "name": "NUEVA TIEDNA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "status": "in progress",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-09-07T07:48:08.257000+00:00",
+      "url": "https://app.clickup.com/t/869exymvd"
+    },
+    {
       "task_id": "869et5vm3",
       "name": "BRAND PACKAGING",
       "client": "ZENDI",
@@ -10895,19 +10868,6 @@
       ],
       "date_created": "2026-08-31T17:24:23.685000+00:00",
       "url": "https://app.clickup.com/t/869et5vm3"
-    },
-    {
-      "task_id": "869epbu3b",
-      "name": "NEW PRODUCT ZENDI",
-      "client": "ZENDI",
-      "list": "Landings PDP, Listicle",
-      "category": "en_curso",
-      "status": "in progress",
-      "assignees": [
-        "Milagros"
-      ],
-      "date_created": "2026-08-24T21:22:35.911000+00:00",
-      "url": "https://app.clickup.com/t/869epbu3b"
     },
     {
       "task_id": "869epbrzn",
@@ -13617,15 +13577,45 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869dx8x2j"
+    },
+    {
+      "ts": "2026-09-09T09:50:24.798920+00:00",
+      "task_id": "869exymvd",
+      "name": "NUEVA TIEDNA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869exymvd"
+    },
+    {
+      "ts": "2026-09-09T09:50:24.798920+00:00",
+      "task_id": "869exxfc5",
+      "name": "GLENDA SKIN-CU",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869exxfc5"
+    },
+    {
+      "ts": "2026-09-09T09:50:24.798920+00:00",
+      "task_id": "869e3dmew",
+      "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869e3dmew"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1031,
+    "total_tasks_in_snapshot": 1033,
     "total_completed": 772,
     "total_completed_with_dates": 772,
     "total_completed_with_done": 772,
-    "total_currently_assigned": 81,
-    "total_transitions_logged": 246,
+    "total_currently_assigned": 78,
+    "total_transitions_logged": 249,
     "total_editors": 27
   }
 }
