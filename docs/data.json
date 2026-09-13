@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:25:01.759071+00:00",
-  "snapshot_timestamp": "2026-09-12T09:24:43.135638",
+  "generated_at": "2026-09-13T10:20:43.322150+00:00",
+  "snapshot_timestamp": "2026-09-13T10:20:21.755549",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10373,19 +10373,6 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
-      "task_id": "869f0kwuf",
-      "name": "L11-Menopausia-Gonzalo",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-11T09:19:25.525000+00:00",
-      "url": "https://app.clickup.com/t/869f0kwuf"
-    },
-    {
       "task_id": "869ezyaa8",
       "name": "L11-C22 Podcast-VX-Deyby",
       "client": "HAIR BIOLABS MX",
@@ -14263,7 +14250,7 @@
     "total_completed": 781,
     "total_completed_with_dates": 781,
     "total_completed_with_done": 781,
-    "total_currently_assigned": 92,
+    "total_currently_assigned": 91,
     "total_transitions_logged": 284,
     "total_editors": 27
   }
