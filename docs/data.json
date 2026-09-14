@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:20:43.322150+00:00",
-  "snapshot_timestamp": "2026-09-13T10:20:21.755549",
+  "generated_at": "2026-09-14T10:44:32.775328+00:00",
+  "snapshot_timestamp": "2026-09-14T10:44:14.111691",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -8980,6 +8980,19 @@
       "url": "https://app.clickup.com/t/869bpv1w0"
     },
     {
+      "task_id": "869f06fcx",
+      "name": "REBAJAS VUELTA AL COLE",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-10T15:21:51.963000+00:00",
+      "date_done": "2026-09-14T07:25:47.152000+00:00",
+      "lead_time_hours": 88.07,
+      "url": "https://app.clickup.com/t/869f06fcx"
+    },
+    {
       "task_id": "869ev4zaw",
       "name": "L5-Corrector-VX #B-Roll",
       "client": "Lyssoderma",
@@ -10217,17 +10230,43 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869f0n26k",
-      "name": "L62-C362-Disciplina y Datos-ITER1-VX #UGC",
+      "task_id": "869f1k5ut",
+      "name": "L63-C367-Etapas Calvicie-VX #B-Roll",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "asignado",
+      "status": "assigned",
       "assignees": [
         "Gonzalo Flores"
       ],
-      "date_created": "2026-09-11T10:17:21.704000+00:00",
-      "url": "https://app.clickup.com/t/869f0n26k"
+      "date_created": "2026-09-14T10:39:45.374000+00:00",
+      "url": "https://app.clickup.com/t/869f1k5ut"
+    },
+    {
+      "task_id": "869f1k5p5",
+      "name": "L63-C366-No Esperes Demasiado-VX #B-Roll",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-09-14T10:39:36.573000+00:00",
+      "url": "https://app.clickup.com/t/869f1k5p5"
+    },
+    {
+      "task_id": "869f1k3k6",
+      "name": "L63-C365-Fibrosis Perifolicular-VX #Autoridad",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-14T10:36:27.884000+00:00",
+      "url": "https://app.clickup.com/t/869f1k3k6"
     },
     {
       "task_id": "869ey500k",
@@ -10555,6 +10594,32 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
+      "task_id": "869f1k138",
+      "name": "L7-Miedo a las Agujas-ITER1-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-14T10:32:35.405000+00:00",
+      "url": "https://app.clickup.com/t/869f1k138"
+    },
+    {
+      "task_id": "869f1juj5",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-14T10:24:22.050000+00:00",
+      "url": "https://app.clickup.com/t/869f1juj5"
+    },
+    {
       "task_id": "869f06wxk",
       "name": "Native",
       "client": "Lyssoderma",
@@ -10581,6 +10646,19 @@
       "url": "https://app.clickup.com/t/869ey0wp1"
     },
     {
+      "task_id": "869ey0wd6",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revision",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-07T09:14:29.541000+00:00",
+      "url": "https://app.clickup.com/t/869ey0wd6"
+    },
+    {
       "task_id": "869ekx2gx",
       "name": "L5-ESPECIALISTALBERT",
       "client": "Lyssoderma",
@@ -10605,6 +10683,34 @@
       ],
       "date_created": "2026-08-19T10:28:55.299000+00:00",
       "url": "https://app.clickup.com/t/869ekwky1"
+    },
+    {
+      "task_id": "869ewya1t",
+      "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-05T17:20:04.773000+00:00",
+      "url": "https://app.clickup.com/t/869ewya1t"
+    },
+    {
+      "task_id": "869etph4b",
+      "name": "Tipografía",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Millán",
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-01T17:15:28.572000+00:00",
+      "url": "https://app.clickup.com/t/869etph4b"
     },
     {
       "task_id": "869egf2pb",
@@ -14243,15 +14349,75 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869ejrj3y"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869ey0wd6",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ey0wd6"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869ewya1t",
+      "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ewya1t"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869ewya1t",
+      "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869ewya1t"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869etph4b",
+      "name": "Tipografía",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869etph4b"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869etph4b",
+      "name": "Tipografía",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869etph4b"
+    },
+    {
+      "ts": "2026-09-14T10:44:32.594080+00:00",
+      "task_id": "869f06fcx",
+      "name": "REBAJAS VUELTA AL COLE",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f06fcx"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1043,
-    "total_completed": 781,
-    "total_completed_with_dates": 781,
-    "total_completed_with_done": 781,
-    "total_currently_assigned": 91,
-    "total_transitions_logged": 284,
+    "total_tasks_in_snapshot": 1048,
+    "total_completed": 782,
+    "total_completed_with_dates": 782,
+    "total_completed_with_done": 782,
+    "total_currently_assigned": 98,
+    "total_transitions_logged": 290,
     "total_editors": 27
   }
 }

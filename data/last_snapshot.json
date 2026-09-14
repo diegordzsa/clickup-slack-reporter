@@ -1,15 +1,48 @@
 {
-  "timestamp": "2026-09-13T10:20:21.755549",
+  "timestamp": "2026-09-14T10:44:14.111691",
   "tasks": {
+    "869f1k5ut": {
+      "name": "L63-C367-Etapas Calvicie-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f1k5ut",
+      "date_created": "2026-09-14T10:39:45.374000+00:00",
+      "date_updated": "2026-09-14T10:41:26.112000+00:00",
+      "date_done": null
+    },
+    "869f1k5p5": {
+      "name": "L63-C366-No Esperes Demasiado-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f1k5p5",
+      "date_created": "2026-09-14T10:39:36.573000+00:00",
+      "date_updated": "2026-09-14T10:41:14.927000+00:00",
+      "date_done": null
+    },
+    "869f1k3k6": {
+      "name": "L63-C365-Fibrosis Perifolicular-VX #Autoridad",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f1k3k6",
+      "date_created": "2026-09-14T10:36:27.884000+00:00",
+      "date_updated": "2026-09-14T10:37:38.974000+00:00",
+      "date_done": null
+    },
     "869f0n26k": {
       "name": "L62-C362-Disciplina y Datos-ITER1-VX #UGC",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f0n26k",
       "date_created": "2026-09-11T10:17:21.704000+00:00",
-      "date_updated": "2026-09-11T14:28:19.585000+00:00",
+      "date_updated": "2026-09-14T10:15:36.932000+00:00",
       "date_done": null
     },
     "869ey500k": {
@@ -9450,6 +9483,28 @@
       "date_updated": "2026-01-08T20:21:26.292000+00:00",
       "date_done": null
     },
+    "869f1k138": {
+      "name": "L7-Miedo a las Agujas-ITER1-VX #B-Roll",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f1k138",
+      "date_created": "2026-09-14T10:32:35.405000+00:00",
+      "date_updated": "2026-09-14T10:33:50.689000+00:00",
+      "date_done": null
+    },
+    "869f1juj5": {
+      "name": "L7-No es tarde-VX #Autoridad",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f1juj5",
+      "date_created": "2026-09-14T10:24:22.050000+00:00",
+      "date_updated": "2026-09-14T10:33:48.553000+00:00",
+      "date_done": null
+    },
     "869f06wxk": {
       "name": "Native",
       "status": "assigned",
@@ -9458,19 +9513,19 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f06wxk",
       "date_created": "2026-09-10T15:36:44.354000+00:00",
-      "date_updated": "2026-09-11T14:23:57.227000+00:00",
+      "date_updated": "2026-09-14T10:33:29.922000+00:00",
       "date_done": null
     },
     "869f06fcx": {
       "name": "REBAJAS VUELTA AL COLE",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f06fcx",
       "date_created": "2026-09-10T15:21:51.963000+00:00",
-      "date_updated": "2026-09-10T23:32:38.907000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-14T07:25:50.954000+00:00",
+      "date_done": "2026-09-14T07:25:47.152000+00:00"
     },
     "869ey0wp1": {
       "name": "L6-Menopausia-VX #Autoridad",
@@ -9485,13 +9540,13 @@
     },
     "869ey0wd6": {
       "name": "L6-Pérdida de Colágeno-VX #Autoridad",
-      "status": "draft",
+      "status": "revision",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey0wd6",
       "date_created": "2026-09-07T09:14:29.541000+00:00",
-      "date_updated": "2026-09-08T02:49:32.315000+00:00",
+      "date_updated": "2026-09-14T10:13:38.812000+00:00",
       "date_done": null
     },
     "869ev4zaw": {
@@ -10321,14 +10376,14 @@
     },
     "869ewya1t": {
       "name": "Imágenes de Listicle 5RW Líneas de Marioneta",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ewya1t",
       "date_created": "2026-09-05T17:20:04.773000+00:00",
-      "date_updated": "2026-09-08T00:22:24.623000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-14T07:28:29.627000+00:00",
+      "date_done": "2026-09-14T07:28:29.627000+00:00"
     },
     "869ewxbdz": {
       "name": "Imagenes de Listicle 5RW",
@@ -10349,19 +10404,19 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869etphg4",
       "date_created": "2026-09-01T17:17:38.768000+00:00",
-      "date_updated": "2026-09-07T06:04:06.725000+00:00",
+      "date_updated": "2026-09-14T07:29:54.658000+00:00",
       "date_done": null
     },
     "869etph4b": {
       "name": "Tipografía",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Gonzalo Millán, Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869etph4b",
       "date_created": "2026-09-01T17:15:28.572000+00:00",
-      "date_updated": "2026-09-07T06:08:35.469000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-14T07:30:02.802000+00:00",
+      "date_done": "2026-09-14T07:30:02.802000+00:00"
     },
     "869egf2pb": {
       "name": "Nueva PDP + Brand",
