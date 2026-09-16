@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:08:34.177638+00:00",
-  "snapshot_timestamp": "2026-09-15T10:08:11.216062",
+  "generated_at": "2026-09-16T09:59:58.731062+00:00",
+  "snapshot_timestamp": "2026-09-16T09:59:35.632362",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -8356,6 +8356,32 @@
       "url": "https://app.clickup.com/t/869dkv620"
     },
     {
+      "task_id": "869f0kwt9",
+      "name": "L11-Menopausia-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-11T09:19:21.765000+00:00",
+      "date_done": "2026-09-15T19:38:39.749000+00:00",
+      "lead_time_hours": 106.32,
+      "url": "https://app.clickup.com/t/869f0kwt9"
+    },
+    {
+      "task_id": "869euwxku",
+      "name": "L10-C20 Producto-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-09-03T08:24:14.090000+00:00",
+      "date_done": "2026-09-15T19:39:05.360000+00:00",
+      "lead_time_hours": 299.25,
+      "url": "https://app.clickup.com/t/869euwxku"
+    },
+    {
       "task_id": "869euvg75",
       "name": "L10-C15 Pelo Fino ITER 1-VX-Gonzalo",
       "client": "HAIR BIOLABS MX",
@@ -8369,6 +8395,32 @@
       "url": "https://app.clickup.com/t/869euvg75"
     },
     {
+      "task_id": "869etbkqv",
+      "name": "L10-C19 Corea-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-09-01T07:55:41.802000+00:00",
+      "date_done": "2026-09-15T19:39:03.526000+00:00",
+      "lead_time_hours": 347.72,
+      "url": "https://app.clickup.com/t/869etbkqv"
+    },
+    {
+      "task_id": "869etbkkw",
+      "name": "L10-C18 Uso-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-09-01T07:55:25.409000+00:00",
+      "date_done": "2026-09-09T15:56:02.064000+00:00",
+      "lead_time_hours": 200.01,
+      "url": "https://app.clickup.com/t/869etbkkw"
+    },
+    {
       "task_id": "869erxdgj",
       "name": "L10-C16-VX-Deyby",
       "client": "HAIR BIOLABS MX",
@@ -8380,6 +8432,19 @@
       "date_done": "2026-09-03T09:06:42.282000+00:00",
       "lead_time_hours": 71.78,
       "url": "https://app.clickup.com/t/869erxdgj"
+    },
+    {
+      "task_id": "869erxd52",
+      "name": "L10-C17 Ranking-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-08-31T09:19:29.018000+00:00",
+      "date_done": "2026-09-15T19:38:58.957000+00:00",
+      "lead_time_hours": 370.32,
+      "url": "https://app.clickup.com/t/869erxd52"
     },
     {
       "task_id": "869eru80t",
@@ -8434,6 +8499,19 @@
       "url": "https://app.clickup.com/t/869er3d09"
     },
     {
+      "task_id": "869er3cv5",
+      "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-08-28T09:36:55.927000+00:00",
+      "date_done": "2026-09-09T15:53:11.715000+00:00",
+      "lead_time_hours": 294.27,
+      "url": "https://app.clickup.com/t/869er3cv5"
+    },
+    {
       "task_id": "869eqmcq5",
       "name": "L9-C12-Producto ITER 1-G-VX",
       "client": "HAIR BIOLABS MX",
@@ -8460,6 +8538,19 @@
       "url": "https://app.clickup.com/t/869eqj09u"
     },
     {
+      "task_id": "869eqhhg7",
+      "name": "L9-C13 Transformación-VX-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-08-27T07:59:07.405000+00:00",
+      "date_done": "2026-09-09T15:54:56.851000+00:00",
+      "lead_time_hours": 319.93,
+      "url": "https://app.clickup.com/t/869eqhhg7"
+    },
+    {
       "task_id": "869eqgw19",
       "name": "L9-C12-Video Rápido-Dayana",
       "client": "HAIR BIOLABS MX",
@@ -8471,6 +8562,19 @@
       "date_done": "2026-08-28T14:36:10.639000+00:00",
       "lead_time_hours": 31.28,
       "url": "https://app.clickup.com/t/869eqgw19"
+    },
+    {
+      "task_id": "869eqbahr",
+      "name": "L7-C11-Raya Central ITER 2-G-VX",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Deyby Santiago Gonzalez Murillo"
+      ],
+      "date_created": "2026-08-26T16:18:10.647000+00:00",
+      "date_done": "2026-09-09T15:51:51.410000+00:00",
+      "lead_time_hours": 335.56,
+      "url": "https://app.clickup.com/t/869eqbahr"
     },
     {
       "task_id": "869eq4rpc",
@@ -10269,6 +10373,19 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869f2hn11",
+      "name": "L63-C370 PROMO-VX-ALEJANDRA",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-15T19:53:57.397000+00:00",
+      "url": "https://app.clickup.com/t/869f2hn11"
+    },
+    {
       "task_id": "869f252j5",
       "name": "L63-C370 Ranking 2-VX-Dayana",
       "client": "HAIR BIOLABS",
@@ -10451,6 +10568,45 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
+      "task_id": "869f2p19b",
+      "name": "L12-C24 Ranking 2-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-16T07:55:12.352000+00:00",
+      "url": "https://app.clickup.com/t/869f2p19b"
+    },
+    {
+      "task_id": "869f2nzpq",
+      "name": "L12-C17 Ranking-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-16T07:52:31.944000+00:00",
+      "url": "https://app.clickup.com/t/869f2nzpq"
+    },
+    {
+      "task_id": "869f2nw31",
+      "name": "L12-C23 Green Screen AGA-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-16T07:48:23.743000+00:00",
+      "url": "https://app.clickup.com/t/869f2nw31"
+    },
+    {
       "task_id": "869ezyaa8",
       "name": "L11-C22 Podcast-VX-Deyby",
       "client": "HAIR BIOLABS MX",
@@ -10488,97 +10644,6 @@
       ],
       "date_created": "2026-09-10T06:24:59.831000+00:00",
       "url": "https://app.clickup.com/t/869ezu4xg"
-    },
-    {
-      "task_id": "869euwxku",
-      "name": "L10-C20 Producto-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-09-03T08:24:14.090000+00:00",
-      "url": "https://app.clickup.com/t/869euwxku"
-    },
-    {
-      "task_id": "869etbkqv",
-      "name": "L10-C19 Corea-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-09-01T07:55:41.802000+00:00",
-      "url": "https://app.clickup.com/t/869etbkqv"
-    },
-    {
-      "task_id": "869etbkkw",
-      "name": "L10-C18 Uso-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-09-01T07:55:25.409000+00:00",
-      "url": "https://app.clickup.com/t/869etbkkw"
-    },
-    {
-      "task_id": "869erxd52",
-      "name": "L10-C17 Ranking-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-31T09:19:29.018000+00:00",
-      "url": "https://app.clickup.com/t/869erxd52"
-    },
-    {
-      "task_id": "869er3cv5",
-      "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-28T09:36:55.927000+00:00",
-      "url": "https://app.clickup.com/t/869er3cv5"
-    },
-    {
-      "task_id": "869eqhhg7",
-      "name": "L9-C13 Transformación-VX-Deyby",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-27T07:59:07.405000+00:00",
-      "url": "https://app.clickup.com/t/869eqhhg7"
-    },
-    {
-      "task_id": "869eqbahr",
-      "name": "L7-C11-Raya Central ITER 2-G-VX",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
-      ],
-      "date_created": "2026-08-26T16:18:10.647000+00:00",
-      "url": "https://app.clickup.com/t/869eqbahr"
     },
     {
       "task_id": "869egdc71",
@@ -10666,7 +10731,7 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-09-07T09:14:45.061000+00:00",
       "url": "https://app.clickup.com/t/869ey0wp1"
@@ -10679,7 +10744,7 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-08-19T10:44:09+00:00",
       "url": "https://app.clickup.com/t/869ekx2gx"
@@ -10692,7 +10757,7 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-08-19T10:28:55.299000+00:00",
       "url": "https://app.clickup.com/t/869ekwky1"
@@ -10711,8 +10776,8 @@
       "url": "https://app.clickup.com/t/869ejrj3y"
     },
     {
-      "task_id": "869f1kw7k",
-      "name": "Guía de uso",
+      "task_id": "869f28pe8",
+      "name": "¿Cómo funciona?",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "category": "asignado",
@@ -10721,16 +10786,16 @@
         "Alejandra Ramirez",
         "Gonzalo Millán"
       ],
-      "date_created": "2026-09-14T11:09:26.716000+00:00",
-      "url": "https://app.clickup.com/t/869f1kw7k"
+      "date_created": "2026-09-15T11:13:18.897000+00:00",
+      "url": "https://app.clickup.com/t/869f28pe8"
     },
     {
       "task_id": "869f1kujj",
       "name": "Parches de colágeno",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
+      "category": "revision",
+      "status": "revisión",
       "assignees": [
         "Alejandra Ramirez",
         "Gonzalo Millán"
@@ -10939,12 +11004,25 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
-      "task_id": "869f1r143",
-      "name": "ZENDI USA",
+      "task_id": "869f2g4t7",
+      "name": "ZENDI",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-15T16:16:18.118000+00:00",
+      "url": "https://app.clickup.com/t/869f2g4t7"
+    },
+    {
+      "task_id": "869f1r143",
+      "name": "ZENDI USA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -14136,15 +14214,125 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869er1px3"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869f1kujj",
+      "name": "Parches de colágeno",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f1kujj"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869f1kujj",
+      "name": "Parches de colágeno",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869f1kujj"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869f1r143",
+      "name": "ZENDI USA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f1r143"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869f0kwt9",
+      "name": "L11-Menopausia-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f0kwt9"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869euwxku",
+      "name": "L10-C20 Producto-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869euwxku"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869etbkqv",
+      "name": "L10-C19 Corea-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869etbkqv"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869etbkkw",
+      "name": "L10-C18 Uso-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869etbkkw"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869erxd52",
+      "name": "L10-C17 Ranking-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869erxd52"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869er3cv5",
+      "name": "L10-C14-Dra Raya Central - Ciclo Acortado - VX - Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869er3cv5"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869eqhhg7",
+      "name": "L9-C13 Transformación-VX-Deyby",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869eqhhg7"
+    },
+    {
+      "ts": "2026-09-16T09:59:58.556679+00:00",
+      "task_id": "869eqbahr",
+      "name": "L7-C11-Raya Central ITER 2-G-VX",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "url": "https://app.clickup.com/t/869eqbahr"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1058,
-    "total_completed": 785,
-    "total_completed_with_dates": 785,
-    "total_completed_with_done": 785,
-    "total_currently_assigned": 100,
-    "total_transitions_logged": 256,
+    "total_tasks_in_snapshot": 1066,
+    "total_completed": 793,
+    "total_completed_with_dates": 793,
+    "total_completed_with_done": 793,
+    "total_currently_assigned": 98,
+    "total_transitions_logged": 267,
     "total_editors": 27
   }
 }
