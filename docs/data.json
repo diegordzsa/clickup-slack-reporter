@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:59:58.731062+00:00",
-  "snapshot_timestamp": "2026-09-16T09:59:35.632362",
+  "generated_at": "2026-09-17T10:03:14.139259+00:00",
+  "snapshot_timestamp": "2026-09-17T10:02:50.394273",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9136,6 +9136,19 @@
       "url": "https://app.clickup.com/t/869bpv1w0"
     },
     {
+      "task_id": "869f06wxk",
+      "name": "L2-N3-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-10T15:36:44.354000+00:00",
+      "date_done": "2026-09-16T15:49:43.580000+00:00",
+      "lead_time_hours": 144.22,
+      "url": "https://app.clickup.com/t/869f06wxk"
+    },
+    {
       "task_id": "869f06fcx",
       "name": "REBAJAS VUELTA AL COLE",
       "client": "Lyssoderma",
@@ -9147,6 +9160,19 @@
       "date_done": "2026-09-14T07:25:47.152000+00:00",
       "lead_time_hours": 88.07,
       "url": "https://app.clickup.com/t/869f06fcx"
+    },
+    {
+      "task_id": "869ey0wd6",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-07T09:14:29.541000+00:00",
+      "date_done": "2026-09-16T15:45:40.632000+00:00",
+      "lead_time_hours": 222.52,
+      "url": "https://app.clickup.com/t/869ey0wd6"
     },
     {
       "task_id": "869ev4zaw",
@@ -10085,6 +10111,19 @@
       "url": "https://app.clickup.com/t/869dvtwdt"
     },
     {
+      "task_id": "869emuuaw",
+      "name": "GLENDA TRADUCCIONES",
+      "client": "ZENDI",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-20T19:01:56.080000+00:00",
+      "date_done": "2026-08-21T06:03:14.029000+00:00",
+      "lead_time_hours": 11.02,
+      "url": "https://app.clickup.com/t/869emuuaw"
+    },
+    {
       "task_id": "869ehz0ye",
       "name": "C - Rating Medico - ALBERT",
       "client": "ZENDI",
@@ -10373,17 +10412,30 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869f2hn11",
-      "name": "L63-C370 PROMO-VX-ALEJANDRA",
+      "task_id": "869f37umt",
+      "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Alejandra Ramirez"
+        "Gonzalo Flores"
       ],
-      "date_created": "2026-09-15T19:53:57.397000+00:00",
-      "url": "https://app.clickup.com/t/869f2hn11"
+      "date_created": "2026-09-17T07:36:01.337000+00:00",
+      "url": "https://app.clickup.com/t/869f37umt"
+    },
+    {
+      "task_id": "869f377uf",
+      "name": "L59-C339-P. Grueso-VX-D",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-17T07:05:46.139000+00:00",
+      "url": "https://app.clickup.com/t/869f377uf"
     },
     {
       "task_id": "869f252j5",
@@ -10449,19 +10501,6 @@
       ],
       "date_created": "2026-09-14T10:39:45.374000+00:00",
       "url": "https://app.clickup.com/t/869f1k5ut"
-    },
-    {
-      "task_id": "869f1k5p5",
-      "name": "L63-C366-No Esperes Demasiado-VX #B-Roll-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-14T10:39:36.573000+00:00",
-      "url": "https://app.clickup.com/t/869f1k5p5"
     },
     {
       "task_id": "869f1k3k6",
@@ -10698,32 +10737,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869f1k138",
-      "name": "L7-Miedo a las Agujas-ITER1-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-14T10:32:35.405000+00:00",
-      "url": "https://app.clickup.com/t/869f1k138"
-    },
-    {
-      "task_id": "869f1juj5",
-      "name": "L7-No es tarde-VX #Autoridad",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-14T10:24:22.050000+00:00",
-      "url": "https://app.clickup.com/t/869f1juj5"
-    },
-    {
       "task_id": "869ey0wp1",
       "name": "L6-Menopausia-VX #Autoridad",
       "client": "Lyssoderma",
@@ -10754,8 +10767,8 @@
       "name": "L5-KOREAMADRE- ALBERTO",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10776,18 +10789,32 @@
       "url": "https://app.clickup.com/t/869ejrj3y"
     },
     {
-      "task_id": "869f28pe8",
-      "name": "¿Cómo funciona?",
+      "task_id": "869f1uapc",
+      "name": "Packaging caja Lyssoderma",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Alejandra Ramirez",
         "Gonzalo Millán"
       ],
-      "date_created": "2026-09-15T11:13:18.897000+00:00",
-      "url": "https://app.clickup.com/t/869f28pe8"
+      "date_created": "2026-09-14T16:53:15.702000+00:00",
+      "url": "https://app.clickup.com/t/869f1uapc"
+    },
+    {
+      "task_id": "869f1kw7k",
+      "name": "Guía de uso",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-14T11:09:26.716000+00:00",
+      "url": "https://app.clickup.com/t/869f1kw7k"
     },
     {
       "task_id": "869f1kujj",
@@ -11008,13 +11035,26 @@
       "name": "ZENDI",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
       "date_created": "2026-09-15T16:16:18.118000+00:00",
       "url": "https://app.clickup.com/t/869f2g4t7"
+    },
+    {
+      "task_id": "869f2fx04",
+      "name": "SNUSY KIDS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-15T15:57:11.913000+00:00",
+      "url": "https://app.clickup.com/t/869f2fx04"
     },
     {
       "task_id": "869f1r143",
@@ -11327,19 +11367,6 @@
       ],
       "date_created": "2026-08-21T06:10:11.303000+00:00",
       "url": "https://app.clickup.com/t/869en0pk5"
-    },
-    {
-      "task_id": "869emuuaw",
-      "name": "GLENDA TRADUCCIONES",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-08-20T19:01:56.080000+00:00",
-      "url": "https://app.clickup.com/t/869emuuaw"
     },
     {
       "task_id": "869ejk9rw",
@@ -14324,15 +14351,115 @@
       "category": "completado",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "url": "https://app.clickup.com/t/869eqbahr"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869ekwky1",
+      "name": "L5-KOREAMADRE- ALBERTO",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ekwky1"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f2fx04",
+      "name": "SNUSY KIDS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f2fx04"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f1uapc",
+      "name": "Packaging caja Lyssoderma",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f1uapc"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f1uapc",
+      "name": "Packaging caja Lyssoderma",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869f1uapc"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f1kw7k",
+      "name": "Guía de uso",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f1kw7k"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f1kw7k",
+      "name": "Guía de uso",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869f1kw7k"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f2g4t7",
+      "name": "ZENDI",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f2g4t7"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869f06wxk",
+      "name": "L2-N3-VX",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f06wxk"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869ey0wd6",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ey0wd6"
+    },
+    {
+      "ts": "2026-09-17T10:03:14.000911+00:00",
+      "task_id": "869emuuaw",
+      "name": "GLENDA TRADUCCIONES",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869emuuaw"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1066,
-    "total_completed": 793,
-    "total_completed_with_dates": 793,
-    "total_completed_with_done": 793,
-    "total_currently_assigned": 98,
-    "total_transitions_logged": 267,
+    "total_tasks_in_snapshot": 1068,
+    "total_completed": 796,
+    "total_completed_with_dates": 796,
+    "total_completed_with_done": 796,
+    "total_currently_assigned": 97,
+    "total_transitions_logged": 277,
     "total_editors": 27
   }
 }
