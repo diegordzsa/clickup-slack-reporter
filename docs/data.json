@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T10:03:14.139259+00:00",
-  "snapshot_timestamp": "2026-09-17T10:02:50.394273",
+  "generated_at": "2026-09-18T09:50:21.685395+00:00",
+  "snapshot_timestamp": "2026-09-18T09:49:59.919992",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10438,32 +10438,6 @@
       "url": "https://app.clickup.com/t/869f377uf"
     },
     {
-      "task_id": "869f252j5",
-      "name": "L63-C370 Ranking 2-VX-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-15T09:08:23.571000+00:00",
-      "url": "https://app.clickup.com/t/869f252j5"
-    },
-    {
-      "task_id": "869f24tnq",
-      "name": "L63-C369 Ranking-VX-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-15T08:59:05.374000+00:00",
-      "url": "https://app.clickup.com/t/869f24tnq"
-    },
-    {
       "task_id": "869f243q0",
       "name": "L63-C368 Complemento-VX-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -10488,32 +10462,6 @@
       ],
       "date_created": "2026-09-15T08:38:49.747000+00:00",
       "url": "https://app.clickup.com/t/869f243p3"
-    },
-    {
-      "task_id": "869f1k5ut",
-      "name": "L63-C367-Etapas Calvicie-VX #B-Roll-Gonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-14T10:39:45.374000+00:00",
-      "url": "https://app.clickup.com/t/869f1k5ut"
-    },
-    {
-      "task_id": "869f1k3k6",
-      "name": "L63-C365-Fibrosis Perifolicular-VX #Autoridad-Gonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-14T10:36:27.884000+00:00",
-      "url": "https://app.clickup.com/t/869f1k3k6"
     },
     {
       "task_id": "869ey4m2b",
@@ -10566,19 +10514,6 @@
       ],
       "date_created": "2026-08-11T12:21:54.529000+00:00",
       "url": "https://app.clickup.com/t/869egrvaf"
-    },
-    {
-      "task_id": "869e47bgk",
-      "name": "L4-Ataca la Causa #UGC",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-07-13T17:32:06.204000+00:00",
-      "url": "https://app.clickup.com/t/869e47bgk"
     },
     {
       "task_id": "869e3e3uf",
@@ -10789,6 +10724,34 @@
       "url": "https://app.clickup.com/t/869ejrj3y"
     },
     {
+      "task_id": "869f3ng1h",
+      "name": "Header checkout",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Gonzalo Millán",
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-17T18:29:55.042000+00:00",
+      "url": "https://app.clickup.com/t/869f3ng1h"
+    },
+    {
+      "task_id": "869f28pe8",
+      "name": "¿Cómo funciona?",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-15T11:13:18.897000+00:00",
+      "url": "https://app.clickup.com/t/869f28pe8"
+    },
+    {
       "task_id": "869f1uapc",
       "name": "Packaging caja Lyssoderma",
       "client": "Lyssoderma",
@@ -10843,6 +10806,34 @@
       ],
       "date_created": "2026-09-05T17:20:04.773000+00:00",
       "url": "https://app.clickup.com/t/869ewya1t"
+    },
+    {
+      "task_id": "869ewxbdz",
+      "name": "Imagenes de Listicle 5RW",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-09-05T16:39:41.383000+00:00",
+      "url": "https://app.clickup.com/t/869ewxbdz"
+    },
+    {
+      "task_id": "869etphg4",
+      "name": "Foto principal",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Gonzalo Millán",
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-01T17:17:38.768000+00:00",
+      "url": "https://app.clickup.com/t/869etphg4"
     },
     {
       "task_id": "869etph4b",
@@ -11044,12 +11035,25 @@
       "url": "https://app.clickup.com/t/869f2g4t7"
     },
     {
-      "task_id": "869f2fx04",
-      "name": "SNUSY KIDS",
+      "task_id": "869f2fz48",
+      "name": "NIVELIA",
       "client": "ZENDI",
       "list": "Producción",
       "category": "revision",
       "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-15T16:01:39.173000+00:00",
+      "url": "https://app.clickup.com/t/869f2fz48"
+    },
+    {
+      "task_id": "869f2fx04",
+      "name": "SNUSY KIDS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -14451,15 +14455,95 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869emuuaw"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869f28pe8",
+      "name": "¿Cómo funciona?",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f28pe8"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869f28pe8",
+      "name": "¿Cómo funciona?",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869f28pe8"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869etphg4",
+      "name": "Foto principal",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869etphg4"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869etphg4",
+      "name": "Foto principal",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869etphg4"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869f2fz48",
+      "name": "NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f2fz48"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869ewxbdz",
+      "name": "Imagenes de Listicle 5RW",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ewxbdz"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869ewxbdz",
+      "name": "Imagenes de Listicle 5RW",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869ewxbdz"
+    },
+    {
+      "ts": "2026-09-18T09:50:21.512326+00:00",
+      "task_id": "869f2fx04",
+      "name": "SNUSY KIDS",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f2fx04"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1068,
+    "total_tasks_in_snapshot": 1070,
     "total_completed": 796,
     "total_completed_with_dates": 796,
     "total_completed_with_done": 796,
     "total_currently_assigned": 97,
-    "total_transitions_logged": 277,
+    "total_transitions_logged": 285,
     "total_editors": 27
   }
 }

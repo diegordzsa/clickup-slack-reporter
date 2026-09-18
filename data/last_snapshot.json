@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T10:02:50.394273",
+  "timestamp": "2026-09-18T09:49:59.919992",
   "tasks": {
     "869f37umt": {
       "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
@@ -36,24 +36,24 @@
     },
     "869f252j5": {
       "name": "L63-C370 Ranking 2-VX-Dayana",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f252j5",
       "date_created": "2026-09-15T09:08:23.571000+00:00",
-      "date_updated": "2026-09-15T09:08:24.641000+00:00",
+      "date_updated": "2026-09-18T04:06:58.939000+00:00",
       "date_done": null
     },
     "869f24tnq": {
       "name": "L63-C369 Ranking-VX-Dayana",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f24tnq",
       "date_created": "2026-09-15T08:59:05.374000+00:00",
-      "date_updated": "2026-09-15T08:59:06.300000+00:00",
+      "date_updated": "2026-09-18T04:05:57.696000+00:00",
       "date_done": null
     },
     "869f243q0": {
@@ -80,13 +80,13 @@
     },
     "869f1k5ut": {
       "name": "L63-C367-Etapas Calvicie-VX #B-Roll-Gonzalo",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f1k5ut",
       "date_created": "2026-09-14T10:39:45.374000+00:00",
-      "date_updated": "2026-09-15T09:09:17.291000+00:00",
+      "date_updated": "2026-09-18T03:30:41.582000+00:00",
       "date_done": null
     },
     "869f1k5p5": {
@@ -102,13 +102,13 @@
     },
     "869f1k3k6": {
       "name": "L63-C365-Fibrosis Perifolicular-VX #Autoridad-Gonzalo",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f1k3k6",
       "date_created": "2026-09-14T10:36:27.884000+00:00",
-      "date_updated": "2026-09-15T09:09:13.310000+00:00",
+      "date_updated": "2026-09-17T23:47:18.716000+00:00",
       "date_done": null
     },
     "869f0n26k": {
@@ -770,17 +770,6 @@
       "date_created": "2026-07-13T17:33:14.274000+00:00",
       "date_updated": "2026-09-07T20:41:14.330000+00:00",
       "date_done": "2026-08-25T10:52:11.870000+00:00"
-    },
-    "869e47bgk": {
-      "name": "L4-Ataca la Causa #UGC",
-      "status": "en curso",
-      "assignee": "Dayana Caicedo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869e47bgk",
-      "date_created": "2026-07-13T17:32:06.204000+00:00",
-      "date_updated": "2026-08-17T14:34:06.398000+00:00",
-      "date_done": null
     },
     "869e47bab": {
       "name": "L4-Valores DHT #UGC",
@@ -10484,15 +10473,26 @@
       "date_updated": "2026-06-09T16:36:48.119000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
     },
+    "869f3ng1h": {
+      "name": "Header checkout",
+      "status": "asignado",
+      "assignee": "Gonzalo Millán, Alejandra Ramirez",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "url": "https://app.clickup.com/t/869f3ng1h",
+      "date_created": "2026-09-17T18:29:55.042000+00:00",
+      "date_updated": "2026-09-17T18:32:24.264000+00:00",
+      "date_done": null
+    },
     "869f28pe8": {
       "name": "¿Cómo funciona?",
-      "status": "borrador",
+      "status": "revisión",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869f28pe8",
       "date_created": "2026-09-15T11:13:18.897000+00:00",
-      "date_updated": "2026-09-17T04:31:22.300000+00:00",
+      "date_updated": "2026-09-17T18:40:15.693000+00:00",
       "date_done": null
     },
     "869f23pcr": {
@@ -10552,24 +10552,24 @@
     },
     "869ewxbdz": {
       "name": "Imagenes de Listicle 5RW",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ewxbdz",
       "date_created": "2026-09-05T16:39:41.383000+00:00",
-      "date_updated": "2026-09-08T22:16:51.054000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-17T10:17:04.079000+00:00",
+      "date_done": "2026-09-17T10:17:04.079000+00:00"
     },
     "869etphg4": {
       "name": "Foto principal",
-      "status": "borrador",
+      "status": "revisión",
       "assignee": "Gonzalo Millán, Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869etphg4",
       "date_created": "2026-09-01T17:17:38.768000+00:00",
-      "date_updated": "2026-09-14T23:11:54.721000+00:00",
+      "date_updated": "2026-09-17T18:26:16.348000+00:00",
       "date_done": null
     },
     "869etph4b": {
@@ -10770,6 +10770,28 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869f3x2br": {
+      "name": "STATIC GLENDA",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f3x2br",
+      "date_created": "2026-09-18T09:26:46.958000+00:00",
+      "date_updated": "2026-09-18T09:39:42.243000+00:00",
+      "date_done": null
+    },
+    "869f3wvcd": {
+      "name": "STATIC NIVELIA",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f3wvcd",
+      "date_created": "2026-09-18T09:19:09.068000+00:00",
+      "date_updated": "2026-09-18T09:26:30.456000+00:00",
+      "date_done": null
+    },
     "869f2g4t7": {
       "name": "ZENDI",
       "status": "aprobado",
@@ -10783,25 +10805,25 @@
     },
     "869f2fz48": {
       "name": "NIVELIA",
-      "status": "pendiente",
+      "status": "aprobación",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f2fz48",
       "date_created": "2026-09-15T16:01:39.173000+00:00",
-      "date_updated": "2026-09-15T16:29:09.045000+00:00",
+      "date_updated": "2026-09-18T04:08:36.280000+00:00",
       "date_done": null
     },
     "869f2fx04": {
       "name": "SNUSY KIDS",
-      "status": "aprobación",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f2fx04",
       "date_created": "2026-09-15T15:57:11.913000+00:00",
-      "date_updated": "2026-09-17T04:05:19.048000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-17T18:47:06.990000+00:00",
+      "date_done": "2026-09-17T18:47:06.990000+00:00"
     },
     "869f1r2t1": {
       "name": "Brief Semana 3",
