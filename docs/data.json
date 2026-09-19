@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T09:50:21.685395+00:00",
-  "snapshot_timestamp": "2026-09-18T09:49:59.919992",
+  "generated_at": "2026-09-19T09:34:44.036965+00:00",
+  "snapshot_timestamp": "2026-09-19T09:34:23.821452",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10425,19 +10425,6 @@
       "url": "https://app.clickup.com/t/869f37umt"
     },
     {
-      "task_id": "869f377uf",
-      "name": "L59-C339-P. Grueso-VX-D",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-17T07:05:46.139000+00:00",
-      "url": "https://app.clickup.com/t/869f377uf"
-    },
-    {
       "task_id": "869f243q0",
       "name": "L63-C368 Complemento-VX-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -10540,19 +10527,6 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
-    },
-    {
-      "task_id": "869f2p19b",
-      "name": "L12-C24 Ranking 2-VX-Dayana",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-16T07:55:12.352000+00:00",
-      "url": "https://app.clickup.com/t/869f2p19b"
     },
     {
       "task_id": "869f2nzpq",
@@ -10672,19 +10646,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869ey0wp1",
-      "name": "L6-Menopausia-VX #Autoridad",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-07T09:14:45.061000+00:00",
-      "url": "https://app.clickup.com/t/869ey0wp1"
-    },
-    {
       "task_id": "869ekx2gx",
       "name": "L5-ESPECIALISTALBERT",
       "client": "Lyssoderma",
@@ -10722,6 +10683,20 @@
       ],
       "date_created": "2026-08-17T09:33:12.725000+00:00",
       "url": "https://app.clickup.com/t/869ejrj3y"
+    },
+    {
+      "task_id": "869f45fvq",
+      "name": "Brand de estos prod (conservar formato coreano)",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "asignado",
+      "status": "asignado",
+      "assignees": [
+        "Gonzalo Millán",
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-18T14:41:19.787000+00:00",
+      "url": "https://app.clickup.com/t/869f45fvq"
     },
     {
       "task_id": "869f3ng1h",
@@ -10781,11 +10756,11 @@
     },
     {
       "task_id": "869f1kujj",
-      "name": "Parches de colágeno",
+      "name": "Mascarilla de colágeno",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
-      "category": "revision",
-      "status": "revisión",
+      "category": "asignado",
+      "status": "asignado",
       "assignees": [
         "Alejandra Ramirez",
         "Gonzalo Millán"
@@ -11022,6 +10997,32 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
+      "task_id": "869f3x2br",
+      "name": "STATIC GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-18T09:26:46.958000+00:00",
+      "url": "https://app.clickup.com/t/869f3x2br"
+    },
+    {
+      "task_id": "869f3wvcd",
+      "name": "STATIC NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-18T09:19:09.068000+00:00",
+      "url": "https://app.clickup.com/t/869f3wvcd"
+    },
+    {
       "task_id": "869f2g4t7",
       "name": "ZENDI",
       "client": "ZENDI",
@@ -11039,8 +11040,8 @@
       "name": "NIVELIA",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -11425,6 +11426,19 @@
       "url": "https://app.clickup.com/t/869ehfb6f"
     },
     {
+      "task_id": "869exymvd",
+      "name": "NUEVA TIEDNA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-09-07T07:48:08.257000+00:00",
+      "url": "https://app.clickup.com/t/869exymvd"
+    },
+    {
       "task_id": "869et5vm3",
       "name": "BRAND PACKAGING",
       "client": "ZENDI",
@@ -11436,6 +11450,19 @@
       ],
       "date_created": "2026-08-31T17:24:23.685000+00:00",
       "url": "https://app.clickup.com/t/869et5vm3"
+    },
+    {
+      "task_id": "869epbu3b",
+      "name": "NEW PRODUCT ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-24T21:22:35.911000+00:00",
+      "url": "https://app.clickup.com/t/869epbu3b"
     },
     {
       "task_id": "869epbrzn",
@@ -11475,6 +11502,19 @@
       ],
       "date_created": "2026-08-21T20:52:25.546000+00:00",
       "url": "https://app.clickup.com/t/869eneezh"
+    },
+    {
+      "task_id": "869ek8016",
+      "name": "NEW PDP ZENDI USA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-08-18T08:44:17.713000+00:00",
+      "url": "https://app.clickup.com/t/869ek8016"
     },
     {
       "task_id": "869ejk7ub",
@@ -14535,15 +14575,75 @@
       "category": "aprobado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869f2fx04"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869f3x2br",
+      "name": "STATIC GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f3x2br"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869f3wvcd",
+      "name": "STATIC NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f3wvcd"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869f2fz48",
+      "name": "NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f2fz48"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869exymvd",
+      "name": "NUEVA TIEDNA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869exymvd"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869epbu3b",
+      "name": "NEW PRODUCT ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869epbu3b"
+    },
+    {
+      "ts": "2026-09-19T09:34:43.868951+00:00",
+      "task_id": "869ek8016",
+      "name": "NEW PDP ZENDI USA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869ek8016"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1070,
+    "total_tasks_in_snapshot": 1073,
     "total_completed": 796,
     "total_completed_with_dates": 796,
     "total_completed_with_done": 796,
-    "total_currently_assigned": 97,
-    "total_transitions_logged": 285,
+    "total_currently_assigned": 100,
+    "total_transitions_logged": 291,
     "total_editors": 27
   }
 }
