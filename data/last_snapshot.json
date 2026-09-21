@@ -1,6 +1,17 @@
 {
-  "timestamp": "2026-09-20T09:50:42.382503",
+  "timestamp": "2026-09-21T10:47:27.861047",
   "tasks": {
+    "869f4rw6r": {
+      "name": "L64-C375-VX-Gonzalo",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869f4rw6r",
+      "date_created": "2026-09-21T08:24:03.721000+00:00",
+      "date_updated": "2026-09-21T08:24:04.629000+00:00",
+      "date_done": null
+    },
     "869f37umt": {
       "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
       "status": "assigned",
@@ -14,47 +25,47 @@
     },
     "869f377uf": {
       "name": "L59-C339-P. Grueso-VX-D",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f377uf",
       "date_created": "2026-09-17T07:05:46.139000+00:00",
-      "date_updated": "2026-09-19T02:37:41.990000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-21T08:47:30.824000+00:00",
+      "date_done": "2026-09-21T08:47:29.227000+00:00"
     },
     "869f2hn11": {
       "name": "L63-C370 PROMO-VX-ALEJANDRA",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f2hn11",
       "date_created": "2026-09-15T19:53:57.397000+00:00",
-      "date_updated": "2026-09-17T03:54:29.164000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-21T08:45:23.529000+00:00",
+      "date_done": "2026-09-21T08:44:09.691000+00:00"
     },
     "869f252j5": {
       "name": "L63-C370 Ranking 2-VX-Dayana",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f252j5",
       "date_created": "2026-09-15T09:08:23.571000+00:00",
-      "date_updated": "2026-09-18T04:06:58.939000+00:00",
+      "date_updated": "2026-09-21T08:46:44.241000+00:00",
       "date_done": null
     },
     "869f24tnq": {
       "name": "L63-C369 Ranking-VX-Dayana",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f24tnq",
       "date_created": "2026-09-15T08:59:05.374000+00:00",
-      "date_updated": "2026-09-18T04:05:57.696000+00:00",
-      "date_done": null
+      "date_updated": "2026-09-21T08:46:02.492000+00:00",
+      "date_done": "2026-09-21T08:45:52.514000+00:00"
     },
     "869f243q0": {
       "name": "L63-C368 Complemento-VX-Gonzalo",
@@ -152,7 +163,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey4m2b",
       "date_created": "2026-09-07T11:19:38.263000+00:00",
-      "date_updated": "2026-09-11T10:35:26.001000+00:00",
+      "date_updated": "2026-09-21T08:47:38.586000+00:00",
       "date_done": "2026-09-11T10:35:10.775000+00:00"
     },
     "869ey4jwk": {
@@ -189,14 +200,14 @@
       "date_done": "2026-09-07T11:42:10.096000+00:00"
     },
     "869er1q15": {
-      "name": "L61-C358-VX",
-      "status": "testado",
+      "name": "L61-C358-Barbero Puntuando-VX",
+      "status": "aprobado",
       "assignee": "Deyby Santiago Gonzalez Murillo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869er1q15",
       "date_created": "2026-08-28T08:12:58.716000+00:00",
-      "date_updated": "2026-09-07T20:11:16.811000+00:00",
+      "date_updated": "2026-09-21T09:48:22.058000+00:00",
       "date_done": "2026-09-03T15:14:20.053000+00:00"
     },
     "869er1px3": {
@@ -8771,34 +8782,34 @@
     "869ezyaa8": {
       "name": "L11-C22 Podcast-VX-Deyby",
       "status": "assigned",
-      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869ezyaa8",
       "date_created": "2026-09-10T09:51:27.788000+00:00",
-      "date_updated": "2026-09-11T18:49:32.106000+00:00",
+      "date_updated": "2026-09-21T07:26:39.072000+00:00",
       "date_done": null
     },
     "869ezya97": {
       "name": "L11-C21 Folículo-VX-Deyby",
       "status": "assigned",
-      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869ezya97",
       "date_created": "2026-09-10T09:51:24.921000+00:00",
-      "date_updated": "2026-09-10T09:51:34.871000+00:00",
+      "date_updated": "2026-09-21T07:26:35.875000+00:00",
       "date_done": null
     },
     "869ezu4xg": {
       "name": "L10-Mito-VX #Autoridad",
       "status": "assigned",
-      "assignee": "Deyby Santiago Gonzalez Murillo",
+      "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869ezu4xg",
       "date_created": "2026-09-10T06:24:59.831000+00:00",
-      "date_updated": "2026-09-10T06:27:12.279000+00:00",
+      "date_updated": "2026-09-21T07:26:32.534000+00:00",
       "date_done": null
     },
     "869euwxku": {
