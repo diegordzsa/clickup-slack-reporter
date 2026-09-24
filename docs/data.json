@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T10:02:57.571501+00:00",
-  "snapshot_timestamp": "2026-09-23T10:02:39.740894",
+  "generated_at": "2026-09-24T10:06:28.983564+00:00",
+  "snapshot_timestamp": "2026-09-24T10:06:10.135360",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -47,6 +47,19 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "869f37umt",
+      "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-17T07:36:01.337000+00:00",
+      "date_done": "2026-09-23T09:21:48.407000+00:00",
+      "lead_time_hours": 145.76,
+      "url": "https://app.clickup.com/t/869f37umt"
+    },
     {
       "task_id": "869f377uf",
       "name": "L59-C339-P. Grueso-VX-D",
@@ -98,6 +111,19 @@
       "date_done": "2026-09-21T08:45:52.514000+00:00",
       "lead_time_hours": 143.78,
       "url": "https://app.clickup.com/t/869f24tnq"
+    },
+    {
+      "task_id": "869f243p3",
+      "name": "L63-C353 Pelo fino ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-15T08:38:49.747000+00:00",
+      "date_done": "2026-09-23T09:20:52.796000+00:00",
+      "lead_time_hours": 192.7,
+      "url": "https://app.clickup.com/t/869f243p3"
     },
     {
       "task_id": "869ey500k",
@@ -10490,6 +10516,19 @@
       "url": "https://app.clickup.com/t/869f4yvug"
     },
     {
+      "task_id": "869f4ytc4",
+      "name": "L64-C374-Esperar No Es Gratis-VX #B-Roll-Dayana",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-21T11:51:36.176000+00:00",
+      "url": "https://app.clickup.com/t/869f4ytc4"
+    },
+    {
       "task_id": "869f4yra5",
       "name": "L64-C373-Dermarolling + Minoxidil-VX #Caricatura-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -10516,19 +10555,6 @@
       "url": "https://app.clickup.com/t/869f4rw6r"
     },
     {
-      "task_id": "869f37umt",
-      "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-17T07:36:01.337000+00:00",
-      "url": "https://app.clickup.com/t/869f37umt"
-    },
-    {
       "task_id": "869f243q0",
       "name": "L63-C368 Complemento-VX-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -10542,8 +10568,8 @@
       "url": "https://app.clickup.com/t/869f243q0"
     },
     {
-      "task_id": "869f243p3",
-      "name": "L63-C353 Pelo fino ITER 1-VX-Gonzalo",
+      "task_id": "869f1k5ut",
+      "name": "L63-C367-Etapas Calvicie-VX #B-Roll-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
@@ -10551,8 +10577,8 @@
       "assignees": [
         "Gonzalo Flores"
       ],
-      "date_created": "2026-09-15T08:38:49.747000+00:00",
-      "url": "https://app.clickup.com/t/869f243p3"
+      "date_created": "2026-09-14T10:39:45.374000+00:00",
+      "url": "https://app.clickup.com/t/869f1k5ut"
     },
     {
       "task_id": "869f1k5p5",
@@ -10581,6 +10607,19 @@
       "url": "https://app.clickup.com/t/869f1k3k6"
     },
     {
+      "task_id": "869f0n26k",
+      "name": "L62-C362-Disciplina y Datos-ITER1-VX #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-11T10:17:21.704000+00:00",
+      "url": "https://app.clickup.com/t/869f0n26k"
+    },
+    {
       "task_id": "869ey4jwk",
       "name": "L62-C361-3 Señales-ITER1-Cortisol-VX #UGC",
       "client": "HAIR BIOLABS",
@@ -10588,7 +10627,7 @@
       "category": "revision",
       "status": "revisión",
       "assignees": [
-        "Deyby Santiago Gonzalez Murillo"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-09-07T11:18:28.398000+00:00",
       "url": "https://app.clickup.com/t/869ey4jwk"
@@ -10657,6 +10696,19 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869f6qdv0",
+      "name": "L13-C26 Dra-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-24T08:50:08.159000+00:00",
+      "url": "https://app.clickup.com/t/869f6qdv0"
     },
     {
       "task_id": "869f5ezua",
@@ -10793,8 +10845,8 @@
       "name": "L10-Mito-VX #Autoridad",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -10854,12 +10906,25 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
+      "task_id": "869f57atg",
+      "name": "L8-STATICS-5MIN KOREA",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-09-21T17:53:58.689000+00:00",
+      "url": "https://app.clickup.com/t/869f57atg"
+    },
+    {
       "task_id": "869f57a90",
       "name": "L8-Ad Corto Piel de Cristal-VX #B-Roll-Dayana",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "revision",
+      "status": "revision",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -10919,6 +10984,58 @@
       "url": "https://app.clickup.com/t/869f1k138"
     },
     {
+      "task_id": "869f1juj5",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revision",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-14T10:24:22.050000+00:00",
+      "url": "https://app.clickup.com/t/869f1juj5"
+    },
+    {
+      "task_id": "869ey0wp1",
+      "name": "L6-Menopausia-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-07T09:14:45.061000+00:00",
+      "url": "https://app.clickup.com/t/869ey0wp1"
+    },
+    {
+      "task_id": "869ekx2gx",
+      "name": "L5-ESPECIALISTALBERT",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-08-19T10:44:09+00:00",
+      "url": "https://app.clickup.com/t/869ekx2gx"
+    },
+    {
+      "task_id": "869ekwky1",
+      "name": "L5-KOREAMADRE- ALBERTO",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-08-19T10:28:55.299000+00:00",
+      "url": "https://app.clickup.com/t/869ekwky1"
+    },
+    {
       "task_id": "869ejrj3y",
       "name": "Us vs Them",
       "client": "Lyssoderma",
@@ -10936,8 +11053,8 @@
       "name": "Brand de estos prod (conservar formato coreano)",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Millán",
         "Alejandra Ramirez"
@@ -11158,6 +11275,19 @@
       ],
       "date_created": "2026-06-25T10:16:07.077000+00:00",
       "url": "https://app.clickup.com/t/869dvtwap"
+    },
+    {
+      "task_id": "869f62jc2",
+      "name": "GLENDA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-23T10:26:30.161000+00:00",
+      "url": "https://app.clickup.com/t/869f62jc2"
     },
     {
       "task_id": "869f57d3c",
@@ -14597,15 +14727,155 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869f24tnq"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f45fvq",
+      "name": "Brand de estos prod (conservar formato coreano)",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869f45fvq"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f45fvq",
+      "name": "Brand de estos prod (conservar formato coreano)",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f45fvq"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f4ytc4",
+      "name": "L64-C374-Esperar No Es Gratis-VX #B-Roll-Dayana",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f4ytc4"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f57a90",
+      "name": "L8-Ad Corto Piel de Cristal-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f57a90"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f1juj5",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f1juj5"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f1k5ut",
+      "name": "L63-C367-Etapas Calvicie-VX #B-Roll-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f1k5ut"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f0n26k",
+      "name": "L62-C362-Disciplina y Datos-ITER1-VX #UGC",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f0n26k"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869ezu4xg",
+      "name": "L10-Mito-VX #Autoridad",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ezu4xg"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f57atg",
+      "name": "L8-STATICS-5MIN KOREA",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f57atg"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869ey0wp1",
+      "name": "L6-Menopausia-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ey0wp1"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869ekx2gx",
+      "name": "L5-ESPECIALISTALBERT",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ekx2gx"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869ekwky1",
+      "name": "L5-KOREAMADRE- ALBERTO",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ekwky1"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f37umt",
+      "name": "L63-C356 Cortisol ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f37umt"
+    },
+    {
+      "ts": "2026-09-24T10:06:28.872164+00:00",
+      "task_id": "869f243p3",
+      "name": "L63-C353 Pelo fino ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f243p3"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1082,
-    "total_completed": 800,
-    "total_completed_with_dates": 800,
-    "total_completed_with_done": 800,
-    "total_currently_assigned": 112,
-    "total_transitions_logged": 267,
+    "total_tasks_in_snapshot": 1085,
+    "total_completed": 802,
+    "total_completed_with_dates": 802,
+    "total_completed_with_done": 802,
+    "total_currently_assigned": 120,
+    "total_transitions_logged": 281,
     "total_editors": 27
   }
 }
