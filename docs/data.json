@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T11:12:09.347173+00:00",
-  "snapshot_timestamp": "2026-09-30T11:11:46.372398",
+  "generated_at": "2026-10-01T11:39:27.867698+00:00",
+  "snapshot_timestamp": "2026-10-01T11:39:03.791310",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10750,19 +10750,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869f9am37",
-      "name": "ADS OFERTA OTOÑO CAPILAR",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-09-29T21:17:31.771000+00:00",
-      "url": "https://app.clickup.com/t/869f9am37"
-    },
-    {
       "task_id": "869f99ztt",
       "name": "L65-C385-Gato animado Sérum-Dayana",
       "client": "HAIR BIOLABS",
@@ -10793,8 +10780,8 @@
       "name": "L65-C382 Yapper-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10815,25 +10802,12 @@
       "url": "https://app.clickup.com/t/869f8nbm4"
     },
     {
-      "task_id": "869f8nbk4",
-      "name": "L65-382-Recuperación Capilar Padre-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T02:20:39.262000+00:00",
-      "url": "https://app.clickup.com/t/869f8nbk4"
-    },
-    {
       "task_id": "869f87p4z",
       "name": "L65-C381 Yapper Estilista-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10845,8 +10819,8 @@
       "name": "L65-C352 ITER 1 YAPPER-GONZALO",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10897,8 +10871,8 @@
       "name": "L64-C373-Dermarolling + Minoxidil-VX #Caricatura-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "asignado",
+      "status": "assigned",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10910,8 +10884,8 @@
       "name": "L64-C375-VX-Gonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "asignado",
+      "status": "assigned",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -10971,6 +10945,19 @@
       "url": "https://app.clickup.com/t/869cnc4fj"
     },
     {
+      "task_id": "869fa5tuj",
+      "name": "L14-C30 Yapper ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-01T07:16:12.474000+00:00",
+      "url": "https://app.clickup.com/t/869fa5tuj"
+    },
+    {
       "task_id": "869f8nfbc",
       "name": "L14-C33-VS-animado-VX-Dayana",
       "client": "HAIR BIOLABS MX",
@@ -10995,19 +10982,6 @@
       ],
       "date_created": "2026-09-29T03:02:14.080000+00:00",
       "url": "https://app.clickup.com/t/869f8nfb4"
-    },
-    {
-      "task_id": "869f8nfax",
-      "name": "L14-C31-Nadie Me Dijo-VX-Dayana",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T03:01:59.236000+00:00",
-      "url": "https://app.clickup.com/t/869f8nfax"
     },
     {
       "task_id": "869f834xa",
@@ -11127,19 +11101,6 @@
       "url": "https://app.clickup.com/t/869f8nb9a"
     },
     {
-      "task_id": "869f8nb2z",
-      "name": "L9-Comparativa-Animado-VX-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T02:09:30.058000+00:00",
-      "url": "https://app.clickup.com/t/869f8nb2z"
-    },
-    {
       "task_id": "869f57atg",
       "name": "L8-STATICS-5MIN KOREA",
       "client": "Lyssoderma",
@@ -11170,8 +11131,8 @@
       "name": "Nueva foto PDP",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Alejandra Ramirez"
       ],
@@ -11411,8 +11372,8 @@
       "name": "GLENDA SKIN CU",
       "client": "ZENDI",
       "list": "Producción",
-      "category": "revision",
-      "status": "aprobación",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -14581,15 +14542,65 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869ezyaa8"
+    },
+    {
+      "ts": "2026-10-01T11:39:27.730409+00:00",
+      "task_id": "869f8qpqq",
+      "name": "L65-C382 Yapper-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f8qpqq"
+    },
+    {
+      "ts": "2026-10-01T11:39:27.730409+00:00",
+      "task_id": "869f87p4z",
+      "name": "L65-C381 Yapper Estilista-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f87p4z"
+    },
+    {
+      "ts": "2026-10-01T11:39:27.730409+00:00",
+      "task_id": "869f86ftj",
+      "name": "L65-C352 ITER 1 YAPPER-GONZALO",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f86ftj"
+    },
+    {
+      "ts": "2026-10-01T11:39:27.730409+00:00",
+      "task_id": "869f9gdc9",
+      "name": "Nueva foto PDP",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869f9gdc9"
+    },
+    {
+      "ts": "2026-10-01T11:39:27.730409+00:00",
+      "task_id": "869f968ra",
+      "name": "GLENDA SKIN CU",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f968ra"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1099,
+    "total_tasks_in_snapshot": 1103,
     "total_completed": 822,
     "total_completed_with_dates": 822,
     "total_completed_with_done": 822,
-    "total_currently_assigned": 98,
-    "total_transitions_logged": 255,
+    "total_currently_assigned": 95,
+    "total_transitions_logged": 260,
     "total_editors": 27
   }
 }
