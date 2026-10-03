@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T11:09:15.876805+00:00",
-  "snapshot_timestamp": "2026-10-02T11:08:54.835683",
+  "generated_at": "2026-10-03T10:27:02.785484+00:00",
+  "snapshot_timestamp": "2026-10-03T10:26:44.608742",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -10855,45 +10855,6 @@
       "url": "https://app.clickup.com/t/869faanq1"
     },
     {
-      "task_id": "869f99ztt",
-      "name": "L65-C385-Gato animado Sérum-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T20:19:51.652000+00:00",
-      "url": "https://app.clickup.com/t/869f99ztt"
-    },
-    {
-      "task_id": "869f99zjy",
-      "name": "L65-C384-Peinado Progreso-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T20:19:31.031000+00:00",
-      "url": "https://app.clickup.com/t/869f99zjy"
-    },
-    {
-      "task_id": "869f8qpqq",
-      "name": "L65-C382 Yapper-Gonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-29T07:54:30.539000+00:00",
-      "url": "https://app.clickup.com/t/869f8qpqq"
-    },
-    {
       "task_id": "869f86ftj",
       "name": "L65-C352 ITER 1 YAPPER-GONZALO",
       "client": "HAIR BIOLABS",
@@ -11406,6 +11367,19 @@
       ],
       "date_created": "2026-06-25T10:16:07.077000+00:00",
       "url": "https://app.clickup.com/t/869dvtwap"
+    },
+    {
+      "task_id": "869fa5gne",
+      "name": "NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-01T07:08:34.712000+00:00",
+      "url": "https://app.clickup.com/t/869fa5gne"
     },
     {
       "task_id": "869fa489c",
@@ -14628,15 +14602,25 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869f579h9"
+    },
+    {
+      "ts": "2026-10-03T10:27:02.669232+00:00",
+      "task_id": "869fa5gne",
+      "name": "NIVELIA",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fa5gne"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1095,
+    "total_tasks_in_snapshot": 1094,
     "total_completed": 828,
     "total_completed_with_dates": 828,
     "total_completed_with_done": 828,
-    "total_currently_assigned": 84,
-    "total_transitions_logged": 270,
+    "total_currently_assigned": 82,
+    "total_transitions_logged": 271,
     "total_editors": 27
   }
 }
