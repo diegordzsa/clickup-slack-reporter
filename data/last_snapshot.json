@@ -1,6 +1,39 @@
 {
-  "timestamp": "2026-10-03T10:26:44.608742",
+  "timestamp": "2026-10-04T11:08:37.655141",
   "tasks": {
+    "869fbedw9": {
+      "name": "L65-C387-Sing-Alberto",
+      "status": "assigned",
+      "assignee": "Leonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fbedw9",
+      "date_created": "2026-10-03T12:46:09.016000+00:00",
+      "date_updated": "2026-10-04T06:49:19.542000+00:00",
+      "date_done": null
+    },
+    "869fbe5ga": {
+      "name": "L65-C89-Broll-1910-Alberto",
+      "status": "assigned",
+      "assignee": "Leonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fbe5ga",
+      "date_created": "2026-10-03T11:43:01.619000+00:00",
+      "date_updated": "2026-10-03T12:46:01.283000+00:00",
+      "date_done": null
+    },
+    "869fbe3cb": {
+      "name": "L65-C88-Broll-Antiguo-Alberto",
+      "status": "assigned",
+      "assignee": "Leonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fbe3cb",
+      "date_created": "2026-10-03T11:27:33.109000+00:00",
+      "date_updated": "2026-10-03T12:45:58.369000+00:00",
+      "date_done": null
+    },
     "869faanzr": {
       "name": "Adaptar winners con banners",
       "status": "assigned",
@@ -97,7 +130,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f87p4z",
       "date_created": "2026-09-28T10:22:42.559000+00:00",
-      "date_updated": "2026-10-01T23:28:27.033000+00:00",
+      "date_updated": "2026-10-03T17:41:37.677000+00:00",
       "date_done": null
     },
     "869f86ftj": {
@@ -135,13 +168,13 @@
     },
     "869f82u22": {
       "name": "L65-376-AGA-VX #Podcast-Dayana",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f82u22",
       "date_created": "2026-09-28T07:55:51.258000+00:00",
-      "date_updated": "2026-10-01T20:35:28.410000+00:00",
+      "date_updated": "2026-10-03T15:10:45.418000+00:00",
       "date_done": null
     },
     "869f4ywht": {
@@ -355,13 +388,13 @@
     },
     "869ey4jwk": {
       "name": "L62-C361-3 Señales-ITER1-Cortisol-VX #UGC",
-      "status": "revisión",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey4jwk",
       "date_created": "2026-09-07T11:18:28.398000+00:00",
-      "date_updated": "2026-09-24T08:45:43.554000+00:00",
+      "date_updated": "2026-10-03T17:59:11.705000+00:00",
       "date_done": null
     },
     "869er1q7f": {
@@ -636,7 +669,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869egrvaf",
       "date_created": "2026-08-11T12:21:54.529000+00:00",
-      "date_updated": "2026-09-03T09:18:15.375000+00:00",
+      "date_updated": "2026-10-03T15:18:14.157000+00:00",
       "date_done": "2026-09-03T09:18:10.851000+00:00"
     },
     "869egrv9q": {
@@ -1131,7 +1164,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3e3uf",
       "date_created": "2026-07-11T18:30:34.361000+00:00",
-      "date_updated": "2026-09-29T15:14:51.391000+00:00",
+      "date_updated": "2026-10-03T15:18:17.110000+00:00",
       "date_done": "2026-09-29T15:00:45.219000+00:00"
     },
     "869e1udkf": {
@@ -1615,7 +1648,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dufb4w",
       "date_created": "2026-06-22T15:49:31.418000+00:00",
-      "date_updated": "2026-09-29T15:15:20.167000+00:00",
+      "date_updated": "2026-10-03T15:18:15.691000+00:00",
       "date_done": "2026-09-29T15:00:45.219000+00:00"
     },
     "869duebe3": {
