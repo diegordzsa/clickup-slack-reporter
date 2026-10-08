@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T11:49:44.686448+00:00",
-  "snapshot_timestamp": "2026-10-07T11:49:21.074092",
+  "generated_at": "2026-10-08T12:04:46.388167+00:00",
+  "snapshot_timestamp": "2026-10-08T12:04:24.650907",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -11,6 +11,7 @@
     "Deyby Santiago Gonzalez Murillo",
     "Diana González",
     "Djo Rguiaa",
+    "Erick Morales",
     "Florencia Ana Falchi",
     "Gilberto Mondragón",
     "Gonzalo Flores",
@@ -44,6 +45,7 @@
     "Landings PDP, Listicle",
     "Producción",
     "Producción (MX)",
+    "Producción (USA Latino)",
     "Tareas"
   ],
   "completed_tasks": [
@@ -8668,6 +8670,32 @@
       "url": "https://app.clickup.com/t/869dkv620"
     },
     {
+      "task_id": "869f8nfbc",
+      "name": "L14-C33-VS-animado-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-29T03:02:23.280000+00:00",
+      "date_done": "2026-10-06T16:54:14.616000+00:00",
+      "lead_time_hours": 181.86,
+      "url": "https://app.clickup.com/t/869f8nfbc"
+    },
+    {
+      "task_id": "869f5ezq7",
+      "name": "L13-C26 Dra-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-22T09:21:17.398000+00:00",
+      "date_done": "2026-09-29T09:53:12.531000+00:00",
+      "lead_time_hours": 168.53,
+      "url": "https://app.clickup.com/t/869f5ezq7"
+    },
+    {
       "task_id": "869f5eznh",
       "name": "L13-C25 Podcast-VX-Dayana",
       "client": "HAIR BIOLABS MX",
@@ -10696,6 +10724,1085 @@
       "url": "https://app.clickup.com/t/869dheqnw"
     },
     {
+      "task_id": "869fdr2et",
+      "name": "L1-Expresiones Faciales #UGC",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:36.812000+00:00",
+      "date_done": "2026-07-29T15:49:38.889000+00:00",
+      "lead_time_hours": -1680.17,
+      "url": "https://app.clickup.com/t/869fdr2et"
+    },
+    {
+      "task_id": "869fdr2ej",
+      "name": "L5-KOREAMADRE- ALBERTO",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:36.411000+00:00",
+      "date_done": "2026-09-24T09:04:19.958000+00:00",
+      "lead_time_hours": -318.92,
+      "url": "https://app.clickup.com/t/869fdr2ej"
+    },
+    {
+      "task_id": "869fdr2e2",
+      "name": "L4-Coreana Sephora-VX #UGC B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-07T15:59:35.903000+00:00",
+      "date_done": "2026-08-28T06:16:02.414000+00:00",
+      "lead_time_hours": -969.73,
+      "url": "https://app.clickup.com/t/869fdr2e2"
+    },
+    {
+      "task_id": "869fdr2e0",
+      "name": "L4-Doctora K-Beauty-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-07T15:59:35.901000+00:00",
+      "date_done": "2026-08-26T11:41:15.878000+00:00",
+      "lead_time_hours": -1012.31,
+      "url": "https://app.clickup.com/t/869fdr2e0"
+    },
+    {
+      "task_id": "869fdr2dt",
+      "name": "L8-STATICS-5MIN KOREA",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:35.475000+00:00",
+      "date_done": "2026-09-24T09:15:27.598000+00:00",
+      "lead_time_hours": -318.74,
+      "url": "https://app.clickup.com/t/869fdr2dt"
+    },
+    {
+      "task_id": "869fdr2dq",
+      "name": "L8-Solución Rápida-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:35.393000+00:00",
+      "date_done": "2026-10-01T17:56:05.228000+00:00",
+      "lead_time_hours": -142.06,
+      "url": "https://app.clickup.com/t/869fdr2dq"
+    },
+    {
+      "task_id": "869fdr2dm",
+      "name": "L8-Ad Corto Piel de Cristal-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:35.377000+00:00",
+      "date_done": "2026-09-28T08:14:56.982000+00:00",
+      "lead_time_hours": -223.74,
+      "url": "https://app.clickup.com/t/869fdr2dm"
+    },
+    {
+      "task_id": "869fdr2dd",
+      "name": "L9-Alternativa al Botox-VX #Autoridad-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:34.891000+00:00",
+      "date_done": "2026-10-01T18:03:41.418000+00:00",
+      "lead_time_hours": -141.93,
+      "url": "https://app.clickup.com/t/869fdr2dd"
+    },
+    {
+      "task_id": "869fdr2dc",
+      "name": "L6-Menopausia-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:34.852000+00:00",
+      "date_done": "2026-09-24T09:11:13.053000+00:00",
+      "lead_time_hours": -318.81,
+      "url": "https://app.clickup.com/t/869fdr2dc"
+    },
+    {
+      "task_id": "869fdr2d5",
+      "name": "L4-Product-David",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:34.407000+00:00",
+      "date_done": "2026-08-20T10:42:58.837000+00:00",
+      "lead_time_hours": -1157.28,
+      "url": "https://app.clickup.com/t/869fdr2d5"
+    },
+    {
+      "task_id": "869fdr2d4",
+      "name": "L9-Comparativa-Animado-VX-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:34.270000+00:00",
+      "date_done": "2026-10-05T13:31:03.131000+00:00",
+      "lead_time_hours": -50.48,
+      "url": "https://app.clickup.com/t/869fdr2d4"
+    },
+    {
+      "task_id": "869fdr2cu",
+      "name": "L8-Ad Corto Piel-VX #B-Roll-Gonzalo",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:33.914000+00:00",
+      "date_done": "2026-10-01T17:58:54.097000+00:00",
+      "lead_time_hours": -142.01,
+      "url": "https://app.clickup.com/t/869fdr2cu"
+    },
+    {
+      "task_id": "869fdr2cr",
+      "name": "🤖 IA Avatars — concepto: coreana hablando de que ella NO usa botox (Lyssoderm)",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-07T15:59:33.884000+00:00",
+      "date_done": "2026-09-07T11:45:11.208000+00:00",
+      "lead_time_hours": -724.24,
+      "url": "https://app.clickup.com/t/869fdr2cr"
+    },
+    {
+      "task_id": "869fdr2cq",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:33.784000+00:00",
+      "date_done": "2026-09-28T08:14:26.560000+00:00",
+      "lead_time_hours": -223.75,
+      "url": "https://app.clickup.com/t/869fdr2cq"
+    },
+    {
+      "task_id": "869fdr2ce",
+      "name": "L7-Miedo a las Agujas-ITER1-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:33.267000+00:00",
+      "date_done": "2026-09-21T17:31:05.838000+00:00",
+      "lead_time_hours": -382.47,
+      "url": "https://app.clickup.com/t/869fdr2ce"
+    },
+    {
+      "task_id": "869fdr2ca",
+      "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:32.815000+00:00",
+      "date_done": "2026-08-03T19:30:00.158000+00:00",
+      "lead_time_hours": -1556.49,
+      "url": "https://app.clickup.com/t/869fdr2ca"
+    },
+    {
+      "task_id": "869fdr2c9",
+      "name": "L1-Miedo a las Agujas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:32.782000+00:00",
+      "date_done": "2026-08-03T19:28:29.914000+00:00",
+      "lead_time_hours": -1556.52,
+      "url": "https://app.clickup.com/t/869fdr2c9"
+    },
+    {
+      "task_id": "869fdr2c8",
+      "name": "L4-Tecnología K-Beauty-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:32.759000+00:00",
+      "date_done": "2026-08-17T10:21:46.872000+00:00",
+      "lead_time_hours": -1229.63,
+      "url": "https://app.clickup.com/t/869fdr2c8"
+    },
+    {
+      "task_id": "869fdr2c0",
+      "name": "L5-ESPECIALISTALBERT",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:32.381000+00:00",
+      "date_done": "2026-09-24T09:14:29.050000+00:00",
+      "lead_time_hours": -318.75,
+      "url": "https://app.clickup.com/t/869fdr2c0"
+    },
+    {
+      "task_id": "869fdr2by",
+      "name": "L9-Kbeauty-VX-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:32.290000+00:00",
+      "date_done": "2026-10-06T20:36:57.290000+00:00",
+      "lead_time_hours": -19.38,
+      "url": "https://app.clickup.com/t/869fdr2by"
+    },
+    {
+      "task_id": "869fdr2bq",
+      "name": "L9-OFERTA DE OTOÑO-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:31.559000+00:00",
+      "date_done": "2026-10-05T09:28:34.446000+00:00",
+      "lead_time_hours": -54.52,
+      "url": "https://app.clickup.com/t/869fdr2bq"
+    },
+    {
+      "task_id": "869fdr2bj",
+      "name": "L2-N3-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:31.241000+00:00",
+      "date_done": "2026-09-16T15:49:43.580000+00:00",
+      "lead_time_hours": -504.16,
+      "url": "https://app.clickup.com/t/869fdr2bj"
+    },
+    {
+      "task_id": "869fdr2bg",
+      "name": "REBAJAS VUELTA AL COLE",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:31.124000+00:00",
+      "date_done": "2026-09-14T07:25:47.152000+00:00",
+      "lead_time_hours": -560.56,
+      "url": "https://app.clickup.com/t/869fdr2bg"
+    },
+    {
+      "task_id": "869fdr2be",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:30.754000+00:00",
+      "date_done": "2026-09-16T15:45:40.632000+00:00",
+      "lead_time_hours": -504.23,
+      "url": "https://app.clickup.com/t/869fdr2be"
+    },
+    {
+      "task_id": "869fdr2bd",
+      "name": "L5-3 Razones Corea-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:30.748000+00:00",
+      "date_done": "2026-09-10T15:29:15.633000+00:00",
+      "lead_time_hours": -648.5,
+      "url": "https://app.clickup.com/t/869fdr2bd"
+    },
+    {
+      "task_id": "869fdr2b9",
+      "name": "L5-Corrector-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:30.582000+00:00",
+      "date_done": "2026-09-10T15:26:53.809000+00:00",
+      "lead_time_hours": -648.54,
+      "url": "https://app.clickup.com/t/869fdr2b9"
+    },
+    {
+      "task_id": "869fdr2b3",
+      "name": "PROMO \"REBAJAS AGOSTO\"",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:30.312000+00:00",
+      "date_done": "2026-09-01T07:15:22.845000+00:00",
+      "lead_time_hours": -872.74,
+      "url": "https://app.clickup.com/t/869fdr2b3"
+    },
+    {
+      "task_id": "869fdr2b2",
+      "name": "Us vs Them",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:30.227000+00:00",
+      "date_done": "2026-09-01T07:15:20.602000+00:00",
+      "lead_time_hours": -872.74,
+      "url": "https://app.clickup.com/t/869fdr2b2"
+    },
+    {
+      "task_id": "869fdr2ap",
+      "name": "L3-Comparación-VX #Caricatura",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:29.802000+00:00",
+      "date_done": "2026-08-12T16:52:29.964000+00:00",
+      "lead_time_hours": -1343.12,
+      "url": "https://app.clickup.com/t/869fdr2ap"
+    },
+    {
+      "task_id": "869fdr2an",
+      "name": "L3-Piel Apagada-VX #Caricatura",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:29.748000+00:00",
+      "date_done": "2026-08-05T08:36:09.559000+00:00",
+      "lead_time_hours": -1519.39,
+      "url": "https://app.clickup.com/t/869fdr2an"
+    },
+    {
+      "task_id": "869fdr2ak",
+      "name": "L3-Líneas de Marioneta-VX #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:29.565000+00:00",
+      "date_done": "2026-08-12T16:51:34.664000+00:00",
+      "lead_time_hours": -1343.13,
+      "url": "https://app.clickup.com/t/869fdr2ak"
+    },
+    {
+      "task_id": "869fdr2ab",
+      "name": "L2-Cremas 24h #UGC-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:29.341000+00:00",
+      "date_done": "2026-08-05T08:38:29.285000+00:00",
+      "lead_time_hours": -1519.35,
+      "url": "https://app.clickup.com/t/869fdr2ab"
+    },
+    {
+      "task_id": "869fdr2aa",
+      "name": "B-Rolls",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:29.281000+00:00",
+      "date_done": "2026-08-05T08:38:38.929000+00:00",
+      "lead_time_hours": -1519.35,
+      "url": "https://app.clickup.com/t/869fdr2aa"
+    },
+    {
+      "task_id": "869fdr2a0",
+      "name": "L2-Verte Más Joven #Autoridad-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:28.827000+00:00",
+      "date_done": "2026-07-31T07:48:30.533000+00:00",
+      "lead_time_hours": -1640.18,
+      "url": "https://app.clickup.com/t/869fdr2a0"
+    },
+    {
+      "task_id": "869fdr29z",
+      "name": "L2-Cansada y Apagada #UGC-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:28.799000+00:00",
+      "date_done": "2026-07-31T07:45:13.048000+00:00",
+      "lead_time_hours": -1640.24,
+      "url": "https://app.clickup.com/t/869fdr29z"
+    },
+    {
+      "task_id": "869fdr29y",
+      "name": "L1-C21-Comparación vs Marcas #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:28.639000+00:00",
+      "date_done": "2026-07-27T15:58:08.313000+00:00",
+      "lead_time_hours": -1728.02,
+      "url": "https://app.clickup.com/t/869fdr29y"
+    },
+    {
+      "task_id": "869fdr29u",
+      "name": "L4-C31-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:28.336000+00:00",
+      "date_done": "2026-07-15T07:58:07.392000+00:00",
+      "lead_time_hours": -2024.02,
+      "url": "https://app.clickup.com/t/869fdr29u"
+    },
+    {
+      "task_id": "869fdr29t",
+      "name": "L5-C38-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:28.286000+00:00",
+      "date_done": "2026-07-15T08:00:48.477000+00:00",
+      "lead_time_hours": -2023.98,
+      "url": "https://app.clickup.com/t/869fdr29t"
+    },
+    {
+      "task_id": "869fdr29p",
+      "name": "L4-C25-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:27.875000+00:00",
+      "date_done": "2026-07-15T07:54:34.845000+00:00",
+      "lead_time_hours": -2024.08,
+      "url": "https://app.clickup.com/t/869fdr29p"
+    },
+    {
+      "task_id": "869fdr29n",
+      "name": "L5-C41-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:27.874000+00:00",
+      "date_done": "2026-07-15T17:31:28.576000+00:00",
+      "lead_time_hours": -2014.47,
+      "url": "https://app.clickup.com/t/869fdr29n"
+    },
+    {
+      "task_id": "869fdr29h",
+      "name": "L4-C30-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:27.598000+00:00",
+      "date_done": "2026-07-15T07:56:07.516000+00:00",
+      "lead_time_hours": -2024.06,
+      "url": "https://app.clickup.com/t/869fdr29h"
+    },
+    {
+      "task_id": "869fdr29d",
+      "name": "L5-C40-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:27.349000+00:00",
+      "date_done": "2026-07-13T21:12:44.273000+00:00",
+      "lead_time_hours": -2058.78,
+      "url": "https://app.clickup.com/t/869fdr29d"
+    },
+    {
+      "task_id": "869fdr29c",
+      "name": "L5-C39-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:27.347000+00:00",
+      "date_done": "2026-07-13T21:12:41.987000+00:00",
+      "lead_time_hours": -2058.78,
+      "url": "https://app.clickup.com/t/869fdr29c"
+    },
+    {
+      "task_id": "869fdr297",
+      "name": "L5-C36-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:26.885000+00:00",
+      "date_done": "2026-07-10T21:35:15.473000+00:00",
+      "lead_time_hours": -2130.4,
+      "url": "https://app.clickup.com/t/869fdr297"
+    },
+    {
+      "task_id": "869fdr294",
+      "name": "L5-C37-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:26.851000+00:00",
+      "date_done": "2026-07-10T21:35:56.257000+00:00",
+      "lead_time_hours": -2130.39,
+      "url": "https://app.clickup.com/t/869fdr294"
+    },
+    {
+      "task_id": "869fdr293",
+      "name": "L5-C35-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:26.718000+00:00",
+      "date_done": "2026-07-10T21:34:23.969000+00:00",
+      "lead_time_hours": -2130.42,
+      "url": "https://app.clickup.com/t/869fdr293"
+    },
+    {
+      "task_id": "869fdr28r",
+      "name": "L5-C34-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:26.337000+00:00",
+      "date_done": "2026-07-10T21:33:31.481000+00:00",
+      "lead_time_hours": -2130.43,
+      "url": "https://app.clickup.com/t/869fdr28r"
+    },
+    {
+      "task_id": "869fdr28k",
+      "name": "L4-C26-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:26.018000+00:00",
+      "date_done": "2026-07-08T14:50:51.972000+00:00",
+      "lead_time_hours": -2185.14,
+      "url": "https://app.clickup.com/t/869fdr28k"
+    },
+    {
+      "task_id": "869fdr28d",
+      "name": "L4-C28-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:25.914000+00:00",
+      "date_done": "2026-07-07T08:14:07.074000+00:00",
+      "lead_time_hours": -2215.76,
+      "url": "https://app.clickup.com/t/869fdr28d"
+    },
+    {
+      "task_id": "869fdr280",
+      "name": "L4-C33-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:25.309000+00:00",
+      "date_done": "2026-07-06T08:34:46.930000+00:00",
+      "lead_time_hours": -2239.41,
+      "url": "https://app.clickup.com/t/869fdr280"
+    },
+    {
+      "task_id": "869fdr27v",
+      "name": "L4-C27-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:25.024000+00:00",
+      "date_done": "2026-07-06T08:31:25.531000+00:00",
+      "lead_time_hours": -2239.47,
+      "url": "https://app.clickup.com/t/869fdr27v"
+    },
+    {
+      "task_id": "869fdr27r",
+      "name": "L4-C32-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:24.869000+00:00",
+      "date_done": "2026-07-06T08:32:46.374000+00:00",
+      "lead_time_hours": -2239.44,
+      "url": "https://app.clickup.com/t/869fdr27r"
+    },
+    {
+      "task_id": "869fdr27m",
+      "name": "L2-C8-ST-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:24.738000+00:00",
+      "date_done": "2026-07-03T09:32:28.600000+00:00",
+      "lead_time_hours": -2310.45,
+      "url": "https://app.clickup.com/t/869fdr27m"
+    },
+    {
+      "task_id": "869fdr27c",
+      "name": "L4-C29-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:24.366000+00:00",
+      "date_done": "2026-07-03T15:34:05.880000+00:00",
+      "lead_time_hours": -2304.42,
+      "url": "https://app.clickup.com/t/869fdr27c"
+    },
+    {
+      "task_id": "869fdr276",
+      "name": "L2-C7-ST-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:24.292000+00:00",
+      "date_done": "2026-07-03T09:32:28.600000+00:00",
+      "lead_time_hours": -2310.45,
+      "url": "https://app.clickup.com/t/869fdr276"
+    },
+    {
+      "task_id": "869fdr26y",
+      "name": "L2-C6-ST-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:23.988000+00:00",
+      "date_done": "2026-07-03T09:32:28.600000+00:00",
+      "lead_time_hours": -2310.45,
+      "url": "https://app.clickup.com/t/869fdr26y"
+    },
+    {
+      "task_id": "869fdr26v",
+      "name": "L2-C22-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:23.834000+00:00",
+      "date_done": "2026-07-02T08:20:46.097000+00:00",
+      "lead_time_hours": -2335.64,
+      "url": "https://app.clickup.com/t/869fdr26v"
+    },
+    {
+      "task_id": "869fdr26t",
+      "name": "L2-C22-ITER1-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:23.750000+00:00",
+      "date_done": "2026-07-02T08:20:46.097000+00:00",
+      "lead_time_hours": -2335.64,
+      "url": "https://app.clickup.com/t/869fdr26t"
+    },
+    {
+      "task_id": "869fdr26m",
+      "name": "L2-C21-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:23.324000+00:00",
+      "date_done": "2026-07-01T15:35:54.749000+00:00",
+      "lead_time_hours": -2352.39,
+      "url": "https://app.clickup.com/t/869fdr26m"
+    },
+    {
+      "task_id": "869fdr26g",
+      "name": "L2-C20-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:23.219000+00:00",
+      "date_done": "2026-07-01T15:35:52.408000+00:00",
+      "lead_time_hours": -2352.39,
+      "url": "https://app.clickup.com/t/869fdr26g"
+    },
+    {
+      "task_id": "869fdr25t",
+      "name": "L2-C12-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:22.370000+00:00",
+      "date_done": "2026-06-23T08:19:20.871000+00:00",
+      "lead_time_hours": -2551.67,
+      "url": "https://app.clickup.com/t/869fdr25t"
+    },
+    {
+      "task_id": "869fdr25r",
+      "name": "L2-C11-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:22.244000+00:00",
+      "date_done": "2026-06-23T08:19:20.871000+00:00",
+      "lead_time_hours": -2551.67,
+      "url": "https://app.clickup.com/t/869fdr25r"
+    },
+    {
+      "task_id": "869fdr25g",
+      "name": "L2-C14-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:21.436000+00:00",
+      "date_done": "2026-06-23T08:19:20.871000+00:00",
+      "lead_time_hours": -2551.67,
+      "url": "https://app.clickup.com/t/869fdr25g"
+    },
+    {
+      "task_id": "869fdr25f",
+      "name": "L2-C6-ITER1-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:21.394000+00:00",
+      "date_done": "2026-06-18T20:33:20.774000+00:00",
+      "lead_time_hours": -2659.43,
+      "url": "https://app.clickup.com/t/869fdr25f"
+    },
+    {
+      "task_id": "869fdr25e",
+      "name": "L2-C15-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:21.390000+00:00",
+      "date_done": "2026-06-23T08:19:20.871000+00:00",
+      "lead_time_hours": -2551.67,
+      "url": "https://app.clickup.com/t/869fdr25e"
+    },
+    {
+      "task_id": "869fdr25d",
+      "name": "L2-C1-ITER1-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:21.352000+00:00",
+      "date_done": "2026-06-18T20:33:20.774000+00:00",
+      "lead_time_hours": -2659.43,
+      "url": "https://app.clickup.com/t/869fdr25d"
+    },
+    {
+      "task_id": "869fdr256",
+      "name": "L2-C13-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:21.245000+00:00",
+      "date_done": "2026-06-23T08:19:20.871000+00:00",
+      "lead_time_hours": -2551.67,
+      "url": "https://app.clickup.com/t/869fdr256"
+    },
+    {
+      "task_id": "869fdr24w",
+      "name": "L1-C10-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:20.377000+00:00",
+      "date_done": "2026-06-12T07:38:58.067000+00:00",
+      "lead_time_hours": -2816.34,
+      "url": "https://app.clickup.com/t/869fdr24w"
+    },
+    {
+      "task_id": "869fdr24v",
+      "name": "L1-C8-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:20.359000+00:00",
+      "date_done": "2026-06-12T07:38:58.067000+00:00",
+      "lead_time_hours": -2816.34,
+      "url": "https://app.clickup.com/t/869fdr24v"
+    },
+    {
+      "task_id": "869fdr24u",
+      "name": "L1-C6-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:20.343000+00:00",
+      "date_done": "2026-06-12T07:38:58.067000+00:00",
+      "lead_time_hours": -2816.34,
+      "url": "https://app.clickup.com/t/869fdr24u"
+    },
+    {
+      "task_id": "869fdr24t",
+      "name": "L1-C9-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:20.341000+00:00",
+      "date_done": "2026-06-12T07:38:58.067000+00:00",
+      "lead_time_hours": -2816.34,
+      "url": "https://app.clickup.com/t/869fdr24t"
+    },
+    {
+      "task_id": "869fdr24q",
+      "name": "L1-C7-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:20.222000+00:00",
+      "date_done": "2026-06-12T18:41:02.797000+00:00",
+      "lead_time_hours": -2805.3,
+      "url": "https://app.clickup.com/t/869fdr24q"
+    },
+    {
+      "task_id": "869fdr248",
+      "name": "L1-C5-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:19.325000+00:00",
+      "date_done": "2026-06-11T08:02:20.118000+00:00",
+      "lead_time_hours": -2839.95,
+      "url": "https://app.clickup.com/t/869fdr248"
+    },
+    {
+      "task_id": "869fdr246",
+      "name": "L1-C1-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:19.297000+00:00",
+      "date_done": "2026-06-11T08:02:20.118000+00:00",
+      "lead_time_hours": -2839.95,
+      "url": "https://app.clickup.com/t/869fdr246"
+    },
+    {
+      "task_id": "869fdr245",
+      "name": "L1-C2-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:19.278000+00:00",
+      "date_done": "2026-06-11T08:02:20.118000+00:00",
+      "lead_time_hours": -2839.95,
+      "url": "https://app.clickup.com/t/869fdr245"
+    },
+    {
+      "task_id": "869fdr244",
+      "name": "L1-C3-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:19.276000+00:00",
+      "date_done": "2026-06-11T08:02:20.118000+00:00",
+      "lead_time_hours": -2839.95,
+      "url": "https://app.clickup.com/t/869fdr244"
+    },
+    {
+      "task_id": "869fdr243",
+      "name": "L1-C4-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-07T15:59:19.229000+00:00",
+      "date_done": "2026-06-11T08:02:20.118000+00:00",
+      "lead_time_hours": -2839.95,
+      "url": "https://app.clickup.com/t/869fdr243"
+    },
+    {
+      "task_id": "869fdr23f",
+      "name": "B-Rolls",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:18.114000+00:00",
+      "date_done": "2026-06-05T05:51:32.692000+00:00",
+      "lead_time_hours": -2986.13,
+      "url": "https://app.clickup.com/t/869fdr23f"
+    },
+    {
+      "task_id": "869fdr23e",
+      "name": "L1-R2-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:18.112000+00:00",
+      "date_done": "2026-06-03T06:05:31.586000+00:00",
+      "lead_time_hours": -3033.9,
+      "url": "https://app.clickup.com/t/869fdr23e"
+    },
+    {
+      "task_id": "869fdr23c",
+      "name": "L1-R5-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:18.101000+00:00",
+      "date_done": "2026-06-03T06:05:31.586000+00:00",
+      "lead_time_hours": -3033.9,
+      "url": "https://app.clickup.com/t/869fdr23c"
+    },
+    {
+      "task_id": "869fdr23b",
+      "name": "L1-R3-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:18.093000+00:00",
+      "date_done": "2026-06-03T06:05:31.586000+00:00",
+      "lead_time_hours": -3033.9,
+      "url": "https://app.clickup.com/t/869fdr23b"
+    },
+    {
+      "task_id": "869fdr239",
+      "name": "L1-R4-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:18.040000+00:00",
+      "date_done": "2026-06-03T06:05:31.586000+00:00",
+      "lead_time_hours": -3033.9,
+      "url": "https://app.clickup.com/t/869fdr239"
+    },
+    {
+      "task_id": "869fdr22g",
+      "name": "L1-R1-VX",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-07T15:59:16.836000+00:00",
+      "date_done": "2026-06-03T06:05:31.586000+00:00",
+      "lead_time_hours": -3033.9,
+      "url": "https://app.clickup.com/t/869fdr22g"
+    },
+    {
       "task_id": "869dbc21j",
       "name": "Recopilar ads SKIN para reu creativos",
       "client": "Lyssoderma",
@@ -11023,19 +12130,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869fd5eb2",
-      "name": "L66-C393 Minoxidil-VX-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-07T08:20:23.142000+00:00",
-      "url": "https://app.clickup.com/t/869fd5eb2"
-    },
-    {
       "task_id": "869fcdadj",
       "name": "L66-C394 SOP-Dayana-CSAlejandra",
       "client": "HAIR BIOLABS",
@@ -11062,45 +12156,6 @@
       "url": "https://app.clickup.com/t/869fcdabc"
     },
     {
-      "task_id": "869fbznyt",
-      "name": "L66-C386-Review Audio #UGC-Dayana",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-05T10:42:28.796000+00:00",
-      "url": "https://app.clickup.com/t/869fbznyt"
-    },
-    {
-      "task_id": "869fbzn2w",
-      "name": "L66-C385-Yapping Fibrosis #Autoridad-Gonzalo F.",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-05T10:41:12.919000+00:00",
-      "url": "https://app.clickup.com/t/869fbzn2w"
-    },
-    {
-      "task_id": "869fbzn2c",
-      "name": "L66-C384-4 Señales Sonido #UGC-Gonzalo F.",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-05T10:41:11.513000+00:00",
-      "url": "https://app.clickup.com/t/869fbzn2c"
-    },
-    {
       "task_id": "869fbzn1q",
       "name": "L66-C383-Estilista #Autoridad-Gonzalo F.",
       "client": "HAIR BIOLABS",
@@ -11108,23 +12163,10 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Gonzalo Flores"
+        "Erick Morales"
       ],
       "date_created": "2026-10-05T10:41:09.454000+00:00",
       "url": "https://app.clickup.com/t/869fbzn1q"
-    },
-    {
-      "task_id": "869fbx6hg",
-      "name": "L66-C392 Ranking-Dayana-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-05T09:15:18.886000+00:00",
-      "url": "https://app.clickup.com/t/869fbx6hg"
     },
     {
       "task_id": "869fbvqkg",
@@ -11180,6 +12222,19 @@
       "url": "https://app.clickup.com/t/869faanzr"
     },
     {
+      "task_id": "869faanq1",
+      "name": "Statics",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-01T09:52:42.353000+00:00",
+      "url": "https://app.clickup.com/t/869faanq1"
+    },
+    {
       "task_id": "869f8qpqq",
       "name": "L65-C382 Yapper-Gonzalo",
       "client": "HAIR BIOLABS",
@@ -11204,6 +12259,19 @@
       ],
       "date_created": "2026-09-28T07:57:03.609000+00:00",
       "url": "https://app.clickup.com/t/869f82vek"
+    },
+    {
+      "task_id": "869f4yra5",
+      "name": "L64-C373-Dermarolling + Minoxidil-VX #Caricatura-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-21T11:50:34.566000+00:00",
+      "url": "https://app.clickup.com/t/869f4yra5"
     },
     {
       "task_id": "869f4rw6r",
@@ -11256,19 +12324,6 @@
       ],
       "date_created": "2026-10-01T07:16:12.474000+00:00",
       "url": "https://app.clickup.com/t/869fa5tuj"
-    },
-    {
-      "task_id": "869f8nfbc",
-      "name": "L14-C33-VS-animado-VX-Dayana",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T03:02:23.280000+00:00",
-      "url": "https://app.clickup.com/t/869f8nfbc"
     },
     {
       "task_id": "869f8nfb4",
@@ -11349,19 +12404,6 @@
       "url": "https://app.clickup.com/t/869f5ezt1"
     },
     {
-      "task_id": "869f5ezq7",
-      "name": "L13-C26 Dra-VX-Dayana",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-22T09:21:17.398000+00:00",
-      "url": "https://app.clickup.com/t/869f5ezq7"
-    },
-    {
       "task_id": "869e1b1gf",
       "name": "L3-C4-Traducción",
       "client": "HAIR BIOLABS MX",
@@ -11440,18 +12482,17 @@
       "url": "https://app.clickup.com/t/869f5790w"
     },
     {
-      "task_id": "869fcruvx",
-      "name": "Nueva PDP",
+      "task_id": "869fdr2eg",
+      "name": "L8-Mujer de 60 años-VX #UGC-Gonzalo",
       "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "en_curso",
-      "status": "en curso",
+      "list": "Producción (USA Latino)",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
-        "David Alegre",
-        "Alejandra Ramirez"
+        "Gonzalo Flores"
       ],
-      "date_created": "2026-10-06T13:48:35.523000+00:00",
-      "url": "https://app.clickup.com/t/869fcruvx"
+      "date_created": "2026-10-07T15:59:36.333000+00:00",
+      "url": "https://app.clickup.com/t/869fdr2eg"
     },
     {
       "task_id": "869f9gdc9",
@@ -11695,6 +12736,19 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
+      "task_id": "869fcq6tc",
+      "name": "Brief Zendi 07",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "status": "aprobación",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-06T12:48:00.744000+00:00",
+      "url": "https://app.clickup.com/t/869fcq6tc"
+    },
+    {
       "task_id": "869fcpq1p",
       "name": "Brief Zendi 06",
       "client": "ZENDI",
@@ -11745,71 +12799,6 @@
       ],
       "date_created": "2026-10-01T06:15:11.480000+00:00",
       "url": "https://app.clickup.com/t/869fa489c"
-    },
-    {
-      "task_id": "869f968ra",
-      "name": "GLENDA SKIN CU",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-29T15:53:39.828000+00:00",
-      "url": "https://app.clickup.com/t/869f968ra"
-    },
-    {
-      "task_id": "869f8f5fw",
-      "name": "Zendi VSL",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-28T14:41:44.173000+00:00",
-      "url": "https://app.clickup.com/t/869f8f5fw"
-    },
-    {
-      "task_id": "869f7gxt5",
-      "name": "ZENDI",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-25T16:14:08.087000+00:00",
-      "url": "https://app.clickup.com/t/869f7gxt5"
-    },
-    {
-      "task_id": "869f62jc2",
-      "name": "GLENDA",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-23T10:26:30.161000+00:00",
-      "url": "https://app.clickup.com/t/869f62jc2"
-    },
-    {
-      "task_id": "869f57d3c",
-      "name": "Snuzy Kids",
-      "client": "ZENDI",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-09-21T18:02:53.469000+00:00",
-      "url": "https://app.clickup.com/t/869f57d3c"
     },
     {
       "task_id": "869f1r2t1",
@@ -14724,15 +15713,65 @@
       "category": "completado",
       "assignee": "Alejandra Ramirez",
       "url": "https://app.clickup.com/t/869ejrj3y"
+    },
+    {
+      "ts": "2026-10-08T12:04:46.235883+00:00",
+      "task_id": "869faanq1",
+      "name": "Statics",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869faanq1"
+    },
+    {
+      "ts": "2026-10-08T12:04:46.235883+00:00",
+      "task_id": "869f4yra5",
+      "name": "L64-C373-Dermarolling + Minoxidil-VX #Caricatura-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f4yra5"
+    },
+    {
+      "ts": "2026-10-08T12:04:46.235883+00:00",
+      "task_id": "869fcq6tc",
+      "name": "Brief Zendi 07",
+      "client": "ZENDI",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fcq6tc"
+    },
+    {
+      "ts": "2026-10-08T12:04:46.235883+00:00",
+      "task_id": "869f8nfbc",
+      "name": "L14-C33-VS-animado-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f8nfbc"
+    },
+    {
+      "ts": "2026-10-08T12:04:46.235883+00:00",
+      "task_id": "869f5ezq7",
+      "name": "L13-C26 Dra-VX-Dayana",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f5ezq7"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1119,
-    "total_completed": 843,
-    "total_completed_with_dates": 843,
-    "total_completed_with_done": 843,
-    "total_currently_assigned": 94,
-    "total_transitions_logged": 247,
-    "total_editors": 27
+    "total_tasks_in_snapshot": 1207,
+    "total_completed": 928,
+    "total_completed_with_dates": 928,
+    "total_completed_with_done": 928,
+    "total_currently_assigned": 85,
+    "total_transitions_logged": 252,
+    "total_editors": 28
   }
 }
