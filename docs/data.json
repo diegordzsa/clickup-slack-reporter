@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T12:45:29.793991+00:00",
-  "snapshot_timestamp": "2026-10-13T12:45:03.563103",
+  "generated_at": "2026-10-14T10:17:46.979321+00:00",
+  "snapshot_timestamp": "2026-10-14T10:17:11.819602",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -51,6 +51,19 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "869ffukgb",
+      "name": "MOF-L67-C394 Producto Baño-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-12T09:56:02.239000+00:00",
+      "date_done": "2026-10-13T12:54:38.424000+00:00",
+      "lead_time_hours": 26.98,
+      "url": "https://app.clickup.com/t/869ffukgb"
+    },
     {
       "task_id": "869fejpv4",
       "name": "L65-C378-Deja las Gorras #Static",
@@ -8789,6 +8802,19 @@
       "url": "https://app.clickup.com/t/869f8nfbc"
     },
     {
+      "task_id": "869f5ezua",
+      "name": "L13-C28 Peluquero-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-22T09:21:21.478000+00:00",
+      "date_done": "2026-10-14T06:30:22.120000+00:00",
+      "lead_time_hours": 525.15,
+      "url": "https://app.clickup.com/t/869f5ezua"
+    },
+    {
       "task_id": "869f5ezq7",
       "name": "L13-C26 Dra-VX-Dayana",
       "client": "HAIR BIOLABS MX",
@@ -9699,6 +9725,45 @@
       "url": "https://app.clickup.com/t/869bpv1w0"
     },
     {
+      "task_id": "869fgur6h",
+      "name": "BOF-L11-MIX-STATICS-VX-Gonzalo M.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-10-13T21:48:10.550000+00:00",
+      "date_done": "2026-10-13T21:53:52.107000+00:00",
+      "lead_time_hours": 0.09,
+      "url": "https://app.clickup.com/t/869fgur6h"
+    },
+    {
+      "task_id": "869fgur4y",
+      "name": "MOF-L11-MIX-STATICS-VX-Gonzalo M.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-10-13T21:47:56.227000+00:00",
+      "date_done": "2026-10-13T21:53:52.107000+00:00",
+      "lead_time_hours": 0.1,
+      "url": "https://app.clickup.com/t/869fgur4y"
+    },
+    {
+      "task_id": "869fgur4d",
+      "name": "TOF-L11-MIX-STATICS-VX-Gonzalo M.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-10-13T21:47:50.918000+00:00",
+      "date_done": "2026-10-13T21:53:52.107000+00:00",
+      "lead_time_hours": 0.1,
+      "url": "https://app.clickup.com/t/869fgur4d"
+    },
+    {
       "task_id": "869fewdwg",
       "name": "L11-Descuento Caja-VX #Static-Gonzalo M.",
       "client": "Lyssoderma",
@@ -9723,6 +9788,32 @@
       "date_done": "2026-10-09T10:09:12.422000+00:00",
       "lead_time_hours": 0.0,
       "url": "https://app.clickup.com/t/869fevrj2"
+    },
+    {
+      "task_id": "869fbzfbz",
+      "name": "L10-No Me Rendí-VX #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-05T10:33:16.284000+00:00",
+      "date_done": "2026-10-08T18:54:45.473000+00:00",
+      "lead_time_hours": 80.36,
+      "url": "https://app.clickup.com/t/869fbzfbz"
+    },
+    {
+      "task_id": "869fbzf5u",
+      "name": "L10-Podcast Casero-VX #Podcast-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-10-05T10:32:56.981000+00:00",
+      "date_done": "2026-10-09T14:12:12.027000+00:00",
+      "lead_time_hours": 99.65,
+      "url": "https://app.clickup.com/t/869fbzf5u"
     },
     {
       "task_id": "869f9jb24",
@@ -12106,8 +12197,8 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869fgeeru",
-      "name": "L67-C402 Autocuidado-Daniel-CSDavid",
+      "task_id": "869fgkryn",
+      "name": "TOF-L67-C391 Podcast Mujer #3-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "asignado",
@@ -12115,29 +12206,29 @@
       "assignees": [
         "Daniel Meneses (daniel Meneses)"
       ],
+      "date_created": "2026-10-13T13:50:26.192000+00:00",
+      "url": "https://app.clickup.com/t/869fgkryn"
+    },
+    {
+      "task_id": "869fgeeru",
+      "name": "MOF-L67-C402 Autocuidado-Daniel-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)"
+      ],
       "date_created": "2026-10-13T09:35:54.920000+00:00",
       "url": "https://app.clickup.com/t/869fgeeru"
     },
     {
-      "task_id": "869fge3v1",
-      "name": "L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-10-13T09:22:38.487000+00:00",
-      "url": "https://app.clickup.com/t/869fge3v1"
-    },
-    {
       "task_id": "869fge3uh",
-      "name": "L67-C400 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "name": "MOF-L67-C400 Pizarra Dibujo-VX-Alejandra-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Alejandra Ramirez"
       ],
@@ -12159,7 +12250,7 @@
     },
     {
       "task_id": "869fg6gmr",
-      "name": "L67-C399-Probando Remedios-VX #Caricatura-Cristian-CSGonzalo",
+      "name": "MOF-L67-C399-Probando Remedios-VX #Caricatura-Cristian-CSGonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "asignado",
@@ -12171,21 +12262,8 @@
       "url": "https://app.clickup.com/t/869fg6gmr"
     },
     {
-      "task_id": "869ffy721",
-      "name": "L67-C399-Probando Remedios-VX #Caricatura-Cristian-CSGonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-12T12:23:03.163000+00:00",
-      "url": "https://app.clickup.com/t/869ffy721"
-    },
-    {
       "task_id": "869ffy4rd",
-      "name": "L67-C376-AGA-ITER1-VX #Caricatura-Dayana-CSGonzalo",
+      "name": "TOF-L67-C376-AGA-ITER1-VX #Caricatura-Dayana-CSGonzalo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "asignado",
@@ -12195,19 +12273,6 @@
       ],
       "date_created": "2026-10-12T12:20:38.083000+00:00",
       "url": "https://app.clickup.com/t/869ffy4rd"
-    },
-    {
-      "task_id": "869ffy4qm",
-      "name": "L67-C398-Conservar lo que tienes-VX #Caricatura-Gonzalo F-CSGonzalo",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-12T12:20:36.404000+00:00",
-      "url": "https://app.clickup.com/t/869ffy4qm"
     },
     {
       "task_id": "869ffw87c",
@@ -12234,19 +12299,6 @@
       ],
       "date_created": "2026-10-12T10:00:05.867000+00:00",
       "url": "https://app.clickup.com/t/869ffupvk"
-    },
-    {
-      "task_id": "869ffukgw",
-      "name": "TOF-L67-C395 Ascensor-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-12T09:56:04.406000+00:00",
-      "url": "https://app.clickup.com/t/869ffukgw"
     },
     {
       "task_id": "869fev9e0",
@@ -12314,19 +12366,6 @@
       "url": "https://app.clickup.com/t/869fcdatx"
     },
     {
-      "task_id": "869fcdadj",
-      "name": "L66-C394 SOP-Dayana-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-06T05:11:10.852000+00:00",
-      "url": "https://app.clickup.com/t/869fcdadj"
-    },
-    {
       "task_id": "869fbznyt",
       "name": "L66-C386-Review Audio #UGC-Dayana",
       "client": "HAIR BIOLABS",
@@ -12341,7 +12380,7 @@
     },
     {
       "task_id": "869fbzn1q",
-      "name": "L66-C383-Estilista #Autoridad-Gonzalo F.",
+      "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "asignado",
@@ -12378,6 +12417,19 @@
       ],
       "date_created": "2026-10-01T09:52:51.603000+00:00",
       "url": "https://app.clickup.com/t/869faanzr"
+    },
+    {
+      "task_id": "869f82u22",
+      "name": "L65-376-AGA-VX #Podcast-Dayana",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-09-28T07:55:51.258000+00:00",
+      "url": "https://app.clickup.com/t/869f82u22"
     },
     {
       "task_id": "869f4yra5",
@@ -12417,6 +12469,19 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869fgqttk",
+      "name": "TOF-L15-C31 FAGA-Leonidas-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-13T17:29:41.161000+00:00",
+      "url": "https://app.clickup.com/t/869fgqttk"
     },
     {
       "task_id": "869fa5tuj",
@@ -12484,19 +12549,6 @@
       "url": "https://app.clickup.com/t/869f83455"
     },
     {
-      "task_id": "869f5ezt1",
-      "name": "L13-C27 Storytelling-Gonzalo",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-09-22T09:21:19.897000+00:00",
-      "url": "https://app.clickup.com/t/869f5ezt1"
-    },
-    {
       "task_id": "869e1b1gf",
       "name": "L3-C4-Traducción",
       "client": "HAIR BIOLABS MX",
@@ -12562,19 +12614,6 @@
       "url": "https://app.clickup.com/t/869ffxqfn"
     },
     {
-      "task_id": "869ffxq7x",
-      "name": "L11-Oferta + 6 Razones-VX #Musical-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-12T12:00:30.639000+00:00",
-      "url": "https://app.clickup.com/t/869ffxq7x"
-    },
-    {
       "task_id": "869ffxpvr",
       "name": "L11-No es tarde-ITER2-VX #Autoridad PiP-Gonzalo F.",
       "client": "Lyssoderma",
@@ -12614,19 +12653,6 @@
       "url": "https://app.clickup.com/t/869ffxpmt"
     },
     {
-      "task_id": "869ffxpg0",
-      "name": "L11-4 Errores-VX #Musical-Gonzalo F.",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-12T11:59:26.147000+00:00",
-      "url": "https://app.clickup.com/t/869ffxpg0"
-    },
-    {
       "task_id": "869fegmy1",
       "name": "B-rolls de producto",
       "client": "Lyssoderma",
@@ -12640,97 +12666,6 @@
       "url": "https://app.clickup.com/t/869fegmy1"
     },
     {
-      "task_id": "869fbzfbz",
-      "name": "L10-No Me Rendí-VX #UGC-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-05T10:33:16.284000+00:00",
-      "url": "https://app.clickup.com/t/869fbzfbz"
-    },
-    {
-      "task_id": "869fbzf5u",
-      "name": "L10-Podcast Casero-VX #Podcast-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-05T10:32:56.981000+00:00",
-      "url": "https://app.clickup.com/t/869fbzf5u"
-    },
-    {
-      "task_id": "869fdr2eg",
-      "name": "L8-Mujer de 60 años-VX #UGC-Gonzalo",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:36.333000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2eg"
-    },
-    {
-      "task_id": "869fdr2e0",
-      "name": "L4-Doctora K-Beauty-VX #Autoridad",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:35.901000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2e0"
-    },
-    {
-      "task_id": "869fdr2dq",
-      "name": "L8-Solución Rápida-VX #B-Roll-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:35.393000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2dq"
-    },
-    {
-      "task_id": "869fdr2d5",
-      "name": "L4-Product-David",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:34.407000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2d5"
-    },
-    {
-      "task_id": "869fdr2d4",
-      "name": "L9-Comparativa-Animado-VX-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:34.270000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2d4"
-    },
-    {
       "task_id": "869fdr2cq",
       "name": "L7-No es tarde-VX #Autoridad",
       "client": "Lyssoderma",
@@ -12738,62 +12673,10 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Olga Vasquez"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-10-07T15:59:33.784000+00:00",
       "url": "https://app.clickup.com/t/869fdr2cq"
-    },
-    {
-      "task_id": "869fdr2ce",
-      "name": "L7-Miedo a las Agujas-ITER1-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:33.267000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2ce"
-    },
-    {
-      "task_id": "869fdr2c8",
-      "name": "L4-Tecnología K-Beauty-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:32.759000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2c8"
-    },
-    {
-      "task_id": "869fdr2c0",
-      "name": "L5-ESPECIALISTALBERT",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:32.381000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2c0"
-    },
-    {
-      "task_id": "869fdr2by",
-      "name": "L9-Kbeauty-VX-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:32.290000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2by"
     },
     {
       "task_id": "869fdr2be",
@@ -12803,23 +12686,10 @@
       "category": "asignado",
       "status": "assigned",
       "assignees": [
-        "Olga Vasquez"
+        "Gonzalo Flores"
       ],
       "date_created": "2026-10-07T15:59:30.754000+00:00",
       "url": "https://app.clickup.com/t/869fdr2be"
-    },
-    {
-      "task_id": "869fdr2bd",
-      "name": "L5-3 Razones Corea-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:30.748000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2bd"
     },
     {
       "task_id": "869ffwwhh",
@@ -15940,15 +15810,85 @@
       "category": "completado",
       "assignee": "Cristian Echeverri",
       "url": "https://app.clickup.com/t/869fbe3cb"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869fgeeru",
+      "name": "MOF-L67-C402 Autocuidado-Daniel-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/869fgeeru"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869fge3uh",
+      "name": "MOF-L67-C400 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fge3uh"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869f82u22",
+      "name": "L65-376-AGA-VX #Podcast-Dayana",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869f82u22"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869ffukgb",
+      "name": "MOF-L67-C394 Producto Baño-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869ffukgb"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869f5ezua",
+      "name": "L13-C28 Peluquero-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f5ezua"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869fbzfbz",
+      "name": "L10-No Me Rendí-VX #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fbzfbz"
+    },
+    {
+      "ts": "2026-10-14T10:17:46.775703+00:00",
+      "task_id": "869fbzf5u",
+      "name": "L10-Podcast Casero-VX #Podcast-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fbzf5u"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1237,
-    "total_completed": 926,
-    "total_completed_with_dates": 926,
-    "total_completed_with_done": 926,
-    "total_currently_assigned": 115,
-    "total_transitions_logged": 233,
+    "total_tasks_in_snapshot": 1244,
+    "total_completed": 933,
+    "total_completed_with_dates": 933,
+    "total_completed_with_done": 933,
+    "total_currently_assigned": 98,
+    "total_transitions_logged": 240,
     "total_editors": 30
   }
 }
