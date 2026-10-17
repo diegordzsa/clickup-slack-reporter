@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T09:53:25.246377",
+  "timestamp": "2026-10-17T09:26:47.061220",
   "tasks": {
     "869fj1961": {
       "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
@@ -53,7 +53,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgeeru",
       "date_created": "2026-10-13T09:35:54.920000+00:00",
-      "date_updated": "2026-10-15T05:26:52.201000+00:00",
+      "date_updated": "2026-10-17T06:07:39.538000+00:00",
       "date_done": null
     },
     "869fge3v1": {
@@ -91,14 +91,14 @@
     },
     "869fg6gmr": {
       "name": "MOF-L67-C399-Probando Remedios-VX #Caricatura-Cristian-CSGonzalo",
-      "status": "en curso",
+      "status": "aprobado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fg6gmr",
       "date_created": "2026-10-12T21:19:48.145000+00:00",
-      "date_updated": "2026-10-16T07:31:30.661000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T21:44:14.276000+00:00",
+      "date_done": "2026-10-16T21:44:14.276000+00:00"
     },
     "869ffy4rd": {
       "name": "TOF-L67-C376-AGA-ITER1-VX #Caricatura-Dayana-CSGonzalo",
@@ -108,7 +108,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffy4rd",
       "date_created": "2026-10-12T12:20:38.083000+00:00",
-      "date_updated": "2026-10-16T00:32:40.533000+00:00",
+      "date_updated": "2026-10-16T22:56:38.861000+00:00",
       "date_done": null
     },
     "869ffy4qm": {
@@ -123,26 +123,26 @@
       "date_done": "2026-10-14T10:47:17.667000+00:00"
     },
     "869ffy4pt": {
-      "name": "L67-C336-Pelo Fino-VX #Autoridad-Gonzalo F-CSGonzalo",
-      "status": "draft",
+      "name": "L67-C336-Pelo Fino-ITER1-VX #Autoridad-Gonzalo F-CSGonzalo",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffy4pt",
       "date_created": "2026-10-12T12:20:34.587000+00:00",
-      "date_updated": "2026-10-12T23:41:02.875000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T12:09:49.447000+00:00",
+      "date_done": "2026-10-16T11:44:23.015000+00:00"
     },
     "869ffw87c": {
       "name": "TOF-L67-C352 ITER 1-Cristian-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffw87c",
       "date_created": "2026-10-12T10:54:31.361000+00:00",
-      "date_updated": "2026-10-16T07:30:47.992000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T10:35:01.396000+00:00",
+      "date_done": "2026-10-16T10:34:51.376000+00:00"
     },
     "869ffupvk": {
       "name": "MOF-L67-C396-Dibujo-Cristian-CSDavid",
@@ -201,13 +201,13 @@
     },
     "869fev51j": {
       "name": "Oferta Pre-Hallowen-VX-Alejandra-CSDavid",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fev51j",
       "date_created": "2026-10-09T09:39:54.583000+00:00",
-      "date_updated": "2026-10-15T21:45:22.187000+00:00",
+      "date_updated": "2026-10-16T21:30:37.039000+00:00",
       "date_done": null
     },
     "869fejpv4": {
@@ -372,7 +372,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbe5ga",
       "date_created": "2026-10-03T11:43:01.619000+00:00",
-      "date_updated": "2026-10-03T12:46:01.283000+00:00",
+      "date_updated": "2026-10-17T03:19:16.493000+00:00",
       "date_done": null
     },
     "869fbe3cb": {
@@ -519,14 +519,14 @@
       "date_done": "2026-10-14T15:20:34.806000+00:00"
     },
     "869f82u22": {
-      "name": "L65-376-AGA-VX #Podcast-Dayana",
+      "name": "L65-C376-AGA-VX #Podcast-Dayana",
       "status": "aprobado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f82u22",
       "date_created": "2026-09-28T07:55:51.258000+00:00",
-      "date_updated": "2026-10-14T15:24:54.306000+00:00",
+      "date_updated": "2026-10-17T06:27:38.206000+00:00",
       "date_done": "2026-10-14T15:24:00.090000+00:00"
     },
     "869f4ywht": {
@@ -8209,13 +8209,13 @@
     },
     "869fj31nj": {
       "name": "Ajustes fotos pack y garantía",
-      "status": "to do",
+      "status": "en progreso",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869fj31nj",
       "date_created": "2026-10-16T09:21:03.006000+00:00",
-      "date_updated": "2026-10-16T09:21:03.006000+00:00",
+      "date_updated": "2026-10-16T21:30:44.687000+00:00",
       "date_done": null
     },
     "869fg4jmm": {
@@ -9392,7 +9392,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869fj1b4m",
       "date_created": "2026-10-16T08:07:05.866000+00:00",
-      "date_updated": "2026-10-16T08:07:07.035000+00:00",
+      "date_updated": "2026-10-16T21:45:08.912000+00:00",
       "date_done": null
     },
     "869fgvhpa": {
@@ -9507,14 +9507,14 @@
     },
     "869f83455": {
       "name": "L14-C23 Green Screen AGA ITER 1-Gonzalo",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869f83455",
       "date_created": "2026-09-28T08:06:03.565000+00:00",
-      "date_updated": "2026-10-15T01:24:25.987000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T11:37:21.850000+00:00",
+      "date_done": "2026-10-16T11:37:21.850000+00:00"
     },
     "869f5ezua": {
       "name": "L13-C28 Peluquero-Gonzalo",
@@ -10464,24 +10464,24 @@
     },
     "869ffxqxv": {
       "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqxv",
       "date_created": "2026-10-12T12:01:09.165000+00:00",
-      "date_updated": "2026-10-12T12:04:15.876000+00:00",
+      "date_updated": "2026-10-16T21:42:15.029000+00:00",
       "date_done": null
     },
     "869ffxqr3": {
       "name": "L11-Nunca uses-Sephora-VX #UGC-Cristian",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqr3",
       "date_created": "2026-10-12T12:00:56.391000+00:00",
-      "date_updated": "2026-10-12T12:04:12.096000+00:00",
+      "date_updated": "2026-10-16T22:14:55.083000+00:00",
       "date_done": null
     },
     "869ffxqfn": {
@@ -10508,25 +10508,25 @@
     },
     "869ffxpvr": {
       "name": "L11-No es tarde-ITER2-VX #Autoridad PiP-Gonzalo F.",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpvr",
       "date_created": "2026-10-12T12:00:09.770000+00:00",
-      "date_updated": "2026-10-16T02:14:51.116000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T21:57:27.192000+00:00",
+      "date_done": "2026-10-16T12:11:39.236000+00:00"
     },
     "869ffxpty": {
       "name": "L11-No es tarde-ITER1-VX #Autoridad Escenario-Gonzalo F.",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpty",
       "date_created": "2026-10-12T12:00:02.613000+00:00",
-      "date_updated": "2026-10-16T02:12:59.959000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-16T21:59:25.275000+00:00",
+      "date_done": "2026-10-16T12:14:31.228000+00:00"
     },
     "869ffxpmt": {
       "name": "L11-El exmarido-VX #Storytelling Musical-Gonzalo F.",
@@ -10541,13 +10541,13 @@
     },
     "869ffxpg0": {
       "name": "L11-4 Errores-VX #Musical-Gonzalo F.",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpg0",
       "date_created": "2026-10-12T11:59:26.147000+00:00",
-      "date_updated": "2026-10-14T10:58:21.738000+00:00",
+      "date_updated": "2026-10-16T21:47:10.446000+00:00",
       "date_done": "2026-10-14T10:58:21.738000+00:00"
     },
     "869fewdwg": {
@@ -10585,13 +10585,13 @@
     },
     "869fbzff3": {
       "name": "L10-Piel Susurrando-VX #Caricatura-Gonzalo F.",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzff3",
       "date_created": "2026-10-05T10:33:28.254000+00:00",
-      "date_updated": "2026-10-14T10:53:03.160000+00:00",
+      "date_updated": "2026-10-16T21:38:53.329000+00:00",
       "date_done": "2026-10-14T10:53:03.160000+00:00"
     },
     "869fbzfbz": {
@@ -10618,13 +10618,13 @@
     },
     "869fbzez7": {
       "name": "L10-Yapping-VX #UGC-Gonzalo F.",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzez7",
       "date_created": "2026-10-05T10:32:36.510000+00:00",
-      "date_updated": "2026-10-14T10:55:23.500000+00:00",
+      "date_updated": "2026-10-16T22:03:45.065000+00:00",
       "date_done": "2026-10-14T10:55:23.500000+00:00"
     },
     "869faqxp7": {
@@ -12637,7 +12637,7 @@
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ffwwhh",
       "date_created": "2026-10-12T11:23:22.730000+00:00",
-      "date_updated": "2026-10-12T11:29:15.208000+00:00",
+      "date_updated": "2026-10-16T19:05:53.662000+00:00",
       "date_done": null
     },
     "869fcruvx": {
@@ -13277,6 +13277,17 @@
       "date_created": "2026-07-22T23:11:24.016000+00:00",
       "date_updated": "2026-08-21T20:08:36.102000+00:00",
       "date_done": "2026-08-21T20:08:36.102000+00:00"
+    },
+    "869fjdnc6": {
+      "name": "NEW PDP ZENDI",
+      "status": "backlog",
+      "assignee": "Milagros",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "url": "https://app.clickup.com/t/869fjdnc6",
+      "date_created": "2026-10-17T02:07:55.456000+00:00",
+      "date_updated": "2026-10-17T02:16:38.391000+00:00",
+      "date_done": null
     },
     "869fdr546": {
       "name": "NEW PDP ZENDI",
