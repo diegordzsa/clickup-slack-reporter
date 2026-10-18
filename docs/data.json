@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:27:11.950119+00:00",
-  "snapshot_timestamp": "2026-10-17T09:26:47.061220",
+  "generated_at": "2026-10-18T09:40:51.378690+00:00",
+  "snapshot_timestamp": "2026-10-18T09:40:27.187179",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -11298,6 +11298,19 @@
       "url": "https://app.clickup.com/t/869fdr2cr"
     },
     {
+      "task_id": "869fdr2cq",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:33.784000+00:00",
+      "date_done": "2026-10-17T17:03:46.273000+00:00",
+      "lead_time_hours": 241.07,
+      "url": "https://app.clickup.com/t/869fdr2cq"
+    },
+    {
       "task_id": "869fdr2ca",
       "name": "L1-Expresiones Faciales #Autoridad + B-Roll",
       "client": "Lyssoderma",
@@ -11348,6 +11361,19 @@
       "date_done": "2026-09-14T07:25:47.152000+00:00",
       "lead_time_hours": -560.56,
       "url": "https://app.clickup.com/t/869fdr2bg"
+    },
+    {
+      "task_id": "869fdr2be",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-07T15:59:30.754000+00:00",
+      "date_done": "2026-10-17T17:03:46.273000+00:00",
+      "lead_time_hours": 241.07,
+      "url": "https://app.clickup.com/t/869fdr2be"
     },
     {
       "task_id": "869fdr2b9",
@@ -12770,19 +12796,6 @@
       "url": "https://app.clickup.com/t/869e1b11r"
     },
     {
-      "task_id": "869ffxqr3",
-      "name": "L11-Nunca uses-Sephora-VX #UGC-Cristian",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-12T12:00:56.391000+00:00",
-      "url": "https://app.clickup.com/t/869ffxqr3"
-    },
-    {
       "task_id": "869ffxq7x",
       "name": "L11-Oferta + 6 Razones-VX #Musical-Dayana",
       "client": "Lyssoderma",
@@ -13413,6 +13426,19 @@
       ],
       "date_created": "2026-08-14T17:51:02.025000+00:00",
       "url": "https://app.clickup.com/t/869ej7r09"
+    },
+    {
+      "task_id": "869fjdnc6",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "status": "in progress",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-10-17T02:07:55.456000+00:00",
+      "url": "https://app.clickup.com/t/869fjdnc6"
     },
     {
       "task_id": "869f3y45q",
@@ -16487,15 +16513,45 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869fbzez7"
+    },
+    {
+      "ts": "2026-10-18T09:40:51.249185+00:00",
+      "task_id": "869fjdnc6",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869fjdnc6"
+    },
+    {
+      "ts": "2026-10-18T09:40:51.249185+00:00",
+      "task_id": "869fdr2cq",
+      "name": "L7-No es tarde-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fdr2cq"
+    },
+    {
+      "ts": "2026-10-18T09:40:51.249185+00:00",
+      "task_id": "869fdr2be",
+      "name": "L6-Pérdida de Colágeno-VX #Autoridad",
+      "client": "Lyssoderma",
+      "list": "Producción (USA Latino)",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fdr2be"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1252,
-    "total_completed": 951,
-    "total_completed_with_dates": 951,
-    "total_completed_with_done": 951,
+    "total_completed": 953,
+    "total_completed_with_dates": 953,
+    "total_completed_with_done": 953,
     "total_currently_assigned": 99,
-    "total_transitions_logged": 276,
+    "total_transitions_logged": 279,
     "total_editors": 30
   }
 }

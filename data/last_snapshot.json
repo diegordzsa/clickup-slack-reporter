@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T09:26:47.061220",
+  "timestamp": "2026-10-18T09:40:27.187179",
   "tasks": {
     "869fj1961": {
       "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
@@ -10475,13 +10475,13 @@
     },
     "869ffxqr3": {
       "name": "L11-Nunca uses-Sephora-VX #UGC-Cristian",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqr3",
       "date_created": "2026-10-12T12:00:56.391000+00:00",
-      "date_updated": "2026-10-16T22:14:55.083000+00:00",
+      "date_updated": "2026-10-17T12:49:28.473000+00:00",
       "date_done": null
     },
     "869ffxqfn": {
@@ -11685,13 +11685,13 @@
     },
     "869fdr2dt": {
       "name": "L8-STATICS-5MIN KOREA",
-      "status": "approved",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "Lyssoderma",
       "list": "Producción (USA Latino)",
       "url": "https://app.clickup.com/t/869fdr2dt",
       "date_created": "2026-10-07T15:59:35.475000+00:00",
-      "date_updated": "2026-10-08T20:17:07.896000+00:00",
+      "date_updated": "2026-10-17T21:04:44.284000+00:00",
       "date_done": "2026-09-24T09:15:27.598000+00:00"
     },
     "869fdr2dq": {
@@ -11784,14 +11784,14 @@
     },
     "869fdr2cq": {
       "name": "L7-No es tarde-VX #Autoridad",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción (USA Latino)",
       "url": "https://app.clickup.com/t/869fdr2cq",
       "date_created": "2026-10-07T15:59:33.784000+00:00",
-      "date_updated": "2026-10-15T14:14:25.436000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-17T21:04:44.284000+00:00",
+      "date_done": "2026-10-17T17:03:46.273000+00:00"
     },
     "869fdr2cf": {
       "name": "L8-STATIC-C1-COREA",
@@ -11872,13 +11872,13 @@
     },
     "869fdr2bq": {
       "name": "L9-OFERTA DE OTOÑO-VX",
-      "status": "approved",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "Lyssoderma",
       "list": "Producción (USA Latino)",
       "url": "https://app.clickup.com/t/869fdr2bq",
       "date_created": "2026-10-07T15:59:31.559000+00:00",
-      "date_updated": "2026-10-08T20:17:07.217000+00:00",
+      "date_updated": "2026-10-17T17:03:58.291000+00:00",
       "date_done": "2026-10-05T09:28:34.446000+00:00"
     },
     "869fdr2bj": {
@@ -11905,14 +11905,14 @@
     },
     "869fdr2be": {
       "name": "L6-Pérdida de Colágeno-VX #Autoridad",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
       "list": "Producción (USA Latino)",
       "url": "https://app.clickup.com/t/869fdr2be",
       "date_created": "2026-10-07T15:59:30.754000+00:00",
-      "date_updated": "2026-10-16T02:52:45.864000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-17T21:04:44.284000+00:00",
+      "date_done": "2026-10-17T17:03:46.273000+00:00"
     },
     "869fdr2bd": {
       "name": "L5-3 Razones Corea-VX #B-Roll",
@@ -13280,13 +13280,13 @@
     },
     "869fjdnc6": {
       "name": "NEW PDP ZENDI",
-      "status": "backlog",
+      "status": "in progress",
       "assignee": "Milagros",
       "client": "ZENDI",
       "list": "Landings PDP, Listicle",
       "url": "https://app.clickup.com/t/869fjdnc6",
       "date_created": "2026-10-17T02:07:55.456000+00:00",
-      "date_updated": "2026-10-17T02:16:38.391000+00:00",
+      "date_updated": "2026-10-17T18:21:23.859000+00:00",
       "date_done": null
     },
     "869fdr546": {
