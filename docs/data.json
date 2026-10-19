@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T09:40:51.378690+00:00",
-  "snapshot_timestamp": "2026-10-18T09:40:27.187179",
+  "generated_at": "2026-10-19T10:50:43.315393+00:00",
+  "snapshot_timestamp": "2026-10-19T10:50:23.448647",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -13,7 +13,6 @@
     "Deyby Santiago Gonzalez Murillo",
     "Diana González",
     "Djo Rguiaa",
-    "Erick Morales",
     "Florencia Ana Falchi",
     "Gilberto Mondragón",
     "Gonzalo Flores",
@@ -12457,6 +12456,58 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869fjvdpt",
+      "name": "TOF-L68-C407-La DHT No es Veneno #Autoridad-VX-Gonzalo F-CSGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-19T10:46:42.928000+00:00",
+      "url": "https://app.clickup.com/t/869fjvdpt"
+    },
+    {
+      "task_id": "869fjvdpe",
+      "name": "MOF-L68-C406-Transplante No Frena La DHT #Caricatura-VX-Gonzalo F-CSGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-19T10:46:41.048000+00:00",
+      "url": "https://app.clickup.com/t/869fjvdpe"
+    },
+    {
+      "task_id": "869fjvdp7",
+      "name": "MOF-L68-C405-Doctor Animado Móvil #Caricatura-VX-Cristian-CSGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-10-19T10:46:39.514000+00:00",
+      "url": "https://app.clickup.com/t/869fjvdp7"
+    },
+    {
+      "task_id": "869fjvbpw",
+      "name": "MOF-L68-C408 5RW-VX-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-19T10:42:46.373000+00:00",
+      "url": "https://app.clickup.com/t/869fjvbpw"
+    },
+    {
       "task_id": "869fj1961",
       "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12507,6 +12558,32 @@
       ],
       "date_created": "2026-10-13T09:35:54.920000+00:00",
       "url": "https://app.clickup.com/t/869fgeeru"
+    },
+    {
+      "task_id": "869fge3v1",
+      "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-13T09:22:38.487000+00:00",
+      "url": "https://app.clickup.com/t/869fge3v1"
+    },
+    {
+      "task_id": "869fge3uh",
+      "name": "MOF-L67-C400 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-13T09:22:36.954000+00:00",
+      "url": "https://app.clickup.com/t/869fge3uh"
     },
     {
       "task_id": "869fgbzey",
@@ -12587,19 +12664,6 @@
       "url": "https://app.clickup.com/t/869fev52j"
     },
     {
-      "task_id": "869fcdb0b",
-      "name": "TOF-L66-C396 Caída animado-Erick-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Erick Morales"
-      ],
-      "date_created": "2026-10-06T05:15:16.424000+00:00",
-      "url": "https://app.clickup.com/t/869fcdb0b"
-    },
-    {
       "task_id": "869fcdatx",
       "name": "TOF-L66-C395 Autoridad Trasplante-Cristian-CSAlejandra",
       "client": "HAIR BIOLABS",
@@ -12637,19 +12701,6 @@
       ],
       "date_created": "2026-10-06T05:10:41.710000+00:00",
       "url": "https://app.clickup.com/t/869fcdabc"
-    },
-    {
-      "task_id": "869fbzn1q",
-      "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Erick Morales"
-      ],
-      "date_created": "2026-10-05T10:41:09.454000+00:00",
-      "url": "https://app.clickup.com/t/869fbzn1q"
     },
     {
       "task_id": "869fbe5ga",
@@ -12690,6 +12741,19 @@
       ],
       "date_created": "2026-09-28T07:55:51.258000+00:00",
       "url": "https://app.clickup.com/t/869f82u22"
+    },
+    {
+      "task_id": "869f4rw6r",
+      "name": "L64-C375-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-21T08:24:03.721000+00:00",
+      "url": "https://app.clickup.com/t/869f4rw6r"
     },
     {
       "task_id": "869ey4jwk",
@@ -12757,6 +12821,19 @@
       "url": "https://app.clickup.com/t/869fj1b4m"
     },
     {
+      "task_id": "869fgvhpa",
+      "name": "MOF-L15-C34 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "revision",
+      "status": "revisión",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-14T00:12:19.928000+00:00",
+      "url": "https://app.clickup.com/t/869fgvhpa"
+    },
+    {
       "task_id": "869fgqttk",
       "name": "TOF-L15-C31 FAGA-Leonidas-CSDavid",
       "client": "HAIR BIOLABS MX",
@@ -12770,6 +12847,19 @@
       "url": "https://app.clickup.com/t/869fgqttk"
     },
     {
+      "task_id": "869fa5tuj",
+      "name": "L14-C30 Yapper ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-01T07:16:12.474000+00:00",
+      "url": "https://app.clickup.com/t/869fa5tuj"
+    },
+    {
       "task_id": "869f8nfb4",
       "name": "L14-C32-Comp Finasterida-VX-Dayana",
       "client": "HAIR BIOLABS MX",
@@ -12781,6 +12871,19 @@
       ],
       "date_created": "2026-09-29T03:02:14.080000+00:00",
       "url": "https://app.clickup.com/t/869f8nfb4"
+    },
+    {
+      "task_id": "869f834xa",
+      "name": "L14-C30 Yapper-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-09-28T08:06:38.555000+00:00",
+      "url": "https://app.clickup.com/t/869f834xa"
     },
     {
       "task_id": "869e1b11r",
@@ -16543,15 +16646,75 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869fdr2be"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869fge3v1",
+      "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fge3v1"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869fgvhpa",
+      "name": "MOF-L15-C34 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fgvhpa"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869fge3uh",
+      "name": "MOF-L67-C400 Pizarra Dibujo-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fge3uh"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869f4rw6r",
+      "name": "L64-C375-VX-Gonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f4rw6r"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869fa5tuj",
+      "name": "L14-C30 Yapper ITER 1-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fa5tuj"
+    },
+    {
+      "ts": "2026-10-19T10:50:43.123752+00:00",
+      "task_id": "869f834xa",
+      "name": "L14-C30 Yapper-VX-Gonzalo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869f834xa"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1252,
+    "total_tasks_in_snapshot": 1256,
     "total_completed": 953,
     "total_completed_with_dates": 953,
     "total_completed_with_done": 953,
-    "total_currently_assigned": 99,
-    "total_transitions_logged": 279,
-    "total_editors": 30
+    "total_currently_assigned": 107,
+    "total_transitions_logged": 285,
+    "total_editors": 29
   }
 }
