@@ -1,15 +1,26 @@
 {
-  "timestamp": "2026-10-20T10:07:41.475017",
+  "timestamp": "2026-10-21T10:14:45.475528",
   "tasks": {
+    "869fk7vm5": {
+      "name": "MOF-L16-CC-C268 Miedo Pérdida ITER 1-V1-CC-CSDavid",
+      "status": "testado",
+      "assignee": "Laura Becerra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fk7vm5",
+      "date_created": "2026-10-20T10:25:15.974000+00:00",
+      "date_updated": "2026-10-20T18:58:12.949000+00:00",
+      "date_done": "2026-10-20T10:25:15.975000+00:00"
+    },
     "869fjvdpt": {
       "name": "TOF-L68-C407-La DHT No es Veneno #Autoridad-VX-Gonzalo F-CSGonzalo",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fjvdpt",
       "date_created": "2026-10-19T10:46:42.928000+00:00",
-      "date_updated": "2026-10-19T13:22:39.208000+00:00",
+      "date_updated": "2026-10-21T01:10:24.386000+00:00",
       "date_done": null
     },
     "869fjvdpe": {
@@ -36,24 +47,24 @@
     },
     "869fjvbpw": {
       "name": "MOF-L68-C408 5RW-VX-Gonzalo-CSDavid",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fjvbpw",
       "date_created": "2026-10-19T10:42:46.373000+00:00",
-      "date_updated": "2026-10-20T02:10:15.783000+00:00",
+      "date_updated": "2026-10-20T13:01:12.155000+00:00",
       "date_done": null
     },
     "869fj1961": {
       "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fj1961",
       "date_created": "2026-10-16T08:04:03.019000+00:00",
-      "date_updated": "2026-10-16T08:04:04.517000+00:00",
+      "date_updated": "2026-10-20T15:36:14.290000+00:00",
       "date_done": null
     },
     "869fj195d": {
@@ -69,35 +80,35 @@
     },
     "869fhhxd1": {
       "name": "No lanzar - Sprint PreHW",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Laura Becerra",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fhhxd1",
       "date_created": "2026-10-15T10:14:01.263000+00:00",
-      "date_updated": "2026-10-19T11:13:44.939000+00:00",
+      "date_updated": "2026-10-20T22:12:13.533000+00:00",
       "date_done": "2026-10-15T10:14:01.263000+00:00"
     },
     "869fgkryn": {
       "name": "TOF-L67-C391 Podcast Mujer #3-Daniel-CSDavid",
-      "status": "en curso",
+      "status": "assigned",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgkryn",
       "date_created": "2026-10-13T13:50:26.192000+00:00",
-      "date_updated": "2026-10-19T19:46:49.059000+00:00",
+      "date_updated": "2026-10-20T17:19:14.672000+00:00",
       "date_done": null
     },
     "869fgeeru": {
       "name": "MOF-L67-C402 Autocuidado-Daniel-CSDavid",
-      "status": "draft",
+      "status": "en curso",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgeeru",
       "date_created": "2026-10-13T09:35:54.920000+00:00",
-      "date_updated": "2026-10-19T16:40:16.681000+00:00",
+      "date_updated": "2026-10-20T21:43:05.640000+00:00",
       "date_done": null
     },
     "869fge3v1": {
@@ -124,13 +135,13 @@
     },
     "869fgbzey": {
       "name": "TOF-L67-C336 Caricatura-Daniel-CSDavid",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgbzey",
       "date_created": "2026-10-13T08:11:32.404000+00:00",
-      "date_updated": "2026-10-13T12:54:53.682000+00:00",
+      "date_updated": "2026-10-20T17:20:05.681000+00:00",
       "date_done": null
     },
     "869fg6gmr": {
@@ -141,7 +152,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fg6gmr",
       "date_created": "2026-10-12T21:19:48.145000+00:00",
-      "date_updated": "2026-10-16T21:44:14.276000+00:00",
+      "date_updated": "2026-10-20T16:07:00.688000+00:00",
       "date_done": "2026-10-16T21:44:14.276000+00:00"
     },
     "869ffy4rd": {
@@ -179,13 +190,13 @@
     },
     "869ffw87c": {
       "name": "TOF-L67-C352 ITER 1-Cristian-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffw87c",
       "date_created": "2026-10-12T10:54:31.361000+00:00",
-      "date_updated": "2026-10-16T10:35:01.396000+00:00",
+      "date_updated": "2026-10-20T19:17:59.928000+00:00",
       "date_done": "2026-10-16T10:34:51.376000+00:00"
     },
     "869ffupvk": {
@@ -619,13 +630,13 @@
     },
     "869f4rw6r": {
       "name": "L64-C375-VX-Gonzalo",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f4rw6r",
       "date_created": "2026-09-21T08:24:03.721000+00:00",
-      "date_updated": "2026-10-19T10:29:37.696000+00:00",
+      "date_updated": "2026-10-20T19:18:02.976000+00:00",
       "date_done": "2026-10-19T10:27:26.499000+00:00"
     },
     "869f37umt": {
@@ -9417,15 +9428,48 @@
       "date_updated": "2026-07-14T02:37:17.335000+00:00",
       "date_done": "2026-06-11T06:20:27.914000+00:00"
     },
+    "869fkh2hf": {
+      "name": "L16-C22 Podcast Mujer ITER 1-Dayana-CSDavid",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/869fkh2hf",
+      "date_created": "2026-10-21T09:34:50.860000+00:00",
+      "date_updated": "2026-10-21T09:35:23.489000+00:00",
+      "date_done": null
+    },
+    "869fkh2gx": {
+      "name": "L16-C23 Green Screen AGA ITER 2-VX-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/869fkh2gx",
+      "date_created": "2026-10-21T09:34:48.182000+00:00",
+      "date_updated": "2026-10-21T09:35:01.031000+00:00",
+      "date_done": null
+    },
+    "869fkbwgj": {
+      "name": "L16-CC-C268 Miedo Pérdida ITER 1-VX-CC-CSDavid",
+      "status": "aprobado",
+      "assignee": "Laura Becerra",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/869fkbwgj",
+      "date_created": "2026-10-20T16:20:25.838000+00:00",
+      "date_updated": "2026-10-20T16:20:45.934000+00:00",
+      "date_done": "2026-10-20T16:20:45.934000+00:00"
+    },
     "869fj1b6m": {
       "name": "MOF-L16-C33 YApper-VX-Cristian-CSDavid",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869fj1b6m",
       "date_created": "2026-10-16T08:07:10.158000+00:00",
-      "date_updated": "2026-10-16T08:07:10.952000+00:00",
+      "date_updated": "2026-10-20T15:36:25.388000+00:00",
       "date_done": null
     },
     "869fj1b4m": {
@@ -9485,13 +9529,13 @@
     },
     "869fdxmg1": {
       "name": "ADS PRE HALLOWEEN",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869fdxmg1",
       "date_created": "2026-10-07T20:49:52.650000+00:00",
-      "date_updated": "2026-10-14T10:28:06.750000+00:00",
+      "date_updated": "2026-10-20T16:20:01.373000+00:00",
       "date_done": "2026-10-07T20:49:52.650000+00:00"
     },
     "869fa5tuj": {
@@ -10473,15 +10517,103 @@
       "date_updated": "2026-01-08T20:21:26.292000+00:00",
       "date_done": null
     },
+    "869fkdpup": {
+      "name": "L13-TOF-NO ES PARA TI-VX #Static",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkdpup",
+      "date_created": "2026-10-20T22:41:30.063000+00:00",
+      "date_updated": "2026-10-20T22:42:05.720000+00:00",
+      "date_done": "2026-10-20T22:42:05.720000+00:00"
+    },
+    "869fkdpug": {
+      "name": "L13-MOF-CHATGPT-VX #Static",
+      "status": "approved",
+      "assignee": "Gonzalo Millán",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkdpug",
+      "date_created": "2026-10-20T22:41:24.624000+00:00",
+      "date_updated": "2026-10-20T22:42:05.720000+00:00",
+      "date_done": "2026-10-20T22:42:05.720000+00:00"
+    },
+    "869fkdgf1": {
+      "name": "Banner Halloween",
+      "status": "assigned",
+      "assignee": "Olga Vasquez",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkdgf1",
+      "date_created": "2026-10-20T21:41:19.734000+00:00",
+      "date_updated": "2026-10-20T21:53:00.174000+00:00",
+      "date_done": null
+    },
+    "869fkdg6f": {
+      "name": "Banner Pre-Halloween",
+      "status": "assigned",
+      "assignee": "Olga Vasquez",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkdg6f",
+      "date_created": "2026-10-20T21:34:53.376000+00:00",
+      "date_updated": "2026-10-20T21:52:37.934000+00:00",
+      "date_done": null
+    },
+    "869fkdfbw": {
+      "name": "L12-No es Tarde-ITER3-VX #Autoridad-Gonzalo F",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkdfbw",
+      "date_created": "2026-10-20T21:27:01.702000+00:00",
+      "date_updated": "2026-10-21T03:11:34.212000+00:00",
+      "date_done": null
+    },
+    "869fkc462": {
+      "name": "L12-Mayor Error Líneas de Marioneta-VX #Autoridad + B-Roll-Cristian",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkc462",
+      "date_created": "2026-10-20T17:08:22.398000+00:00",
+      "date_updated": "2026-10-20T17:08:42.612000+00:00",
+      "date_done": null
+    },
+    "869fkc3mt": {
+      "name": "L12-3 Mitos Líneas Marioneta #Autoridad + B-Roll-Gonzalo F.",
+      "status": "en curso",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkc3mt",
+      "date_created": "2026-10-20T17:02:23.499000+00:00",
+      "date_updated": "2026-10-20T21:19:44.395000+00:00",
+      "date_done": null
+    },
+    "869fkc2g3": {
+      "name": "L12-Líneas de Marioneta Sin Botox #UGC + B-Roll-Dayana",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fkc2g3",
+      "date_created": "2026-10-20T16:56:03.044000+00:00",
+      "date_updated": "2026-10-20T17:05:01.511000+00:00",
+      "date_done": null
+    },
     "869fk2eyf": {
       "name": "L12-C38-Descuento-ITER1 #B-Roll-Dayana",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fk2eyf",
       "date_created": "2026-10-19T17:52:57.255000+00:00",
-      "date_updated": "2026-10-19T17:53:41.655000+00:00",
+      "date_updated": "2026-10-21T01:01:47.094000+00:00",
       "date_done": null
     },
     "869fk2eww": {
@@ -10530,13 +10662,13 @@
     },
     "869ffxqxv": {
       "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqxv",
       "date_created": "2026-10-12T12:01:09.165000+00:00",
-      "date_updated": "2026-10-19T11:12:12.350000+00:00",
+      "date_updated": "2026-10-21T00:00:58.717000+00:00",
       "date_done": null
     },
     "869ffxqr3": {
@@ -12697,13 +12829,13 @@
     },
     "869ffwwhh": {
       "name": "Guía de Microneedling",
-      "status": "asignado",
+      "status": "borrador",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ffwwhh",
       "date_created": "2026-10-12T11:23:22.730000+00:00",
-      "date_updated": "2026-10-16T19:05:53.662000+00:00",
+      "date_updated": "2026-10-21T01:49:30.069000+00:00",
       "date_done": null
     },
     "869fcruvx": {
