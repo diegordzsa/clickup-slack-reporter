@@ -111,6 +111,7 @@ def main():
             "se archivo en ClickUp, o que el token ya no tiene acceso. "
             "Busca el ID nuevo (python discover_clickup.py) y actualiza el "
             "secret en GitHub > Settings > Secrets > Actions.",
+            urgente=False,
         )
 
     # Guarda de integridad: nunca pisar el snapshot bueno con uno vacio.
