@@ -222,8 +222,21 @@ def get_snapshot():
 
     activas, _ = get_active_folders()
 
+    # Carpetas que no se pudieron bajar: {cliente: (folder_id, error)}.
+    # Una carpeta borrada/movida en ClickUp (404) no debe tumbar a las demas.
+    # Quien llame decide que hacer con ellas (main.py las rellena con el
+    # snapshot anterior y avisa a Slack).
+    snapshot["fallidas"] = {}
+
     for client_name, folder_id in activas.items():
-        tasks = get_tasks_from_folder(folder_id)
+        try:
+            tasks = get_tasks_from_folder(folder_id)
+        except TokenInvalidError:
+            raise
+        except Exception as e:
+            print(f"   ERROR en {client_name} (folder {folder_id}): {e}")
+            snapshot["fallidas"][client_name] = (folder_id, str(e))
+            continue
 
         for task in tasks:
             task_id = task["id"]

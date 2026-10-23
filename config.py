@@ -19,14 +19,15 @@ CLICKUP_TEAM_ID = os.getenv("CLICKUP_TEAM_ID")
 # Es el folder "EQUIPO CREATIVOS" de cada space: ahi vive la produccion.
 # SKIN+ salio del tracking: su space esta ARCHIVADO en ClickUp y su contenido
 # se migro a Lyssoderma / Lyssoderma English.
-FOLDERS = {
-    "HAIR BIOLABS":       os.getenv("CLICKUP_FOLDER_ID_HAIRBIOLABS"),
-    "HAIR BIOLABS MX":    os.getenv("CLICKUP_FOLDER_ID_HAIRBIOLABS_MX"),
-    "Lyssoderma":         os.getenv("CLICKUP_FOLDER_ID_LYSSODERMA"),
-    "Lyssoderma English": os.getenv("CLICKUP_FOLDER_ID_LYSSODERMA_EN"),
-    "Proyecto Espana":    os.getenv("CLICKUP_FOLDER_ID_ESPANA"),
-    "ZENDI":              os.getenv("CLICKUP_FOLDER_ID_ZENDI"),
+FOLDER_SECRETS = {
+    "HAIR BIOLABS":       "CLICKUP_FOLDER_ID_HAIRBIOLABS",
+    "HAIR BIOLABS MX":    "CLICKUP_FOLDER_ID_HAIRBIOLABS_MX",
+    "Lyssoderma":         "CLICKUP_FOLDER_ID_LYSSODERMA",
+    "Lyssoderma English": "CLICKUP_FOLDER_ID_LYSSODERMA_EN",
+    "Proyecto Espana":    "CLICKUP_FOLDER_ID_ESPANA",
+    "ZENDI":              "CLICKUP_FOLDER_ID_ZENDI",
 }
+FOLDERS = {name: os.getenv(var) for name, var in FOLDER_SECRETS.items()}
 
 # Listas que no entran a ninguna metrica. "Ideas creativas" es backlog de
 # ideas, no trabajo de edicion: no debe contarle a ningun editor.

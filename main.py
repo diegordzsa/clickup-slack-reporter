@@ -11,7 +11,7 @@ reporte semanal (weekly_report.py).
 """
 import sys
 
-from config import validate_config
+from config import validate_config, get_active_folders, FOLDER_SECRETS
 from clickup_client import get_snapshot, check_token, TokenInvalidError
 from slack_client import send_alert
 from snapshot_manager import (
@@ -78,6 +78,41 @@ def main():
         send_alert("Fallo al bajar datos de ClickUp", str(e))
         sys.exit(1)
 
+    fallidas = current.pop("fallidas", {})
+    activas, _ = get_active_folders()
+    if fallidas and len(fallidas) == len(activas):
+        detalle = "\n".join(f"{c}: {err}" for c, (_, err) in fallidas.items())
+        print("ERROR: no se pudo bajar ninguna carpeta")
+        send_alert("Fallo al bajar datos de ClickUp", detalle)
+        sys.exit(1)
+
+    print("\nCargando snapshot anterior...")
+    previous = load_previous_snapshot()
+
+    if fallidas:
+        # Las tareas de las carpetas caidas se copian del snapshot anterior.
+        # Si las dejaramos fuera, el dia que la carpeta vuelva sus tareas
+        # parecerian "nuevas" y se perderian sus transiciones.
+        if previous:
+            for task_id, data in previous.get("tasks", {}).items():
+                if data.get("client") in fallidas:
+                    current["tasks"].setdefault(task_id, data)
+
+        lineas = [
+            f"- {c} (folder {fid}, secret {FOLDER_SECRETS[c]}): {err}"
+            for c, (fid, err) in fallidas.items()
+        ]
+        send_alert(
+            "Hay carpetas de ClickUp que no se pudieron leer",
+            "\n".join(lineas) + "\n\n"
+            "El resto de proyectos se recolecto normal; estos quedan con los "
+            "datos del ultimo dia bueno.\n"
+            "Un 404 'Not found' significa que la carpeta se borro, se movio o "
+            "se archivo en ClickUp, o que el token ya no tiene acceso. "
+            "Busca el ID nuevo (python discover_clickup.py) y actualiza el "
+            "secret en GitHub > Settings > Secrets > Actions.",
+        )
+
     # Guarda de integridad: nunca pisar el snapshot bueno con uno vacio.
     if len(current["tasks"]) < MIN_TASKS_ESPERADAS:
         msg = (
@@ -89,9 +124,6 @@ def main():
         print(f"ERROR: {msg}")
         send_alert("Snapshot sospechosamente vacio", msg)
         sys.exit(1)
-
-    print("\nCargando snapshot anterior...")
-    previous = load_previous_snapshot()
 
     if previous is None:
         print("   Primera ejecucion: no hay snapshot anterior.")
