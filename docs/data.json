@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T16:35:48.894093+00:00",
-  "snapshot_timestamp": "2026-10-23T16:35:28.459269",
+  "generated_at": "2026-10-24T09:35:50.329303+00:00",
+  "snapshot_timestamp": "2026-10-24T09:35:26.156325",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -89,6 +89,19 @@
       "date_done": "2026-10-15T10:14:01.263000+00:00",
       "lead_time_hours": 0.0,
       "url": "https://app.clickup.com/t/869fhhxd1"
+    },
+    {
+      "task_id": "869fge3v1",
+      "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-13T09:22:38.487000+00:00",
+      "date_done": "2026-10-22T14:41:37.729000+00:00",
+      "lead_time_hours": 221.32,
+      "url": "https://app.clickup.com/t/869fge3v1"
     },
     {
       "task_id": "869fge3uh",
@@ -10206,6 +10219,45 @@
       "url": "https://app.clickup.com/t/869fkwgwb"
     },
     {
+      "task_id": "869fkdg6f",
+      "name": "Banner Pre-Halloween",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Olga Vasquez"
+      ],
+      "date_created": "2026-10-20T21:34:53.376000+00:00",
+      "date_done": "2026-10-22T23:21:45.476000+00:00",
+      "lead_time_hours": 49.78,
+      "url": "https://app.clickup.com/t/869fkdg6f"
+    },
+    {
+      "task_id": "869fkdfbw",
+      "name": "L12-No es Tarde-ITER3-VX #Autoridad-Gonzalo F",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-20T21:27:01.702000+00:00",
+      "date_done": "2026-10-23T15:56:08.678000+00:00",
+      "lead_time_hours": 66.49,
+      "url": "https://app.clickup.com/t/869fkdfbw"
+    },
+    {
+      "task_id": "869fk2eww",
+      "name": "L12-Almacén Error #UGC-VX-Gonzalo F.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-19T17:52:44.146000+00:00",
+      "date_done": "2026-10-23T15:51:00.525000+00:00",
+      "lead_time_hours": 93.97,
+      "url": "https://app.clickup.com/t/869fk2eww"
+    },
+    {
       "task_id": "869fgur6h",
       "name": "BOF-L11-MIX-STATICS-VX-Gonzalo M.",
       "client": "Lyssoderma",
@@ -12795,19 +12847,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869fku0tn",
-      "name": "TOF-L68-C391 Podcast Mujer ITER 2-Cristian-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-22T07:34:33.807000+00:00",
-      "url": "https://app.clickup.com/t/869fku0tn"
-    },
-    {
       "task_id": "869fjvdpe",
       "name": "MOF-L68-C406-Transplante No Frena La DHT #Caricatura-VX-Gonzalo F-CSGonzalo",
       "client": "HAIR BIOLABS",
@@ -12834,19 +12873,6 @@
       "url": "https://app.clickup.com/t/869fjvdp7"
     },
     {
-      "task_id": "869fj1961",
-      "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-16T08:04:03.019000+00:00",
-      "url": "https://app.clickup.com/t/869fj1961"
-    },
-    {
       "task_id": "869fgkryn",
       "name": "TOF-L67-C391 Podcast Mujer #3-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12858,19 +12884,6 @@
       ],
       "date_created": "2026-10-13T13:50:26.192000+00:00",
       "url": "https://app.clickup.com/t/869fgkryn"
-    },
-    {
-      "task_id": "869fge3v1",
-      "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-10-13T09:22:38.487000+00:00",
-      "url": "https://app.clickup.com/t/869fge3v1"
     },
     {
       "task_id": "869fg6gmr",
@@ -12977,20 +12990,6 @@
       "url": "https://app.clickup.com/t/869fbe5ga"
     },
     {
-      "task_id": "869faanzr",
-      "name": "Adaptar winners con banners",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo",
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-01T09:52:51.603000+00:00",
-      "url": "https://app.clickup.com/t/869faanzr"
-    },
-    {
       "task_id": "869cnc4fj",
       "name": "Entregar 5-7 statics de la promo actual",
       "client": "HAIR BIOLABS",
@@ -13056,32 +13055,6 @@
       "url": "https://app.clickup.com/t/869fkdgf1"
     },
     {
-      "task_id": "869fkdg6f",
-      "name": "Banner Pre-Halloween",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-20T21:34:53.376000+00:00",
-      "url": "https://app.clickup.com/t/869fkdg6f"
-    },
-    {
-      "task_id": "869fkdfbw",
-      "name": "L12-No es Tarde-ITER3-VX #Autoridad-Gonzalo F",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-20T21:27:01.702000+00:00",
-      "url": "https://app.clickup.com/t/869fkdfbw"
-    },
-    {
       "task_id": "869fkc462",
       "name": "L12-Mayor Error Líneas de Marioneta-VX #Autoridad + B-Roll-Cristian",
       "client": "Lyssoderma",
@@ -13099,8 +13072,8 @@
       "name": "L12-3 Mitos Líneas Marioneta #Autoridad + B-Roll-Gonzalo F.",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "revision",
-      "status": "revision",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -13108,25 +13081,12 @@
       "url": "https://app.clickup.com/t/869fkc3mt"
     },
     {
-      "task_id": "869fkc2g3",
-      "name": "L12-Líneas de Marioneta Sin Botox #UGC + B-Roll-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-20T16:56:03.044000+00:00",
-      "url": "https://app.clickup.com/t/869fkc2g3"
-    },
-    {
       "task_id": "869fk2eyf",
       "name": "L12-C38-Descuento-ITER1 #B-Roll-Dayana",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "revision",
-      "status": "revision",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -13134,25 +13094,12 @@
       "url": "https://app.clickup.com/t/869fk2eyf"
     },
     {
-      "task_id": "869fk2eww",
-      "name": "L12-Almacén Error #UGC-VX-Gonzalo F.",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-19T17:52:44.146000+00:00",
-      "url": "https://app.clickup.com/t/869fk2eww"
-    },
-    {
       "task_id": "869ffxqxv",
       "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "revision",
-      "status": "revision",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13164,8 +13111,8 @@
       "name": "L11-Fórmula Potenciada-VX #UGC PiP-Dayana",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "revision",
-      "status": "revision",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Dayana Caicedo"
       ],
@@ -16868,15 +16815,95 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869ffxq7x"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fkc3mt",
+      "name": "L12-3 Mitos Líneas Marioneta #Autoridad + B-Roll-Gonzalo F.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fkc3mt"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fk2eyf",
+      "name": "L12-C38-Descuento-ITER1 #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fk2eyf"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869ffxqxv",
+      "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869ffxqxv"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869ffxqfn",
+      "name": "L11-Fórmula Potenciada-VX #UGC PiP-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869ffxqfn"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fge3v1",
+      "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fge3v1"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fkdg6f",
+      "name": "Banner Pre-Halloween",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869fkdg6f"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fkdfbw",
+      "name": "L12-No es Tarde-ITER3-VX #Autoridad-Gonzalo F",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fkdfbw"
+    },
+    {
+      "ts": "2026-10-24T09:35:50.136931+00:00",
+      "task_id": "869fk2eww",
+      "name": "L12-Almacén Error #UGC-VX-Gonzalo F.",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fk2eww"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1270,
-    "total_completed": 979,
-    "total_completed_with_dates": 979,
-    "total_completed_with_done": 979,
-    "total_currently_assigned": 95,
-    "total_transitions_logged": 283,
+    "total_completed": 983,
+    "total_completed_with_dates": 983,
+    "total_completed_with_done": 983,
+    "total_currently_assigned": 87,
+    "total_transitions_logged": 291,
     "total_editors": 30
   }
 }
