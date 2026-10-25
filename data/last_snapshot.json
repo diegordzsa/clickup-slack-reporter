@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T09:35:26.156325",
+  "timestamp": "2026-10-25T09:51:57.965956",
   "tasks": {
     "869fm878m": {
       "name": "BOF-L68-MEJORES ANTIGUOS-CC-CSDavid",
@@ -130,7 +130,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgkryn",
       "date_created": "2026-10-13T13:50:26.192000+00:00",
-      "date_updated": "2026-10-24T07:15:56.026000+00:00",
+      "date_updated": "2026-10-24T10:37:27.735000+00:00",
       "date_done": null
     },
     "869fgeeru": {
@@ -322,13 +322,13 @@
     },
     "869fcdb0b": {
       "name": "TOF-L66-C396 Caída animado-Erick-CSAlejandra",
-      "status": "revisión",
+      "status": "final",
       "assignee": "Erick Morales",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fcdb0b",
       "date_created": "2026-10-06T05:15:16.424000+00:00",
-      "date_updated": "2026-10-22T16:47:42.723000+00:00",
+      "date_updated": "2026-10-24T23:22:00.741000+00:00",
       "date_done": null
     },
     "869fcdatx": {
@@ -399,13 +399,13 @@
     },
     "869fbzn1q": {
       "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
-      "status": "revisión",
+      "status": "final",
       "assignee": "Erick Morales",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzn1q",
       "date_created": "2026-10-05T10:41:09.454000+00:00",
-      "date_updated": "2026-10-23T11:58:13.202000+00:00",
+      "date_updated": "2026-10-24T23:22:35.438000+00:00",
       "date_done": null
     },
     "869fbx6hg": {
@@ -12015,13 +12015,13 @@
     },
     "869fdr2d5": {
       "name": "L4-Product-David",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
       "list": "Producción (USA Latino)",
       "url": "https://app.clickup.com/t/869fdr2d5",
       "date_created": "2026-10-07T15:59:34.407000+00:00",
-      "date_updated": "2026-10-16T07:52:58.711000+00:00",
+      "date_updated": "2026-10-24T16:41:11.145000+00:00",
       "date_done": null
     },
     "869fdr2d4": {

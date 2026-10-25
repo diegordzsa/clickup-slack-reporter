@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T09:35:50.329303+00:00",
-  "snapshot_timestamp": "2026-10-24T09:35:26.156325",
+  "generated_at": "2026-10-25T09:52:24.113704+00:00",
+  "snapshot_timestamp": "2026-10-25T09:51:57.965956",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -221,6 +221,19 @@
       "url": "https://app.clickup.com/t/869fd5eb2"
     },
     {
+      "task_id": "869fcdb0b",
+      "name": "TOF-L66-C396 Caída animado-Erick-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Erick Morales"
+      ],
+      "date_created": "2026-10-06T05:15:16.424000+00:00",
+      "date_done": "2026-10-24T23:22:00.741000+00:00",
+      "lead_time_hours": 450.11,
+      "url": "https://app.clickup.com/t/869fcdb0b"
+    },
+    {
       "task_id": "869fcdadj",
       "name": "MOF-L66-C394 Autoridad SOP-Dayana-CSAlejandra",
       "client": "HAIR BIOLABS",
@@ -284,6 +297,19 @@
       "date_done": "2026-10-09T10:40:08.554000+00:00",
       "lead_time_hours": 95.98,
       "url": "https://app.clickup.com/t/869fbzn2c"
+    },
+    {
+      "task_id": "869fbzn1q",
+      "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Erick Morales"
+      ],
+      "date_created": "2026-10-05T10:41:09.454000+00:00",
+      "date_done": "2026-10-24T23:22:35.438000+00:00",
+      "lead_time_hours": 468.69,
+      "url": "https://app.clickup.com/t/869fbzn1q"
     },
     {
       "task_id": "869fbx6hg",
@@ -12938,19 +12964,6 @@
       "url": "https://app.clickup.com/t/869fev52j"
     },
     {
-      "task_id": "869fcdb0b",
-      "name": "TOF-L66-C396 Caída animado-Erick-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Erick Morales"
-      ],
-      "date_created": "2026-10-06T05:15:16.424000+00:00",
-      "url": "https://app.clickup.com/t/869fcdb0b"
-    },
-    {
       "task_id": "869fcdatx",
       "name": "TOF-L66-C395 Autoridad Trasplante-Cristian-CSAlejandra",
       "client": "HAIR BIOLABS",
@@ -12962,19 +12975,6 @@
       ],
       "date_created": "2026-10-06T05:13:46.637000+00:00",
       "url": "https://app.clickup.com/t/869fcdatx"
-    },
-    {
-      "task_id": "869fbzn1q",
-      "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
-      "assignees": [
-        "Erick Morales"
-      ],
-      "date_created": "2026-10-05T10:41:09.454000+00:00",
-      "url": "https://app.clickup.com/t/869fbzn1q"
     },
     {
       "task_id": "869fbe5ga",
@@ -13183,19 +13183,6 @@
       ],
       "date_created": "2026-10-07T15:59:35.393000+00:00",
       "url": "https://app.clickup.com/t/869fdr2dq"
-    },
-    {
-      "task_id": "869fdr2d5",
-      "name": "L4-Product-David",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:34.407000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2d5"
     },
     {
       "task_id": "869fdr2d4",
@@ -16895,15 +16882,35 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869fk2eww"
+    },
+    {
+      "ts": "2026-10-25T09:52:23.964734+00:00",
+      "task_id": "869fcdb0b",
+      "name": "TOF-L66-C396 Caída animado-Erick-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Erick Morales",
+      "url": "https://app.clickup.com/t/869fcdb0b"
+    },
+    {
+      "ts": "2026-10-25T09:52:23.964734+00:00",
+      "task_id": "869fbzn1q",
+      "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Erick Morales",
+      "url": "https://app.clickup.com/t/869fbzn1q"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1270,
-    "total_completed": 983,
-    "total_completed_with_dates": 983,
-    "total_completed_with_done": 983,
-    "total_currently_assigned": 87,
-    "total_transitions_logged": 291,
+    "total_completed": 985,
+    "total_completed_with_dates": 985,
+    "total_completed_with_done": 985,
+    "total_currently_assigned": 84,
+    "total_transitions_logged": 293,
     "total_editors": 30
   }
 }
