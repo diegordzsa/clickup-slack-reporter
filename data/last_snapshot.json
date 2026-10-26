@@ -1,6 +1,50 @@
 {
-  "timestamp": "2026-10-25T09:51:57.965956",
+  "timestamp": "2026-10-26T11:11:24.136561",
   "tasks": {
+    "869fmfkk2": {
+      "name": "BOF-L68-C411 Warehouse-VX-Dayana-CSDavid",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fmfkk2",
+      "date_created": "2026-10-26T10:28:21.790000+00:00",
+      "date_updated": "2026-10-26T10:28:22.744000+00:00",
+      "date_done": null
+    },
+    "869fmfgee": {
+      "name": "L68-C352 ITER 2-Cristian-CSDavid",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fmfgee",
+      "date_created": "2026-10-26T10:17:45.219000+00:00",
+      "date_updated": "2026-10-26T10:17:46.065000+00:00",
+      "date_done": null
+    },
+    "869fmfekk": {
+      "name": "L68-C395 Ascensor ITER 1-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fmfekk",
+      "date_created": "2026-10-26T10:15:02.162000+00:00",
+      "date_updated": "2026-10-26T10:15:03.002000+00:00",
+      "date_done": null
+    },
+    "869fmfek3": {
+      "name": "TOF-L68-C410-GONZALO-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fmfek3",
+      "date_created": "2026-10-26T10:15:00.414000+00:00",
+      "date_updated": "2026-10-26T10:16:50.769000+00:00",
+      "date_done": null
+    },
     "869fm878m": {
       "name": "BOF-L68-MEJORES ANTIGUOS-CC-CSDavid",
       "status": "testado",
@@ -14,25 +58,25 @@
     },
     "869fku2rq": {
       "name": "TOF-L68-C151 ITER 6-Minoxidil-Gonzalo-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fku2rq",
       "date_created": "2026-10-22T07:43:04.251000+00:00",
-      "date_updated": "2026-10-23T03:05:49.631000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:38:54.148000+00:00",
+      "date_done": "2026-10-26T10:38:32.792000+00:00"
     },
     "869fku0tn": {
       "name": "TOF-L68-C391 Podcast Mujer ITER 2-Cristian-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fku0tn",
       "date_created": "2026-10-22T07:34:33.807000+00:00",
-      "date_updated": "2026-10-24T02:38:21.835000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:35:28.329000+00:00",
+      "date_done": "2026-10-26T10:35:28.329000+00:00"
     },
     "869fk7vm5": {
       "name": "MOF-L16-CC-C268 Miedo Pérdida ITER 1-V1-CC-CSDavid",
@@ -80,25 +124,25 @@
     },
     "869fjvbpw": {
       "name": "MOF-L68-C408 5RW-VX-Gonzalo-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fjvbpw",
       "date_created": "2026-10-19T10:42:46.373000+00:00",
-      "date_updated": "2026-10-20T13:01:12.155000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:37:50.546000+00:00",
+      "date_done": "2026-10-26T10:37:29.203000+00:00"
     },
     "869fj1961": {
       "name": "MOF-L68-C404 Yapper-VX-Cristian-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fj1961",
       "date_created": "2026-10-16T08:04:03.019000+00:00",
-      "date_updated": "2026-10-23T18:03:06.948000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:31:13.065000+00:00",
+      "date_done": "2026-10-26T10:30:15.162000+00:00"
     },
     "869fj195d": {
       "name": "BOF-L68-C403 Warehouse-VX-Cristian-CSDavid",
@@ -130,19 +174,19 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgkryn",
       "date_created": "2026-10-13T13:50:26.192000+00:00",
-      "date_updated": "2026-10-24T10:37:27.735000+00:00",
+      "date_updated": "2026-10-26T09:10:29.092000+00:00",
       "date_done": null
     },
     "869fgeeru": {
       "name": "MOF-L67-C402 Autocuidado-Daniel-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgeeru",
       "date_created": "2026-10-13T09:35:54.920000+00:00",
-      "date_updated": "2026-10-22T16:46:58.332000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:32:02.444000+00:00",
+      "date_done": "2026-10-26T10:31:53.767000+00:00"
     },
     "869fge3v1": {
       "name": "MOF-L67-C401 Pizarra Transformación-VX-Alejandra-CSDavid",
@@ -168,14 +212,14 @@
     },
     "869fgbzey": {
       "name": "TOF-L67-C336 Caricatura-Daniel-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgbzey",
       "date_created": "2026-10-13T08:11:32.404000+00:00",
-      "date_updated": "2026-10-22T16:47:07.945000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:36:46.012000+00:00",
+      "date_done": "2026-10-26T10:36:38.266000+00:00"
     },
     "869fg6gmr": {
       "name": "MOF-L67-C399-Probando Remedios-VX #Caricatura-Cristian-CSGonzalo",
@@ -278,14 +322,14 @@
     },
     "869fev52j": {
       "name": "Oferta Hallowen-VX-Alejandra-CSDavid",
-      "status": "assigned",
-      "assignee": "David Alegre",
+      "status": "testado",
+      "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fev52j",
       "date_created": "2026-10-09T09:39:58.403000+00:00",
-      "date_updated": "2026-10-09T15:15:06.835000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:39:57.823000+00:00",
+      "date_done": "2026-10-26T10:39:52.352000+00:00"
     },
     "869fev51j": {
       "name": "Oferta Pre-Hallowen-VX-Alejandra-CSDavid",
@@ -476,36 +520,36 @@
     },
     "869faanzr": {
       "name": "Adaptar winners con banners",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Dayana Caicedo, Olga Vasquez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869faanzr",
       "date_created": "2026-10-01T09:52:51.603000+00:00",
-      "date_updated": "2026-10-23T16:41:50.336000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:39:25.705000+00:00",
+      "date_done": "2026-10-26T10:39:25.705000+00:00"
     },
     "869faanq1": {
       "name": "Statics",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869faanq1",
       "date_created": "2026-10-01T09:52:42.353000+00:00",
-      "date_updated": "2026-10-08T23:41:05.888000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:39:25.705000+00:00",
+      "date_done": "2026-10-26T10:39:25.705000+00:00"
     },
     "869faanfy": {
       "name": "SPRINT Funnel Otoño",
-      "status": "draft",
+      "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869faanfy",
       "date_created": "2026-10-01T09:52:33.914000+00:00",
-      "date_updated": "2026-10-23T16:41:59.593000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T10:39:25.705000+00:00",
+      "date_done": "2026-10-26T10:39:25.705000+00:00"
     },
     "869f99ztt": {
       "name": "L65-C385-Gato animado Sérum-Dayana",
@@ -10607,13 +10651,13 @@
     },
     "869fkdpug": {
       "name": "L13-MOF-CHATGPT-VX #Static",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdpug",
       "date_created": "2026-10-20T22:41:24.624000+00:00",
-      "date_updated": "2026-10-20T22:42:05.720000+00:00",
+      "date_updated": "2026-10-26T09:38:40.994000+00:00",
       "date_done": "2026-10-20T22:42:05.720000+00:00"
     },
     "869fkdgf1": {
@@ -10739,13 +10783,13 @@
     },
     "869ffxqxv": {
       "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqxv",
       "date_created": "2026-10-12T12:01:09.165000+00:00",
-      "date_updated": "2026-10-24T09:04:19.472000+00:00",
+      "date_updated": "2026-10-26T09:38:40.994000+00:00",
       "date_done": "2026-10-24T09:04:19.472000+00:00"
     },
     "869ffxqr3": {
@@ -13168,6 +13212,17 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869fmdmjd": {
+      "name": "BRIEF ZENDI OCT SEMANA 4",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fmdmjd",
+      "date_created": "2026-10-26T00:45:32.414000+00:00",
+      "date_updated": "2026-10-26T00:45:42.001000+00:00",
+      "date_done": null
+    },
     "869fhb776": {
       "name": "Adaptaciones Zendi",
       "status": "pendiente",
@@ -13176,30 +13231,30 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fhb776",
       "date_created": "2026-10-14T22:14:47.225000+00:00",
-      "date_updated": "2026-10-14T22:18:00.186000+00:00",
+      "date_updated": "2026-10-26T00:44:53.999000+00:00",
       "date_done": null
     },
     "869f639xm": {
       "name": "BRIEF ZENDI",
-      "status": "pendiente",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f639xm",
       "date_created": "2026-09-23T10:59:59.792000+00:00",
-      "date_updated": "2026-09-23T11:39:12.549000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T00:45:04.426000+00:00",
+      "date_done": "2026-10-26T00:45:04.426000+00:00"
     },
     "869f57c4f": {
       "name": "Brief semana 4",
-      "status": "pendiente",
+      "status": "testado",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f57c4f",
       "date_created": "2026-09-21T17:58:09.405000+00:00",
-      "date_updated": "2026-09-21T17:58:09.405000+00:00",
-      "date_done": null
+      "date_updated": "2026-10-26T00:45:02.819000+00:00",
+      "date_done": "2026-10-26T00:45:02.819000+00:00"
     },
     "869f1r2t1": {
       "name": "Brief Semana 3",
