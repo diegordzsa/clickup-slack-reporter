@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T11:52:25.711285",
+  "timestamp": "2026-11-02T13:35:02.598021",
   "tasks": {
     "869fn3vmw": {
       "name": "Concepto propio - #1 Doctora Reacción - CSCristian",
@@ -36,24 +36,24 @@
     },
     "869fn0d5k": {
       "name": "MOF-L69-C425 Caricatura-Gonzalo-CSDavid-VX",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn0d5k",
       "date_created": "2026-10-29T09:08:57.574000+00:00",
-      "date_updated": "2026-10-29T09:08:58.524000+00:00",
+      "date_updated": "2026-11-01T21:22:37.084000+00:00",
       "date_done": null
     },
     "869fmzj5c": {
       "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
-      "status": "en curso",
+      "status": "revisión",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmzj5c",
       "date_created": "2026-10-29T01:19:08.549000+00:00",
-      "date_updated": "2026-10-29T13:48:28.385000+00:00",
+      "date_updated": "2026-11-02T10:09:28.231000+00:00",
       "date_done": null
     },
     "869fmzj19": {
@@ -64,7 +64,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmzj19",
       "date_created": "2026-10-29T01:10:05.797000+00:00",
-      "date_updated": "2026-10-29T01:19:52.463000+00:00",
+      "date_updated": "2026-11-01T18:58:31.842000+00:00",
       "date_done": null
     },
     "869fmxf7p": {
@@ -130,7 +130,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmujuz",
       "date_created": "2026-10-28T08:56:38.467000+00:00",
-      "date_updated": "2026-10-30T17:17:32.747000+00:00",
+      "date_updated": "2026-11-02T10:07:38.019000+00:00",
       "date_done": null
     },
     "869fmtnw2": {
@@ -12521,25 +12521,25 @@
     },
     "869fmq146": {
       "name": "Optimizar home",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869fmq146",
       "date_created": "2026-10-27T16:04:02.988000+00:00",
-      "date_updated": "2026-10-30T23:30:57.484000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-02T10:03:54.987000+00:00",
+      "date_done": "2026-11-02T10:03:54.987000+00:00"
     },
     "869ffwwhh": {
       "name": "Guía de Microneedling",
-      "status": "borrador",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/869ffwwhh",
       "date_created": "2026-10-12T11:23:22.730000+00:00",
-      "date_updated": "2026-10-21T01:49:30.069000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-02T10:07:10.519000+00:00",
+      "date_done": "2026-11-02T10:07:09.106000+00:00"
     },
     "869fcruvx": {
       "name": "Nueva PDP",

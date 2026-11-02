@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T11:52:46.619461+00:00",
-  "snapshot_timestamp": "2026-11-01T11:52:25.711285",
+  "generated_at": "2026-11-02T13:35:22.605363+00:00",
+  "snapshot_timestamp": "2026-11-02T13:35:02.598021",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -12408,25 +12408,12 @@
       "url": "https://app.clickup.com/t/869fn0g6n"
     },
     {
-      "task_id": "869fn0d5k",
-      "name": "MOF-L69-C425 Caricatura-Gonzalo-CSDavid-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-29T09:08:57.574000+00:00",
-      "url": "https://app.clickup.com/t/869fn0d5k"
-    },
-    {
       "task_id": "869fmzj5c",
       "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "revision",
+      "status": "revisión",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -13017,6 +13004,34 @@
       ],
       "date_created": "2026-10-07T15:59:23.324000+00:00",
       "url": "https://app.clickup.com/t/869fdr26m"
+    },
+    {
+      "task_id": "869fmq146",
+      "name": "Optimizar home",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-10-27T16:04:02.988000+00:00",
+      "url": "https://app.clickup.com/t/869fmq146"
+    },
+    {
+      "task_id": "869ffwwhh",
+      "name": "Guía de Microneedling",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez",
+        "Gonzalo Millán"
+      ],
+      "date_created": "2026-10-12T11:23:22.730000+00:00",
+      "url": "https://app.clickup.com/t/869ffwwhh"
     },
     {
       "task_id": "869f9gdc9",
@@ -16768,6 +16783,56 @@
       "category": "completado",
       "assignee": "Laura Becerra",
       "url": "https://app.clickup.com/t/869fkdgf1"
+    },
+    {
+      "ts": "2026-11-02T13:35:22.447087+00:00",
+      "task_id": "869fmzj5c",
+      "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fmzj5c"
+    },
+    {
+      "ts": "2026-11-02T13:35:22.447087+00:00",
+      "task_id": "869fmq146",
+      "name": "Optimizar home",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fmq146"
+    },
+    {
+      "ts": "2026-11-02T13:35:22.447087+00:00",
+      "task_id": "869fmq146",
+      "name": "Optimizar home",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869fmq146"
+    },
+    {
+      "ts": "2026-11-02T13:35:22.447087+00:00",
+      "task_id": "869ffwwhh",
+      "name": "Guía de Microneedling",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869ffwwhh"
+    },
+    {
+      "ts": "2026-11-02T13:35:22.447087+00:00",
+      "task_id": "869ffwwhh",
+      "name": "Guía de Microneedling",
+      "client": "Lyssoderma",
+      "list": "Diseño Gráfico",
+      "category": "aprobado",
+      "assignee": "Gonzalo Millán",
+      "url": "https://app.clickup.com/t/869ffwwhh"
     }
   ],
   "stats": {
@@ -16775,8 +16840,8 @@
     "total_completed": 948,
     "total_completed_with_dates": 948,
     "total_completed_with_done": 948,
-    "total_currently_assigned": 102,
-    "total_transitions_logged": 304,
+    "total_currently_assigned": 103,
+    "total_transitions_logged": 309,
     "total_editors": 30
   }
 }
