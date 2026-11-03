@@ -1,6 +1,28 @@
 {
-  "timestamp": "2026-11-02T13:35:02.598021",
+  "timestamp": "2026-11-03T12:50:31.568752",
   "tasks": {
+    "869fnn4ej": {
+      "name": "BOF-L70-C417 Warehouse-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fnn4ej",
+      "date_created": "2026-11-03T09:07:33.777000+00:00",
+      "date_updated": "2026-11-03T09:07:34.717000+00:00",
+      "date_done": null
+    },
+    "869fnn4e5": {
+      "name": "BOF-L70-C403 Warehouse POV-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fnn4e5",
+      "date_created": "2026-11-03T09:07:32.396000+00:00",
+      "date_updated": "2026-11-03T09:07:33.249000+00:00",
+      "date_done": null
+    },
     "869fn3vmw": {
       "name": "Concepto propio - #1 Doctora Reacción - CSCristian",
       "status": "testado",
@@ -36,24 +58,24 @@
     },
     "869fn0d5k": {
       "name": "MOF-L69-C425 Caricatura-Gonzalo-CSDavid-VX",
-      "status": "draft",
+      "status": "revisión",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn0d5k",
       "date_created": "2026-10-29T09:08:57.574000+00:00",
-      "date_updated": "2026-11-01T21:22:37.084000+00:00",
+      "date_updated": "2026-11-03T11:10:10.932000+00:00",
       "date_done": null
     },
     "869fmzj5c": {
       "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmzj5c",
       "date_created": "2026-10-29T01:19:08.549000+00:00",
-      "date_updated": "2026-11-02T10:09:28.231000+00:00",
+      "date_updated": "2026-11-02T21:25:51+00:00",
       "date_done": null
     },
     "869fmzj19": {
@@ -130,7 +152,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmujuz",
       "date_created": "2026-10-28T08:56:38.467000+00:00",
-      "date_updated": "2026-11-02T10:07:38.019000+00:00",
+      "date_updated": "2026-11-03T10:10:29.008000+00:00",
       "date_done": null
     },
     "869fmtnw2": {
@@ -168,14 +190,14 @@
     },
     "869fmpu54": {
       "name": "TOF-L69-C189 ITER 2-Daniel-CSDavid",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmpu54",
       "date_created": "2026-10-27T15:35:23.901000+00:00",
-      "date_updated": "2026-10-30T08:46:32.549000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-03T11:12:52.459000+00:00",
+      "date_done": "2026-11-03T11:12:52.459000+00:00"
     },
     "869fmmddt": {
       "name": "TOF-L68-C413 Drama Ascensor-Gonzalo-CSDavid",
@@ -185,7 +207,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmmddt",
       "date_created": "2026-10-27T09:21:44.639000+00:00",
-      "date_updated": "2026-10-31T10:54:39.586000+00:00",
+      "date_updated": "2026-11-03T12:44:11.142000+00:00",
       "date_done": null
     },
     "869fmjk27": {
@@ -223,24 +245,24 @@
     },
     "869fmfekk": {
       "name": "L68-C395 Ascensor ITER 1-Gonzalo-CSDavid",
-      "status": "revisión",
+      "status": "en curso",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmfekk",
       "date_created": "2026-10-26T10:15:02.162000+00:00",
-      "date_updated": "2026-10-29T11:02:35.016000+00:00",
+      "date_updated": "2026-11-03T02:29:17.223000+00:00",
       "date_done": null
     },
     "869fmfek3": {
       "name": "TOF-L68-C410-GONZALO-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmfek3",
       "date_created": "2026-10-26T10:15:00.414000+00:00",
-      "date_updated": "2026-10-31T09:13:36.304000+00:00",
+      "date_updated": "2026-11-03T02:17:14.858000+00:00",
       "date_done": "2026-10-31T09:11:41.259000+00:00"
     },
     "869fm878m": {
@@ -267,13 +289,13 @@
     },
     "869fku0tn": {
       "name": "TOF-L68-C391 Podcast Mujer ITER 2-Cristian-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fku0tn",
       "date_created": "2026-10-22T07:34:33.807000+00:00",
-      "date_updated": "2026-10-26T10:35:28.329000+00:00",
+      "date_updated": "2026-11-03T02:24:47.203000+00:00",
       "date_done": "2026-10-26T10:35:28.329000+00:00"
     },
     "869fk7vm5": {
@@ -366,13 +388,13 @@
     },
     "869fgkryn": {
       "name": "TOF-L67-C391 Podcast Mujer #3-Daniel-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgkryn",
       "date_created": "2026-10-13T13:50:26.192000+00:00",
-      "date_updated": "2026-10-28T10:20:48.158000+00:00",
+      "date_updated": "2026-11-03T02:09:47.466000+00:00",
       "date_done": "2026-10-28T10:20:48.158000+00:00"
     },
     "869fgeeru": {
@@ -9725,6 +9747,28 @@
       "date_updated": "2026-07-14T02:37:17.335000+00:00",
       "date_done": "2026-06-11T06:20:27.914000+00:00"
     },
+    "869fnn35j": {
+      "name": "BOF-L17-C34 WAREHOUSE POV-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/869fnn35j",
+      "date_created": "2026-11-03T09:04:32.148000+00:00",
+      "date_updated": "2026-11-03T09:04:33.259000+00:00",
+      "date_done": null
+    },
+    "869fnn34p": {
+      "name": "BOF-L17-C34 WAREHOUSE-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/869fnn34p",
+      "date_created": "2026-11-03T09:04:29.300000+00:00",
+      "date_updated": "2026-11-03T09:04:30.811000+00:00",
+      "date_done": null
+    },
     "869fmw6b7": {
       "name": "MOF-L16-C32-ITER 2 Comp Serum-Dayana-CSAlejandra",
       "status": "aprobado",
@@ -10893,13 +10937,13 @@
     },
     "869fn6pny": {
       "name": "L14-Sala de Espera-VX #DramaAd-Cristian",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn6pny",
       "date_created": "2026-10-30T10:32:17.623000+00:00",
-      "date_updated": "2026-10-30T16:41:40.615000+00:00",
+      "date_updated": "2026-11-02T16:22:29.178000+00:00",
       "date_done": null
     },
     "869fmjg4v": {
