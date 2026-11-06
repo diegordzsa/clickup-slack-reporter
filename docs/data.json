@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T13:16:12.804093+00:00",
-  "snapshot_timestamp": "2026-11-05T13:15:45.134741",
+  "generated_at": "2026-11-06T12:59:58.034922+00:00",
+  "snapshot_timestamp": "2026-11-06T12:59:26.278530",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -9245,19 +9245,6 @@
       "url": "https://app.clickup.com/t/8698xt323"
     },
     {
-      "task_id": "869fn7y0p",
-      "name": "Revista Hair Biolabs Unisex",
-      "client": "HAIR BIOLABS",
-      "list": "Diseño Gráfico",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-10-30T14:07:02.937000+00:00",
-      "date_done": "2026-10-30T14:07:15.334000+00:00",
-      "lead_time_hours": 0.0,
-      "url": "https://app.clickup.com/t/869fn7y0p"
-    },
-    {
       "task_id": "869fmjewd",
       "name": "Nueva foto PDP",
       "client": "HAIR BIOLABS",
@@ -12616,19 +12603,6 @@
       "url": "https://app.clickup.com/t/869fny2e8"
     },
     {
-      "task_id": "869fnvvcn",
-      "name": "PROMO PRE BLACK FRIDAY BATCH 1",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-11-04T10:42:50.845000+00:00",
-      "url": "https://app.clickup.com/t/869fnvvcn"
-    },
-    {
       "task_id": "869fnuy1u",
       "name": "TOF-L70-C404 2 Versiones-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12642,25 +12616,12 @@
       "url": "https://app.clickup.com/t/869fnuy1u"
     },
     {
-      "task_id": "869fnn4ej",
-      "name": "BOF-L70-C417 Warehouse-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-03T09:07:33.777000+00:00",
-      "url": "https://app.clickup.com/t/869fnn4ej"
-    },
-    {
       "task_id": "869fnn4e5",
       "name": "BOF-L70-C403 Warehouse POV-Gonzalo-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Gonzalo Flores"
       ],
@@ -12672,8 +12633,8 @@
       "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Daniel Meneses (daniel Meneses)"
       ],
@@ -12785,6 +12746,19 @@
       "url": "https://app.clickup.com/t/869f87p4z"
     },
     {
+      "task_id": "869fn7y0p",
+      "name": "Revista Hair Biolabs Unisex",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "status": "revisar",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-10-30T14:07:02.937000+00:00",
+      "url": "https://app.clickup.com/t/869fn7y0p"
+    },
+    {
       "task_id": "869cnc4fj",
       "name": "Entregar 5-7 statics de la promo actual",
       "client": "HAIR BIOLABS",
@@ -12796,32 +12770,6 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
-    },
-    {
-      "task_id": "869fnvvgg",
-      "name": "PROMO PRE BLACK FRIDAY BATCH 1",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-11-04T10:43:26.653000+00:00",
-      "url": "https://app.clickup.com/t/869fnvvgg"
-    },
-    {
-      "task_id": "869fnn35j",
-      "name": "BOF-L17-C34 WAREHOUSE POV-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción (MX)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-03T09:04:32.148000+00:00",
-      "url": "https://app.clickup.com/t/869fnn35j"
     },
     {
       "task_id": "869fgqttk",
@@ -12837,25 +12785,12 @@
       "url": "https://app.clickup.com/t/869fgqttk"
     },
     {
-      "task_id": "869fn8kc4",
-      "name": "L14-3 Razones Botox-VX #Autoridad-Dayana",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "revision",
-      "status": "revision",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-10-30T16:42:36.819000+00:00",
-      "url": "https://app.clickup.com/t/869fn8kc4"
-    },
-    {
       "task_id": "869fn8kb9",
       "name": "L14-Nunca uses-Sephora-ITER2-VX #UGC-Cristian",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -12867,8 +12802,8 @@
       "name": "L14-Nunca uses-Sephora-ITER1-VX #UGC-Cristian",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -12900,19 +12835,6 @@
       ],
       "date_created": "2026-10-08T15:20:47.284000+00:00",
       "url": "https://app.clickup.com/t/869fegmy1"
-    },
-    {
-      "task_id": "869fmndu4",
-      "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-27T11:38:24.556000+00:00",
-      "url": "https://app.clickup.com/t/869fmndu4"
     },
     {
       "task_id": "869fmndu2",
@@ -13429,6 +13351,19 @@
       ],
       "date_created": "2026-08-14T17:51:02.025000+00:00",
       "url": "https://app.clickup.com/t/869ej7r09"
+    },
+    {
+      "task_id": "869fjdnc6",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Milagros"
+      ],
+      "date_created": "2026-10-17T02:07:55.456000+00:00",
+      "url": "https://app.clickup.com/t/869fjdnc6"
     },
     {
       "task_id": "869fdr546",
@@ -16699,15 +16634,75 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869fdr2be"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fnn4e5",
+      "name": "BOF-L70-C403 Warehouse POV-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fnn4e5"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fn0g6n",
+      "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/869fn0g6n"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fn8kb9",
+      "name": "L14-Nunca uses-Sephora-ITER2-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fn8kb9"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fn8kaj",
+      "name": "L14-Nunca uses-Sephora-ITER1-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fn8kaj"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fn7y0p",
+      "name": "Revista Hair Biolabs Unisex",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "revision",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fn7y0p"
+    },
+    {
+      "ts": "2026-11-06T12:59:57.837798+00:00",
+      "task_id": "869fjdnc6",
+      "name": "NEW PDP ZENDI",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "aprobado",
+      "assignee": "Milagros",
+      "url": "https://app.clickup.com/t/869fjdnc6"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1253,
-    "total_completed": 964,
-    "total_completed_with_dates": 964,
-    "total_completed_with_done": 964,
-    "total_currently_assigned": 89,
-    "total_transitions_logged": 293,
+    "total_completed": 963,
+    "total_completed_with_dates": 963,
+    "total_completed_with_done": 963,
+    "total_currently_assigned": 85,
+    "total_transitions_logged": 299,
     "total_editors": 30
   }
 }
