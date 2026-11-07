@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T12:59:58.034922+00:00",
-  "snapshot_timestamp": "2026-11-06T12:59:26.278530",
+  "generated_at": "2026-11-07T11:46:18.794407+00:00",
+  "snapshot_timestamp": "2026-11-07T11:45:55.008246",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -12590,19 +12590,6 @@
   ],
   "currently_assigned": [
     {
-      "task_id": "869fny2e8",
-      "name": "L70-382-ITER Recuperación Capilar Padre-Dayana CS Alejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-11-04T16:48:48.274000+00:00",
-      "url": "https://app.clickup.com/t/869fny2e8"
-    },
-    {
       "task_id": "869fnuy1u",
       "name": "TOF-L70-C404 2 Versiones-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12614,19 +12601,6 @@
       ],
       "date_created": "2026-11-04T08:15:20.614000+00:00",
       "url": "https://app.clickup.com/t/869fnuy1u"
-    },
-    {
-      "task_id": "869fnn4e5",
-      "name": "BOF-L70-C403 Warehouse POV-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-03T09:07:32.396000+00:00",
-      "url": "https://app.clickup.com/t/869fnn4e5"
     },
     {
       "task_id": "869fn0g6n",
@@ -12672,26 +12646,13 @@
       "name": "MOF-L69-C421-Comp Suplementos-Cristian-CSAlejandra",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Cristian Echeverri"
       ],
       "date_created": "2026-10-28T12:37:18.542000+00:00",
       "url": "https://app.clickup.com/t/869fmw357"
-    },
-    {
-      "task_id": "869fmuk2y",
-      "name": "BOF-L9-C417 OFERTA-GONZALO-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-10-28T08:57:15.401000+00:00",
-      "url": "https://app.clickup.com/t/869fmuk2y"
     },
     {
       "task_id": "869fmpu54",
@@ -12705,19 +12666,6 @@
       ],
       "date_created": "2026-10-27T15:35:23.901000+00:00",
       "url": "https://app.clickup.com/t/869fmpu54"
-    },
-    {
-      "task_id": "869fev52j",
-      "name": "Oferta Hallowen-VX-Alejandra-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-10-09T09:39:58.403000+00:00",
-      "url": "https://app.clickup.com/t/869fev52j"
     },
     {
       "task_id": "869fbzn1q",
@@ -12770,6 +12718,19 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869fnn35j",
+      "name": "BOF-L17-C34 WAREHOUSE POV-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-03T09:04:32.148000+00:00",
+      "url": "https://app.clickup.com/t/869fnn35j"
     },
     {
       "task_id": "869fgqttk",
@@ -12913,19 +12874,6 @@
       ],
       "date_created": "2026-10-07T15:59:33.267000+00:00",
       "url": "https://app.clickup.com/t/869fdr2ce"
-    },
-    {
-      "task_id": "869fdr2c8",
-      "name": "L4-Tecnología K-Beauty-VX #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:32.759000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2c8"
     },
     {
       "task_id": "869fdr2by",
@@ -13351,6 +13299,19 @@
       ],
       "date_created": "2026-08-14T17:51:02.025000+00:00",
       "url": "https://app.clickup.com/t/869ej7r09"
+    },
+    {
+      "task_id": "869fntx1c",
+      "name": "NEW BRANDING UVOLA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "status": "in progress",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-11-03T21:18:33.544000+00:00",
+      "url": "https://app.clickup.com/t/869fntx1c"
     },
     {
       "task_id": "869fjdnc6",
@@ -16694,15 +16655,45 @@
       "category": "aprobado",
       "assignee": "Milagros",
       "url": "https://app.clickup.com/t/869fjdnc6"
+    },
+    {
+      "ts": "2026-11-07T11:46:18.625859+00:00",
+      "task_id": "869fnn35j",
+      "name": "BOF-L17-C34 WAREHOUSE POV-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fnn35j"
+    },
+    {
+      "ts": "2026-11-07T11:46:18.625859+00:00",
+      "task_id": "869fntx1c",
+      "name": "NEW BRANDING UVOLA",
+      "client": "ZENDI",
+      "list": "Landings PDP, Listicle",
+      "category": "en_curso",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fntx1c"
+    },
+    {
+      "ts": "2026-11-07T11:46:18.625859+00:00",
+      "task_id": "869fmw357",
+      "name": "MOF-L69-C421-Comp Suplementos-Cristian-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fmw357"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1253,
+    "total_tasks_in_snapshot": 1251,
     "total_completed": 963,
     "total_completed_with_dates": 963,
     "total_completed_with_done": 963,
-    "total_currently_assigned": 85,
-    "total_transitions_logged": 299,
+    "total_currently_assigned": 82,
+    "total_transitions_logged": 302,
     "total_editors": 30
   }
 }
