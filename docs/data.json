@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T11:46:18.794407+00:00",
-  "snapshot_timestamp": "2026-11-07T11:45:55.008246",
+  "generated_at": "2026-11-08T11:58:26.304786+00:00",
+  "snapshot_timestamp": "2026-11-08T11:58:04.662380",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -63,6 +63,32 @@
       "date_done": "2026-10-29T21:31:36.178000+00:00",
       "lead_time_hours": 0.02,
       "url": "https://app.clickup.com/t/869fn3vmw"
+    },
+    {
+      "task_id": "869fmx0fy",
+      "name": "MOF-L69-C422-Compro salseo-Cristian-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-10-28T14:50:21.182000+00:00",
+      "date_done": "2026-11-05T02:49:31.083000+00:00",
+      "lead_time_hours": 179.99,
+      "url": "https://app.clickup.com/t/869fmx0fy"
+    },
+    {
+      "task_id": "869fmw357",
+      "name": "MOF-L69-C421-Comp Suplementos-Cristian-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-10-28T12:37:18.542000+00:00",
+      "date_done": "2026-11-06T16:46:03.029000+00:00",
+      "lead_time_hours": 220.15,
+      "url": "https://app.clickup.com/t/869fmw357"
     },
     {
       "task_id": "869fmvpx2",
@@ -12590,6 +12616,45 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869fpbp2y",
+      "name": "TOF-L71-C406 IA Educ-Gonzalo-CSDavid-V2",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:50:42.284000+00:00",
+      "url": "https://app.clickup.com/t/869fpbp2y"
+    },
+    {
+      "task_id": "869fpbn2z",
+      "name": "TOF-L71-C407 Sing Mujer-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:30:21.611000+00:00",
+      "url": "https://app.clickup.com/t/869fpbn2z"
+    },
+    {
+      "task_id": "869fpbmh0",
+      "name": "TOF-L71-C406 IA Educ-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:15:57.304000+00:00",
+      "url": "https://app.clickup.com/t/869fpbmh0"
+    },
+    {
       "task_id": "869fnuy1u",
       "name": "TOF-L70-C404 2 Versiones-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12616,6 +12681,19 @@
       "url": "https://app.clickup.com/t/869fn0g6n"
     },
     {
+      "task_id": "869fmzj5c",
+      "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-29T01:19:08.549000+00:00",
+      "url": "https://app.clickup.com/t/869fmzj5c"
+    },
+    {
       "task_id": "869fmzj19",
       "name": "TOF-L69-424- Drama ad- Leonidas - CSalberto",
       "client": "HAIR BIOLABS",
@@ -12629,32 +12707,6 @@
       "url": "https://app.clickup.com/t/869fmzj19"
     },
     {
-      "task_id": "869fmx0fy",
-      "name": "MOF-L69-C422-Compro salseo-Cristian-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-28T14:50:21.182000+00:00",
-      "url": "https://app.clickup.com/t/869fmx0fy"
-    },
-    {
-      "task_id": "869fmw357",
-      "name": "MOF-L69-C421-Comp Suplementos-Cristian-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-10-28T12:37:18.542000+00:00",
-      "url": "https://app.clickup.com/t/869fmw357"
-    },
-    {
       "task_id": "869fmpu54",
       "name": "TOF-L69-C189 ITER 2-Daniel-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12666,6 +12718,19 @@
       ],
       "date_created": "2026-10-27T15:35:23.901000+00:00",
       "url": "https://app.clickup.com/t/869fmpu54"
+    },
+    {
+      "task_id": "869fmjk27",
+      "name": "TOF-L69-C412-5 Señales Alopecia-VX #Caricatura + Autoridad-CSGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-10-26T18:02:45.287000+00:00",
+      "url": "https://app.clickup.com/t/869fmjk27"
     },
     {
       "task_id": "869fbzn1q",
@@ -12718,6 +12783,19 @@
       ],
       "date_created": "2026-03-26T19:25:33.528000+00:00",
       "url": "https://app.clickup.com/t/869cnc4fj"
+    },
+    {
+      "task_id": "869fpbmju",
+      "name": "TOF-L18-C36 IA Educ-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:17:14.699000+00:00",
+      "url": "https://app.clickup.com/t/869fpbmju"
     },
     {
       "task_id": "869fnn35j",
@@ -16685,15 +16763,55 @@
       "category": "aprobado",
       "assignee": "Cristian Echeverri",
       "url": "https://app.clickup.com/t/869fmw357"
+    },
+    {
+      "ts": "2026-11-08T11:58:26.138359+00:00",
+      "task_id": "869fmzj5c",
+      "name": "TOF-L69-424- Drama ad- Gonzalo- CSalberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fmzj5c"
+    },
+    {
+      "ts": "2026-11-08T11:58:26.138359+00:00",
+      "task_id": "869fmjk27",
+      "name": "TOF-L69-C412-5 Señales Alopecia-VX #Caricatura + Autoridad-CSGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fmjk27"
+    },
+    {
+      "ts": "2026-11-08T11:58:26.138359+00:00",
+      "task_id": "869fmx0fy",
+      "name": "MOF-L69-C422-Compro salseo-Cristian-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fmx0fy"
+    },
+    {
+      "ts": "2026-11-08T11:58:26.138359+00:00",
+      "task_id": "869fmw357",
+      "name": "MOF-L69-C421-Comp Suplementos-Cristian-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fmw357"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1251,
-    "total_completed": 963,
-    "total_completed_with_dates": 963,
-    "total_completed_with_done": 963,
-    "total_currently_assigned": 82,
-    "total_transitions_logged": 302,
+    "total_tasks_in_snapshot": 1255,
+    "total_completed": 965,
+    "total_completed_with_dates": 965,
+    "total_completed_with_done": 965,
+    "total_currently_assigned": 86,
+    "total_transitions_logged": 306,
     "total_editors": 30
   }
 }
