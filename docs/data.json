@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T13:11:04.757645+00:00",
-  "snapshot_timestamp": "2026-11-13T13:10:41.539071",
+  "generated_at": "2026-11-14T12:15:36.623490+00:00",
+  "snapshot_timestamp": "2026-11-14T12:15:04.341681",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -63,6 +63,19 @@
       "date_done": "2026-11-10T10:13:29.520000+00:00",
       "lead_time_hours": 5.36,
       "url": "https://app.clickup.com/t/869fpj7y4"
+    },
+    {
+      "task_id": "869fph293",
+      "name": "TOF-L71-C383 ITER1-Recuperación Capilar Esposo-Dayana-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-09T17:47:30.942000+00:00",
+      "date_done": "2026-11-12T19:54:45.689000+00:00",
+      "lead_time_hours": 74.12,
+      "url": "https://app.clickup.com/t/869fph293"
     },
     {
       "task_id": "869fpbn2z",
@@ -12674,9 +12687,9 @@
       "client": "ZENDI",
       "list": "Tareas",
       "assignees": [
+        "Mayra Mena",
         "Alejandra Ramirez",
-        "Gilberto Mondragón",
-        "Mayra Mena"
+        "Gilberto Mondragón"
       ],
       "date_created": "2025-06-17T19:25:21.449000+00:00",
       "date_done": "2025-06-19T13:19:39.899000+00:00",
@@ -12704,9 +12717,9 @@
       "client": "ZENDI",
       "list": "Tareas",
       "assignees": [
+        "Mayra Mena",
         "Alejandra Ramirez",
-        "Gilberto Mondragón",
-        "Mayra Mena"
+        "Gilberto Mondragón"
       ],
       "date_created": "2025-06-09T22:16:31.349000+00:00",
       "date_done": "2025-06-13T16:42:34.267000+00:00",
@@ -12798,6 +12811,19 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869fpnuc2",
+      "name": "BOF-L71-C415 BF Estáticos-Alejandra-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-11-10T17:56:14.089000+00:00",
+      "url": "https://app.clickup.com/t/869fpnuc2"
+    },
+    {
       "task_id": "869fpntmv",
       "name": "MOF-L71-C410 Cadena Farmacias-Gonzalo-CSAlberto",
       "client": "HAIR BIOLABS",
@@ -12850,19 +12876,6 @@
       "url": "https://app.clickup.com/t/869fpnrdr"
     },
     {
-      "task_id": "869fpnrdn",
-      "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-10T17:30:06.515000+00:00",
-      "url": "https://app.clickup.com/t/869fpnrdn"
-    },
-    {
       "task_id": "869fpkprb",
       "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12874,19 +12887,6 @@
       ],
       "date_created": "2026-11-10T10:53:36.208000+00:00",
       "url": "https://app.clickup.com/t/869fpkprb"
-    },
-    {
-      "task_id": "869fph293",
-      "name": "TOF-L71-C383 ITER1-Recuperación Capilar Esposo-Dayana-CSAlejandra",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Dayana Caicedo"
-      ],
-      "date_created": "2026-11-09T17:47:30.942000+00:00",
-      "url": "https://app.clickup.com/t/869fph293"
     },
     {
       "task_id": "869fpbv55",
@@ -13075,8 +13075,8 @@
       "name": "L16-BOFU-BLACK FRIDAY-Alejandra",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Alejandra Ramirez"
       ],
@@ -13114,8 +13114,8 @@
       "name": "Banner Pre-BlackFriday",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "approved",
       "assignees": [
         "Olga Vasquez"
       ],
@@ -13186,19 +13186,6 @@
       ],
       "date_created": "2026-10-30T10:32:17.623000+00:00",
       "url": "https://app.clickup.com/t/869fn6pny"
-    },
-    {
-      "task_id": "869fegmy1",
-      "name": "B-rolls de producto",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Alejandra Ramirez"
-      ],
-      "date_created": "2026-10-08T15:20:47.284000+00:00",
-      "url": "https://app.clickup.com/t/869fegmy1"
     },
     {
       "task_id": "869fmndu4",
@@ -17402,15 +17389,55 @@
       "category": "completado",
       "assignee": "Olga Vasquez",
       "url": "https://app.clickup.com/t/869fdr26m"
+    },
+    {
+      "ts": "2026-11-14T12:15:36.433636+00:00",
+      "task_id": "869fpnuc2",
+      "name": "BOF-L71-C415 BF Estáticos-Alejandra-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fpnuc2"
+    },
+    {
+      "ts": "2026-11-14T12:15:36.433636+00:00",
+      "task_id": "869fpyp5v",
+      "name": "L16-BOFU-BLACK FRIDAY-Alejandra",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/869fpyp5v"
+    },
+    {
+      "ts": "2026-11-14T12:15:36.433636+00:00",
+      "task_id": "869fptwbu",
+      "name": "Banner Pre-BlackFriday",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869fptwbu"
+    },
+    {
+      "ts": "2026-11-14T12:15:36.433636+00:00",
+      "task_id": "869fph293",
+      "name": "TOF-L71-C383 ITER1-Recuperación Capilar Esposo-Dayana-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fph293"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1279,
-    "total_completed": 979,
-    "total_completed_with_dates": 979,
-    "total_completed_with_done": 979,
-    "total_currently_assigned": 105,
-    "total_transitions_logged": 323,
+    "total_tasks_in_snapshot": 1286,
+    "total_completed": 980,
+    "total_completed_with_dates": 980,
+    "total_completed_with_done": 980,
+    "total_currently_assigned": 103,
+    "total_transitions_logged": 327,
     "total_editors": 30
   }
 }

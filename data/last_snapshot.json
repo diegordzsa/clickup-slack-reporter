@@ -1,6 +1,17 @@
 {
-  "timestamp": "2026-11-13T13:10:41.539071",
+  "timestamp": "2026-11-14T12:15:04.341681",
   "tasks": {
+    "869fq0dck": {
+      "name": "Concepto Propio - #2 - LEÓN-CsGonzalo",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/869fq0dck",
+      "date_created": "2026-11-13T20:52:35.257000+00:00",
+      "date_updated": "2026-11-13T20:53:55.791000+00:00",
+      "date_done": null
+    },
     "869fpvdxk": {
       "name": "Concepto Propio - #1 - gif black Hair - CsGonzalo-VX",
       "status": "draft",
@@ -47,14 +58,14 @@
     },
     "869fpnuc2": {
       "name": "BOF-L71-C415 BF Estáticos-Alejandra-CSAlberto",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnuc2",
       "date_created": "2026-11-10T17:56:14.089000+00:00",
-      "date_updated": "2026-11-12T14:03:21.234000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-13T19:40:53.999000+00:00",
+      "date_done": "2026-11-13T19:40:53.999000+00:00"
     },
     "869fpntmv": {
       "name": "MOF-L71-C410 Cadena Farmacias-Gonzalo-CSAlberto",
@@ -102,13 +113,13 @@
     },
     "869fpnrdn": {
       "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnrdn",
       "date_created": "2026-11-10T17:30:06.515000+00:00",
-      "date_updated": "2026-11-11T14:44:57.616000+00:00",
+      "date_updated": "2026-11-14T05:15:17.264000+00:00",
       "date_done": null
     },
     "869fpm0ch": {
@@ -146,13 +157,13 @@
     },
     "869fph293": {
       "name": "TOF-L71-C383 ITER1-Recuperación Capilar Esposo-Dayana-CSAlejandra",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fph293",
       "date_created": "2026-11-09T17:47:30.942000+00:00",
-      "date_updated": "2026-11-12T19:59:34.696000+00:00",
+      "date_updated": "2026-11-13T22:41:22.151000+00:00",
       "date_done": "2026-11-12T19:54:45.689000+00:00"
     },
     "869fpef8w": {
@@ -240,7 +251,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fnwhb1",
       "date_created": "2026-11-04T12:52:17.653000+00:00",
-      "date_updated": "2026-11-12T20:55:50.256000+00:00",
+      "date_updated": "2026-11-13T23:52:26.237000+00:00",
       "date_done": null
     },
     "869fnvvcn": {
@@ -11124,14 +11135,14 @@
     },
     "869fpyp5v": {
       "name": "L16-BOFU-BLACK FRIDAY-Alejandra",
-      "status": "assigned",
+      "status": "approved",
       "assignee": "Alejandra Ramirez",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpyp5v",
       "date_created": "2026-11-13T10:13:48.760000+00:00",
-      "date_updated": "2026-11-13T10:17:19.985000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-14T07:26:43.319000+00:00",
+      "date_done": "2026-11-14T07:26:43.319000+00:00"
     },
     "869fpyp3k": {
       "name": "L16-MOFU-Statics-Gonzalo.M",
@@ -11157,14 +11168,14 @@
     },
     "869fptwbu": {
       "name": "Banner Pre-BlackFriday",
-      "status": "assigned",
+      "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fptwbu",
       "date_created": "2026-11-11T21:42:43.703000+00:00",
-      "date_updated": "2026-11-12T20:12:58.011000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-14T07:26:43.319000+00:00",
+      "date_done": "2026-11-14T07:26:43.319000+00:00"
     },
     "869fpgwnc": {
       "name": "L15-Menopausia-ITER1-VX #Autoridad-Cristian",
@@ -11207,7 +11218,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn8kc4",
       "date_created": "2026-10-30T16:42:36.819000+00:00",
-      "date_updated": "2026-11-11T16:44:39.324000+00:00",
+      "date_updated": "2026-11-13T23:14:10.376000+00:00",
       "date_done": "2026-11-11T16:44:39.324000+00:00"
     },
     "869fn8kb9": {
@@ -11218,7 +11229,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn8kb9",
       "date_created": "2026-10-30T16:42:13.657000+00:00",
-      "date_updated": "2026-11-11T16:56:02.822000+00:00",
+      "date_updated": "2026-11-13T23:14:11.607000+00:00",
       "date_done": "2026-11-11T16:56:02.822000+00:00"
     },
     "869fn8kaj": {
@@ -11550,17 +11561,6 @@
       "date_created": "2026-10-09T10:08:59.696000+00:00",
       "date_updated": "2026-10-12T08:36:11.748000+00:00",
       "date_done": "2026-10-09T10:09:12.422000+00:00"
-    },
-    "869fegmy1": {
-      "name": "B-rolls de producto",
-      "status": "assigned",
-      "assignee": "Alejandra Ramirez",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869fegmy1",
-      "date_created": "2026-10-08T15:20:47.284000+00:00",
-      "date_updated": "2026-10-08T15:20:56.305000+00:00",
-      "date_done": null
     },
     "869fbzff3": {
       "name": "L10-Piel Susurrando-VX #Caricatura-Gonzalo F.",
@@ -13135,6 +13135,83 @@
       "date_updated": "2026-06-25T10:16:18.809000+00:00",
       "date_done": "2026-03-31T09:01:47.527000+00:00"
     },
+    "869fq0tp1": {
+      "name": "MOF-L73-C05 Dos Amigas Black Friday-Eli-CSGil",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0tp1",
+      "date_created": "2026-11-14T04:33:22.953000+00:00",
+      "date_updated": "2026-11-14T04:33:22.953000+00:00",
+      "date_done": null
+    },
+    "869fq0tfk": {
+      "name": "MOF-L73-C04 Empleada Escondida Black Friday-Eli-CSGil",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0tfk",
+      "date_created": "2026-11-14T04:16:47.299000+00:00",
+      "date_updated": "2026-11-14T04:16:47.299000+00:00",
+      "date_done": null
+    },
+    "869fq0pdw": {
+      "name": "MOF-L73-C03 Jefa Black Friday-Eli-CSGil",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0pdw",
+      "date_created": "2026-11-14T01:00:36.716000+00:00",
+      "date_updated": "2026-11-14T01:00:36.716000+00:00",
+      "date_done": null
+    },
+    "869fq0pam": {
+      "name": "MOF-L73-C02 Dos Trabajadoras Black Friday-Eli-CSGil",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0pam",
+      "date_created": "2026-11-14T00:53:38.377000+00:00",
+      "date_updated": "2026-11-14T00:53:38.377000+00:00",
+      "date_done": null
+    },
+    "869fq0p82": {
+      "name": "MOF-L73-C01 Unboxing Black Friday-Eli-CSGil",
+      "status": "pendiente",
+      "assignee": "Leonidas",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0p82",
+      "date_created": "2026-11-14T00:46:04.477000+00:00",
+      "date_updated": "2026-11-14T00:46:04.477000+00:00",
+      "date_done": null
+    },
+    "869fq0ny1": {
+      "name": "BOF-L72-C01 Trabajadora Bodega-Cristian-CSGil",
+      "status": "pendiente",
+      "assignee": "Cristian Echeverri",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0ny1",
+      "date_created": "2026-11-14T00:18:05.979000+00:00",
+      "date_updated": "2026-11-14T00:27:22.039000+00:00",
+      "date_done": null
+    },
+    "869fq0c2n": {
+      "name": "TOF-L70-C04 SOY TU ANTOJO-Dayana-CSGil",
+      "status": "pendiente",
+      "assignee": "Dayana Caicedo",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "url": "https://app.clickup.com/t/869fq0c2n",
+      "date_created": "2026-11-13T19:36:33.727000+00:00",
+      "date_updated": "2026-11-13T19:39:37.469000+00:00",
+      "date_done": null
+    },
     "869fpwm6r": {
       "name": "BOF-L70-C01 Precio Caro-Dayana-CSGil",
       "status": "pendiente",
@@ -13974,7 +14051,7 @@
     "8699fcq83": {
       "name": "Edición correo Suscripción",
       "status": "hecho",
-      "assignee": "Alejandra Ramirez, Gilberto Mondragón , Mayra Mena",
+      "assignee": "Mayra Mena, Alejandra Ramirez, Gilberto Mondragón ",
       "client": "ZENDI",
       "list": "Tareas",
       "url": "https://app.clickup.com/t/8699fcq83",
@@ -13996,7 +14073,7 @@
     "8699c4w27": {
       "name": "Solicitud correo Suscripción Plan Premiun",
       "status": "hecho",
-      "assignee": "Alejandra Ramirez, Gilberto Mondragón , Mayra Mena",
+      "assignee": "Mayra Mena, Alejandra Ramirez, Gilberto Mondragón ",
       "client": "ZENDI",
       "list": "Tareas",
       "url": "https://app.clickup.com/t/8699c4w27",
