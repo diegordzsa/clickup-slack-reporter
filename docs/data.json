@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T12:15:36.623490+00:00",
-  "snapshot_timestamp": "2026-11-14T12:15:04.341681",
+  "generated_at": "2026-11-15T12:47:43.477879+00:00",
+  "snapshot_timestamp": "2026-11-15T12:47:22.380534",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -52,6 +52,58 @@
   ],
   "completed_tasks": [
     {
+      "task_id": "869fq0dck",
+      "name": "Concepto Propio - #2 - LEÓN-CsGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-13T20:52:35.257000+00:00",
+      "date_done": "2026-11-14T23:58:10.243000+00:00",
+      "lead_time_hours": 27.09,
+      "url": "https://app.clickup.com/t/869fq0dck"
+    },
+    {
+      "task_id": "869fpvdxk",
+      "name": "Concepto Propio - #1 - gif black Hair - CsGonzalo-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-12T12:05:37.560000+00:00",
+      "date_done": "2026-11-14T23:58:06.855000+00:00",
+      "lead_time_hours": 59.87,
+      "url": "https://app.clickup.com/t/869fpvdxk"
+    },
+    {
+      "task_id": "869fpu6n6",
+      "name": "Concepto Propio - #1 - IA Educ-CsGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-12T03:06:35.257000+00:00",
+      "date_done": "2026-11-14T23:58:03.130000+00:00",
+      "lead_time_hours": 68.86,
+      "url": "https://app.clickup.com/t/869fpu6n6"
+    },
+    {
+      "task_id": "869fpntmv",
+      "name": "MOF-L71-C410 Cadena Farmacias-Gonzalo-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-10T17:44:36.413000+00:00",
+      "date_done": "2026-11-11T11:35:56.023000+00:00",
+      "lead_time_hours": 17.86,
+      "url": "https://app.clickup.com/t/869fpntmv"
+    },
+    {
       "task_id": "869fpj7y4",
       "name": "BATCH PRE BLACK FRIDAY IA",
       "client": "HAIR BIOLABS",
@@ -76,6 +128,19 @@
       "date_done": "2026-11-12T19:54:45.689000+00:00",
       "lead_time_hours": 74.12,
       "url": "https://app.clickup.com/t/869fph293"
+    },
+    {
+      "task_id": "869fpbp2y",
+      "name": "TOF-L71-C406 IA Educ-Gonzalo-CSDavid-V2",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:50:42.284000+00:00",
+      "date_done": "2026-11-12T07:25:44.004000+00:00",
+      "lead_time_hours": 92.58,
+      "url": "https://app.clickup.com/t/869fpbp2y"
     },
     {
       "task_id": "869fpbn2z",
@@ -12811,6 +12876,19 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "869fpu6yh",
+      "name": "Concepto Propio - #2 - gif black Lysso - CsGonzalo-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-12T03:16:04.364000+00:00",
+      "url": "https://app.clickup.com/t/869fpu6yh"
+    },
+    {
       "task_id": "869fpnuc2",
       "name": "BOF-L71-C415 BF Estáticos-Alejandra-CSAlberto",
       "client": "HAIR BIOLABS",
@@ -12822,19 +12900,6 @@
       ],
       "date_created": "2026-11-10T17:56:14.089000+00:00",
       "url": "https://app.clickup.com/t/869fpnuc2"
-    },
-    {
-      "task_id": "869fpntmv",
-      "name": "MOF-L71-C410 Cadena Farmacias-Gonzalo-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-10T17:44:36.413000+00:00",
-      "url": "https://app.clickup.com/t/869fpntmv"
     },
     {
       "task_id": "869fpnrdw",
@@ -12876,6 +12941,19 @@
       "url": "https://app.clickup.com/t/869fpnrdr"
     },
     {
+      "task_id": "869fpnrdn",
+      "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-10T17:30:06.515000+00:00",
+      "url": "https://app.clickup.com/t/869fpnrdn"
+    },
+    {
       "task_id": "869fpkprb",
       "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
@@ -12915,17 +12993,17 @@
       "url": "https://app.clickup.com/t/869fpbtnq"
     },
     {
-      "task_id": "869fpbp2y",
-      "name": "TOF-L71-C406 IA Educ-Gonzalo-CSDavid-V2",
+      "task_id": "869fnwhb1",
+      "name": "MOF-L71-C410 Founder Farmacias-Cristian-CSAlberto",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
-        "Gonzalo Flores"
+        "Cristian Echeverri"
       ],
-      "date_created": "2026-11-08T10:50:42.284000+00:00",
-      "url": "https://app.clickup.com/t/869fpbp2y"
+      "date_created": "2026-11-04T12:52:17.653000+00:00",
+      "url": "https://app.clickup.com/t/869fnwhb1"
     },
     {
       "task_id": "869fnuy1u",
@@ -17429,15 +17507,95 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869fph293"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpu6yh",
+      "name": "Concepto Propio - #2 - gif black Lysso - CsGonzalo-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpu6yh"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpnrdn",
+      "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpnrdn"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fnwhb1",
+      "name": "MOF-L71-C410 Founder Farmacias-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fnwhb1"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fq0dck",
+      "name": "Concepto Propio - #2 - LEÓN-CsGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fq0dck"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpvdxk",
+      "name": "Concepto Propio - #1 - gif black Hair - CsGonzalo-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpvdxk"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpu6n6",
+      "name": "Concepto Propio - #1 - IA Educ-CsGonzalo",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpu6n6"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpntmv",
+      "name": "MOF-L71-C410 Cadena Farmacias-Gonzalo-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpntmv"
+    },
+    {
+      "ts": "2026-11-15T12:47:43.351690+00:00",
+      "task_id": "869fpbp2y",
+      "name": "TOF-L71-C406 IA Educ-Gonzalo-CSDavid-V2",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpbp2y"
     }
   ],
   "stats": {
     "total_tasks_in_snapshot": 1286,
-    "total_completed": 980,
-    "total_completed_with_dates": 980,
-    "total_completed_with_done": 980,
-    "total_currently_assigned": 103,
-    "total_transitions_logged": 327,
+    "total_completed": 985,
+    "total_completed_with_dates": 985,
+    "total_completed_with_done": 985,
+    "total_currently_assigned": 104,
+    "total_transitions_logged": 335,
     "total_editors": 30
   }
 }
