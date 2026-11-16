@@ -19,12 +19,12 @@ CLICKUP_TEAM_ID = os.getenv("CLICKUP_TEAM_ID")
 # Es el folder "EQUIPO CREATIVOS" de cada space: ahi vive la produccion.
 # SKIN+ salio del tracking: su space esta ARCHIVADO en ClickUp y su contenido
 # se migro a Lyssoderma / Lyssoderma English.
+# Proyecto Espana salio en nov-2026: su carpeta ya no existe en ClickUp (404).
 FOLDER_SECRETS = {
     "HAIR BIOLABS":       "CLICKUP_FOLDER_ID_HAIRBIOLABS",
     "HAIR BIOLABS MX":    "CLICKUP_FOLDER_ID_HAIRBIOLABS_MX",
     "Lyssoderma":         "CLICKUP_FOLDER_ID_LYSSODERMA",
     "Lyssoderma English": "CLICKUP_FOLDER_ID_LYSSODERMA_EN",
-    "Proyecto Espana":    "CLICKUP_FOLDER_ID_ESPANA",
     "ZENDI":              "CLICKUP_FOLDER_ID_ZENDI",
 }
 FOLDERS = {name: os.getenv(var) for name, var in FOLDER_SECRETS.items()}
