@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:47:43.477879+00:00",
-  "snapshot_timestamp": "2026-11-15T12:47:22.380534",
+  "generated_at": "2026-11-16T13:43:52.244668+00:00",
+  "snapshot_timestamp": "2026-11-16T13:43:26.305223",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -180,6 +180,19 @@
       "date_done": "2026-11-11T14:10:48.809000+00:00",
       "lead_time_hours": 165.37,
       "url": "https://app.clickup.com/t/869fny2e8"
+    },
+    {
+      "task_id": "869fnwhb1",
+      "name": "MOF-L71-C410 Founder Farmacias-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-04T12:52:17.653000+00:00",
+      "date_done": "2026-11-15T00:01:00.197000+00:00",
+      "lead_time_hours": 251.15,
+      "url": "https://app.clickup.com/t/869fnwhb1"
     },
     {
       "task_id": "869fnvvcn",
@@ -12876,6 +12889,45 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "1an4hvw61kn",
+      "name": "BOF-PROMO BFCM-Alejandra-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-11-16T10:57:49.469000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61kn"
+    },
+    {
+      "task_id": "1an4hvw61kh",
+      "name": "BOF-L68-C403 PROMO BFCM-VX-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T10:56:11.824000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61kh"
+    },
+    {
+      "task_id": "1an4hvw618p",
+      "name": "TOF-L72-C391 Podcast Mujer ITER 4-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-16T10:26:28.224000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw618p"
+    },
+    {
       "task_id": "869fpu6yh",
       "name": "Concepto Propio - #2 - gif black Lysso - CsGonzalo-VX",
       "client": "HAIR BIOLABS",
@@ -12902,45 +12954,6 @@
       "url": "https://app.clickup.com/t/869fpnuc2"
     },
     {
-      "task_id": "869fpnrdw",
-      "name": "BOF-L71-C414 BF Escalera-Cristian-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-10T17:30:12.546000+00:00",
-      "url": "https://app.clickup.com/t/869fpnrdw"
-    },
-    {
-      "task_id": "869fpnrdt",
-      "name": "BOF-L71-C413 BF Almacén-Cristian-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-10T17:30:10.791000+00:00",
-      "url": "https://app.clickup.com/t/869fpnrdt"
-    },
-    {
-      "task_id": "869fpnrdr",
-      "name": "BOF-L71-C412 BF Caja Trío-Cristian-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-10T17:30:09.117000+00:00",
-      "url": "https://app.clickup.com/t/869fpnrdr"
-    },
-    {
       "task_id": "869fpnrdn",
       "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
       "client": "HAIR BIOLABS",
@@ -12954,12 +12967,25 @@
       "url": "https://app.clickup.com/t/869fpnrdn"
     },
     {
+      "task_id": "869fpm0ch",
+      "name": "TOF-L71-C409 Drama Peluquería-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "status": "en curso",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-10T11:44:51.262000+00:00",
+      "url": "https://app.clickup.com/t/869fpm0ch"
+    },
+    {
       "task_id": "869fpkprb",
       "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -12991,19 +13017,6 @@
       ],
       "date_created": "2026-11-08T12:22:29.025000+00:00",
       "url": "https://app.clickup.com/t/869fpbtnq"
-    },
-    {
-      "task_id": "869fnwhb1",
-      "name": "MOF-L71-C410 Founder Farmacias-Cristian-CSAlberto",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-04T12:52:17.653000+00:00",
-      "url": "https://app.clickup.com/t/869fnwhb1"
     },
     {
       "task_id": "869fnuy1u",
@@ -13149,6 +13162,110 @@
       "url": "https://app.clickup.com/t/869fgqttk"
     },
     {
+      "task_id": "1an4hvw61qh",
+      "name": "Video Casero BF-VX #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-16T11:14:23.764000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61qh"
+    },
+    {
+      "task_id": "1an4hvw61qf",
+      "name": "L16-Producción BF-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-16T11:13:54.236000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61qf"
+    },
+    {
+      "task_id": "1an4hvw61qc",
+      "name": "L16-Unboxing Pedido BF-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:13:39.801000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61qc"
+    },
+    {
+      "task_id": "1an4hvw61qa",
+      "name": "L16-Stock Almacén BF-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:13:13.649000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61qa"
+    },
+    {
+      "task_id": "1an4hvw61q7",
+      "name": "L16-1+1 Almacén BF-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:12:53.163000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61q7"
+    },
+    {
+      "task_id": "1an4hvw61q5",
+      "name": "L16-1+1 Caja BF-VX #UGC B-Roll-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:12:32.470000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61q5"
+    },
+    {
+      "task_id": "1an4hvw61n4",
+      "name": "L16-Rellenos Líneas de Marioneta-VX #VSL Autoridad-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:05:34.831000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61n4"
+    },
+    {
+      "task_id": "1an4hvw613n",
+      "name": "Brolls de ad",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-16T09:59:23.262000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw613n"
+    },
+    {
       "task_id": "869fpyp5v",
       "name": "L16-BOFU-BLACK FRIDAY-Alejandra",
       "client": "Lyssoderma",
@@ -13205,13 +13322,39 @@
       "name": "L15-Menopausia-ITER1-VX #Autoridad-Cristian",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
       "date_created": "2026-11-09T16:44:09.579000+00:00",
       "url": "https://app.clickup.com/t/869fpgwnc"
+    },
+    {
+      "task_id": "869fpgwmw",
+      "name": "L15-Líneas 4pm-VX #Caricatura-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revision",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-09T16:43:49.369000+00:00",
+      "url": "https://app.clickup.com/t/869fpgwmw"
+    },
+    {
+      "task_id": "869fpgwkx",
+      "name": "L15-Descuento BF-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "status": "revision",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-09T16:43:28.379000+00:00",
+      "url": "https://app.clickup.com/t/869fpgwkx"
     },
     {
       "task_id": "869fn8kc4",
@@ -17587,15 +17730,75 @@
       "category": "completado",
       "assignee": "Gonzalo Flores",
       "url": "https://app.clickup.com/t/869fpbp2y"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fpm0ch",
+      "name": "TOF-L71-C409 Drama Peluquería-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpm0ch"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fpkprb",
+      "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpkprb"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fpgwnc",
+      "name": "L15-Menopausia-ITER1-VX #Autoridad-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpgwnc"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fpgwmw",
+      "name": "L15-Líneas 4pm-VX #Caricatura-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpgwmw"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fpgwkx",
+      "name": "L15-Descuento BF-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/869fpgwkx"
+    },
+    {
+      "ts": "2026-11-16T13:43:52.035767+00:00",
+      "task_id": "869fnwhb1",
+      "name": "MOF-L71-C410 Founder Farmacias-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fnwhb1"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1286,
-    "total_completed": 985,
-    "total_completed_with_dates": 985,
-    "total_completed_with_done": 985,
-    "total_currently_assigned": 104,
-    "total_transitions_logged": 335,
+    "total_tasks_in_snapshot": 1297,
+    "total_completed": 986,
+    "total_completed_with_dates": 986,
+    "total_completed_with_done": 986,
+    "total_currently_assigned": 114,
+    "total_transitions_logged": 341,
     "total_editors": 30
   }
 }
