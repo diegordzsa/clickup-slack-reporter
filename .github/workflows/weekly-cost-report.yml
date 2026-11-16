@@ -1,0 +1,64 @@
+name: Weekly Cost Report
+
+on:
+  schedule:
+    # Lunes 6:30 UTC: media hora despues del Weekly Report
+    - cron: '30 6 * * 1'
+  workflow_dispatch:  # Permite correr manualmente desde GitHub
+    inputs:
+      semana:
+        description: 'Cualquier fecha de la semana a reportar (AAAA-MM-DD). Vacio = la semana pasada.'
+        required: false
+        default: ''
+
+concurrency:
+  group: weekly-cost-report
+  cancel-in-progress: false
+
+jobs:
+  generate-cost-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read  # Solo lee el log; no commitea nada
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Los montos viven SOLO en el secret EDITOR_PAGOS. El repo es publico:
+      # cost_report.py no imprime montos en este log.
+      - name: Run cost report
+        env:
+          EDITOR_PAGOS: ${{ secrets.EDITOR_PAGOS }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SEMANA: ${{ inputs.semana }}
+        run: |
+          if [ -n "$SEMANA" ]; then
+            python cost_report.py --semana "$SEMANA"
+          else
+            python cost_report.py
+          fi
+
+      - name: Alertar a Slack si algo fallo
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "Sin SLACK_WEBHOOK_URL: no se puede alertar"
+            exit 0
+          fi
+          RUN_URL="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          curl -sS -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\":rotating_light: *Weekly Cost Report FALLO* — $(date -u +%Y-%m-%d\ %H:%M) UTC\nEl reporte de rentabilidad no se envio.\n<${RUN_URL}|Ver el error>\"}" \
+            "$SLACK_WEBHOOK_URL"
