@@ -1,6 +1,83 @@
 {
-  "timestamp": "2026-11-16T13:43:26.305223",
+  "timestamp": "2026-11-17T14:32:12.910471",
   "tasks": {
+    "1an4hvw67dg": {
+      "name": "TOF DRAMA ADS SET HAIR BIOLABS",
+      "status": "assigned",
+      "assignee": "Ester Vosniuk, Leonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw67dg",
+      "date_created": "2026-11-17T12:27:19.746000+00:00",
+      "date_updated": "2026-11-17T12:27:19.746000+00:00",
+      "date_done": null
+    },
+    "1an4hvw65d2": {
+      "name": "BOF-L72-C404 BFCM-Yesenia-CSDavid",
+      "status": "assigned",
+      "assignee": "Yesenia Casas Usuga",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw65d2",
+      "date_created": "2026-11-17T09:38:43.373000+00:00",
+      "date_updated": "2026-11-17T09:39:04.251000+00:00",
+      "date_done": null
+    },
+    "1an4hvw65cy": {
+      "name": "TOF-L72-C179 ITER 3-Cristian-CSDavid",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw65cy",
+      "date_created": "2026-11-17T09:36:19.491000+00:00",
+      "date_updated": "2026-11-17T09:39:27.281000+00:00",
+      "date_done": null
+    },
+    "1an4hvw65cx": {
+      "name": "TOF-L72-C179 ITER 3-Yesenia-CSDavid",
+      "status": "assigned",
+      "assignee": "Yesenia Casas Usuga",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw65cx",
+      "date_created": "2026-11-17T09:36:16.278000+00:00",
+      "date_updated": "2026-11-17T09:39:14.053000+00:00",
+      "date_done": null
+    },
+    "1an4hvw65av": {
+      "name": "TOF-L72-C405-Sing Mercadona-Gonzalo-CSDavid",
+      "status": "assigned",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw65av",
+      "date_created": "2026-11-17T09:27:44.113000+00:00",
+      "date_updated": "2026-11-17T09:27:56.130000+00:00",
+      "date_done": null
+    },
+    "1an4hvw6587": {
+      "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw6587",
+      "date_created": "2026-11-17T09:06:49.795000+00:00",
+      "date_updated": "2026-11-17T09:08:23.483000+00:00",
+      "date_done": null
+    },
+    "1an4hvw64fd": {
+      "name": "MOF-REPLICAS NUVOLA-L1",
+      "status": "en curso",
+      "assignee": "Leonidas, Daniel Meneses (Daniel Meneses)",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw64fd",
+      "date_created": "2026-11-16T22:54:31.220000+00:00",
+      "date_updated": "2026-11-16T23:06:07.560000+00:00",
+      "date_done": null
+    },
     "1an4hvw61kn": {
       "name": "BOF-PROMO BFCM-Alejandra-CSAlejandra",
       "status": "assigned",
@@ -25,13 +102,13 @@
     },
     "1an4hvw618p": {
       "name": "TOF-L72-C391 Podcast Mujer ITER 4-Gonzalo-CSDavid",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw618p",
       "date_created": "2026-11-16T10:26:28.224000+00:00",
-      "date_updated": "2026-11-16T12:19:07.761000+00:00",
+      "date_updated": "2026-11-17T01:26:00.595000+00:00",
       "date_done": null
     },
     "869fq0dck": {
@@ -55,17 +132,6 @@
       "date_created": "2026-11-12T12:05:37.560000+00:00",
       "date_updated": "2026-11-15T01:04:15.515000+00:00",
       "date_done": "2026-11-14T23:58:06.855000+00:00"
-    },
-    "869fpu6yh": {
-      "name": "Concepto Propio - #2 - gif black Lysso - CsGonzalo-VX",
-      "status": "aprobado",
-      "assignee": "Gonzalo Flores",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "url": "https://app.clickup.com/t/869fpu6yh",
-      "date_created": "2026-11-12T03:16:04.364000+00:00",
-      "date_updated": "2026-11-14T23:57:12.671000+00:00",
-      "date_done": "2026-11-14T23:57:12.671000+00:00"
     },
     "869fpu6n6": {
       "name": "Concepto Propio - #1 - IA Educ-CsGonzalo",
@@ -91,13 +157,13 @@
     },
     "869fpnuc2": {
       "name": "BOF-L71-C415 BF Estáticos-Alejandra-CSAlberto",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnuc2",
       "date_created": "2026-11-10T17:56:14.089000+00:00",
-      "date_updated": "2026-11-14T23:52:18.290000+00:00",
+      "date_updated": "2026-11-16T23:24:52.520000+00:00",
       "date_done": "2026-11-13T19:40:53.999000+00:00"
     },
     "869fpntmv": {
@@ -146,13 +212,13 @@
     },
     "869fpnrdn": {
       "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnrdn",
       "date_created": "2026-11-10T17:30:06.515000+00:00",
-      "date_updated": "2026-11-15T00:00:00.924000+00:00",
+      "date_updated": "2026-11-16T22:36:37.793000+00:00",
       "date_done": "2026-11-14T23:59:20.374000+00:00"
     },
     "869fpm0ch": {
@@ -201,14 +267,14 @@
     },
     "869fpef8w": {
       "name": "TOF-L71-C352 Storytelling ITER 2-Yesenia-CSDavid",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Yesenia Casas Usuga",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpef8w",
       "date_created": "2026-11-09T10:29:48.825000+00:00",
-      "date_updated": "2026-11-13T05:03:25.174000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-16T22:54:19.909000+00:00",
+      "date_done": "2026-11-16T14:35:18.520000+00:00"
     },
     "869fpbv55": {
       "name": "BOF-L71-C417 Warehouse ITER 1-Cristian-CSDavid",
@@ -366,13 +432,13 @@
     },
     "869fn0g6n": {
       "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn0g6n",
       "date_created": "2026-10-29T09:28:57.090000+00:00",
-      "date_updated": "2026-11-12T07:16:29.962000+00:00",
+      "date_updated": "2026-11-17T09:53:09.412000+00:00",
       "date_done": null
     },
     "869fn0d5k": {
@@ -399,13 +465,13 @@
     },
     "869fmzj19": {
       "name": "TOF-L69-424- Drama ad- Leonidas - CSalberto",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Leonidas",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmzj19",
       "date_created": "2026-10-29T01:10:05.797000+00:00",
-      "date_updated": "2026-11-03T14:04:17.181000+00:00",
+      "date_updated": "2026-11-17T12:25:00.397000+00:00",
       "date_done": null
     },
     "869fmxf7p": {
@@ -542,13 +608,13 @@
     },
     "869fmfekk": {
       "name": "L68-C395 Ascensor ITER 1-Gonzalo-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmfekk",
       "date_created": "2026-10-26T10:15:02.162000+00:00",
-      "date_updated": "2026-11-11T00:25:21.211000+00:00",
+      "date_updated": "2026-11-17T00:10:04.224000+00:00",
       "date_done": "2026-11-08T12:30:24.620000+00:00"
     },
     "869fmfek3": {
@@ -949,13 +1015,13 @@
     },
     "869fbzn1q": {
       "name": "MOF-L66-C383-Estilista #Autoridad-Gonzalo F.",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Erick Morales",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzn1q",
       "date_created": "2026-10-05T10:41:09.454000+00:00",
-      "date_updated": "2026-10-29T01:13:24.223000+00:00",
+      "date_updated": "2026-11-17T00:01:06.370000+00:00",
       "date_done": "2026-10-29T01:13:24.223000+00:00"
     },
     "869fbx6hg": {
@@ -1114,13 +1180,13 @@
     },
     "869f87p4z": {
       "name": "L65-C381 Yapper Estilista-Gonzalo",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f87p4z",
       "date_created": "2026-09-28T10:22:42.559000+00:00",
-      "date_updated": "2026-10-29T01:14:27.872000+00:00",
+      "date_updated": "2026-11-17T00:17:53.971000+00:00",
       "date_done": "2026-10-29T01:14:27.872000+00:00"
     },
     "869f86ftj": {
@@ -9967,6 +10033,39 @@
       "date_updated": "2026-04-13T14:33:40.472000+00:00",
       "date_done": "2026-04-07T10:11:43.843000+00:00"
     },
+    "1an4hvw65d3": {
+      "name": "MOF-L19-C40 BFCM-Yesenia-CSDavid",
+      "status": "assigned",
+      "assignee": "Yesenia Casas Usuga",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/1an4hvw65d3",
+      "date_created": "2026-11-17T09:38:45.506000+00:00",
+      "date_updated": "2026-11-17T09:39:05.151000+00:00",
+      "date_done": null
+    },
+    "1an4hvw6590": {
+      "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/1an4hvw6590",
+      "date_created": "2026-11-17T09:14:39.322000+00:00",
+      "date_updated": "2026-11-17T09:14:49.666000+00:00",
+      "date_done": null
+    },
+    "1an4hvw64fn": {
+      "name": "TOF-LYMPHORA-L1",
+      "status": "assigned",
+      "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción (MX)",
+      "url": "https://app.clickup.com/t/1an4hvw64fn",
+      "date_created": "2026-11-16T23:05:37.500000+00:00",
+      "date_updated": "2026-11-17T11:58:38.766000+00:00",
+      "date_done": null
+    },
     "869fpj7zc": {
       "name": "BATCH PRE BLACK FRIDAY IA",
       "status": "aprobado",
@@ -9975,7 +10074,7 @@
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869fpj7zc",
       "date_created": "2026-11-10T04:56:04.823000+00:00",
-      "date_updated": "2026-11-11T17:27:20.313000+00:00",
+      "date_updated": "2026-11-17T00:46:33.756000+00:00",
       "date_done": "2026-11-11T17:25:43.434000+00:00"
     },
     "869fpbtey": {
@@ -10167,13 +10266,13 @@
     },
     "869fgqttk": {
       "name": "TOF-L15-C31 FAGA-Leonidas-CSDavid",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Leonidas",
       "client": "HAIR BIOLABS MX",
       "list": "Producción (MX)",
       "url": "https://app.clickup.com/t/869fgqttk",
       "date_created": "2026-10-13T17:29:41.161000+00:00",
-      "date_updated": "2026-10-22T03:17:04.517000+00:00",
+      "date_updated": "2026-11-16T22:30:13.546000+00:00",
       "date_done": null
     },
     "869fdxmg1": {
@@ -11245,13 +11344,13 @@
     },
     "1an4hvw613n": {
       "name": "Brolls de ad",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw613n",
       "date_created": "2026-11-16T09:59:23.262000+00:00",
-      "date_updated": "2026-11-16T11:06:23.135000+00:00",
+      "date_updated": "2026-11-16T23:08:08.755000+00:00",
       "date_done": null
     },
     "869fpyp5v": {
@@ -11262,7 +11361,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpyp5v",
       "date_created": "2026-11-13T10:13:48.760000+00:00",
-      "date_updated": "2026-11-14T07:26:43.319000+00:00",
+      "date_updated": "2026-11-17T10:13:48.738000+00:00",
       "date_done": "2026-11-14T07:26:43.319000+00:00"
     },
     "869fpyp3k": {
@@ -11311,57 +11410,57 @@
     },
     "869fpgwmw": {
       "name": "L15-Líneas 4pm-VX #Caricatura-Cristian",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpgwmw",
       "date_created": "2026-11-09T16:43:49.369000+00:00",
-      "date_updated": "2026-11-16T12:13:00.148000+00:00",
+      "date_updated": "2026-11-17T05:33:00.205000+00:00",
       "date_done": null
     },
     "869fpgwkx": {
       "name": "L15-Descuento BF-VX #B-Roll-Dayana",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpgwkx",
       "date_created": "2026-11-09T16:43:28.379000+00:00",
-      "date_updated": "2026-11-16T11:48:55.008000+00:00",
+      "date_updated": "2026-11-16T23:08:14.323000+00:00",
       "date_done": null
     },
     "869fn8kc4": {
       "name": "L14-3 Razones Botox-VX #Autoridad-Dayana",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Dayana Caicedo",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn8kc4",
       "date_created": "2026-10-30T16:42:36.819000+00:00",
-      "date_updated": "2026-11-13T23:14:10.376000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-11-11T16:44:39.324000+00:00"
     },
     "869fn8kb9": {
       "name": "L14-Nunca uses-Sephora-ITER2-VX #UGC-Cristian",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn8kb9",
       "date_created": "2026-10-30T16:42:13.657000+00:00",
-      "date_updated": "2026-11-13T23:14:11.607000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-11-11T16:56:02.822000+00:00"
     },
     "869fn8kaj": {
       "name": "L14-Nunca uses-Sephora-ITER1-VX #UGC-Cristian",
-      "status": "revision",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn8kaj",
       "date_created": "2026-10-30T16:41:35.215000+00:00",
-      "date_updated": "2026-11-16T12:12:58.761000+00:00",
+      "date_updated": "2026-11-17T07:12:20.642000+00:00",
       "date_done": null
     },
     "869fn6pny": {
@@ -11383,7 +11482,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmjg4v",
       "date_created": "2026-10-26T17:37:50.155000+00:00",
-      "date_updated": "2026-11-03T20:02:29.473000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-28T23:11:57.580000+00:00"
     },
     "869fmjg4b": {
@@ -11394,7 +11493,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fmjg4b",
       "date_created": "2026-10-26T17:37:38.249000+00:00",
-      "date_updated": "2026-10-31T00:52:17.124000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-28T23:10:03.473000+00:00"
     },
     "869fm2q81": {
@@ -11405,7 +11504,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fm2q81",
       "date_created": "2026-10-22T23:26:16.558000+00:00",
-      "date_updated": "2026-10-23T07:13:03.449000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-22T23:26:16.558000+00:00"
     },
     "869fkwgz3": {
@@ -11416,7 +11515,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkwgz3",
       "date_created": "2026-10-22T10:37:51.409000+00:00",
-      "date_updated": "2026-10-23T07:13:07.896000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-22T23:23:10.097000+00:00"
     },
     "869fkwgwb": {
@@ -11427,7 +11526,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkwgwb",
       "date_created": "2026-10-22T10:37:33.549000+00:00",
-      "date_updated": "2026-10-23T07:13:05.530000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-22T23:23:10.097000+00:00"
     },
     "869fkdpup": {
@@ -11438,7 +11537,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdpup",
       "date_created": "2026-10-20T22:41:30.063000+00:00",
-      "date_updated": "2026-11-03T19:52:22.178000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-20T22:42:05.720000+00:00"
     },
     "869fkdpug": {
@@ -11449,7 +11548,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdpug",
       "date_created": "2026-10-20T22:41:24.624000+00:00",
-      "date_updated": "2026-10-26T09:38:40.994000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-20T22:42:05.720000+00:00"
     },
     "869fkdgf1": {
@@ -11460,7 +11559,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdgf1",
       "date_created": "2026-10-20T21:41:19.734000+00:00",
-      "date_updated": "2026-10-30T23:12:41.068000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-30T18:41:49.445000+00:00"
     },
     "869fkdg6f": {
@@ -11471,7 +11570,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdg6f",
       "date_created": "2026-10-20T21:34:53.376000+00:00",
-      "date_updated": "2026-10-23T20:00:48.715000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-22T23:21:45.476000+00:00"
     },
     "869fkdfbw": {
@@ -11482,7 +11581,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkdfbw",
       "date_created": "2026-10-20T21:27:01.702000+00:00",
-      "date_updated": "2026-10-23T20:34:02.568000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-23T15:56:08.678000+00:00"
     },
     "869fkc462": {
@@ -11493,7 +11592,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkc462",
       "date_created": "2026-10-20T17:08:22.398000+00:00",
-      "date_updated": "2026-10-28T23:28:07.009000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-28T23:17:47.752000+00:00"
     },
     "869fkc3mt": {
@@ -11504,7 +11603,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkc3mt",
       "date_created": "2026-10-20T17:02:23.499000+00:00",
-      "date_updated": "2026-10-27T00:48:51.279000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-24T09:07:21.310000+00:00"
     },
     "869fkc2g3": {
@@ -11515,7 +11614,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fkc2g3",
       "date_created": "2026-10-20T16:56:03.044000+00:00",
-      "date_updated": "2026-11-03T19:49:24.429000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-28T23:22:43.575000+00:00"
     },
     "869fk2eyf": {
@@ -11526,7 +11625,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fk2eyf",
       "date_created": "2026-10-19T17:52:57.255000+00:00",
-      "date_updated": "2026-10-27T00:35:07.801000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-24T09:10:53.458000+00:00"
     },
     "869fk2eww": {
@@ -11537,7 +11636,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fk2eww",
       "date_created": "2026-10-19T17:52:44.146000+00:00",
-      "date_updated": "2026-10-23T20:26:56.069000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-23T15:51:00.525000+00:00"
     },
     "869fgur6h": {
@@ -11548,7 +11647,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgur6h",
       "date_created": "2026-10-13T21:48:10.550000+00:00",
-      "date_updated": "2026-10-14T01:45:48.853000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-13T21:53:52.107000+00:00"
     },
     "869fgur4y": {
@@ -11559,7 +11658,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgur4y",
       "date_created": "2026-10-13T21:47:56.227000+00:00",
-      "date_updated": "2026-10-14T01:39:51.582000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-13T21:53:52.107000+00:00"
     },
     "869fgur4d": {
@@ -11570,7 +11669,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fgur4d",
       "date_created": "2026-10-13T21:47:50.918000+00:00",
-      "date_updated": "2026-10-14T02:16:11.395000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-13T21:53:52.107000+00:00"
     },
     "869ffxqxv": {
@@ -11581,7 +11680,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqxv",
       "date_created": "2026-10-12T12:01:09.165000+00:00",
-      "date_updated": "2026-10-26T09:38:40.994000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-24T09:04:19.472000+00:00"
     },
     "869ffxqr3": {
@@ -11592,7 +11691,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqr3",
       "date_created": "2026-10-12T12:00:56.391000+00:00",
-      "date_updated": "2026-10-22T07:58:06.795000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-19T11:15:32.253000+00:00"
     },
     "869ffxqfn": {
@@ -11603,7 +11702,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxqfn",
       "date_created": "2026-10-12T12:00:41.294000+00:00",
-      "date_updated": "2026-10-27T00:29:31.985000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-24T09:08:06.130000+00:00"
     },
     "869ffxq7x": {
@@ -11614,7 +11713,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxq7x",
       "date_created": "2026-10-12T12:00:30.639000+00:00",
-      "date_updated": "2026-10-22T07:58:06.795000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-14T15:25:05.142000+00:00"
     },
     "869ffxpvr": {
@@ -11625,7 +11724,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpvr",
       "date_created": "2026-10-12T12:00:09.770000+00:00",
-      "date_updated": "2026-10-16T21:57:27.192000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-16T12:11:39.236000+00:00"
     },
     "869ffxpty": {
@@ -11636,7 +11735,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpty",
       "date_created": "2026-10-12T12:00:02.613000+00:00",
-      "date_updated": "2026-10-16T21:59:25.275000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-16T12:14:31.228000+00:00"
     },
     "869ffxpmt": {
@@ -11647,7 +11746,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpmt",
       "date_created": "2026-10-12T11:59:39.674000+00:00",
-      "date_updated": "2026-10-27T00:44:27.367000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-21T10:59:38.279000+00:00"
     },
     "869ffxpg0": {
@@ -11658,7 +11757,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ffxpg0",
       "date_created": "2026-10-12T11:59:26.147000+00:00",
-      "date_updated": "2026-10-16T21:47:10.446000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-14T10:58:21.738000+00:00"
     },
     "869fewdwg": {
@@ -11669,7 +11768,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fewdwg",
       "date_created": "2026-10-09T10:42:18.492000+00:00",
-      "date_updated": "2026-10-12T08:36:11.748000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-09T10:43:19.098000+00:00"
     },
     "869fevrj2": {
@@ -11680,7 +11779,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fevrj2",
       "date_created": "2026-10-09T10:08:59.696000+00:00",
-      "date_updated": "2026-10-12T08:36:11.748000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-09T10:09:12.422000+00:00"
     },
     "869fbzff3": {
@@ -11691,7 +11790,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzff3",
       "date_created": "2026-10-05T10:33:28.254000+00:00",
-      "date_updated": "2026-10-16T21:38:53.329000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-14T10:53:03.160000+00:00"
     },
     "869fbzfbz": {
@@ -11702,7 +11801,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzfbz",
       "date_created": "2026-10-05T10:33:16.284000+00:00",
-      "date_updated": "2026-10-13T20:55:42.627000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-08T18:54:45.473000+00:00"
     },
     "869fbzf5u": {
@@ -11713,7 +11812,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzf5u",
       "date_created": "2026-10-05T10:32:56.981000+00:00",
-      "date_updated": "2026-10-13T21:12:33.948000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-09T14:12:12.027000+00:00"
     },
     "869fbzez7": {
@@ -11724,7 +11823,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fbzez7",
       "date_created": "2026-10-05T10:32:36.510000+00:00",
-      "date_updated": "2026-10-16T22:03:45.065000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-14T10:55:23.500000+00:00"
     },
     "869faqxp7": {
@@ -11735,7 +11834,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869faqxp7",
       "date_created": "2026-10-01T18:11:00.971000+00:00",
-      "date_updated": "2026-10-02T02:23:31.672000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-01T18:11:00.971000+00:00"
     },
     "869f9jb24": {
@@ -11746,7 +11845,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f9jb24",
       "date_created": "2026-09-30T10:16:29.910000+00:00",
-      "date_updated": "2026-10-05T10:18:58.564000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-05T09:28:34.446000+00:00"
     },
     "869f8nb9a": {
@@ -11757,7 +11856,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f8nb9a",
       "date_created": "2026-09-29T02:12:09.044000+00:00",
-      "date_updated": "2026-10-06T21:12:19.641000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-06T20:36:57.290000+00:00"
     },
     "869f8nb2z": {
@@ -11768,7 +11867,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f8nb2z",
       "date_created": "2026-09-29T02:09:30.058000+00:00",
-      "date_updated": "2026-10-06T21:09:23.540000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-05T13:31:03.131000+00:00"
     },
     "869f82qtb": {
@@ -11779,7 +11878,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f82qtb",
       "date_created": "2026-09-28T07:53:34.127000+00:00",
-      "date_updated": "2026-10-02T02:23:29.514000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-01T18:03:41.418000+00:00"
     },
     "869f57atg": {
@@ -11790,7 +11889,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f57atg",
       "date_created": "2026-09-21T17:53:58.689000+00:00",
-      "date_updated": "2026-10-02T02:48:55.701000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-24T09:15:27.598000+00:00"
     },
     "869f57a90": {
@@ -11801,7 +11900,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f57a90",
       "date_created": "2026-09-21T17:50:56.611000+00:00",
-      "date_updated": "2026-09-29T02:36:01.026000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-28T08:14:56.982000+00:00"
     },
     "869f57a66": {
@@ -11812,7 +11911,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f57a66",
       "date_created": "2026-09-21T17:50:21.777000+00:00",
-      "date_updated": "2026-10-05T09:48:15.739000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-01T17:58:54.097000+00:00"
     },
     "869f579h9": {
@@ -11823,7 +11922,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f579h9",
       "date_created": "2026-09-21T17:46:58.037000+00:00",
-      "date_updated": "2026-10-02T02:23:27.358000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-01T17:56:05.228000+00:00"
     },
     "869f5790w": {
@@ -11834,7 +11933,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f5790w",
       "date_created": "2026-09-21T17:44:18.489000+00:00",
-      "date_updated": "2026-10-12T08:36:11.748000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-10-07T07:54:42.026000+00:00"
     },
     "869f1k138": {
@@ -11845,7 +11944,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f1k138",
       "date_created": "2026-09-14T10:32:35.405000+00:00",
-      "date_updated": "2026-09-25T01:06:05.955000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-21T17:31:05.838000+00:00"
     },
     "869f1juj5": {
@@ -11856,7 +11955,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f1juj5",
       "date_created": "2026-09-14T10:24:22.050000+00:00",
-      "date_updated": "2026-09-29T02:32:48.668000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-28T08:14:26.560000+00:00"
     },
     "869f06wxk": {
@@ -11867,7 +11966,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f06wxk",
       "date_created": "2026-09-10T15:36:44.354000+00:00",
-      "date_updated": "2026-09-16T16:00:42.246000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-16T15:49:43.580000+00:00"
     },
     "869f06fcx": {
@@ -11878,7 +11977,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869f06fcx",
       "date_created": "2026-09-10T15:21:51.963000+00:00",
-      "date_updated": "2026-09-14T07:25:50.954000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-14T07:25:47.152000+00:00"
     },
     "869ey0wp1": {
@@ -11889,7 +11988,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey0wp1",
       "date_created": "2026-09-07T09:14:45.061000+00:00",
-      "date_updated": "2026-09-25T01:01:51.385000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-24T09:11:13.053000+00:00"
     },
     "869ey0wd6": {
@@ -11900,7 +11999,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ey0wd6",
       "date_created": "2026-09-07T09:14:29.541000+00:00",
-      "date_updated": "2026-09-16T17:30:05.442000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-16T15:45:40.632000+00:00"
     },
     "869ev4zaw": {
@@ -11911,7 +12010,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ev4zaw",
       "date_created": "2026-09-03T15:03:23.885000+00:00",
-      "date_updated": "2026-09-11T15:39:06.189000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-10T15:26:53.809000+00:00"
     },
     "869ev4z6m": {
@@ -11922,7 +12021,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ev4z6m",
       "date_created": "2026-09-03T15:03:09.467000+00:00",
-      "date_updated": "2026-09-11T16:13:14.475000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-10T15:29:15.633000+00:00"
     },
     "869eq5yv4": {
@@ -11933,7 +12032,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eq5yv4",
       "date_created": "2026-08-26T11:52:24.213000+00:00",
-      "date_updated": "2026-09-01T07:15:32.611000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-01T07:15:22.845000+00:00"
     },
     "869ekx2gx": {
@@ -11944,7 +12043,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekx2gx",
       "date_created": "2026-08-19T10:44:09+00:00",
-      "date_updated": "2026-09-29T02:30:08.151000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-24T09:14:29.050000+00:00"
     },
     "869ekwky1": {
@@ -11955,7 +12054,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ekwky1",
       "date_created": "2026-08-19T10:28:55.299000+00:00",
-      "date_updated": "2026-09-25T01:15:26.578000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-24T09:04:19.958000+00:00"
     },
     "869ejrj3y": {
@@ -11966,7 +12065,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ejrj3y",
       "date_created": "2026-08-17T09:33:12.725000+00:00",
-      "date_updated": "2026-10-06T20:40:07.593000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-01T07:15:20.602000+00:00"
     },
     "869eh2yf1": {
@@ -11977,7 +12076,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eh2yf1",
       "date_created": "2026-08-12T08:32:34.725000+00:00",
-      "date_updated": "2026-08-20T17:32:54.695000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-20T10:42:58.837000+00:00"
     },
     "869ee5fpu": {
@@ -11988,7 +12087,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5fpu",
       "date_created": "2026-08-05T11:40:35.459000+00:00",
-      "date_updated": "2026-08-28T06:44:19.583000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-26T11:41:15.878000+00:00"
     },
     "869ee5fnt": {
@@ -11999,7 +12098,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5fnt",
       "date_created": "2026-08-05T11:40:32.794000+00:00",
-      "date_updated": "2026-08-20T17:43:42.245000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-17T10:21:46.872000+00:00"
     },
     "869ee5c3t": {
@@ -12010,7 +12109,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ee5c3t",
       "date_created": "2026-08-05T11:33:21.472000+00:00",
-      "date_updated": "2026-08-28T06:44:19.583000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-28T06:16:02.414000+00:00"
     },
     "869ed3hp9": {
@@ -12021,7 +12120,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ed3hp9",
       "date_created": "2026-08-03T11:10:41.308000+00:00",
-      "date_updated": "2026-08-20T17:32:58.162000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-12T16:51:34.664000+00:00"
     },
     "869ed3heg": {
@@ -12032,7 +12131,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ed3heg",
       "date_created": "2026-08-03T11:10:18.513000+00:00",
-      "date_updated": "2026-08-20T17:49:43.047000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-12T16:52:29.964000+00:00"
     },
     "869ed3h5d": {
@@ -12043,7 +12142,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869ed3h5d",
       "date_created": "2026-08-03T11:09:47.611000+00:00",
-      "date_updated": "2026-08-10T21:37:08.313000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-05T08:36:09.559000+00:00"
     },
     "869eb6ruz": {
@@ -12054,7 +12153,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869eb6ruz",
       "date_created": "2026-07-29T15:33:21.051000+00:00",
-      "date_updated": "2026-08-05T08:38:38.929000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-05T08:38:38.929000+00:00"
     },
     "869e9zw2p": {
@@ -12065,7 +12164,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e9zw2p",
       "date_created": "2026-07-27T14:39:47.840000+00:00",
-      "date_updated": "2026-08-20T17:33:00.851000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-05T08:38:29.285000+00:00"
     },
     "869e9zvxr": {
@@ -12076,7 +12175,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e9zvxr",
       "date_created": "2026-07-27T14:39:36.271000+00:00",
-      "date_updated": "2026-08-20T17:33:02.867000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-31T07:48:30.533000+00:00"
     },
     "869e9zvqu": {
@@ -12087,7 +12186,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e9zvqu",
       "date_created": "2026-07-27T14:39:22.761000+00:00",
-      "date_updated": "2026-08-10T21:37:08.313000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-31T07:45:13.048000+00:00"
     },
     "869e7d474": {
@@ -12098,7 +12197,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d474",
       "date_created": "2026-07-21T11:47:43.669000+00:00",
-      "date_updated": "2026-08-06T09:36:34.205000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-03T19:28:29.914000+00:00"
     },
     "869e7d455": {
@@ -12109,7 +12208,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d455",
       "date_created": "2026-07-21T11:47:35.126000+00:00",
-      "date_updated": "2026-07-31T07:18:23.734000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-27T15:58:08.313000+00:00"
     },
     "869e7d42x": {
@@ -12120,7 +12219,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d42x",
       "date_created": "2026-07-21T11:47:25.999000+00:00",
-      "date_updated": "2026-07-31T07:18:23.734000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-29T15:49:38.889000+00:00"
     },
     "869e7d3zz": {
@@ -12131,7 +12230,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e7d3zz",
       "date_created": "2026-07-21T11:47:15.357000+00:00",
-      "date_updated": "2026-08-06T09:36:34.205000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-08-03T19:30:00.158000+00:00"
     },
     "869e3dmew": {
@@ -12142,7 +12241,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e3dmew",
       "date_created": "2026-07-11T17:53:17.819000+00:00",
-      "date_updated": "2026-09-08T20:33:53.116000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-09-07T11:45:11.208000+00:00"
     },
     "869e1d9xr": {
@@ -12153,7 +12252,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9xr",
       "date_created": "2026-07-07T12:06:54.346000+00:00",
-      "date_updated": "2026-07-24T08:37:15.338000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-15T17:31:28.576000+00:00"
     },
     "869e1d9vp": {
@@ -12164,7 +12263,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9vp",
       "date_created": "2026-07-07T12:06:48.478000+00:00",
-      "date_updated": "2026-07-24T08:37:15.338000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-13T21:12:44.273000+00:00"
     },
     "869e1d9ur": {
@@ -12175,7 +12274,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9ur",
       "date_created": "2026-07-07T12:06:44.057000+00:00",
-      "date_updated": "2026-07-24T08:37:15.338000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-13T21:12:41.987000+00:00"
     },
     "869e1d9r3": {
@@ -12186,7 +12285,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9r3",
       "date_created": "2026-07-07T12:06:38.066000+00:00",
-      "date_updated": "2026-10-06T21:16:39.933000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-15T08:00:48.477000+00:00"
     },
     "869e1d9q4": {
@@ -12197,7 +12296,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9q4",
       "date_created": "2026-07-07T12:06:34.428000+00:00",
-      "date_updated": "2026-07-20T19:48:12.668000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-10T21:35:56.257000+00:00"
     },
     "869e1d9nh": {
@@ -12208,7 +12307,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9nh",
       "date_created": "2026-07-07T12:06:31.005000+00:00",
-      "date_updated": "2026-07-20T19:48:12.668000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-10T21:35:15.473000+00:00"
     },
     "869e1d9kp": {
@@ -12219,7 +12318,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9kp",
       "date_created": "2026-07-07T12:06:23.857000+00:00",
-      "date_updated": "2026-07-10T22:15:10.686000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-10T21:34:23.969000+00:00"
     },
     "869e1d9jh": {
@@ -12230,7 +12329,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869e1d9jh",
       "date_created": "2026-07-07T12:06:18.256000+00:00",
-      "date_updated": "2026-07-10T22:15:10.686000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-10T21:33:31.481000+00:00"
     },
     "869dz5y4z": {
@@ -12241,7 +12340,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5y4z",
       "date_created": "2026-07-02T16:27:39.474000+00:00",
-      "date_updated": "2026-07-13T21:56:27.932000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-03T09:32:28.600000+00:00"
     },
     "869dz5y3y": {
@@ -12252,7 +12351,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5y3y",
       "date_created": "2026-07-02T16:27:33.622000+00:00",
-      "date_updated": "2026-07-07T21:40:20.929000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-03T09:32:28.600000+00:00"
     },
     "869dz5y2x": {
@@ -12263,7 +12362,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5y2x",
       "date_created": "2026-07-02T16:27:27.847000+00:00",
-      "date_updated": "2026-07-06T11:48:29.147000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-03T09:32:28.600000+00:00"
     },
     "869dz5ne0": {
@@ -12274,7 +12373,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5ne0",
       "date_created": "2026-07-02T16:11:19.066000+00:00",
-      "date_updated": "2026-07-13T21:56:27.932000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-06T08:34:46.930000+00:00"
     },
     "869dz5nc1": {
@@ -12285,7 +12384,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5nc1",
       "date_created": "2026-07-02T16:11:14.333000+00:00",
-      "date_updated": "2026-07-13T21:56:27.932000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-06T08:32:46.374000+00:00"
     },
     "869dz5na3": {
@@ -12296,7 +12395,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5na3",
       "date_created": "2026-07-02T16:11:05.832000+00:00",
-      "date_updated": "2026-07-17T08:42:11.607000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-15T07:58:07.392000+00:00"
     },
     "869dz5n7a": {
@@ -12307,7 +12406,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5n7a",
       "date_created": "2026-07-02T16:10:57.552000+00:00",
-      "date_updated": "2026-07-17T08:42:11.607000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-15T07:56:07.516000+00:00"
     },
     "869dz5n4m": {
@@ -12318,7 +12417,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5n4m",
       "date_created": "2026-07-02T16:10:52.205000+00:00",
-      "date_updated": "2026-07-07T21:40:20.929000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-03T15:34:05.880000+00:00"
     },
     "869dz5mzz": {
@@ -12329,7 +12428,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dz5mzz",
       "date_created": "2026-07-02T16:10:37.731000+00:00",
-      "date_updated": "2026-07-10T22:15:10.686000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-07T08:14:07.074000+00:00"
     },
     "869dxqxzp": {
@@ -12340,7 +12439,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dxqxzp",
       "date_created": "2026-06-30T11:17:21.545000+00:00",
-      "date_updated": "2026-07-07T21:40:20.929000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-06T08:31:25.531000+00:00"
     },
     "869dxqxvc": {
@@ -12351,7 +12450,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dxqxvc",
       "date_created": "2026-06-30T11:17:16.669000+00:00",
-      "date_updated": "2026-07-08T14:50:51.972000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-08T14:50:51.972000+00:00"
     },
     "869dxqxjf": {
@@ -12362,7 +12461,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dxqxjf",
       "date_created": "2026-06-30T11:17:02.693000+00:00",
-      "date_updated": "2026-07-17T08:42:11.607000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-15T07:54:34.845000+00:00"
     },
     "869dxqxej": {
@@ -12373,7 +12472,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dxqxej",
       "date_created": "2026-06-30T11:16:57.619000+00:00",
-      "date_updated": "2026-07-07T21:40:20.929000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-07T08:15:02.140000+00:00"
     },
     "869dxqx7a": {
@@ -12384,7 +12483,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dxqx7a",
       "date_created": "2026-06-30T11:16:44.553000+00:00",
-      "date_updated": "2026-07-03T18:02:26.777000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-03T15:33:52.771000+00:00"
     },
     "869dx9pnh": {
@@ -12395,7 +12494,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx9pnh",
       "date_created": "2026-06-29T15:46:17.401000+00:00",
-      "date_updated": "2026-07-06T11:48:29.147000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-02T08:20:46.097000+00:00"
     },
     "869dx9pkt": {
@@ -12406,7 +12505,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx9pkt",
       "date_created": "2026-06-29T15:46:11.248000+00:00",
-      "date_updated": "2026-07-03T18:02:26.777000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-02T08:20:46.097000+00:00"
     },
     "869dx9pju": {
@@ -12417,7 +12516,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx9pju",
       "date_created": "2026-06-29T15:46:07.559000+00:00",
-      "date_updated": "2026-07-02T16:27:14.993000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-01T15:35:54.749000+00:00"
     },
     "869dx9pgb": {
@@ -12428,7 +12527,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dx9pgb",
       "date_created": "2026-06-29T15:45:59.668000+00:00",
-      "date_updated": "2026-07-02T16:27:12.702000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-01T15:35:52.408000+00:00"
     },
     "869dvjbug": {
@@ -12439,7 +12538,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dvjbug",
       "date_created": "2026-06-24T17:08:34.969000+00:00",
-      "date_updated": "2026-07-17T08:42:11.607000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-13T21:19:52.858000+00:00"
     },
     "869dvjbqx": {
@@ -12450,7 +12549,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dvjbqx",
       "date_created": "2026-06-24T17:08:26.746000+00:00",
-      "date_updated": "2026-07-13T21:56:27.932000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-07-13T21:19:51.104000+00:00"
     },
     "869dvgxzh": {
@@ -12461,7 +12560,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dvgxzh",
       "date_created": "2026-06-24T15:19:09.099000+00:00",
-      "date_updated": "2026-06-30T08:34:12.541000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-27T15:08:05.029000+00:00"
     },
     "869dvgxvh": {
@@ -12472,7 +12571,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dvgxvh",
       "date_created": "2026-06-24T15:18:57.267000+00:00",
-      "date_updated": "2026-07-02T14:09:04.932000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-26T08:24:36.253000+00:00"
     },
     "869dt5a4g": {
@@ -12483,7 +12582,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dt5a4g",
       "date_created": "2026-06-18T21:28:01.462000+00:00",
-      "date_updated": "2026-06-23T09:44:26.443000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-23T08:19:20.871000+00:00"
     },
     "869dt5a44": {
@@ -12494,7 +12593,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dt5a44",
       "date_created": "2026-06-18T21:27:55.044000+00:00",
-      "date_updated": "2026-06-23T09:44:26.443000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-23T08:19:20.871000+00:00"
     },
     "869dt5a40": {
@@ -12505,7 +12604,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dt5a40",
       "date_created": "2026-06-18T21:27:49.481000+00:00",
-      "date_updated": "2026-06-23T09:44:26.443000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-23T08:19:20.871000+00:00"
     },
     "869dt5a3v": {
@@ -12516,7 +12615,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dt5a3v",
       "date_created": "2026-06-18T21:27:45.357000+00:00",
-      "date_updated": "2026-06-23T09:44:26.443000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-23T08:19:20.871000+00:00"
     },
     "869dt5a3g": {
@@ -12527,7 +12626,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dt5a3g",
       "date_created": "2026-06-18T21:27:36.862000+00:00",
-      "date_updated": "2026-06-23T09:44:26.443000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-23T08:19:20.871000+00:00"
     },
     "869drdaq2": {
@@ -12538,7 +12637,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869drdaq2",
       "date_created": "2026-06-17T22:23:02.518000+00:00",
-      "date_updated": "2026-06-18T20:33:20.774000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-18T20:33:20.774000+00:00"
     },
     "869drd46y": {
@@ -12549,7 +12648,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869drd46y",
       "date_created": "2026-06-17T22:01:22.906000+00:00",
-      "date_updated": "2026-06-23T16:00:57.906000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-18T20:33:20.774000+00:00"
     },
     "869dnbh1w": {
@@ -12560,7 +12659,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dnbh1w",
       "date_created": "2026-06-11T12:06:45.282000+00:00",
-      "date_updated": "2026-07-03T18:02:26.777000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-12T07:38:58.067000+00:00"
     },
     "869dnbgye": {
@@ -12571,7 +12670,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dnbgye",
       "date_created": "2026-06-11T12:06:32.388000+00:00",
-      "date_updated": "2026-07-03T18:02:26.777000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-12T07:38:58.067000+00:00"
     },
     "869dnbgvd": {
@@ -12582,7 +12681,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dnbgvd",
       "date_created": "2026-06-11T12:06:23.336000+00:00",
-      "date_updated": "2026-07-03T18:02:26.777000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-12T07:38:58.067000+00:00"
     },
     "869dnbgnx": {
@@ -12593,7 +12692,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dnbgnx",
       "date_created": "2026-06-11T12:06:11.129000+00:00",
-      "date_updated": "2026-06-14T10:55:19.552000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-12T18:41:02.797000+00:00"
     },
     "869dnbgfn": {
@@ -12604,7 +12703,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dnbgfn",
       "date_created": "2026-06-11T12:05:57.445000+00:00",
-      "date_updated": "2026-06-14T10:55:16.152000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-12T07:38:58.067000+00:00"
     },
     "869dmf9ae": {
@@ -12615,7 +12714,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmf9ae",
       "date_created": "2026-06-09T16:38:43.361000+00:00",
-      "date_updated": "2026-06-11T08:51:49.859000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-11T08:02:20.118000+00:00"
     },
     "869dmf99h": {
@@ -12626,7 +12725,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmf99h",
       "date_created": "2026-06-09T16:38:33.019000+00:00",
-      "date_updated": "2026-06-11T08:51:47.852000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-11T08:02:20.118000+00:00"
     },
     "869dmf980": {
@@ -12637,7 +12736,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmf980",
       "date_created": "2026-06-09T16:38:21.304000+00:00",
-      "date_updated": "2026-06-11T08:49:08.691000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-11T08:02:20.118000+00:00"
     },
     "869dmf95u": {
@@ -12648,7 +12747,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmf95u",
       "date_created": "2026-06-09T16:38:09.340000+00:00",
-      "date_updated": "2026-06-11T08:47:21.823000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-11T08:02:20.118000+00:00"
     },
     "869dmf90v": {
@@ -12659,7 +12758,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dmf90v",
       "date_created": "2026-06-09T16:37:56.942000+00:00",
-      "date_updated": "2026-06-11T08:44:43.230000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-11T08:02:20.118000+00:00"
     },
     "869dhg7yf": {
@@ -12670,7 +12769,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhg7yf",
       "date_created": "2026-06-02T11:05:32.179000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-05T05:51:32.692000+00:00"
     },
     "869dherv1": {
@@ -12681,7 +12780,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dherv1",
       "date_created": "2026-06-02T09:56:12.279000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
     },
     "869dherr8": {
@@ -12692,7 +12791,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dherr8",
       "date_created": "2026-06-02T09:56:05.825000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
     },
     "869dhernp": {
@@ -12703,7 +12802,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dhernp",
       "date_created": "2026-06-02T09:56:01.039000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
     },
     "869dherkb": {
@@ -12714,7 +12813,7 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dherkb",
       "date_created": "2026-06-02T09:55:56.551000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
     },
     "869dheqnw": {
@@ -12725,18 +12824,73 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869dheqnw",
       "date_created": "2026-06-02T09:54:48.141000+00:00",
-      "date_updated": "2026-06-09T16:36:48.119000+00:00",
+      "date_updated": "2026-11-17T11:18:00.306000+00:00",
       "date_done": "2026-06-03T06:05:31.586000+00:00"
+    },
+    "1an4hvw63yn": {
+      "name": "TR-L14-3 Razones Botox-VX-LATAM #Autoridad-Dayana",
+      "status": "assigned",
+      "assignee": "Dayana Caicedo",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "url": "https://app.clickup.com/t/1an4hvw63yn",
+      "date_created": "2026-11-16T18:16:06.965000+00:00",
+      "date_updated": "2026-11-16T18:28:25.412000+00:00",
+      "date_done": null
+    },
+    "1an4hvw63ym": {
+      "name": "TR-L14-Nunca uses-Sephora-ITER2-V1-LATAM #UGC-Cristian",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "url": "https://app.clickup.com/t/1an4hvw63ym",
+      "date_created": "2026-11-16T18:15:59.080000+00:00",
+      "date_updated": "2026-11-16T18:28:20.301000+00:00",
+      "date_done": null
+    },
+    "1an4hvw63xe": {
+      "name": "TR-L13-Piel Susurrando-ITER2 Joven-VX-LATAM #Caricatura-Gonzalo F.",
+      "status": "approved",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "url": "https://app.clickup.com/t/1an4hvw63xe",
+      "date_created": "2026-11-16T17:57:26.537000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
+      "date_done": "2026-11-17T07:20:40.239000+00:00"
+    },
+    "1an4hvw63xd": {
+      "name": "TR-L13-Piel Susurrando-ITER1 +50-VX-LATAM #Caricatura-Gonzalo F.",
+      "status": "approved",
+      "assignee": "Gonzalo Flores",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "url": "https://app.clickup.com/t/1an4hvw63xd",
+      "date_created": "2026-11-16T17:57:14.719000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
+      "date_done": "2026-11-17T07:20:40.239000+00:00"
+    },
+    "1an4hvw63xc": {
+      "name": "TR-L12-Mayor Error Líneas de Marioneta-VX-LATAM #VSL Autoridad-Cristian",
+      "status": "assigned",
+      "assignee": "Cristian Echeverri",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "url": "https://app.clickup.com/t/1an4hvw63xc",
+      "date_created": "2026-11-16T17:56:59.126000+00:00",
+      "date_updated": "2026-11-16T18:27:50.373000+00:00",
+      "date_done": null
     },
     "869fmndu4": {
       "name": "L11-Entrevista Calle-VX #Video-Reacción-Cristian",
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndu4",
       "date_created": "2026-10-27T11:38:24.556000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fmndu2": {
@@ -12744,10 +12898,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndu2",
       "date_created": "2026-10-27T11:38:24.014000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fmndu1": {
@@ -12755,10 +12909,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndu1",
       "date_created": "2026-10-27T11:38:23.523000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fmndu0": {
@@ -12766,10 +12920,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndu0",
       "date_created": "2026-10-27T11:38:22.982000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fmndtv": {
@@ -12777,10 +12931,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndtv",
       "date_created": "2026-10-27T11:38:22.508000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fmndtq": {
@@ -12788,10 +12942,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fmndtq",
       "date_created": "2026-10-27T11:38:21.905000+00:00",
-      "date_updated": "2026-11-13T08:39:23.590000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-04T21:41:06.897000+00:00"
     },
     "869fdr2eg": {
@@ -12799,7 +12953,7 @@
       "status": "assigned",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2eg",
       "date_created": "2026-10-07T15:59:36.333000+00:00",
       "date_updated": "2026-10-27T11:40:32.111000+00:00",
@@ -12810,10 +12964,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2e0",
       "date_created": "2026-10-07T15:59:35.901000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2dt": {
@@ -12821,7 +12975,7 @@
       "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2dt",
       "date_created": "2026-10-07T15:59:35.475000+00:00",
       "date_updated": "2026-11-04T23:10:48.371000+00:00",
@@ -12829,24 +12983,24 @@
     },
     "869fdr2dq": {
       "name": "L8-Solución Rápida-VX #B-Roll-Dayana",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2dq",
       "date_created": "2026-10-07T15:59:35.393000+00:00",
-      "date_updated": "2026-11-12T01:19:42.954000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
+      "date_done": "2026-11-16T17:56:20.936000+00:00"
     },
     "869fdr2dc": {
       "name": "L6-Menopausia-VX #Autoridad",
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2dc",
       "date_created": "2026-10-07T15:59:34.852000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2d5": {
@@ -12854,10 +13008,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2d5",
       "date_created": "2026-10-07T15:59:34.407000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2d4": {
@@ -12865,10 +13019,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2d4",
       "date_created": "2026-10-07T15:59:34.270000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2cq": {
@@ -12876,7 +13030,7 @@
       "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2cq",
       "date_created": "2026-10-07T15:59:33.784000+00:00",
       "date_updated": "2026-11-13T08:57:21.599000+00:00",
@@ -12887,7 +13041,7 @@
       "status": "testado",
       "assignee": "SIN ASIGNAR",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2cf",
       "date_created": "2026-10-07T15:59:33.369000+00:00",
       "date_updated": "2026-11-04T23:21:33.964000+00:00",
@@ -12898,10 +13052,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2ce",
       "date_created": "2026-10-07T15:59:33.267000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2c8": {
@@ -12909,10 +13063,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2c8",
       "date_created": "2026-10-07T15:59:32.759000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2c0": {
@@ -12920,29 +13074,29 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2c0",
       "date_created": "2026-10-07T15:59:32.381000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr2by": {
       "name": "L9-Kbeauty-VX-Dayana",
-      "status": "draft",
+      "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2by",
       "date_created": "2026-10-07T15:59:32.290000+00:00",
-      "date_updated": "2026-11-12T01:19:33.746000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
+      "date_done": "2026-11-16T17:56:20.936000+00:00"
     },
     "869fdr2be": {
       "name": "L6-Pérdida de Colágeno-VX #Autoridad",
       "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2be",
       "date_created": "2026-10-07T15:59:30.754000+00:00",
       "date_updated": "2026-11-13T09:08:56.823000+00:00",
@@ -12953,10 +13107,10 @@
       "status": "approved",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2bd",
       "date_created": "2026-10-07T15:59:30.748000+00:00",
-      "date_updated": "2026-11-11T21:43:07.795000+00:00",
+      "date_updated": "2026-11-17T07:21:09.495000+00:00",
       "date_done": "2026-11-11T21:43:07.795000+00:00"
     },
     "869fdr29y": {
@@ -12964,7 +13118,7 @@
       "status": "assigned",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr29y",
       "date_created": "2026-10-07T15:59:28.639000+00:00",
       "date_updated": "2026-10-27T11:34:36.356000+00:00",
@@ -12975,7 +13129,7 @@
       "status": "testado",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
-      "list": "Producción (USA Latino)",
+      "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr26m",
       "date_created": "2026-10-07T15:59:23.324000+00:00",
       "date_updated": "2026-11-13T09:53:50.180000+00:00",
@@ -13258,73 +13412,73 @@
     },
     "869fq0tp1": {
       "name": "MOF-L73-C05 Dos Amigas Black Friday-Eli-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0tp1",
       "date_created": "2026-11-14T04:33:22.953000+00:00",
-      "date_updated": "2026-11-14T04:33:22.953000+00:00",
+      "date_updated": "2026-11-16T19:38:12.992000+00:00",
       "date_done": null
     },
     "869fq0tfk": {
       "name": "MOF-L73-C04 Empleada Escondida Black Friday-Eli-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0tfk",
       "date_created": "2026-11-14T04:16:47.299000+00:00",
-      "date_updated": "2026-11-14T04:16:47.299000+00:00",
+      "date_updated": "2026-11-16T19:38:17.122000+00:00",
       "date_done": null
     },
     "869fq0pdw": {
       "name": "MOF-L73-C03 Jefa Black Friday-Eli-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0pdw",
       "date_created": "2026-11-14T01:00:36.716000+00:00",
-      "date_updated": "2026-11-14T01:00:36.716000+00:00",
+      "date_updated": "2026-11-16T19:38:24.392000+00:00",
       "date_done": null
     },
     "869fq0pam": {
       "name": "MOF-L73-C02 Dos Trabajadoras Black Friday-Eli-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0pam",
       "date_created": "2026-11-14T00:53:38.377000+00:00",
-      "date_updated": "2026-11-14T00:53:38.377000+00:00",
+      "date_updated": "2026-11-16T19:38:30.500000+00:00",
       "date_done": null
     },
     "869fq0p82": {
       "name": "MOF-L73-C01 Unboxing Black Friday-Eli-CSGil",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0p82",
       "date_created": "2026-11-14T00:46:04.477000+00:00",
-      "date_updated": "2026-11-14T00:46:04.477000+00:00",
+      "date_updated": "2026-11-17T07:56:54.185000+00:00",
       "date_done": null
     },
     "869fq0ny1": {
       "name": "BOF-L72-C01 Trabajadora Bodega-Cristian-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Cristian Echeverri",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0ny1",
       "date_created": "2026-11-14T00:18:05.979000+00:00",
-      "date_updated": "2026-11-14T00:27:22.039000+00:00",
+      "date_updated": "2026-11-17T07:12:48.234000+00:00",
       "date_done": null
     },
     "869fq0c2n": {
       "name": "TOF-L70-C04 SOY TU ANTOJO-Dayana-CSGil",
-      "status": "pendiente",
+      "status": "asignado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13335,7 +13489,7 @@
     },
     "869fpwm6r": {
       "name": "BOF-L70-C01 Precio Caro-Dayana-CSGil",
-      "status": "pendiente",
+      "status": "asignado",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13346,7 +13500,7 @@
     },
     "869fpwky9": {
       "name": "BOF-L70-C04 Precio Caro-Leonidas-CSGil",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13357,84 +13511,84 @@
     },
     "869fpwkaf": {
       "name": "TOF-L70-C03 4 Semanas-Leonidas-CSGil",
-      "status": "pendiente",
+      "status": "en proceso",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fpwkaf",
       "date_created": "2026-11-12T17:34:05.773000+00:00",
-      "date_updated": "2026-11-12T17:34:05.773000+00:00",
+      "date_updated": "2026-11-16T19:47:06.363000+00:00",
       "date_done": null
     },
     "869fpu72p": {
       "name": "BOF-L70-C02 Disculpa Fundador-Leonidas-CSGil",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fpu72p",
       "date_created": "2026-11-12T03:38:57.716000+00:00",
-      "date_updated": "2026-11-16T00:38:06.573000+00:00",
+      "date_updated": "2026-11-17T07:56:54.185000+00:00",
       "date_done": null
     },
     "869fpu5gv": {
       "name": "BOF-L70-C01 Testimonio Maria-Leonidas-CSGil",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fpu5gv",
       "date_created": "2026-11-12T01:48:28.520000+00:00",
-      "date_updated": "2026-11-12T17:36:39.492000+00:00",
+      "date_updated": "2026-11-17T07:56:54.185000+00:00",
       "date_done": null
     },
     "869fppzrt": {
       "name": "TOF-L10-C12 Te descuidaste-Leonidas-CSAlberto",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fppzrt",
       "date_created": "2026-11-11T05:56:58.361000+00:00",
-      "date_updated": "2026-11-16T00:36:39.058000+00:00",
+      "date_updated": "2026-11-17T07:56:54.185000+00:00",
       "date_done": null
     },
     "869fppzrr": {
       "name": "TOF-L10-C11 Veinte personas-Leonidas-CSAlberto",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fppzrr",
       "date_created": "2026-11-11T05:56:56.981000+00:00",
-      "date_updated": "2026-11-11T05:56:56.981000+00:00",
+      "date_updated": "2026-11-17T12:10:47.256000+00:00",
       "date_done": null
     },
     "869fppzrk": {
       "name": "TOF-L10-C10 Noche tras noche-Leonidas-CSAlberto",
-      "status": "pendiente",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fppzrk",
       "date_created": "2026-11-11T05:56:54.897000+00:00",
-      "date_updated": "2026-11-12T05:29:41.150000+00:00",
+      "date_updated": "2026-11-17T07:56:54.185000+00:00",
       "date_done": null
     },
     "869fn9cqq": {
       "name": "Brief Zendi NOV SEMANA 1",
-      "status": "pendiente",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fn9cqq",
       "date_created": "2026-10-30T22:51:28.737000+00:00",
-      "date_updated": "2026-11-09T04:57:55.494000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-16T23:30:48.204000+00:00",
+      "date_done": "2026-11-16T19:29:32.086000+00:00"
     },
     "869fmdmjd": {
       "name": "BRIEF ZENDI OCT SEMANA 4",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13445,7 +13599,7 @@
     },
     "869fhb776": {
       "name": "Adaptaciones Zendi",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13456,7 +13610,7 @@
     },
     "869f639xm": {
       "name": "BRIEF ZENDI",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13467,7 +13621,7 @@
     },
     "869f57c4f": {
       "name": "Brief semana 4",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13478,57 +13632,57 @@
     },
     "869f1r2t1": {
       "name": "Brief Semana 3",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869f1r2t1",
       "date_created": "2026-09-14T14:26:45.916000+00:00",
-      "date_updated": "2026-09-21T17:57:57.371000+00:00",
+      "date_updated": "2026-11-16T23:28:43.537000+00:00",
       "date_done": "2026-09-21T17:57:57.371000+00:00"
     },
     "869exxc7x": {
       "name": "Brief Lunes semana 2 Sep",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869exxc7x",
       "date_created": "2026-09-07T06:58:08.003000+00:00",
-      "date_updated": "2026-09-14T14:26:27.715000+00:00",
+      "date_updated": "2026-11-16T23:28:51.622000+00:00",
       "date_done": "2026-09-14T14:26:27.715000+00:00"
     },
     "869et6g1h": {
       "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869et6g1h",
       "date_created": "2026-08-31T18:59:01.716000+00:00",
-      "date_updated": "2026-09-07T06:57:44.061000+00:00",
+      "date_updated": "2026-11-16T23:28:54.301000+00:00",
       "date_done": "2026-09-07T06:57:44.061000+00:00"
     },
     "869et67tr": {
       "name": "GLENDA ADS",
-      "status": "pendiente",
+      "status": "lanzado-hecho",
       "assignee": "SIN ASIGNAR",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869et67tr",
       "date_created": "2026-08-31T18:13:33.012000+00:00",
-      "date_updated": "2026-09-02T05:23:41.908000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-16T19:27:57.006000+00:00",
+      "date_done": "2026-11-16T19:27:57.006000+00:00"
     },
     "869erd9gq": {
       "name": "BRIEF ZENDI JUEVES SEMANA 4",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869erd9gq",
       "date_created": "2026-08-29T06:56:24.008000+00:00",
-      "date_updated": "2026-09-04T05:34:07.492000+00:00",
+      "date_updated": "2026-11-16T23:28:56.185000+00:00",
       "date_done": "2026-09-04T05:34:07.492000+00:00"
     },
     "869epbxm5": {
@@ -13544,40 +13698,40 @@
     },
     "869enr0jd": {
       "name": "Replicar los 3 mejores ads de GLUCORA",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869enr0jd",
       "date_created": "2026-08-23T13:52:31.282000+00:00",
-      "date_updated": "2026-08-29T06:57:22.442000+00:00",
+      "date_updated": "2026-11-16T23:29:46.141000+00:00",
       "date_done": "2026-08-29T06:57:22.442000+00:00"
     },
     "869enqz1z": {
       "name": "Statics ZENDI · Replicar Eleveit MX — SOLUTION AWARE",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869enqz1z",
       "date_created": "2026-08-23T13:44:57.900000+00:00",
-      "date_updated": "2026-08-25T11:06:15.129000+00:00",
+      "date_updated": "2026-11-16T23:30:42.633000+00:00",
       "date_done": "2026-08-25T11:06:15.129000+00:00"
     },
     "869enqz0z": {
       "name": "Statics ZENDI · Replicar Eleveit MX — PROBLEM AWARE",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869enqz0z",
       "date_created": "2026-08-23T13:44:52.862000+00:00",
-      "date_updated": "2026-08-25T11:06:16.766000+00:00",
+      "date_updated": "2026-11-16T23:30:41.146000+00:00",
       "date_done": "2026-08-25T11:06:16.766000+00:00"
     },
     "869emuuaw": {
       "name": "GLENDA TRADUCCIONES",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13588,62 +13742,62 @@
     },
     "869embdpy": {
       "name": "BRIEF GLENDA- LUNES  SEMANA 3",
-      "status": "pendiente de subir",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869embdpy",
       "date_created": "2026-08-20T07:21:13+00:00",
-      "date_updated": "2026-08-29T02:43:21.230000+00:00",
+      "date_updated": "2026-11-16T23:30:46.882000+00:00",
       "date_done": "2026-08-29T02:43:21.230000+00:00"
     },
     "869ejkbe5": {
       "name": "BRIEF GLENDA . JUEVES SEMANA 2",
-      "status": "pendiente de subir",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869ejkbe5",
       "date_created": "2026-08-17T04:28:00.321000+00:00",
-      "date_updated": "2026-08-29T02:43:18.809000+00:00",
+      "date_updated": "2026-11-16T23:30:45.861000+00:00",
       "date_done": "2026-08-29T02:43:18.809000+00:00"
     },
     "869ejk9rw": {
       "name": "BRIEF ZENDI · JUEVES SEMANA 2",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869ejk9rw",
       "date_created": "2026-08-17T03:58:50.295000+00:00",
-      "date_updated": "2026-08-25T04:32:08.943000+00:00",
+      "date_updated": "2026-11-16T23:30:43.636000+00:00",
       "date_done": "2026-08-22T08:30:32.453000+00:00"
     },
     "869ejk9km": {
       "name": "BRIEF ZENDI - LUNES SEMANA 3",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869ejk9km",
       "date_created": "2026-08-17T03:53:00.166000+00:00",
-      "date_updated": "2026-08-29T07:24:20.094000+00:00",
+      "date_updated": "2026-11-16T23:28:58.476000+00:00",
       "date_done": "2026-08-29T07:24:20.094000+00:00"
     },
     "869ej7r09": {
       "name": "VSL 5 MIN ZENDI",
-      "status": "aprobado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869ej7r09",
       "date_created": "2026-08-14T17:51:02.025000+00:00",
-      "date_updated": "2026-08-24T08:30:43.511000+00:00",
+      "date_updated": "2026-11-16T23:30:44.858000+00:00",
       "date_done": "2026-08-19T07:43:20.077000+00:00"
     },
     "869ehz0ye": {
       "name": "C - Rating Medico - ALBERT",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13654,7 +13808,7 @@
     },
     "869ehyynx": {
       "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13665,7 +13819,7 @@
     },
     "869ehyy2g": {
       "name": "C - Rating Medico - ALBERT",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13676,7 +13830,7 @@
     },
     "869ehvwvx": {
       "name": "BRIEF GLENDA - LUNES SEMANA 2",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13687,7 +13841,7 @@
     },
     "869ehvw10": {
       "name": "BRIEF ZENDI - LUNES SEMANA 2",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13698,7 +13852,7 @@
     },
     "869egfjex": {
       "name": "NIVELIA ADS",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Dayana Caicedo",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13709,7 +13863,7 @@
     },
     "869egee9e": {
       "name": "BRIEF ZENDI v3",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13720,7 +13874,7 @@
     },
     "869eecnj5": {
       "name": "BRIEF ZENDI",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13731,7 +13885,7 @@
     },
     "869eap8v7": {
       "name": "Parches de Pechos GLENDA",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
@@ -13742,7 +13896,7 @@
     },
     "869e8940g": {
       "name": "Short Adelgazante Glenda",
-      "status": "testado",
+      "status": "lanzado-hecho",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
