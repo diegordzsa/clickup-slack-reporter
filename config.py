@@ -47,14 +47,17 @@ SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 # - SKIN+ / Tareas:                  ASIGNADO, REVISAR, HECHO
 STATUS_CATEGORIES = {
     "asignado":   ["asignado", "assigned"],
-    "en_curso":   ["en progreso", "en curso", "in progress"],
+    "en_curso":   ["en progreso", "en curso", "in progress", "en proceso"],
     "revision":   ["revision", "revisar", "aprobacion"],
-    "aprobado":   ["aprobado", "approved"],
+    # ZENDI (nov-2026): "lanzar" = aprobado y listo para subir a ads,
+    # "lanzado-hecho" = ya lanzado (equivale a "testado").
+    "aprobado":   ["aprobado", "approved", "lanzar"],
     # "testado" es el estado TERMINAL del flujo creativo: el material ya se
     # probo en ads. El flujo real es revision -> final -> testado, y tambien
     # aprobado -> testado. ClickUp le sella date_done, o sea que lo trata
     # como cierre. Es el 69% del tablero: dejarlo fuera subcontaba todo.
-    "completado": ["completado", "final", "finales", "hecho", "complete", "testado"],
+    "completado": ["completado", "final", "finales", "hecho", "complete", "testado",
+                   "lanzado-hecho"],
 }
 
 # Status que ignoramos completamente (no entran en ninguna metrica).
