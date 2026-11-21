@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T14:05:24.821248+00:00",
-  "snapshot_timestamp": "2026-11-20T14:05:01.973032",
+  "generated_at": "2026-11-21T13:31:24.145458+00:00",
+  "snapshot_timestamp": "2026-11-21T13:31:01.522253",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -21,6 +21,7 @@
     "Gonzalo Millán",
     "Hakim",
     "Hermes Dario Vera Vasquez",
+    "Jimay Montiel",
     "Kike",
     "Laura Becerra",
     "Leonidas",
@@ -54,6 +55,45 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "1an4hvw6ftg",
+      "name": "TOF-L72-C406 Dra AGA-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-18T10:36:10.473000+00:00",
+      "date_done": "2026-11-20T10:31:24.586000+00:00",
+      "lead_time_hours": 47.92,
+      "url": "https://app.clickup.com/t/1an4hvw6ftg"
+    },
+    {
+      "task_id": "1an4hvw65cx",
+      "name": "TOF-L72-C179 ITER 3-Yesenia-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Yesenia Casas Usuga"
+      ],
+      "date_created": "2026-11-17T09:36:16.278000+00:00",
+      "date_done": "2026-11-20T10:32:58.571000+00:00",
+      "lead_time_hours": 72.95,
+      "url": "https://app.clickup.com/t/1an4hvw65cx"
+    },
+    {
+      "task_id": "1an4hvw61kh",
+      "name": "BOF-L68-C403 PROMO BFCM-VX-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T10:56:11.824000+00:00",
+      "date_done": "2026-11-20T10:18:19.438000+00:00",
+      "lead_time_hours": 95.37,
+      "url": "https://app.clickup.com/t/1an4hvw61kh"
+    },
     {
       "task_id": "1an4hvw618p",
       "name": "TOF-L72-C391 Podcast Mujer ITER 4-Gonzalo-CSDavid",
@@ -133,6 +173,45 @@
       "url": "https://app.clickup.com/t/869fpntmv"
     },
     {
+      "task_id": "869fpnrdw",
+      "name": "BOF-L71-C414 BF Escalera-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-10T17:30:12.546000+00:00",
+      "date_done": "2026-11-21T08:59:05.694000+00:00",
+      "lead_time_hours": 255.48,
+      "url": "https://app.clickup.com/t/869fpnrdw"
+    },
+    {
+      "task_id": "869fpnrdt",
+      "name": "BOF-L71-C413 BF Almacén-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-10T17:30:10.791000+00:00",
+      "date_done": "2026-11-21T08:59:07.611000+00:00",
+      "lead_time_hours": 255.48,
+      "url": "https://app.clickup.com/t/869fpnrdt"
+    },
+    {
+      "task_id": "869fpnrdr",
+      "name": "BOF-L71-C412 BF Caja Trío-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-10T17:30:09.117000+00:00",
+      "date_done": "2026-11-21T08:59:03.704000+00:00",
+      "lead_time_hours": 255.48,
+      "url": "https://app.clickup.com/t/869fpnrdr"
+    },
+    {
       "task_id": "869fpnrdn",
       "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
       "client": "HAIR BIOLABS",
@@ -157,6 +236,19 @@
       "date_done": "2026-11-17T16:51:37.577000+00:00",
       "lead_time_hours": 173.11,
       "url": "https://app.clickup.com/t/869fpm0ch"
+    },
+    {
+      "task_id": "869fpkprb",
+      "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-10T10:53:36.208000+00:00",
+      "date_done": "2026-11-20T10:16:35.504000+00:00",
+      "lead_time_hours": 239.38,
+      "url": "https://app.clickup.com/t/869fpkprb"
     },
     {
       "task_id": "869fpj7y4",
@@ -326,6 +418,19 @@
       "date_done": "2026-10-29T21:31:36.178000+00:00",
       "lead_time_hours": 0.02,
       "url": "https://app.clickup.com/t/869fn3vmw"
+    },
+    {
+      "task_id": "869fn0g6n",
+      "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)"
+      ],
+      "date_created": "2026-10-29T09:28:57.090000+00:00",
+      "date_done": "2026-11-17T16:50:48.844000+00:00",
+      "lead_time_hours": 463.36,
+      "url": "https://app.clickup.com/t/869fn0g6n"
     },
     {
       "task_id": "869fn0d5k",
@@ -9834,6 +9939,19 @@
       "url": "https://app.clickup.com/t/869fpbtey"
     },
     {
+      "task_id": "869fpbmju",
+      "name": "TOF-L18-C36 IA Educ-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción USA",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-08T10:17:14.699000+00:00",
+      "date_done": "2026-11-17T19:08:13.995000+00:00",
+      "lead_time_hours": 224.85,
+      "url": "https://app.clickup.com/t/869fpbmju"
+    },
+    {
       "task_id": "869fnvvgg",
       "name": "PROMO PRE BLACK FRIDAY BATCH 1",
       "client": "HAIR BIOLABS MX",
@@ -11106,6 +11224,19 @@
       "date_done": "2026-11-13T10:19:33.478000+00:00",
       "lead_time_hours": 0.1,
       "url": "https://app.clickup.com/t/869fpyp3k"
+    },
+    {
+      "task_id": "869fptwbu",
+      "name": "Banner Pre-BlackFriday",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Olga Vasquez"
+      ],
+      "date_created": "2026-11-11T21:42:43.703000+00:00",
+      "date_done": "2026-11-14T07:26:43.319000+00:00",
+      "lead_time_hours": 57.73,
+      "url": "https://app.clickup.com/t/869fptwbu"
     },
     {
       "task_id": "869fpgwmw",
@@ -12799,6 +12930,567 @@
       "url": "https://app.clickup.com/t/869dvtwdt"
     },
     {
+      "task_id": "1an4hvw6ke4",
+      "name": "TOF-LYMPHORA-L1 · TOF2 Fiesta swinger",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)",
+        "Leonidas"
+      ],
+      "date_created": "2026-11-19T01:57:15.826000+00:00",
+      "date_done": "2026-11-19T19:10:16.407000+00:00",
+      "lead_time_hours": 17.22,
+      "url": "https://app.clickup.com/t/1an4hvw6ke4"
+    },
+    {
+      "task_id": "1an4hvw6ke3",
+      "name": "TOF-LYMPHORA-L1 · TOF1 Fiesta de llaves",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)",
+        "Leonidas"
+      ],
+      "date_created": "2026-11-19T01:56:59.866000+00:00",
+      "date_done": "2026-11-19T19:14:07.982000+00:00",
+      "lead_time_hours": 17.29,
+      "url": "https://app.clickup.com/t/1an4hvw6ke3"
+    },
+    {
+      "task_id": "1an4hvw6c9n",
+      "name": "Static Black Friday",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Gilberto Mondragón"
+      ],
+      "date_created": "2026-11-17T22:10:54.874000+00:00",
+      "date_done": "2026-11-19T16:54:25.310000+00:00",
+      "lead_time_hours": 42.73,
+      "url": "https://app.clickup.com/t/1an4hvw6c9n"
+    },
+    {
+      "task_id": "1an4hvw64fd",
+      "name": "MOF-REPLICAS NUVOLA-L1",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-16T22:54:31.220000+00:00",
+      "date_done": "2026-11-18T23:13:29.707000+00:00",
+      "lead_time_hours": 48.32,
+      "url": "https://app.clickup.com/t/1an4hvw64fd"
+    },
+    {
+      "task_id": "869fq0tp1",
+      "name": "MOF-L73-C05 Dos Amigas Black Friday-Eli-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-14T04:33:22.953000+00:00",
+      "date_done": "2026-11-19T16:39:46.136000+00:00",
+      "lead_time_hours": 132.11,
+      "url": "https://app.clickup.com/t/869fq0tp1"
+    },
+    {
+      "task_id": "869fq0tfk",
+      "name": "MOF-L73-C04 Empleada Escondida Black Friday-Eli-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-14T04:16:47.299000+00:00",
+      "date_done": "2026-11-19T16:47:08.001000+00:00",
+      "lead_time_hours": 132.51,
+      "url": "https://app.clickup.com/t/869fq0tfk"
+    },
+    {
+      "task_id": "869fq0pdw",
+      "name": "MOF-L73-C03 Jefa Black Friday-Eli-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-14T01:00:36.716000+00:00",
+      "date_done": "2026-11-19T16:45:41.245000+00:00",
+      "lead_time_hours": 135.75,
+      "url": "https://app.clickup.com/t/869fq0pdw"
+    },
+    {
+      "task_id": "869fq0p82",
+      "name": "MOF-L73-C01 Unboxing Black Friday-Eli-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-14T00:46:04.477000+00:00",
+      "date_done": "2026-11-19T16:44:38.313000+00:00",
+      "lead_time_hours": 135.98,
+      "url": "https://app.clickup.com/t/869fq0p82"
+    },
+    {
+      "task_id": "869fq0c2n",
+      "name": "TOF-L70-C04 SOY TU ANTOJO-Dayana-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-13T19:36:33.727000+00:00",
+      "date_done": "2026-11-19T16:52:01.373000+00:00",
+      "lead_time_hours": 141.26,
+      "url": "https://app.clickup.com/t/869fq0c2n"
+    },
+    {
+      "task_id": "869fpwm6r",
+      "name": "BOF-L70-C01 Precio Caro-Dayana-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-12T17:53:22.950000+00:00",
+      "date_done": "2026-11-18T02:29:29.723000+00:00",
+      "lead_time_hours": 128.6,
+      "url": "https://app.clickup.com/t/869fpwm6r"
+    },
+    {
+      "task_id": "869fpwky9",
+      "name": "BOF-L70-C04 Precio Caro-Leonidas-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-12T17:49:57.642000+00:00",
+      "date_done": "2026-11-12T17:58:03.463000+00:00",
+      "lead_time_hours": 0.13,
+      "url": "https://app.clickup.com/t/869fpwky9"
+    },
+    {
+      "task_id": "869fpu5gv",
+      "name": "BOF-L70-C01 Testimonio Maria-Leonidas-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-12T01:48:28.520000+00:00",
+      "date_done": "2026-11-17T21:47:37.203000+00:00",
+      "lead_time_hours": 139.99,
+      "url": "https://app.clickup.com/t/869fpu5gv"
+    },
+    {
+      "task_id": "869fppzrt",
+      "name": "TOF-L10-C12 Te descuidaste-Leonidas-CSAlberto",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-11T05:56:58.361000+00:00",
+      "date_done": "2026-11-17T22:10:27.133000+00:00",
+      "lead_time_hours": 160.22,
+      "url": "https://app.clickup.com/t/869fppzrt"
+    },
+    {
+      "task_id": "869fppzrr",
+      "name": "TOF-L10-C11 Veinte personas-Leonidas-CSAlberto",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-11T05:56:56.981000+00:00",
+      "date_done": "2026-11-17T22:07:18.981000+00:00",
+      "lead_time_hours": 160.17,
+      "url": "https://app.clickup.com/t/869fppzrr"
+    },
+    {
+      "task_id": "869fppzrk",
+      "name": "TOF-L10-C10 Noche tras noche-Leonidas-CSAlberto",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-11T05:56:54.897000+00:00",
+      "date_done": "2026-11-17T22:07:15.219000+00:00",
+      "lead_time_hours": 160.17,
+      "url": "https://app.clickup.com/t/869fppzrk"
+    },
+    {
+      "task_id": "869fn9cqq",
+      "name": "Brief Zendi NOV SEMANA 1",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-30T22:51:28.737000+00:00",
+      "date_done": "2026-11-16T19:29:32.086000+00:00",
+      "lead_time_hours": 404.63,
+      "url": "https://app.clickup.com/t/869fn9cqq"
+    },
+    {
+      "task_id": "869fmdmjd",
+      "name": "BRIEF ZENDI OCT SEMANA 4",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-26T00:45:32.414000+00:00",
+      "date_done": "2026-11-11T23:29:42.712000+00:00",
+      "lead_time_hours": 406.74,
+      "url": "https://app.clickup.com/t/869fmdmjd"
+    },
+    {
+      "task_id": "869fhb776",
+      "name": "Adaptaciones Zendi",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-10-14T22:14:47.225000+00:00",
+      "date_done": "2026-11-11T23:28:37.917000+00:00",
+      "lead_time_hours": 673.23,
+      "url": "https://app.clickup.com/t/869fhb776"
+    },
+    {
+      "task_id": "869f639xm",
+      "name": "BRIEF ZENDI",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-09-23T10:59:59.792000+00:00",
+      "date_done": "2026-10-26T00:45:04.426000+00:00",
+      "lead_time_hours": 781.75,
+      "url": "https://app.clickup.com/t/869f639xm"
+    },
+    {
+      "task_id": "869f57c4f",
+      "name": "Brief semana 4",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-09-21T17:58:09.405000+00:00",
+      "date_done": "2026-10-26T00:45:02.819000+00:00",
+      "lead_time_hours": 822.78,
+      "url": "https://app.clickup.com/t/869f57c4f"
+    },
+    {
+      "task_id": "869f1r2t1",
+      "name": "Brief Semana 3",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-09-14T14:26:45.916000+00:00",
+      "date_done": "2026-09-21T17:57:57.371000+00:00",
+      "lead_time_hours": 171.52,
+      "url": "https://app.clickup.com/t/869f1r2t1"
+    },
+    {
+      "task_id": "869exxc7x",
+      "name": "Brief Lunes semana 2 Sep",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-09-07T06:58:08.003000+00:00",
+      "date_done": "2026-09-14T14:26:27.715000+00:00",
+      "lead_time_hours": 175.47,
+      "url": "https://app.clickup.com/t/869exxc7x"
+    },
+    {
+      "task_id": "869et6g1h",
+      "name": "BRIEF ELI JUEVES SEMANA 1 SEP",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-31T18:59:01.716000+00:00",
+      "date_done": "2026-09-07T06:57:44.061000+00:00",
+      "lead_time_hours": 155.98,
+      "url": "https://app.clickup.com/t/869et6g1h"
+    },
+    {
+      "task_id": "869erd9gq",
+      "name": "BRIEF ZENDI JUEVES SEMANA 4",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-29T06:56:24.008000+00:00",
+      "date_done": "2026-09-04T05:34:07.492000+00:00",
+      "lead_time_hours": 142.63,
+      "url": "https://app.clickup.com/t/869erd9gq"
+    },
+    {
+      "task_id": "869enr0jd",
+      "name": "Replicar los 3 mejores ads de GLUCORA",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-23T13:52:31.282000+00:00",
+      "date_done": "2026-08-29T06:57:22.442000+00:00",
+      "lead_time_hours": 137.08,
+      "url": "https://app.clickup.com/t/869enr0jd"
+    },
+    {
+      "task_id": "869enqz1z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — SOLUTION AWARE",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-23T13:44:57.900000+00:00",
+      "date_done": "2026-08-25T11:06:15.129000+00:00",
+      "lead_time_hours": 45.35,
+      "url": "https://app.clickup.com/t/869enqz1z"
+    },
+    {
+      "task_id": "869enqz0z",
+      "name": "Statics ZENDI · Replicar Eleveit MX — PROBLEM AWARE",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-23T13:44:52.862000+00:00",
+      "date_done": "2026-08-25T11:06:16.766000+00:00",
+      "lead_time_hours": 45.36,
+      "url": "https://app.clickup.com/t/869enqz0z"
+    },
+    {
+      "task_id": "869emuuaw",
+      "name": "GLENDA TRADUCCIONES",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-20T19:01:56.080000+00:00",
+      "date_done": "2026-08-21T06:03:14.029000+00:00",
+      "lead_time_hours": 11.02,
+      "url": "https://app.clickup.com/t/869emuuaw"
+    },
+    {
+      "task_id": "869embdpy",
+      "name": "BRIEF GLENDA- LUNES  SEMANA 3",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-20T07:21:13+00:00",
+      "date_done": "2026-08-29T02:43:21.230000+00:00",
+      "lead_time_hours": 211.37,
+      "url": "https://app.clickup.com/t/869embdpy"
+    },
+    {
+      "task_id": "869ejkbe5",
+      "name": "BRIEF GLENDA . JUEVES SEMANA 2",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-17T04:28:00.321000+00:00",
+      "date_done": "2026-08-29T02:43:18.809000+00:00",
+      "lead_time_hours": 286.26,
+      "url": "https://app.clickup.com/t/869ejkbe5"
+    },
+    {
+      "task_id": "869ejk9rw",
+      "name": "BRIEF ZENDI · JUEVES SEMANA 2",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-17T03:58:50.295000+00:00",
+      "date_done": "2026-08-22T08:30:32.453000+00:00",
+      "lead_time_hours": 124.53,
+      "url": "https://app.clickup.com/t/869ejk9rw"
+    },
+    {
+      "task_id": "869ejk9km",
+      "name": "BRIEF ZENDI - LUNES SEMANA 3",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-17T03:53:00.166000+00:00",
+      "date_done": "2026-08-29T07:24:20.094000+00:00",
+      "lead_time_hours": 291.52,
+      "url": "https://app.clickup.com/t/869ejk9km"
+    },
+    {
+      "task_id": "869ej7r09",
+      "name": "VSL 5 MIN ZENDI",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-14T17:51:02.025000+00:00",
+      "date_done": "2026-08-19T07:43:20.077000+00:00",
+      "lead_time_hours": 109.87,
+      "url": "https://app.clickup.com/t/869ej7r09"
+    },
+    {
+      "task_id": "869ehz0ye",
+      "name": "C - Rating Medico - ALBERT",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-14T07:09:57.401000+00:00",
+      "date_done": "2026-08-19T07:41:38.466000+00:00",
+      "lead_time_hours": 120.53,
+      "url": "https://app.clickup.com/t/869ehz0ye"
+    },
+    {
+      "task_id": "869ehyynx",
+      "name": "C- MUJER+45- AZUCAR/PESO -ALBERT",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-14T07:05:17.572000+00:00",
+      "date_done": "2026-08-21T06:01:28.160000+00:00",
+      "lead_time_hours": 166.94,
+      "url": "https://app.clickup.com/t/869ehyynx"
+    },
+    {
+      "task_id": "869ehyy2g",
+      "name": "C - Rating Medico - ALBERT",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-14T07:03:26.528000+00:00",
+      "date_done": "2026-08-19T07:41:40.340000+00:00",
+      "lead_time_hours": 120.64,
+      "url": "https://app.clickup.com/t/869ehyy2g"
+    },
+    {
+      "task_id": "869ehvwvx",
+      "name": "BRIEF GLENDA - LUNES SEMANA 2",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-13T19:57:30.718000+00:00",
+      "date_done": "2026-08-19T07:43:25.249000+00:00",
+      "lead_time_hours": 131.77,
+      "url": "https://app.clickup.com/t/869ehvwvx"
+    },
+    {
+      "task_id": "869ehvw10",
+      "name": "BRIEF ZENDI - LUNES SEMANA 2",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-13T19:51:02.825000+00:00",
+      "date_done": "2026-08-19T07:43:18.601000+00:00",
+      "lead_time_hours": 131.87,
+      "url": "https://app.clickup.com/t/869ehvw10"
+    },
+    {
+      "task_id": "869egfjex",
+      "name": "NIVELIA ADS",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-08-10T21:29:34.806000+00:00",
+      "date_done": "2026-08-13T19:50:33.054000+00:00",
+      "lead_time_hours": 70.35,
+      "url": "https://app.clickup.com/t/869egfjex"
+    },
+    {
+      "task_id": "869egee9e",
+      "name": "BRIEF ZENDI v3",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-10T19:13:37.080000+00:00",
+      "date_done": "2026-08-14T18:28:55.357000+00:00",
+      "lead_time_hours": 95.26,
+      "url": "https://app.clickup.com/t/869egee9e"
+    },
+    {
+      "task_id": "869eecnj5",
+      "name": "BRIEF ZENDI",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-05T18:25:48.628000+00:00",
+      "date_done": "2026-08-11T18:52:53.136000+00:00",
+      "lead_time_hours": 144.45,
+      "url": "https://app.clickup.com/t/869eecnj5"
+    },
+    {
+      "task_id": "869eap8v7",
+      "name": "Parches de Pechos GLENDA",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-28T18:20:44.552000+00:00",
+      "date_done": "2026-08-21T20:08:35.380000+00:00",
+      "lead_time_hours": 577.8,
+      "url": "https://app.clickup.com/t/869eap8v7"
+    },
+    {
+      "task_id": "869e8940g",
+      "name": "Short Adelgazante Glenda",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-07-22T23:11:24.016000+00:00",
+      "date_done": "2026-08-21T20:08:36.102000+00:00",
+      "lead_time_hours": 716.95,
+      "url": "https://app.clickup.com/t/869e8940g"
+    },
+    {
       "task_id": "8699xw061",
       "name": "Gráficos para Activación REUS RESEARCH",
       "client": "ZENDI",
@@ -12957,6 +13649,32 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "1an4hvw6zc1",
+      "name": "TOF-L72 Drama Ascensor ITER 1-Leonidas-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-21T10:29:35.171000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6zc1"
+    },
+    {
+      "task_id": "1an4hvw6yrx",
+      "name": "CARRUSELES-BF-PACK",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-11-20T22:59:59.916000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6yrx"
+    },
+    {
       "task_id": "1an4hvw6w1d",
       "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Gonzalo-CSDavid",
       "client": "HAIR BIOLABS",
@@ -13022,19 +13740,6 @@
       "url": "https://app.clickup.com/t/1an4hvw6kdk"
     },
     {
-      "task_id": "1an4hvw6ftg",
-      "name": "TOF-L72-C406 Dra AGA-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-18T10:36:10.473000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw6ftg"
-    },
-    {
       "task_id": "1an4hvw6evp",
       "name": "TOF-L72-C405 Proteger la raíz-Gonzalo-CSDavid",
       "client": "HAIR BIOLABS",
@@ -13048,12 +13753,26 @@
       "url": "https://app.clickup.com/t/1an4hvw6evp"
     },
     {
+      "task_id": "1an4hvw67dg",
+      "name": "TOF DRAMA ADS SET HAIR BIOLABS",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "aprobado",
+      "assignees": [
+        "Leonidas",
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-17T12:27:19.746000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw67dg"
+    },
+    {
       "task_id": "1an4hvw65d2",
       "name": "BOF-L72-C404 BFCM-Yesenia-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Yesenia Casas Usuga"
       ],
@@ -13074,19 +13793,6 @@
       "url": "https://app.clickup.com/t/1an4hvw65cy"
     },
     {
-      "task_id": "1an4hvw65cx",
-      "name": "TOF-L72-C179 ITER 3-Yesenia-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Yesenia Casas Usuga"
-      ],
-      "date_created": "2026-11-17T09:36:16.278000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw65cx"
-    },
-    {
       "task_id": "1an4hvw65av",
       "name": "TOF-L72-C405-Sing Mercadona-Gonzalo-CSDavid",
       "client": "HAIR BIOLABS",
@@ -13104,8 +13810,8 @@
       "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13113,30 +13819,17 @@
       "url": "https://app.clickup.com/t/1an4hvw6587"
     },
     {
-      "task_id": "1an4hvw61kh",
-      "name": "BOF-L68-C403 PROMO BFCM-VX-Cristian-CSDavid",
+      "task_id": "1an4hvw61kn",
+      "name": "BOF-PROMO BFCM-Alejandra-CSAlejandra",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
-        "Cristian Echeverri"
+        "Alejandra Ramirez"
       ],
-      "date_created": "2026-11-16T10:56:11.824000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw61kh"
-    },
-    {
-      "task_id": "869fpkprb",
-      "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-10T10:53:36.208000+00:00",
-      "url": "https://app.clickup.com/t/869fpkprb"
+      "date_created": "2026-11-16T10:57:49.469000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw61kn"
     },
     {
       "task_id": "869fpbv55",
@@ -13176,19 +13869,6 @@
       ],
       "date_created": "2026-11-04T08:15:20.614000+00:00",
       "url": "https://app.clickup.com/t/869fnuy1u"
-    },
-    {
-      "task_id": "869fn0g6n",
-      "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
-      "client": "HAIR BIOLABS",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Daniel Meneses (daniel Meneses)"
-      ],
-      "date_created": "2026-10-29T09:28:57.090000+00:00",
-      "url": "https://app.clickup.com/t/869fn0g6n"
     },
     {
       "task_id": "869fmvpx2",
@@ -13269,43 +13949,17 @@
       "url": "https://app.clickup.com/t/1an4hvw6fxp"
     },
     {
-      "task_id": "1an4hvw65d3",
-      "name": "MOF-L19-C40 BFCM-Yesenia-CSDavid",
+      "task_id": "1an4hvw6590",
+      "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
       "client": "HAIR BIOLABS MX",
       "list": "Producción USA",
       "category": "en_curso",
       "status": "en curso",
       "assignees": [
-        "Yesenia Casas Usuga"
-      ],
-      "date_created": "2026-11-17T09:38:45.506000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw65d3"
-    },
-    {
-      "task_id": "1an4hvw6590",
-      "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción USA",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
         "Cristian Echeverri"
       ],
       "date_created": "2026-11-17T09:14:39.322000+00:00",
       "url": "https://app.clickup.com/t/1an4hvw6590"
-    },
-    {
-      "task_id": "869fpbmju",
-      "name": "TOF-L18-C36 IA Educ-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción USA",
-      "category": "aprobado",
-      "status": "aprobado",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-08T10:17:14.699000+00:00",
-      "url": "https://app.clickup.com/t/869fpbmju"
     },
     {
       "task_id": "1an4hvw61qh",
@@ -13321,19 +13975,6 @@
       "url": "https://app.clickup.com/t/1an4hvw61qh"
     },
     {
-      "task_id": "1an4hvw61qc",
-      "name": "L16-Unboxing Pedido BF-VX #UGC-Cristian",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-16T11:13:39.801000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw61qc"
-    },
-    {
       "task_id": "1an4hvw61q5",
       "name": "L16-1+1 Caja BF-VX #UGC B-Roll-Cristian",
       "client": "Lyssoderma",
@@ -13347,19 +13988,6 @@
       "url": "https://app.clickup.com/t/1an4hvw61q5"
     },
     {
-      "task_id": "1an4hvw61n4",
-      "name": "L16-Rellenos Líneas de Marioneta-VX #VSL Autoridad-Cristian",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Cristian Echeverri"
-      ],
-      "date_created": "2026-11-16T11:05:34.831000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw61n4"
-    },
-    {
       "task_id": "869fpyp5v",
       "name": "L16-BOFU-BLACK FRIDAY-Alejandra",
       "client": "Lyssoderma",
@@ -13371,19 +13999,6 @@
       ],
       "date_created": "2026-11-13T10:13:48.760000+00:00",
       "url": "https://app.clickup.com/t/869fpyp5v"
-    },
-    {
-      "task_id": "869fptwbu",
-      "name": "Banner Pre-BlackFriday",
-      "client": "Lyssoderma",
-      "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-11-11T21:42:43.703000+00:00",
-      "url": "https://app.clickup.com/t/869fptwbu"
     },
     {
       "task_id": "869fn6pny",
@@ -13416,8 +14031,8 @@
       "name": "TR-L14-Nunca uses-Sephora-ITER2-V1-LATAM #UGC-Cristian",
       "client": "Lyssoderma",
       "list": "Producción (LATAM)",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13540,19 +14155,6 @@
       ],
       "date_created": "2026-10-27T11:38:21.905000+00:00",
       "url": "https://app.clickup.com/t/869fmndtq"
-    },
-    {
-      "task_id": "869fdr2eg",
-      "name": "L8-Mujer de 60 años-VX #UGC-Gonzalo",
-      "client": "Lyssoderma",
-      "list": "Producción (LATAM)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:36.333000+00:00",
-      "url": "https://app.clickup.com/t/869fdr2eg"
     },
     {
       "task_id": "869fdr2e0",
@@ -13683,33 +14285,6 @@
       ],
       "date_created": "2026-10-07T15:59:30.748000+00:00",
       "url": "https://app.clickup.com/t/869fdr2bd"
-    },
-    {
-      "task_id": "869fdr29y",
-      "name": "L1-C21-Comparación vs Marcas #B-Roll",
-      "client": "Lyssoderma",
-      "list": "Producción (LATAM)",
-      "category": "asignado",
-      "status": "assigned",
-      "assignees": [
-        "Olga Vasquez"
-      ],
-      "date_created": "2026-10-07T15:59:28.639000+00:00",
-      "url": "https://app.clickup.com/t/869fdr29y"
-    },
-    {
-      "task_id": "1an4hvw6qz6",
-      "name": "Portadas Black Friday Oferta",
-      "client": "Lyssoderma",
-      "list": "Diseño Gráfico",
-      "category": "asignado",
-      "status": "asignado",
-      "assignees": [
-        "Alejandra Ramirez",
-        "Gonzalo Millán"
-      ],
-      "date_created": "2026-11-19T15:19:15.558000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw6qz6"
     },
     {
       "task_id": "869fmq146",
@@ -13981,12 +14556,137 @@
       "url": "https://app.clickup.com/t/869dvtwap"
     },
     {
+      "task_id": "1an4hvw6kej",
+      "name": "MOFU_UVOLA_V2 · 10 Clon Atasco",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "status": "lanzar",
+      "assignees": [
+        "Leonidas",
+        "Jimay Montiel"
+      ],
+      "date_created": "2026-11-19T01:59:12.649000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6kej"
+    },
+    {
+      "task_id": "1an4hvw6keh",
+      "name": "MOFU_UVOLA_V2 · 09 Clon Panza dura",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "status": "lanzar",
+      "assignees": [
+        "Leonidas",
+        "Jimay Montiel"
+      ],
+      "date_created": "2026-11-19T01:59:11.690000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6keh"
+    },
+    {
+      "task_id": "1an4hvw6keg",
+      "name": "MOFU_UVOLA_V2 · 08 Clon Curandero",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Leonidas",
+        "Jimay Montiel"
+      ],
+      "date_created": "2026-11-19T01:59:10.721000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6keg"
+    },
+    {
+      "task_id": "1an4hvw6kef",
+      "name": "MOFU_UVOLA_V2 · 07 Clon Doctora",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "status": "lanzar",
+      "assignees": [
+        "Leonidas",
+        "Jimay Montiel"
+      ],
+      "date_created": "2026-11-19T01:59:09.577000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6kef"
+    },
+    {
+      "task_id": "1an4hvw6kee",
+      "name": "MOFU_UVOLA_V2 · 06 Clon Especialista",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "status": "lanzar",
+      "assignees": [
+        "Leonidas",
+        "Jimay Montiel"
+      ],
+      "date_created": "2026-11-19T01:59:08.272000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6kee"
+    },
+    {
+      "task_id": "1an4hvw6ke7",
+      "name": "TOF-LYMPHORA-L1 · TOF5 El Marro",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)",
+        "Leonidas"
+      ],
+      "date_created": "2026-11-19T01:57:19.632000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6ke7"
+    },
+    {
+      "task_id": "1an4hvw6ke6",
+      "name": "TOF-LYMPHORA-L1 · TOF4 El chofer",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)",
+        "Leonidas"
+      ],
+      "date_created": "2026-11-19T01:57:18.375000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6ke6"
+    },
+    {
+      "task_id": "1an4hvw6ke5",
+      "name": "TOF-LYMPHORA-L1 · TOF3 El Chuy de la laguna",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "status": "lanzar",
+      "assignees": [
+        "Daniel Meneses (daniel Meneses)",
+        "Leonidas"
+      ],
+      "date_created": "2026-11-19T01:57:16.942000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6ke5"
+    },
+    {
+      "task_id": "1an4hvw6j78",
+      "name": "MOFU_UVOLA_V2",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-18T15:46:45.946000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw6j78"
+    },
+    {
       "task_id": "1an4hvw6c7w",
       "name": "Static Black Friday Zendi",
       "client": "ZENDI",
       "list": "Producción ZENDI",
-      "category": "asignado",
-      "status": "asignado",
+      "category": "aprobado",
+      "status": "lanzar",
       "assignees": [
         "Alejandra Ramirez"
       ],
@@ -13994,12 +14694,25 @@
       "url": "https://app.clickup.com/t/1an4hvw6c7w"
     },
     {
+      "task_id": "1an4hvw64fn",
+      "name": "TOF-LYMPHORA-L1",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-16T23:05:37.500000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw64fn"
+    },
+    {
       "task_id": "869fq0pam",
       "name": "MOF-L73-C02 Dos Trabajadoras Black Friday-Eli-CSGil",
       "client": "ZENDI",
       "list": "Producción ZENDI",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "lanzar",
       "assignees": [
         "Leonidas"
       ],
@@ -14007,17 +14720,56 @@
       "url": "https://app.clickup.com/t/869fq0pam"
     },
     {
+      "task_id": "869fq0ny1",
+      "name": "BOF-L72-C01 Trabajadora Bodega-Cristian-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-14T00:18:05.979000+00:00",
+      "url": "https://app.clickup.com/t/869fq0ny1"
+    },
+    {
+      "task_id": "869fpwkaf",
+      "name": "TOF-L70-C03 4 Semanas-Leonidas-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-12T17:34:05.773000+00:00",
+      "url": "https://app.clickup.com/t/869fpwkaf"
+    },
+    {
       "task_id": "869fpu72p",
       "name": "BOF-L70-C02 Disculpa Fundador-Leonidas-CSGil",
       "client": "ZENDI",
       "list": "Producción ZENDI",
-      "category": "revision",
-      "status": "revisión",
+      "category": "aprobado",
+      "status": "lanzar",
       "assignees": [
         "Leonidas"
       ],
       "date_created": "2026-11-12T03:38:57.716000+00:00",
       "url": "https://app.clickup.com/t/869fpu72p"
+    },
+    {
+      "task_id": "869epbxm5",
+      "name": "BRIEF ZENDI JUEVES SEMANA 4",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "en_curso",
+      "status": "en proceso",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-08-24T21:41:22.161000+00:00",
+      "url": "https://app.clickup.com/t/869epbxm5"
     },
     {
       "task_id": "869fntx1c",
@@ -17694,15 +18446,355 @@
       "category": "completado",
       "assignee": "Dayana Caicedo",
       "url": "https://app.clickup.com/t/869fpgwkx"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6587",
+      "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw6587"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6590",
+      "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción USA",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw6590"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw63ym",
+      "name": "TR-L14-Nunca uses-Sephora-ITER2-V1-LATAM #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw63ym"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw67dg",
+      "name": "TOF DRAMA ADS SET HAIR BIOLABS",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw67dg"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw67dg",
+      "name": "TOF DRAMA ADS SET HAIR BIOLABS",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Ester Vosniuk",
+      "url": "https://app.clickup.com/t/1an4hvw67dg"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw65d2",
+      "name": "BOF-L72-C404 BFCM-Yesenia-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Yesenia Casas Usuga",
+      "url": "https://app.clickup.com/t/1an4hvw65d2"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw61kn",
+      "name": "BOF-PROMO BFCM-Alejandra-CSAlejandra",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/1an4hvw61kn"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kej",
+      "name": "MOFU_UVOLA_V2 · 10 Clon Atasco",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6kej"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kej",
+      "name": "MOFU_UVOLA_V2 · 10 Clon Atasco",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Jimay Montiel",
+      "url": "https://app.clickup.com/t/1an4hvw6kej"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6keh",
+      "name": "MOFU_UVOLA_V2 · 09 Clon Panza dura",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6keh"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6keh",
+      "name": "MOFU_UVOLA_V2 · 09 Clon Panza dura",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Jimay Montiel",
+      "url": "https://app.clickup.com/t/1an4hvw6keh"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kef",
+      "name": "MOFU_UVOLA_V2 · 07 Clon Doctora",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6kef"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kef",
+      "name": "MOFU_UVOLA_V2 · 07 Clon Doctora",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Jimay Montiel",
+      "url": "https://app.clickup.com/t/1an4hvw6kef"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kee",
+      "name": "MOFU_UVOLA_V2 · 06 Clon Especialista",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6kee"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6kee",
+      "name": "MOFU_UVOLA_V2 · 06 Clon Especialista",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Jimay Montiel",
+      "url": "https://app.clickup.com/t/1an4hvw6kee"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke5",
+      "name": "TOF-LYMPHORA-L1 · TOF3 El Chuy de la laguna",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/1an4hvw6ke5"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke5",
+      "name": "TOF-LYMPHORA-L1 · TOF3 El Chuy de la laguna",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6ke5"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6c7w",
+      "name": "Static Black Friday Zendi",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Alejandra Ramirez",
+      "url": "https://app.clickup.com/t/1an4hvw6c7w"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fq0pam",
+      "name": "MOF-L73-C02 Dos Trabajadoras Black Friday-Eli-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869fq0pam"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpu72p",
+      "name": "BOF-L70-C02 Disculpa Fundador-Leonidas-CSGil",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "aprobado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/869fpu72p"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ftg",
+      "name": "TOF-L72-C406 Dra AGA-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/1an4hvw6ftg"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw65cx",
+      "name": "TOF-L72-C179 ITER 3-Yesenia-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Yesenia Casas Usuga",
+      "url": "https://app.clickup.com/t/1an4hvw65cx"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw61kh",
+      "name": "BOF-L68-C403 PROMO BFCM-VX-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw61kh"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpnrdw",
+      "name": "BOF-L71-C414 BF Escalera-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpnrdw"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpnrdt",
+      "name": "BOF-L71-C413 BF Almacén-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpnrdt"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpnrdr",
+      "name": "BOF-L71-C412 BF Caja Trío-Cristian-CSAlberto",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpnrdr"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpkprb",
+      "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/869fpkprb"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fn0g6n",
+      "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/869fn0g6n"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fpbmju",
+      "name": "TOF-L18-C36 IA Educ-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS MX",
+      "list": "Producción USA",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/869fpbmju"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "869fptwbu",
+      "name": "Banner Pre-BlackFriday",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869fptwbu"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke4",
+      "name": "TOF-LYMPHORA-L1 · TOF2 Fiesta swinger",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "completado",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/1an4hvw6ke4"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke4",
+      "name": "TOF-LYMPHORA-L1 · TOF2 Fiesta swinger",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "completado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6ke4"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke3",
+      "name": "TOF-LYMPHORA-L1 · TOF1 Fiesta de llaves",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "completado",
+      "assignee": "Daniel Meneses (daniel Meneses)",
+      "url": "https://app.clickup.com/t/1an4hvw6ke3"
+    },
+    {
+      "ts": "2026-11-21T13:31:24.002727+00:00",
+      "task_id": "1an4hvw6ke3",
+      "name": "TOF-LYMPHORA-L1 · TOF1 Fiesta de llaves",
+      "client": "ZENDI",
+      "list": "Producción ZENDI",
+      "category": "completado",
+      "assignee": "Leonidas",
+      "url": "https://app.clickup.com/t/1an4hvw6ke3"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1336,
-    "total_completed": 991,
-    "total_completed_with_dates": 991,
-    "total_completed_with_done": 991,
-    "total_currently_assigned": 109,
-    "total_transitions_logged": 331,
-    "total_editors": 31
+    "total_tasks_in_snapshot": 1339,
+    "total_completed": 1044,
+    "total_completed_with_dates": 1044,
+    "total_completed_with_done": 1044,
+    "total_currently_assigned": 113,
+    "total_transitions_logged": 365,
+    "total_editors": 32
   }
 }

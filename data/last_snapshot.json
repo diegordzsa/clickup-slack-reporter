@@ -1,6 +1,39 @@
 {
-  "timestamp": "2026-11-20T14:05:01.973032",
+  "timestamp": "2026-11-21T13:31:01.522253",
   "tasks": {
+    "1an4hvw6zer": {
+      "name": "Concepto propio - #3 Pelo a pelo MUJER",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw6zer",
+      "date_created": "2026-11-21T12:07:19.149000+00:00",
+      "date_updated": "2026-11-21T12:07:32.843000+00:00",
+      "date_done": null
+    },
+    "1an4hvw6zc1": {
+      "name": "TOF-L72 Drama Ascensor ITER 1-Leonidas-CSDavid",
+      "status": "assigned",
+      "assignee": "Leonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw6zc1",
+      "date_created": "2026-11-21T10:29:35.171000+00:00",
+      "date_updated": "2026-11-21T10:29:49.291000+00:00",
+      "date_done": null
+    },
+    "1an4hvw6yrx": {
+      "name": "CARRUSELES-BF-PACK",
+      "status": "assigned",
+      "assignee": "Alejandra Ramirez",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw6yrx",
+      "date_created": "2026-11-20T22:59:59.916000+00:00",
+      "date_updated": "2026-11-20T23:00:11.124000+00:00",
+      "date_done": null
+    },
     "1an4hvw6w1d": {
       "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Gonzalo-CSDavid",
       "status": "assigned",
@@ -64,18 +97,18 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6kdk",
       "date_created": "2026-11-19T01:16:43.141000+00:00",
-      "date_updated": "2026-11-19T01:21:45.138000+00:00",
+      "date_updated": "2026-11-21T03:04:12.176000+00:00",
       "date_done": null
     },
     "1an4hvw6ftg": {
       "name": "TOF-L72-C406 Dra AGA-Gonzalo-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6ftg",
       "date_created": "2026-11-18T10:36:10.473000+00:00",
-      "date_updated": "2026-11-20T10:31:35.181000+00:00",
+      "date_updated": "2026-11-20T23:37:52.915000+00:00",
       "date_done": "2026-11-20T10:31:24.586000+00:00"
     },
     "1an4hvw6evp": {
@@ -91,25 +124,25 @@
     },
     "1an4hvw67dg": {
       "name": "TOF DRAMA ADS SET HAIR BIOLABS",
-      "status": "draft",
-      "assignee": "Ester Vosniuk, Leonidas",
+      "status": "aprobado",
+      "assignee": "Leonidas, Ester Vosniuk",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw67dg",
       "date_created": "2026-11-17T12:27:19.746000+00:00",
-      "date_updated": "2026-11-18T18:06:40.696000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T09:00:18.490000+00:00",
+      "date_done": "2026-11-21T09:00:18.490000+00:00"
     },
     "1an4hvw65d2": {
       "name": "BOF-L72-C404 BFCM-Yesenia-CSDavid",
-      "status": "revisión",
+      "status": "aprobado",
       "assignee": "Yesenia Casas Usuga",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw65d2",
       "date_created": "2026-11-17T09:38:43.373000+00:00",
-      "date_updated": "2026-11-20T10:35:35.934000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T09:00:57.364000+00:00",
+      "date_done": "2026-11-21T09:00:57.364000+00:00"
     },
     "1an4hvw65cy": {
       "name": "TOF-L72-C179 ITER 3-Cristian-CSDavid",
@@ -124,13 +157,13 @@
     },
     "1an4hvw65cx": {
       "name": "TOF-L72-C179 ITER 3-Yesenia-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Yesenia Casas Usuga",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw65cx",
       "date_created": "2026-11-17T09:36:16.278000+00:00",
-      "date_updated": "2026-11-20T10:33:23.957000+00:00",
+      "date_updated": "2026-11-20T21:03:52.393000+00:00",
       "date_done": "2026-11-20T10:32:58.571000+00:00"
     },
     "1an4hvw65av": {
@@ -146,35 +179,35 @@
     },
     "1an4hvw6587": {
       "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6587",
       "date_created": "2026-11-17T09:06:49.795000+00:00",
-      "date_updated": "2026-11-17T09:08:23.483000+00:00",
+      "date_updated": "2026-11-20T17:38:25.951000+00:00",
       "date_done": null
     },
     "1an4hvw61kn": {
       "name": "BOF-PROMO BFCM-Alejandra-CSAlejandra",
-      "status": "draft",
+      "status": "aprobado",
       "assignee": "Alejandra Ramirez",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw61kn",
       "date_created": "2026-11-16T10:57:49.469000+00:00",
-      "date_updated": "2026-11-20T01:29:18.850000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T09:00:50.792000+00:00",
+      "date_done": "2026-11-21T09:00:50.792000+00:00"
     },
     "1an4hvw61kh": {
       "name": "BOF-L68-C403 PROMO BFCM-VX-Cristian-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw61kh",
       "date_created": "2026-11-16T10:56:11.824000+00:00",
-      "date_updated": "2026-11-20T10:18:48.058000+00:00",
+      "date_updated": "2026-11-20T20:46:02.985000+00:00",
       "date_done": "2026-11-20T10:18:19.438000+00:00"
     },
     "1an4hvw618p": {
@@ -256,36 +289,36 @@
     },
     "869fpnrdw": {
       "name": "BOF-L71-C414 BF Escalera-Cristian-CSAlberto",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnrdw",
       "date_created": "2026-11-10T17:30:12.546000+00:00",
-      "date_updated": "2026-11-16T08:12:47.202000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T09:43:13.265000+00:00",
+      "date_done": "2026-11-21T08:59:05.694000+00:00"
     },
     "869fpnrdt": {
       "name": "BOF-L71-C413 BF Almacén-Cristian-CSAlberto",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnrdt",
       "date_created": "2026-11-10T17:30:10.791000+00:00",
-      "date_updated": "2026-11-16T06:07:13.710000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T09:36:47.160000+00:00",
+      "date_done": "2026-11-21T08:59:07.611000+00:00"
     },
     "869fpnrdr": {
       "name": "BOF-L71-C412 BF Caja Trío-Cristian-CSAlberto",
-      "status": "draft",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpnrdr",
       "date_created": "2026-11-10T17:30:09.117000+00:00",
-      "date_updated": "2026-11-16T00:08:34.730000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T10:31:39.225000+00:00",
+      "date_done": "2026-11-21T08:59:03.704000+00:00"
     },
     "869fpnrdn": {
       "name": "BOF-L71-C411 BF Etiquetadora-Cristian-CSAlberto",
@@ -311,13 +344,13 @@
     },
     "869fpkprb": {
       "name": "TOF-L71-C352 Storytelling ITER 3-Cristian-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fpkprb",
       "date_created": "2026-11-10T10:53:36.208000+00:00",
-      "date_updated": "2026-11-20T10:17:34.905000+00:00",
+      "date_updated": "2026-11-20T23:33:07.678000+00:00",
       "date_done": "2026-11-20T10:16:35.504000+00:00"
     },
     "869fpj7y4": {
@@ -509,13 +542,13 @@
     },
     "869fn0g6n": {
       "name": "MOF-L69-C426  Esqueleto-Daniel-CSDavid-VX",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Daniel Meneses (Daniel Meneses)",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fn0g6n",
       "date_created": "2026-10-29T09:28:57.090000+00:00",
-      "date_updated": "2026-11-17T16:51:00.711000+00:00",
+      "date_updated": "2026-11-20T23:51:12.144000+00:00",
       "date_done": "2026-11-17T16:50:48.844000+00:00"
     },
     "869fn0d5k": {
@@ -10156,24 +10189,24 @@
     },
     "1an4hvw65d3": {
       "name": "MOF-L19-C40 BFCM-Yesenia-CSDavid",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Yesenia Casas Usuga",
       "client": "HAIR BIOLABS MX",
       "list": "Producción USA",
       "url": "https://app.clickup.com/t/1an4hvw65d3",
       "date_created": "2026-11-17T09:38:45.506000+00:00",
-      "date_updated": "2026-11-20T03:00:00.592000+00:00",
+      "date_updated": "2026-11-20T20:22:28.741000+00:00",
       "date_done": null
     },
     "1an4hvw6590": {
       "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "HAIR BIOLABS MX",
       "list": "Producción USA",
       "url": "https://app.clickup.com/t/1an4hvw6590",
       "date_created": "2026-11-17T09:14:39.322000+00:00",
-      "date_updated": "2026-11-17T09:14:49.666000+00:00",
+      "date_updated": "2026-11-20T17:38:31.421000+00:00",
       "date_done": null
     },
     "869fpj7zc": {
@@ -10200,13 +10233,13 @@
     },
     "869fpbmju": {
       "name": "TOF-L18-C36 IA Educ-Gonzalo-CSDavid",
-      "status": "aprobado",
+      "status": "testado",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS MX",
       "list": "Producción USA",
       "url": "https://app.clickup.com/t/869fpbmju",
       "date_created": "2026-11-08T10:17:14.699000+00:00",
-      "date_updated": "2026-11-18T00:49:50.287000+00:00",
+      "date_updated": "2026-11-21T00:15:39.808000+00:00",
       "date_done": "2026-11-17T19:08:13.995000+00:00"
     },
     "869fnvvgg": {
@@ -11394,18 +11427,18 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw61qf",
       "date_created": "2026-11-16T11:13:54.236000+00:00",
-      "date_updated": "2026-11-19T23:02:44.173000+00:00",
+      "date_updated": "2026-11-20T23:14:36.055000+00:00",
       "date_done": null
     },
     "1an4hvw61qc": {
       "name": "L16-Unboxing Pedido BF-VX #UGC-Cristian",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw61qc",
       "date_created": "2026-11-16T11:13:39.801000+00:00",
-      "date_updated": "2026-11-18T23:00:07.141000+00:00",
+      "date_updated": "2026-11-20T17:38:11.476000+00:00",
       "date_done": null
     },
     "1an4hvw61qa": {
@@ -11443,13 +11476,13 @@
     },
     "1an4hvw61n4": {
       "name": "L16-Rellenos Líneas de Marioneta-VX #VSL Autoridad-Cristian",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw61n4",
       "date_created": "2026-11-16T11:05:34.831000+00:00",
-      "date_updated": "2026-11-18T23:00:18.720000+00:00",
+      "date_updated": "2026-11-21T01:58:43.197000+00:00",
       "date_done": null
     },
     "869fpyp5v": {
@@ -11482,18 +11515,18 @@
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fptwrb",
       "date_created": "2026-11-11T21:59:01.911000+00:00",
-      "date_updated": "2026-11-20T03:18:07.438000+00:00",
+      "date_updated": "2026-11-20T23:14:40.058000+00:00",
       "date_done": null
     },
     "869fptwbu": {
       "name": "Banner Pre-BlackFriday",
-      "status": "approved",
+      "status": "testado",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
       "list": "Producción",
       "url": "https://app.clickup.com/t/869fptwbu",
       "date_created": "2026-11-11T21:42:43.703000+00:00",
-      "date_updated": "2026-11-14T07:26:43.319000+00:00",
+      "date_updated": "2026-11-20T23:16:42.454000+00:00",
       "date_done": "2026-11-14T07:26:43.319000+00:00"
     },
     "869fpgwnc": {
@@ -12939,13 +12972,13 @@
     },
     "1an4hvw63ym": {
       "name": "TR-L14-Nunca uses-Sephora-ITER2-V1-LATAM #UGC-Cristian",
-      "status": "assigned",
+      "status": "en curso",
       "assignee": "Cristian Echeverri",
       "client": "Lyssoderma",
       "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/1an4hvw63ym",
       "date_created": "2026-11-16T18:15:59.080000+00:00",
-      "date_updated": "2026-11-16T18:28:20.301000+00:00",
+      "date_updated": "2026-11-20T17:38:19.161000+00:00",
       "date_done": null
     },
     "1an4hvw63xe": {
@@ -13049,13 +13082,13 @@
     },
     "869fdr2eg": {
       "name": "L8-Mujer de 60 años-VX #UGC-Gonzalo",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
       "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr2eg",
       "date_created": "2026-10-07T15:59:36.333000+00:00",
-      "date_updated": "2026-10-27T11:40:32.111000+00:00",
+      "date_updated": "2026-11-21T01:49:17.259000+00:00",
       "date_done": null
     },
     "869fdr2e0": {
@@ -13214,13 +13247,13 @@
     },
     "869fdr29y": {
       "name": "L1-C21-Comparación vs Marcas #B-Roll",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Olga Vasquez",
       "client": "Lyssoderma",
       "list": "Producción (LATAM)",
       "url": "https://app.clickup.com/t/869fdr29y",
       "date_created": "2026-10-07T15:59:28.639000+00:00",
-      "date_updated": "2026-10-27T11:34:36.356000+00:00",
+      "date_updated": "2026-11-21T01:49:25.824000+00:00",
       "date_done": null
     },
     "869fdr26m": {
@@ -13236,13 +13269,13 @@
     },
     "1an4hvw6qz6": {
       "name": "Portadas Black Friday Oferta",
-      "status": "asignado",
+      "status": "borrador",
       "assignee": "Alejandra Ramirez, Gonzalo Millán",
       "client": "Lyssoderma",
       "list": "Diseño Gráfico",
       "url": "https://app.clickup.com/t/1an4hvw6qz6",
       "date_created": "2026-11-19T15:19:15.558000+00:00",
-      "date_updated": "2026-11-19T15:22:32.632000+00:00",
+      "date_updated": "2026-11-20T17:01:41.079000+00:00",
       "date_done": null
     },
     "869fmq146": {
@@ -13522,25 +13555,25 @@
     },
     "1an4hvw6kej": {
       "name": "MOFU_UVOLA_V2 · 10 Clon Atasco",
-      "status": "borrador",
+      "status": "lanzar",
       "assignee": "Leonidas, Jimay Montiel",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6kej",
       "date_created": "2026-11-19T01:59:12.649000+00:00",
-      "date_updated": "2026-11-20T11:14:50.106000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:26:53.616000+00:00",
+      "date_done": "2026-11-21T03:26:53.616000+00:00"
     },
     "1an4hvw6keh": {
       "name": "MOFU_UVOLA_V2 · 09 Clon Panza dura",
-      "status": "borrador",
+      "status": "lanzar",
       "assignee": "Leonidas, Jimay Montiel",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6keh",
       "date_created": "2026-11-19T01:59:11.690000+00:00",
-      "date_updated": "2026-11-20T11:14:48.841000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:26:18.309000+00:00",
+      "date_done": "2026-11-21T03:26:18.309000+00:00"
     },
     "1an4hvw6keg": {
       "name": "MOFU_UVOLA_V2 · 08 Clon Curandero",
@@ -13550,30 +13583,30 @@
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6keg",
       "date_created": "2026-11-19T01:59:10.721000+00:00",
-      "date_updated": "2026-11-20T11:14:36.437000+00:00",
+      "date_updated": "2026-11-21T03:50:48.570000+00:00",
       "date_done": null
     },
     "1an4hvw6kef": {
       "name": "MOFU_UVOLA_V2 · 07 Clon Doctora",
-      "status": "borrador",
+      "status": "lanzar",
       "assignee": "Leonidas, Jimay Montiel",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6kef",
       "date_created": "2026-11-19T01:59:09.577000+00:00",
-      "date_updated": "2026-11-20T11:14:47.445000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:25:21.768000+00:00",
+      "date_done": "2026-11-21T03:25:21.768000+00:00"
     },
     "1an4hvw6kee": {
       "name": "MOFU_UVOLA_V2 · 06 Clon Especialista",
-      "status": "borrador",
+      "status": "lanzar",
       "assignee": "Leonidas, Jimay Montiel",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6kee",
       "date_created": "2026-11-19T01:59:08.272000+00:00",
-      "date_updated": "2026-11-20T11:14:46.239000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:23:15.710000+00:00",
+      "date_done": "2026-11-21T03:23:15.710000+00:00"
     },
     "1an4hvw6ke7": {
       "name": "TOF-LYMPHORA-L1 · TOF5 El Marro",
@@ -13599,35 +13632,35 @@
     },
     "1an4hvw6ke5": {
       "name": "TOF-LYMPHORA-L1 · TOF3 El Chuy de la laguna",
-      "status": "borrador",
+      "status": "lanzar",
       "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6ke5",
       "date_created": "2026-11-19T01:57:16.942000+00:00",
-      "date_updated": "2026-11-20T11:42:00.663000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:27:36.951000+00:00",
+      "date_done": "2026-11-21T03:27:36.951000+00:00"
     },
     "1an4hvw6ke4": {
       "name": "TOF-LYMPHORA-L1 · TOF2 Fiesta swinger",
-      "status": "lanzar",
+      "status": "lanzado-hecho",
       "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6ke4",
       "date_created": "2026-11-19T01:57:15.826000+00:00",
-      "date_updated": "2026-11-19T19:10:16.407000+00:00",
+      "date_updated": "2026-11-21T03:19:08.079000+00:00",
       "date_done": "2026-11-19T19:10:16.407000+00:00"
     },
     "1an4hvw6ke3": {
       "name": "TOF-LYMPHORA-L1 · TOF1 Fiesta de llaves",
-      "status": "lanzar",
+      "status": "lanzado-hecho",
       "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6ke3",
       "date_created": "2026-11-19T01:56:59.866000+00:00",
-      "date_updated": "2026-11-19T19:14:07.982000+00:00",
+      "date_updated": "2026-11-21T03:19:06.249000+00:00",
       "date_done": "2026-11-19T19:14:07.982000+00:00"
     },
     "1an4hvw6j78": {
@@ -13654,14 +13687,14 @@
     },
     "1an4hvw6c7w": {
       "name": "Static Black Friday Zendi",
-      "status": "asignado",
+      "status": "lanzar",
       "assignee": "Alejandra Ramirez",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6c7w",
       "date_created": "2026-11-17T21:48:41.923000+00:00",
-      "date_updated": "2026-11-17T21:50:10.800000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:59:07.026000+00:00",
+      "date_done": "2026-11-21T03:19:04.042000+00:00"
     },
     "1an4hvw64fn": {
       "name": "TOF-LYMPHORA-L1",
@@ -13720,14 +13753,14 @@
     },
     "869fq0pam": {
       "name": "MOF-L73-C02 Dos Trabajadoras Black Friday-Eli-CSGil",
-      "status": "revisión",
+      "status": "lanzar",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fq0pam",
       "date_created": "2026-11-14T00:53:38.377000+00:00",
-      "date_updated": "2026-11-19T17:04:03.774000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:20:10.794000+00:00",
+      "date_done": "2026-11-21T03:20:10.794000+00:00"
     },
     "869fq0p82": {
       "name": "MOF-L73-C01 Unboxing Black Friday-Eli-CSGil",
@@ -13797,14 +13830,14 @@
     },
     "869fpu72p": {
       "name": "BOF-L70-C02 Disculpa Fundador-Leonidas-CSGil",
-      "status": "revisión",
+      "status": "lanzar",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fpu72p",
       "date_created": "2026-11-12T03:38:57.716000+00:00",
-      "date_updated": "2026-11-19T06:41:32.713000+00:00",
-      "date_done": null
+      "date_updated": "2026-11-21T03:21:15.014000+00:00",
+      "date_done": "2026-11-21T03:21:15.014000+00:00"
     },
     "869fpu5gv": {
       "name": "BOF-L70-C01 Testimonio Maria-Leonidas-CSGil",
