@@ -1,6 +1,28 @@
 {
-  "timestamp": "2026-11-21T13:31:01.522253",
+  "timestamp": "2026-11-22T13:24:19.629974",
   "tasks": {
+    "1an4hvw706y": {
+      "name": "Concepto Propio - #5- ITER CASTRACION -mujeres-CsGonzalo",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw706y",
+      "date_created": "2026-11-21T19:37:36.114000+00:00",
+      "date_updated": "2026-11-21T19:37:59.377000+00:00",
+      "date_done": null
+    },
+    "1an4hvw705p": {
+      "name": "Concepto Propio - #4 - IA mujeres USA- VOZ NEUTRA-CsGonzalo",
+      "status": "draft",
+      "assignee": "Gonzalo Flores",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "url": "https://app.clickup.com/t/1an4hvw705p",
+      "date_created": "2026-11-21T18:53:49.850000+00:00",
+      "date_updated": "2026-11-21T18:54:16.772000+00:00",
+      "date_done": null
+    },
     "1an4hvw6zer": {
       "name": "Concepto propio - #3 Pelo a pelo MUJER",
       "status": "draft",
@@ -36,13 +58,13 @@
     },
     "1an4hvw6w1d": {
       "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Gonzalo-CSDavid",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6w1d",
       "date_created": "2026-11-20T08:58:57.296000+00:00",
-      "date_updated": "2026-11-20T08:59:09.966000+00:00",
+      "date_updated": "2026-11-21T15:52:16.093000+00:00",
       "date_done": null
     },
     "1an4hvw6w1a": {
@@ -69,35 +91,35 @@
     },
     "1an4hvw6kdq": {
       "name": "HAIRES · CLON 5 «El carné» (deportivo y policía) · edición (S47)",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Ester Vosniuk",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6kdq",
       "date_created": "2026-11-19T01:27:19.365000+00:00",
-      "date_updated": "2026-11-19T02:10:59.571000+00:00",
+      "date_updated": "2026-11-22T00:52:44.214000+00:00",
       "date_done": null
     },
     "1an4hvw6kdp": {
       "name": "HAIRES · CLON 2 «Injerto» · edición (S47)",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Ester Vosniuk",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6kdp",
       "date_created": "2026-11-19T01:27:17.542000+00:00",
-      "date_updated": "2026-11-19T01:37:22.943000+00:00",
+      "date_updated": "2026-11-22T00:52:21.405000+00:00",
       "date_done": null
     },
     "1an4hvw6kdk": {
       "name": "HAIRES · CLON 1 «Quiero el divorcio» · drama 6:20 · edición (S47)",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Ester Vosniuk",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6kdk",
       "date_created": "2026-11-19T01:16:43.141000+00:00",
-      "date_updated": "2026-11-21T03:04:12.176000+00:00",
+      "date_updated": "2026-11-22T00:51:36.193000+00:00",
       "date_done": null
     },
     "1an4hvw6ftg": {
@@ -113,13 +135,13 @@
     },
     "1an4hvw6evp": {
       "name": "TOF-L72-C405 Proteger la raíz-Gonzalo-CSDavid",
-      "status": "en curso",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw6evp",
       "date_created": "2026-11-18T10:02:10.174000+00:00",
-      "date_updated": "2026-11-20T10:47:46.181000+00:00",
+      "date_updated": "2026-11-22T03:58:06.105000+00:00",
       "date_done": null
     },
     "1an4hvw67dg": {
@@ -168,13 +190,13 @@
     },
     "1an4hvw65av": {
       "name": "TOF-L72-C405-Sing Mercadona-Gonzalo-CSDavid",
-      "status": "revisión",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS",
       "list": "Producción",
       "url": "https://app.clickup.com/t/1an4hvw65av",
       "date_created": "2026-11-17T09:27:44.113000+00:00",
-      "date_updated": "2026-11-20T07:56:58.263000+00:00",
+      "date_updated": "2026-11-21T20:25:55.280000+00:00",
       "date_done": null
     },
     "1an4hvw6587": {
@@ -10145,13 +10167,13 @@
     },
     "1an4hvw6w2g": {
       "name": "BOF-L19-C43 Etiquetadora-Gonzalo-CSDavid",
-      "status": "assigned",
+      "status": "draft",
       "assignee": "Gonzalo Flores",
       "client": "HAIR BIOLABS MX",
       "list": "Producción USA",
       "url": "https://app.clickup.com/t/1an4hvw6w2g",
       "date_created": "2026-11-20T09:08:36.138000+00:00",
-      "date_updated": "2026-11-20T09:08:56.502000+00:00",
+      "date_updated": "2026-11-21T16:07:34.120000+00:00",
       "date_done": null
     },
     "1an4hvw6w2f": {
@@ -13577,13 +13599,13 @@
     },
     "1an4hvw6keg": {
       "name": "MOFU_UVOLA_V2 · 08 Clon Curandero",
-      "status": "en proceso",
+      "status": "borrador",
       "assignee": "Leonidas, Jimay Montiel",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6keg",
       "date_created": "2026-11-19T01:59:10.721000+00:00",
-      "date_updated": "2026-11-21T03:50:48.570000+00:00",
+      "date_updated": "2026-11-21T19:28:59.598000+00:00",
       "date_done": null
     },
     "1an4hvw6kef": {
@@ -13610,24 +13632,24 @@
     },
     "1an4hvw6ke7": {
       "name": "TOF-LYMPHORA-L1 · TOF5 El Marro",
-      "status": "en proceso",
+      "status": "borrador",
       "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6ke7",
       "date_created": "2026-11-19T01:57:19.632000+00:00",
-      "date_updated": "2026-11-19T01:57:36.007000+00:00",
+      "date_updated": "2026-11-22T12:49:25.569000+00:00",
       "date_done": null
     },
     "1an4hvw6ke6": {
       "name": "TOF-LYMPHORA-L1 · TOF4 El chofer",
-      "status": "en proceso",
+      "status": "borrador",
       "assignee": "Daniel Meneses (Daniel Meneses), Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/1an4hvw6ke6",
       "date_created": "2026-11-19T01:57:18.375000+00:00",
-      "date_updated": "2026-11-19T01:57:34.607000+00:00",
+      "date_updated": "2026-11-21T22:50:34.013000+00:00",
       "date_done": null
     },
     "1an4hvw6ke5": {
@@ -13663,17 +13685,6 @@
       "date_updated": "2026-11-21T03:19:06.249000+00:00",
       "date_done": "2026-11-19T19:14:07.982000+00:00"
     },
-    "1an4hvw6j78": {
-      "name": "MOFU_UVOLA_V2",
-      "status": "en proceso",
-      "assignee": "Leonidas",
-      "client": "ZENDI",
-      "list": "Producción ZENDI",
-      "url": "https://app.clickup.com/t/1an4hvw6j78",
-      "date_created": "2026-11-18T15:46:45.946000+00:00",
-      "date_updated": "2026-11-19T01:59:18.018000+00:00",
-      "date_done": null
-    },
     "1an4hvw6c9n": {
       "name": "Static Black Friday",
       "status": "lanzado-hecho",
@@ -13695,17 +13706,6 @@
       "date_created": "2026-11-17T21:48:41.923000+00:00",
       "date_updated": "2026-11-21T03:59:07.026000+00:00",
       "date_done": "2026-11-21T03:19:04.042000+00:00"
-    },
-    "1an4hvw64fn": {
-      "name": "TOF-LYMPHORA-L1",
-      "status": "en proceso",
-      "assignee": "Leonidas",
-      "client": "ZENDI",
-      "list": "Producción ZENDI",
-      "url": "https://app.clickup.com/t/1an4hvw64fn",
-      "date_created": "2026-11-16T23:05:37.500000+00:00",
-      "date_updated": "2026-11-19T01:58:11.260000+00:00",
-      "date_done": null
     },
     "1an4hvw64fd": {
       "name": "MOF-REPLICAS NUVOLA-L1",
@@ -13819,13 +13819,13 @@
     },
     "869fpwkaf": {
       "name": "TOF-L70-C03 4 Semanas-Leonidas-CSGil",
-      "status": "en proceso",
+      "status": "borrador",
       "assignee": "Leonidas",
       "client": "ZENDI",
       "list": "Producción ZENDI",
       "url": "https://app.clickup.com/t/869fpwkaf",
       "date_created": "2026-11-12T17:34:05.773000+00:00",
-      "date_updated": "2026-11-16T19:47:06.363000+00:00",
+      "date_updated": "2026-11-21T21:26:17.363000+00:00",
       "date_done": null
     },
     "869fpu72p": {
