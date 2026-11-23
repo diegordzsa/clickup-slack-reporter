@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T13:24:41.341112+00:00",
-  "snapshot_timestamp": "2026-11-22T13:24:19.629974",
+  "generated_at": "2026-11-23T16:04:46.220333+00:00",
+  "snapshot_timestamp": "2026-11-23T16:04:25.297651",
   "editors": [
     "Alejandra Ramirez",
     "Andres Parias",
@@ -55,6 +55,19 @@
     "Tareas"
   ],
   "completed_tasks": [
+    {
+      "task_id": "1an4hvw6w1d",
+      "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "assignees": [
+        "Gonzalo Flores"
+      ],
+      "date_created": "2026-11-20T08:58:57.296000+00:00",
+      "date_done": "2026-11-23T10:14:12.861000+00:00",
+      "lead_time_hours": 73.25,
+      "url": "https://app.clickup.com/t/1an4hvw6w1d"
+    },
     {
       "task_id": "1an4hvw6ftg",
       "name": "TOF-L72-C406 Dra AGA-Gonzalo-CSDavid",
@@ -11200,6 +11213,58 @@
       "url": "https://app.clickup.com/t/869bpv1w0"
     },
     {
+      "task_id": "1an4hvw61qh",
+      "name": "Video Casero BF-VX #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-16T11:14:23.764000+00:00",
+      "date_done": "2026-11-19T22:32:39.835000+00:00",
+      "lead_time_hours": 83.3,
+      "url": "https://app.clickup.com/t/1an4hvw61qh"
+    },
+    {
+      "task_id": "1an4hvw61qf",
+      "name": "L16-Producción BF-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-16T11:13:54.236000+00:00",
+      "date_done": "2026-11-23T11:54:38.531000+00:00",
+      "lead_time_hours": 168.68,
+      "url": "https://app.clickup.com/t/1an4hvw61qf"
+    },
+    {
+      "task_id": "1an4hvw61qc",
+      "name": "L16-Unboxing Pedido BF-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:13:39.801000+00:00",
+      "date_done": "2026-11-23T11:54:38.531000+00:00",
+      "lead_time_hours": 168.68,
+      "url": "https://app.clickup.com/t/1an4hvw61qc"
+    },
+    {
+      "task_id": "1an4hvw61qa",
+      "name": "L16-Stock Almacén BF-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:13:13.649000+00:00",
+      "date_done": "2026-11-23T10:58:17.820000+00:00",
+      "lead_time_hours": 167.75,
+      "url": "https://app.clickup.com/t/1an4hvw61qa"
+    },
+    {
       "task_id": "1an4hvw61q7",
       "name": "L16-1+1 Almacén BF-VX #UGC-Cristian",
       "client": "Lyssoderma",
@@ -11211,6 +11276,19 @@
       "date_done": "2026-11-19T22:34:07.446000+00:00",
       "lead_time_hours": 83.35,
       "url": "https://app.clickup.com/t/1an4hvw61q7"
+    },
+    {
+      "task_id": "1an4hvw61q5",
+      "name": "L16-1+1 Caja BF-VX #UGC B-Roll-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-16T11:12:32.470000+00:00",
+      "date_done": "2026-11-19T22:34:07.446000+00:00",
+      "lead_time_hours": 83.36,
+      "url": "https://app.clickup.com/t/1an4hvw61q5"
     },
     {
       "task_id": "869fpyp3k",
@@ -13649,6 +13727,214 @@
   ],
   "currently_assigned": [
     {
+      "task_id": "1an4hvw77v7",
+      "name": "MOF-L72-C436 Keeps S10 Quédate el pelo-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:23.608000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v7"
+    },
+    {
+      "task_id": "1an4hvw77v6",
+      "name": "MOF-L72-C436 Keeps S09 La caída tiene una causa-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:22.150000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v6"
+    },
+    {
+      "task_id": "1an4hvw77v5",
+      "name": "MOF-L72-C436 Keeps S08 Lo usaba todo-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:20.899000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v5"
+    },
+    {
+      "task_id": "1an4hvw77v4",
+      "name": "TOF-L72-C436 Keeps S07 Hoy un 35 por ciento menos-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:19.805000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v4"
+    },
+    {
+      "task_id": "1an4hvw77v3",
+      "name": "TOF-L72-C436 Keeps S06 No es solo genética-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:18.394000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v3"
+    },
+    {
+      "task_id": "1an4hvw77v2",
+      "name": "TOF-L72-C436 Keeps S05 Creatina-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:16.481000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v2"
+    },
+    {
+      "task_id": "1an4hvw77v1",
+      "name": "TOF-L72-C436 Keeps S04 Copas y tabaco-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:15.072000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77v1"
+    },
+    {
+      "task_id": "1an4hvw77uz",
+      "name": "TOF-L72-C436 Keeps S03 Vapeo-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:13.922000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77uz"
+    },
+    {
+      "task_id": "1an4hvw77uy",
+      "name": "TOF-L72-C436 Keeps S02 Inyecciones para adelgazar-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:12.721000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77uy"
+    },
+    {
+      "task_id": "1an4hvw77ux",
+      "name": "TOF-L72-C436 Keeps S01 Testosterona-VX-Leonidas-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Leonidas"
+      ],
+      "date_created": "2026-11-23T16:04:11.513000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77ux"
+    },
+    {
+      "task_id": "1an4hvw77uv",
+      "name": "BOF-L72-C435 Keeps No Esperes-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:36.212000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77uv"
+    },
+    {
+      "task_id": "1an4hvw77uu",
+      "name": "BOF-L72-C434 Keeps Ya Lo He Probado Todo-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:35.234000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77uu"
+    },
+    {
+      "task_id": "1an4hvw77ut",
+      "name": "MOF-L72-C433 Keeps Entradas y Coronilla-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:33.593000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77ut"
+    },
+    {
+      "task_id": "1an4hvw77ur",
+      "name": "MOF-L72-C432 Keeps Lo Probé Todo-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:32.219000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77ur"
+    },
+    {
+      "task_id": "1an4hvw77uq",
+      "name": "TOF-L72-C430 Clon La pillada-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:30.247000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77uq"
+    },
+    {
+      "task_id": "1an4hvw77up",
+      "name": "TOF-L72-C429 Clon A los 54-Ester-CSLeonidas",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Ester Vosniuk"
+      ],
+      "date_created": "2026-11-23T16:03:29.212000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw77up"
+    },
+    {
       "task_id": "1an4hvw6zc1",
       "name": "TOF-L72 Drama Ascensor ITER 1-Leonidas-CSDavid",
       "client": "HAIR BIOLABS",
@@ -13679,8 +13965,8 @@
       "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "en_curso",
+      "status": "en curso",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13695,8 +13981,8 @@
       "category": "aprobado",
       "status": "aprobado",
       "assignees": [
-        "Leonidas",
-        "Ester Vosniuk"
+        "Ester Vosniuk",
+        "Leonidas"
       ],
       "date_created": "2026-11-17T12:27:19.746000+00:00",
       "url": "https://app.clickup.com/t/1an4hvw67dg"
@@ -13719,8 +14005,8 @@
       "name": "TOF-L72-C179 ITER 3-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "asignado",
-      "status": "assigned",
+      "category": "aprobado",
+      "status": "aprobado",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13732,8 +14018,8 @@
       "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
       "client": "HAIR BIOLABS",
       "list": "Producción",
-      "category": "en_curso",
-      "status": "en curso",
+      "category": "revision",
+      "status": "revisión",
       "assignees": [
         "Cristian Echeverri"
       ],
@@ -13806,6 +14092,19 @@
       "url": "https://app.clickup.com/t/869fmvpx2"
     },
     {
+      "task_id": "1an4hvw755j",
+      "name": "BOF-PROMO 50% BFCM-Alejandra-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Diseño Gráfico",
+      "category": "en_curso",
+      "status": "en progreso",
+      "assignees": [
+        "Alejandra Ramirez"
+      ],
+      "date_created": "2026-11-23T10:07:45.679000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw755j"
+    },
+    {
       "task_id": "869fn7y0p",
       "name": "Revista Hair Biolabs Unisex",
       "client": "HAIR BIOLABS",
@@ -13845,19 +14144,6 @@
       "url": "https://app.clickup.com/t/1an4hvw6w2f"
     },
     {
-      "task_id": "1an4hvw6fxp",
-      "name": "TOF-L19-C42 Dra AGA-Gonzalo-CSDavid",
-      "client": "HAIR BIOLABS MX",
-      "list": "Producción USA",
-      "category": "en_curso",
-      "status": "en curso",
-      "assignees": [
-        "Gonzalo Flores"
-      ],
-      "date_created": "2026-11-18T10:48:52.267000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw6fxp"
-    },
-    {
       "task_id": "1an4hvw6590",
       "name": "MOF-L19-C40 BFCM-Cristian-CSDavid",
       "client": "HAIR BIOLABS MX",
@@ -13871,30 +14157,56 @@
       "url": "https://app.clickup.com/t/1an4hvw6590"
     },
     {
-      "task_id": "1an4hvw61qh",
-      "name": "Video Casero BF-VX #UGC-Dayana",
+      "task_id": "1an4hvw76z9",
+      "name": "L18-Pizarra Almacén BFCM-VX #Oferta",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
+      "category": "asignado",
+      "status": "assigned",
       "assignees": [
         "Dayana Caicedo"
       ],
-      "date_created": "2026-11-16T11:14:23.764000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw61qh"
+      "date_created": "2026-11-23T13:23:03.836000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw76z9"
     },
     {
-      "task_id": "1an4hvw61q5",
-      "name": "L16-1+1 Caja BF-VX #UGC B-Roll-Cristian",
+      "task_id": "1an4hvw76z8",
+      "name": "L18-Etiquetadora BFCM-VX #Oferta-Dayana",
       "client": "Lyssoderma",
       "list": "Producción",
-      "category": "aprobado",
-      "status": "approved",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-23T13:22:57.709000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw76z8"
+    },
+    {
+      "task_id": "1an4hvw76z3",
+      "name": "L18-Overbooking Almacén BFCM-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
       "assignees": [
         "Cristian Echeverri"
       ],
-      "date_created": "2026-11-16T11:12:32.470000+00:00",
-      "url": "https://app.clickup.com/t/1an4hvw61q5"
+      "date_created": "2026-11-23T13:21:56.565000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw76z3"
+    },
+    {
+      "task_id": "1an4hvw76z2",
+      "name": "L18-Lista Regalos BFCM-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-23T13:21:44.360000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw76z2"
     },
     {
       "task_id": "869fpyp5v",
@@ -13910,6 +14222,19 @@
       "url": "https://app.clickup.com/t/869fpyp5v"
     },
     {
+      "task_id": "869fptwrb",
+      "name": "Banner BlackFriday",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "status": "approved",
+      "assignees": [
+        "Olga Vasquez"
+      ],
+      "date_created": "2026-11-11T21:59:01.911000+00:00",
+      "url": "https://app.clickup.com/t/869fptwrb"
+    },
+    {
       "task_id": "869fn6pny",
       "name": "L14-Sala de Espera-VX #DramaAd-Cristian",
       "client": "Lyssoderma",
@@ -13921,6 +14246,71 @@
       ],
       "date_created": "2026-10-30T10:32:17.623000+00:00",
       "url": "https://app.clickup.com/t/869fn6pny"
+    },
+    {
+      "task_id": "1an4hvw75u0",
+      "name": "TR-L16-Stock Almacén BF-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-23T11:02:51.319000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw75u0"
+    },
+    {
+      "task_id": "1an4hvw75p1",
+      "name": "TR-L16-1+1 Caja BF-VX-LATAM #UGC B-Roll-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-23T10:53:19.549000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw75p1"
+    },
+    {
+      "task_id": "1an4hvw75n5",
+      "name": "TR-L16-Video Casero BF-VX-LATAM #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-23T10:49:59.145000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw75n5"
+    },
+    {
+      "task_id": "1an4hvw75j7",
+      "name": "TR-L16-1+1 Almacén BF-VX-CH #UGC",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Cristian Echeverri"
+      ],
+      "date_created": "2026-11-23T10:42:30.535000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw75j7"
+    },
+    {
+      "task_id": "1an4hvw75hb",
+      "name": "TR-L15-Descuento BF-VX-LATAM #B-Roll",
+      "client": "Lyssoderma",
+      "list": "Producción (LATAM)",
+      "category": "asignado",
+      "status": "assigned",
+      "assignees": [
+        "Dayana Caicedo"
+      ],
+      "date_created": "2026-11-23T10:37:51.165000+00:00",
+      "url": "https://app.clickup.com/t/1an4hvw75hb"
     },
     {
       "task_id": "1an4hvw63yn",
@@ -18614,15 +19004,115 @@
       "category": "completado",
       "assignee": "Leonidas",
       "url": "https://app.clickup.com/t/1an4hvw6ke3"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw6w1a",
+      "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "en_curso",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw6w1a"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw6587",
+      "name": "BOF-L72-C404 BFCM-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "revision",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw6587"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw65cy",
+      "name": "TOF-L72-C179 ITER 3-Cristian-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw65cy"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "869fptwrb",
+      "name": "Banner BlackFriday",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "aprobado",
+      "assignee": "Olga Vasquez",
+      "url": "https://app.clickup.com/t/869fptwrb"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw6w1d",
+      "name": "BOF-L72-C411 BF Etiquetadora ITER 1-Gonzalo-CSDavid",
+      "client": "HAIR BIOLABS",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Gonzalo Flores",
+      "url": "https://app.clickup.com/t/1an4hvw6w1d"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw61qh",
+      "name": "Video Casero BF-VX #UGC-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/1an4hvw61qh"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw61qf",
+      "name": "L16-Producción BF-VX #B-Roll-Dayana",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Dayana Caicedo",
+      "url": "https://app.clickup.com/t/1an4hvw61qf"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw61qc",
+      "name": "L16-Unboxing Pedido BF-VX #UGC-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw61qc"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw61qa",
+      "name": "L16-Stock Almacén BF-VX #Oferta-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw61qa"
+    },
+    {
+      "ts": "2026-11-23T16:04:46.040804+00:00",
+      "task_id": "1an4hvw61q5",
+      "name": "L16-1+1 Caja BF-VX #UGC B-Roll-Cristian",
+      "client": "Lyssoderma",
+      "list": "Producción",
+      "category": "completado",
+      "assignee": "Cristian Echeverri",
+      "url": "https://app.clickup.com/t/1an4hvw61q5"
     }
   ],
   "stats": {
-    "total_tasks_in_snapshot": 1339,
-    "total_completed": 1044,
-    "total_completed_with_dates": 1044,
-    "total_completed_with_done": 1044,
-    "total_currently_assigned": 100,
-    "total_transitions_logged": 365,
+    "total_tasks_in_snapshot": 1369,
+    "total_completed": 1050,
+    "total_completed_with_dates": 1050,
+    "total_completed_with_done": 1050,
+    "total_currently_assigned": 124,
+    "total_transitions_logged": 375,
     "total_editors": 32
   }
 }
